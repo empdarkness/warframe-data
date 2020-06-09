@@ -1,0 +1,23 @@
+{
+  "MT_ARENA": "Rathuum",
+  "MT_ARTIFACT": "Disruption",
+  "MT_ASSAULT": "Assault",
+  "MT_ASSASSINATION": "Assassination",
+  "MT_CAPTURE": "Capture",
+  "MT_DEFENSE": "Defense",
+  "MT_DISRUPTION": "Disruption",
+  "MT_EVACUATION": "Defection",
+  "MT_EXCAVATE": "Excavation",
+  "MT_EXTERMINATION": "Extermination",
+  "MT_HIVE": "Hive",
+  "MT_INTEL": "Spy",
+  "MT_LANDSCAPE": "Free Roam",
+  "MT_MOBILE_DEFENSE": "Mobile Defense",
+  "MT_PVP": "Conclave",
+  "MT_RESCUE": "Rescue",
+  "MT_RETRIEVAL": "Hijack",
+  "MT_SABOTAGE": "Sabotage",
+  "MT_SECTOR": "Dark Sector",
+  "MT_SURVIVAL": "Survival",
+  "MT_TERRITORY": "Interception"
+}
