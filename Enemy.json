@@ -1,5 +1,5 @@
 [
-{
+  {
     "uniqueName": "",
     "name": "Demolisher Thrasher",
     "health": 3250,
@@ -11,7 +11,7 @@
     "category": "Enemy",
     "tradable": false
   },
-{
+  {
     "uniqueName": "",
     "name": "Demolisher Juggernaut",
     "health": 3000,
@@ -23,7 +23,7 @@
     "category": "Enemy",
     "tradable": false
   },
-{
+  {
     "uniqueName": "",
     "name": "Demolisher Charger",
     "health": 2500,
@@ -35,7 +35,7 @@
     "category": "Enemy",
     "tradable": false
   },
-{
+  {
     "uniqueName": "",
     "name": "Demolisher Boiler",
     "health": 3000,
@@ -47,7 +47,7 @@
     "category": "Enemy",
     "tradable": false
   },
-{
+  {
     "uniqueName": "",
     "name": "Demolisher Machinist",
     "health": 2000,
@@ -59,7 +59,7 @@
     "category": "Enemy",
     "tradable": false
   },
-{
+  {
     "uniqueName": "",
     "name": "Demolisher Hyena",
     "health": 1500,
@@ -71,7 +71,7 @@
     "category": "Enemy",
     "tradable": false
   },
-{
+  {
     "uniqueName": "",
     "name": "Demolisher Bursa",
     "health": 2000,
@@ -83,7 +83,7 @@
     "category": "Enemy",
     "tradable": false
   },
-{
+  {
     "uniqueName": "",
     "name": "Demolisher Nox",
     "health": 2500,
@@ -95,7 +95,7 @@
     "category": "Enemy",
     "tradable": false
   },
-{
+  {
     "uniqueName": "",
     "name": "Demolisher Kuva Guardian",
     "health": 2500,
@@ -107,7 +107,7 @@
     "category": "Enemy",
     "tradable": false
   },
-{
+  {
     "uniqueName": "",
     "name": "Demolisher Heavy Gunner",
     "health": 2000,
@@ -119,7 +119,7 @@
     "category": "Enemy",
     "tradable": false
   },
-{
+  {
     "uniqueName": "",
     "name": "Demolisher Expired",
     "health": 1500,
@@ -131,7 +131,7 @@
     "category": "Enemy",
     "tradable": false
   },
-{
+  {
     "uniqueName": "",
     "name": "Demolisher Devourer",
     "health": 2500,
@@ -143,7 +143,7 @@
     "category": "Enemy",
     "tradable": false
   },
-{
+  {
     "uniqueName": "",
     "name": "Demolisher Bailiff",
     "health": 2000,
