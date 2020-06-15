@@ -4301,7 +4301,7 @@
     "desc": "Clear a Railjack Boarding Party without your Warframe taking damage",
     "standing": 4500
   },
-  "": {
+  "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackmissions": {
     "value": "Explorer",
     "desc": "Complete 3 Railjack Missions",
     "standing": 4500
