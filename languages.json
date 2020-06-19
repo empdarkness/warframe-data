@@ -4131,6 +4131,11 @@
     "desc": "Deploy a Glyph while in a mission",
     "standing": 1000
   },
+  "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
+    "value": "Hands Full",
+    "desc": "Complete a Mission with only a Primary Weapon equipped",
+    "standing": 1000
+  },
   "/lotus/types/challenges/seasons/daily/seasondailydeployspecter": {
     "value": "Doppelganger",
     "desc": "Deploy a Specter",
