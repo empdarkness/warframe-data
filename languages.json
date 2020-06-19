@@ -4132,7 +4132,7 @@
     "desc": "Deploy a Glyph while in a mission",
     "standing": 1000
   },
-  "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
+  "/lotus/types/challenges/seasons/daily/seasondailycompletemissionprimary": {
     "value": "Hands Full",
     "desc": "Complete a Mission with only a Primary Weapon equipped",
     "standing": 1000
