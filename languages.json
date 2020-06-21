@@ -4092,6 +4092,11 @@
     "desc": "Kill 20 Enemies while Aim Gliding",
     "standing": 1000
   },
+  "/lotus/types/challenges/seasons/daily/seasondailysuspendfiveenemies": {
+    "value": "Deep Impact",
+    "desc": "Suspend 5 or more enemies in the air at once with a Heavy Slam Melee Attack",
+    "standing": 1000
+  },
   "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
     "value": "Trampoline",
     "desc": "Bullet Jump 150 times",
