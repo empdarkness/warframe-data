@@ -12272,435 +12272,543 @@
   },
   "/lotus/types/challenges/seasons/daily/seasondailyaimglide": {
     "value": "Glider",
-    "desc": "Kill 20 Enemies while Aim Gliding"
+    "desc": "Kill 20 Enemies while Aim Gliding",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailybulletjump": {
     "value": "Trampoline",
-    "desc": "Bullet Jump 150 times"
+    "desc": "Bullet Jump 150 times",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailycodexscan": {
     "value": "Researcher",
-    "desc": "Scan 25 Objects or Enemies"
+    "desc": "Scan 25 Objects or Enemies",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailycollectcredits": {
     "value": "Saver",
-    "desc": "Pick up 15,000 Credits"
+    "desc": "Pick up 15,000 Credits",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailycollecthundredresources": {
     "value": "Gatherer",
-    "desc": "Collect 1,500 Resources"
+    "desc": "Collect 1,500 Resources",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemission": {
     "value": "Agent",
-    "desc": "Complete a Mission"
+    "desc": "Complete a Mission",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionmelee": {
     "value": "Swordsman",
-    "desc": "Complete a Mission with only a Melee Weapon equipped"
+    "desc": "Complete a Mission with only a Melee Weapon equipped",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionsecondary": {
     "value": "Sidearm",
-    "desc": "Complete a Mission with only a Secondary Weapon equipped"
+    "desc": "Complete a Mission with only a Secondary Weapon equipped",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailycompletemissionprimary": {
     "value": "Hands Full",
-    "desc": "Complete a Mission with only a Primary Weapon equipped"
+    "desc": "Complete a Mission with only a Primary Weapon equipped",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployairsupport": {
     "value": "Air It Out",
-    "desc": "Deploy an Air Support Charge in a Mission"
+    "desc": "Deploy an Air Support Charge in a Mission",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployglyph": {
     "value": "Graffiti",
-    "desc": "Deploy a Glyph while in a mission"
+    "desc": "Deploy a Glyph while in a mission",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailydeployspecter": {
     "value": "Doppelganger",
-    "desc": "Deploy a Specter"
+    "desc": "Deploy a Specter",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailydonateleverian": {
     "value": "Patron",
-    "desc": "Donate to the Leverian"
+    "desc": "Donate to the Leverian",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailyinteractwithpet": {
     "value": "Loyalty",
-    "desc": "Interact with your Kubrow or Kavat"
+    "desc": "Interact with your Kubrow or Kavat",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemies": {
     "value": "Warning Shot",
-    "desc": "Kill 200 Enemies"
+    "desc": "Kill 200 Enemies",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithabilities": {
     "value": "Power Trip",
-    "desc": "Kill 150 Enemies with Abilities"
+    "desc": "Kill 150 Enemies with Abilities",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithblast": {
     "value": "Detonator",
-    "desc": "Kill 150 Enemies with Blast Damage"
+    "desc": "Kill 150 Enemies with Blast Damage",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithcorrosive": {
     "value": "Meltdown",
-    "desc": "Kill 150 Enemies with Corrosive Damage"
+    "desc": "Kill 150 Enemies with Corrosive Damage",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithelectricity": {
     "value": "Short Circuit",
-    "desc": "Kill 150 Enemies with Electricity Damage"
+    "desc": "Kill 150 Enemies with Electricity Damage",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfinishers": {
     "value": "Executioner",
-    "desc": "Kill 10 Enemies with Finishers"
+    "desc": "Kill 10 Enemies with Finishers",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfire": {
     "value": "Arsonist",
-    "desc": "Kill 150 Enemies with Heat Damage"
+    "desc": "Kill 150 Enemies with Heat Damage",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithfreeze": {
     "value": "Deep Freeze",
-    "desc": "Kill 150 Enemies with Cold Damage"
+    "desc": "Kill 150 Enemies with Cold Damage",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithgas": {
     "value": "Biohazard",
-    "desc": "Kill 150 Enemies with Gas Damage"
+    "desc": "Kill 150 Enemies with Gas Damage",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithheadshots": {
     "value": "Marksman",
-    "desc": "Kill 40 Enemies with Headshots"
+    "desc": "Kill 40 Enemies with Headshots",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmagnetic": {
     "value": "Attractive",
-    "desc": "Kill 150 Enemies with Magnetic damage"
+    "desc": "Kill 150 Enemies with Magnetic damage",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithmelee": {
     "value": "Sword Dance",
-    "desc": "Kill 150 Enemies with a Melee Weapon"
+    "desc": "Kill 150 Enemies with a Melee Weapon",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithprimary": {
     "value": "Mow Them Down",
-    "desc": "Kill 150 Enemies with a Primary Weapon"
+    "desc": "Kill 150 Enemies with a Primary Weapon",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithpoison": {
     "value": "Poisoner",
-    "desc": "Kill 150 Enemies with Toxin Damage"
+    "desc": "Kill 150 Enemies with Toxin Damage",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithradiation": {
     "value": "Reactor",
-    "desc": "Kill 150 Enemies with a Radiation Damage"
+    "desc": "Kill 150 Enemies with a Radiation Damage",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithsecondary": {
     "value": "Smaller Is Bigger",
-    "desc": "Kill 150 Enemies with a Secondary Weapon"
+    "desc": "Kill 150 Enemies with a Secondary Weapon",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillenemieswithviral": {
     "value": "Sharing is Caring",
-    "desc": "Kill 150 Enemies with Viral Damage"
+    "desc": "Kill 150 Enemies with Viral Damage",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailykillthrall": {
     "value": "Hush",
-    "desc": "Kill a Kuva Thrall"
+    "desc": "Kill a Kuva Thrall",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailylichnode": {
     "value": "Reclaimed",
-    "desc": "Clear a personal Lich Influenced Node"
+    "desc": "Clear a personal Lich Influenced Node",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailymercykill": {
     "value": "No Mercy",
-    "desc": "Mercy Kill an Enemy"
+    "desc": "Mercy Kill an Enemy",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailyrailjackhijackdestroythree": {
     "value": "Friendly Fire",
-    "desc": "While piloting a hijacked Crewship, destroy 3 enemy Fighters"
+    "desc": "While piloting a hijacked Crewship, destroy 3 enemy Fighters",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailyopenlockers": {
     "value": "Kleptomaniac",
-    "desc": "Open 20 lockers"
+    "desc": "Open 20 lockers",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupenergy": {
     "value": "Energizing",
-    "desc": "Pick up 20 Energy Orbs"
+    "desc": "Pick up 20 Energy Orbs",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmedallion": {
     "value": "The Hunt is On",
-    "desc": "Find 5 Syndicate Medallions"
+    "desc": "Find 5 Syndicate Medallions",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailypickupmods": {
     "value": "Shiny",
-    "desc": "Pick up 8 Mods"
+    "desc": "Pick up 8 Mods",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailyplacemarker": {
     "value": "Communicator",
-    "desc": "Mark 5 Mods or Resources"
+    "desc": "Mark 5 Mods or Resources",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailyplayemote": {
     "value": "Expressive",
-    "desc": "Play 1 Emote"
+    "desc": "Play 1 Emote",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailyplayminigame": {
     "value": "Child at Heart",
-    "desc": "Play a game of Frame Fighter, Happy Zephyr, or Wyrmius"
+    "desc": "Play a game of Frame Fighter, Happy Zephyr, or Wyrmius",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailyslidekills": {
     "value": "Accelerator",
-    "desc": "Kill 20 Enemies while Sliding"
+    "desc": "Kill 20 Enemies while Sliding",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailysolveciphers": {
     "value": "Hacker",
-    "desc": "Hack 8 Consoles"
+    "desc": "Hack 8 Consoles",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailysuspendfiveenemies": {
     "value": "Deep Impact",
-    "desc":"Suspend 5 or more enemies in the air at once with a Heavy Slam Melee Attack"
+    "desc":"Suspend 5 or more enemies in the air at once with a Heavy Slam Melee Attack",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailytransmutemods": {
     "value": "Everything Old is New Again",
-    "desc": "Complete 3 Transmutations"
+    "desc": "Complete 3 Transmutations",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/daily/seasondailyvisitfeatureddojo": {
     "value": "Just Visiting",
-    "desc": "Visit a Featured Dojo"
+    "desc": "Visit a Featured Dojo",
+    "standing": 1000
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyboardingpartynodamage": {
     "value": "Flawless",
-    "desc": "Clear a Railjack Boarding Party without your Warframe taking damage"
+    "desc": "Clear a Railjack Boarding Party without your Warframe taking damage",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrareplainsfish": {
     "value": "Earth Fisher",
-    "desc": "Catch 6 Rare Fish in the Plains of Eidolon"
+    "desc": "Catch 6 Rare Fish in the Plains of Eidolon",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycatchrarevenusfish": {
     "value": "Venus Fisher",
-    "desc": "Catch 6 Rare Servofish in the Orb Vallis"
+    "desc": "Catch 6 Rare Servofish in the Orb Vallis",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteassassination": {
     "value": "Assassin",
-    "desc": "Complete 3 Assassination missions"
+    "desc": "Complete 3 Assassination missions",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletecapture": {
     "value": "Jailer",
-    "desc": "Complete 3 Capture missions"
+    "desc": "Complete 3 Capture missions",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteclemmission": {
     "value": "Good Friend",
-    "desc": "Help Clem with his weekly mission"
+    "desc": "Help Clem with his weekly mission",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletedisruptionconduits": {
     "value": "Don't Blow It",
-    "desc": "Complete 12 Conduits in Disruption"
+    "desc": "Complete 12 Conduits in Disruption",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteexterminate": {
     "value": "Eliminator",
-    "desc": "Complete 3 Exterminate missions"
+    "desc": "Complete 3 Exterminate missions",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleteinvasionmissions": {
     "value": "Invader",
-    "desc": "Complete 9 Invasion missions of any type"
+    "desc": "Complete 9 Invasion missions of any type",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletekuva": {
     "value": "Don't Fear The Reaper",
-    "desc": "Complete 3 Kuva Siphon Missions"
+    "desc": "Complete 3 Kuva Siphon Missions",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletemobiledefense": {
     "value": "Protector",
-    "desc": "Complete 3 Mobile Defense missions"
+    "desc": "Complete 3 Mobile Defense missions",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletenightmaremissions": {
     "value": "Sound Sleeper",
-    "desc": "Complete 3 Nightmare missions of any type"
+    "desc": "Complete 3 Nightmare missions of any type",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompleterescue": {
     "value": "Rescuer",
-    "desc": "Complete 3 Rescue missions"
+    "desc": "Complete 3 Rescue missions",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesabotage": {
     "value": "Saboteur",
-    "desc": "Complete 3 Sabotage missions"
+    "desc": "Complete 3 Sabotage missions",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesortie": {
     "value": "Sortie Specialist",
-    "desc": "Complete 1 Sorties"
+    "desc": "Complete 1 Sorties",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletespy": {
     "value": "Operative",
-    "desc": "Complete 3 Spy missions"
+    "desc": "Complete 3 Spy missions",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletesyndicatemissions": {
     "value": "Supporter",
-    "desc": "Complete 10 Syndicate misions"
+    "desc": "Complete 10 Syndicate misions",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletetreasures": {
     "value": "Animator",
-    "desc": "Fully socket 3 Ayatan Sculptures"
+    "desc": "Fully socket 3 Ayatan Sculptures",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklycompletevenusrace": {
     "value": "Now Boarding",
-    "desc": "Complete 3 different K-Drive races in Orb Vallis"
+    "desc": "Complete 3 different K-Drive races in Orb Vallis",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklydestroycrewshipartillery": {
     "value": "Forward Thinking",
-    "desc": "Destroy a Crewship with Forward Artillery"
+    "desc": "Destroy a Crewship with Forward Artillery",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklygildmodular": {
     "value": "Gilded",
-    "desc": "Gild 1 Modular Items"
+    "desc": "Gild 1 Modular Items",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyhijackcrewship": {
     "value": "Confiscated",
-    "desc": "Hijack a Crewship from the enemy"
+    "desc": "Hijack a Crewship from the enemy",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillarchgunenemies": {
     "value": "Heavy Ordnance",
-    "desc": "Kill 500 enemies with an Archgun"
+    "desc": "Kill 500 enemies with an Archgun",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillenemies": {
     "value": "Not a Warning Shot",
-    "desc": "Kill 500 Enemies"
+    "desc": "Kill 500 Enemies",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykilleximus": {
     "value": "Eximus Eliminator",
-    "desc": "Kill 30 Eximus"
+    "desc": "Kill 30 Eximus",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklykillthumper": {
     "value": "Tusk Thumpin",
-    "desc": "Kill a Tusk Thumper in the Plains of Eidolon"
+    "desc": "Kill a Tusk Thumper in the Plains of Eidolon",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerareplainsresources": {
     "value": "Earth Miner",
-    "desc": "Mine 6 Rare Gems in the Plains of Eidolon"
+    "desc": "Mine 6 Rare Gems in the Plains of Eidolon",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyminerarevenusresources": {
     "value": "Venus Miner",
-    "desc": "Mine 6 Rare Gems in the Orb Vallis"
+    "desc": "Mine 6 Rare Gems in the Orb Vallis",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyperfectanimalcapture": {
     "value": "Conservationist",
-    "desc": "Complete 6 different Perfect Animal Captures in Orb Vallis"
+    "desc": "Complete 6 different Perfect Animal Captures in Orb Vallis",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklypickupraremods": {
     "value": "Enhance!",
-    "desc": "Pick up 8 Rare Mods"
+    "desc": "Pick up 8 Rare Mods",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyplainsbounties": {
     "value": "Earth Bounty Hunter",
-    "desc": "Complete 5 different Bounties in the Plains of Eidolon"
+    "desc": "Complete 5 different Bounties in the Plains of Eidolon",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyrailjackmissions": {
     "value":"Explorer",
-    "desc":"Complete 3 Railjack Missions"
+    "desc":"Complete 3 Railjack Missions",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysabotagecaches": {
     "value": "Cache Hunter",
-    "desc": "Find all caches in 3 Sabotage missions"
+    "desc": "Find all caches in 3 Sabotage missions",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysanctuaryonslaught": {
     "value": "Test Subject",
-    "desc": "Complete 8 waves of Sanctuary Onslaught"
+    "desc": "Complete 8 waves of Sanctuary Onslaught",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklysimarisscan": {
     "value": "Sanctuary Researcher",
-    "desc": "Complete 5 Scans for Cephalon Simaris"
+    "desc": "Complete 5 Scans for Cephalon Simaris",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockdragonvaults": {
     "value": "Vault Looter",
-    "desc": "Unlock 4 Orokin Vaults"
+    "desc": "Unlock 4 Orokin Vaults",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyunlockrelics": {
     "value": "Unlock Relics",
-    "desc": "Unlock 3 Relics"
+    "desc": "Unlock 3 Relics",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyuseforma": {
     "value": "Polarized",
-    "desc": "Use Forma 3 times"
+    "desc": "Use Forma 3 times",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weekly/seasonweeklyvenusbounties": {
     "value": "Venus Bounty Hunter",
-    "desc": "Complete 5 different bounties in the Orb Vallis"
+    "desc": "Complete 5 different bounties in the Orb Vallis",
+    "standing": 4500
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletenightmaremissions": {
     "value": "Night Terror",
-    "desc": "Complete 10 Nightmare missions of any type"
+    "desc": "Complete 10 Nightmare missions of any type",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardcompletesortie": {
     "value": "Sortie Expert",
-    "desc": "Complete 3 Sorties"
+    "desc": "Complete 3 Sorties",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardelitesanctuaryonslaught": {
     "value": "Elite Test Subject",
-    "desc": "Complete 8 Zones of Elite Sanctuary Onslaught"
+    "desc": "Complete 8 Zones of Elite Sanctuary Onslaught",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardexterminatenoalarm": {
     "value": "Silent Eliminator",
-    "desc": "Complete an Extermination mission with level 30 or higher enemies without being detected"
+    "desc": "Complete an Extermination mission with level 30 or higher enemies without being detected",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfastcapture": {
     "value": "Speedster",
-    "desc": "Finish a Capture mission in less than 90 seconds"
+    "desc": "Finish a Capture mission in less than 90 seconds",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfinishlich":{
     "value":"Choose Wisely",
-    "desc":"Kill or Convert a Kuva Lich"
+    "desc":"Kill or Convert a Kuva Lich",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsdefense": {
     "value": "Defense",
-    "desc": "Complete a Defense mission reaching at least Wave 20"
+    "desc": "Complete a Defense mission reaching at least Wave 20",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendsprofittaker": {
     "value": "Profit-Taker",
-    "desc": "Kill Profit-Taker"
+    "desc": "Kill Profit-Taker",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardfriendssurvival": {
     "value": "Survival",
-    "desc": "Complete a Survival mission reaching at least 30 minutes"
+    "desc": "Complete a Survival mission reaching at least 30 minutes",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardindexwinstreak": {
     "value": "Day Trader",
-    "desc": "Win 3 wagers in a row without letting the enemy score in one match of The Index."
+    "desc": "Win 3 wagers in a row without letting the enemy score in one match of The Index.",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillenemies": {
     "value": "Kill Shot",
-    "desc": "Kill 1,500 Enemies"
+    "desc": "Kill 1,500 Enemies",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkilleximus": {
     "value": "Eximus Executioner",
-    "desc": "Kill 100 Eximus"
+    "desc": "Kill 100 Eximus",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillexploiterorb": {
     "value": "Nothing but Profit",
-    "desc": "Kill The Exploiter Orb"
+    "desc": "Kill The Exploiter Orb",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillorcapturerainalyst": {
     "value": "Hydrolyst Hunter",
-    "desc": "Kill or Capture an Eidolon Hydrolyst"
+    "desc": "Kill or Capture an Eidolon Hydrolyst",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillropalolyst": {
     "value": "Flying High",
-    "desc": "Defeat the Ropalolyst"
+    "desc": "Defeat the Ropalolyst",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillsilvergrovespecters": {
     "value": "Grove Guardian",
-    "desc": "Kill 3 Silver Grove Specters"
+    "desc": "Kill 3 Silver Grove Specters",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkillthumper": {
     "value": "Walk Without Rhythm",
-    "desc": "Kill a Tusk Thumper Doma in the Plains of Eidolon"
+    "desc": "Kill a Tusk Thumper Doma in the Plains of Eidolon",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardkuvasurvivalnocapsules": {
     "value": "Hold Your Breath",
-    "desc": "Survive for over 30 minutes without using Life Suport Modules in Kuva Survival"
+    "desc": "Survive for over 30 minutes without using Life Suport Modules in Kuva Survival",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardluapuzzles": {
     "value": "Ascendant",
-    "desc": "Complete 4 Halls of Ascension on Lua"
+    "desc": "Complete 4 Halls of Ascension on Lua",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardrailjackmissions": {
     "value": "Elite Explorer",
-    "desc": "Complete 8 Railjack Missions"
+    "desc": "Complete 8 Railjack Missions",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardspymanualnoalarms": {
     "value": "Machine Interference",
-    "desc": "Complete a Spy mission with 3 manual console hacks and no alarms"
+    "desc": "Complete a Spy mission with 3 manual console hacks and no alarms",
+    "standing": 7000
   },
   "/lotus/types/challenges/seasons/weeklyhard/seasonweeklyhardunlockrelics": {
     "value": "Unlock Relics",
-    "desc": "Unlock 10 Relics"
+    "desc": "Unlock 10 Relics",
+    "standing": 7000
   },
   "/lotus/types/enemies/acolytes/areacasteracolyteagent": {
     "value": "Misery"
