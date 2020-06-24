@@ -51,6 +51,12 @@
     "disposition": 3
   },
   {
+    "name": "Stropha",
+    "totalDamage": 220
+    "multishot": 1,
+    "fireRate": 1
+  },
+  {
     "name": "Amphis",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Staff/GrnStaff",
     "totalDamage": 130,
