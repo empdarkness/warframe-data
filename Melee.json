@@ -52,7 +52,7 @@
   },
   {
     "name": "Stropha",
-    "totalDamage": 220
+    "totalDamage": 220,
     "multishot": 1,
     "fireRate": 1
   },

@@ -42,7 +42,7 @@
   },
   {
     "name": "Velox",
-    "totalDamage": 24
+    "totalDamage": 24,
     "multishot": 1,
     "fireRate": 15
   },

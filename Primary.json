@@ -56,7 +56,7 @@
   },
   {
     "name": "Stahlta",
-    "totalDamage": 52
+    "totalDamage": 52,
     "multishot": 1,
     "fireRate": 6
   },
