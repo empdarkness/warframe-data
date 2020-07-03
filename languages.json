@@ -23,6 +23,9 @@
   "/lotus/language/alerts/alertrewardcategoryitem": {
     "value": "Item"
   },
+  "/lotus/storeitems/upgrades/skins/sigils/prismalotussigil": {
+    "value": "Prisma Lotus Sigil"
+  },
   "/lotus/language/alerts/alertrewardcategorymod": {
     "value": "Mod"
   },

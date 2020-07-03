@@ -50,6 +50,8 @@
   {
     "uniqueName": "",
     "name": "Demolisher Machinist",
+    "primary": "Cyanex",
+    "melee": "Cyanex",
     "health": 2000,
     "shield": 700,
     "armor": 0,
@@ -146,6 +148,8 @@
   {
     "uniqueName": "",
     "name": "Demolisher Bailiff",
+    "primary": "Jat Kittag",
+    "melee": "Jat Kittag",
     "health": 2000,
     "shield": 0,
     "armor": 200,
@@ -423,6 +427,7 @@
     "uniqueName": "",
     "name": "Gokstad Officer",
     "primary": "Karak Wraith",
+    "melee": "Sheev",
     "health": 1000,
     "shield": 0,
     "armor": 1000,
@@ -1586,6 +1591,8 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/DeployableSpacemanAvatar",
     "name": "Corpus Tech",
+    "primary": "Supra",
+    "melee": "Prova",
     "health": 700,
     "shield": 250,
     "armor": 0,
@@ -1598,6 +1605,8 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/DeployableSpacemanAvatarLeader",
     "name": "Corpus Tech",
+    "primary": "Supra",
+    "melee": "Prova",
     "health": 700,
     "shield": 250,
     "armor": 0,
@@ -2118,6 +2127,8 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Amalgams/Avatars/AmalgamCorpusSniperBossAvatar",
     "name": "Demolyst Heqet",
+    "primary": "Komorex",
+    "melee": "Komorex",
     "health": 2000,
     "shield": 800,
     "armor": 0,
