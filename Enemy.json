@@ -50,8 +50,7 @@
   {
     "uniqueName": "",
     "name": "Demolisher Machinist",
-    "primary": "Cyanex",
-    "melee": "Cyanex",
+    "weapon": "Cyanex",
     "health": 2000,
     "shield": 700,
     "armor": 0,
@@ -148,8 +147,7 @@
   {
     "uniqueName": "",
     "name": "Demolisher Bailiff",
-    "primary": "Jat Kittag",
-    "melee": "Jat Kittag",
+    "weapon": "Jat Kittag",
     "health": 2000,
     "shield": 0,
     "armor": 200,
@@ -186,6 +184,7 @@
   {
     "uniqueName": "",
     "name": "Gokstad Pilot",
+    "weapon": 33,
     "health": 600,
     "shield": 0,
     "armor": 200,
@@ -426,8 +425,7 @@
   {
     "uniqueName": "",
     "name": "Gokstad Officer",
-    "primary": "Karak Wraith",
-    "melee": "Sheev",
+    "weapon": "Karak Wraith",
     "health": 1000,
     "shield": 0,
     "armor": 1000,
@@ -440,6 +438,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/CorpusChampions/TeamD/CCTeamDOspreyAvatar",
     "name": "002-Er",
+    "weapon": 20,
     "health": 150,
     "shield": 100,
     "armor": 200,
@@ -500,6 +499,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Amalgams/Avatars/AmalgamCorpusOverrideAvatar",
     "name": "Amalgam Alkonost",
+    "weapon": 20,
     "health": 650,
     "shield": 300,
     "armor": 0,
@@ -512,6 +512,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Amalgams/Avatars/AmalgamCorpusOverrideAvatarLeader",
     "name": "Amalgam Alkonost",
+    "weapon": 20,
     "health": 650,
     "shield": 300,
     "armor": 0,
@@ -584,6 +585,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Amalgams/Avatars/AmalgamCarrusAvatar",
     "name": "Amalgam Kucumatz",
+    "weapon": 59,
     "health": 500,
     "shield": 100,
     "armor": 0,
@@ -596,6 +598,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Amalgams/Avatars/AmalgamCarrusAvatarLeader",
     "name": "Amalgam Kucumatz",
+    "weapon": 59,
     "health": 500,
     "shield": 100,
     "armor": 0,
@@ -632,6 +635,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Amalgams/Avatars/AmalgamMoaAvatar",
     "name": "Amalgam Moa",
+    "weapon": 6,
     "health": 500,
     "shield": 300,
     "armor": 0,
@@ -644,6 +648,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Amalgams/Avatars/AmalgamMoaAvatarLeader",
     "name": "Amalgam Moa",
+    "weapon": 6,
     "health": 500,
     "shield": 300,
     "armor": 0,
@@ -800,6 +805,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/LaserDiscBipedAvatar",
     "name": "Anti Moa",
+    "weapon": 50,
     "health": 50,
     "shield": 500,
     "armor": 0,
@@ -812,6 +818,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/LaserDiscBipedAvatarLeader",
     "name": "Anti Moa",
+    "weapon": 50,
     "health": 50,
     "shield": 500,
     "armor": 0,
@@ -848,8 +855,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Desert/Avatars/BladeSawmanAvatar",
     "name": "Arid Butcher",
-    "primary": "Dual Cleavers",
-    "melee": "Dual Cleavers",
+    "weapon": 30,
     "health": 50,
     "shield": 0,
     "armor": 5,
@@ -862,8 +868,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Desert/Avatars/BladeSawmanAvatarLeader",
     "name": "Arid Butcher",
-    "primary": "Dual Cleavers",
-    "melee": "Dual Cleavers",
+    "weapon": 30,
     "health": 50,
     "shield": 0,
     "armor": 5,
@@ -900,8 +905,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Desert/HeavyFemaleGrineerAvatarDesert",
     "name": "Arid Heavy Gunner",
-    "primary": "Gorgon",
-    "melee": "Sheev",
+    "weapon": 10,
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -976,8 +980,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Desert/Avatars/ShotgunLancerAvatar",
     "name": "Arid Trooper",
-    "primary": "Sobek",
-    "melee": "Sheev",
+    "weapon": 6,
     "faction": "Grineer",
     "health": 120,
     "shield": 0,
@@ -991,8 +994,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Desert/Avatars/ShotgunLancerAvatarLeader",
     "name": "Arid Trooper",
-    "primary": "Sobek",
-    "melee": "Sheev",
+    "weapon": 6,
     "faction": "Grineer",
     "health": 120,
     "shield": 0,
@@ -1138,6 +1140,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/FemaleGrineerAvatar",
     "name": "Ballista",
+    "weapon": 75,
     "health": 100,
     "shield": 0,
     "armor": 100,
@@ -1150,6 +1153,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/FemaleGrineerAvatarLeader",
     "name": "Ballista",
+    "weapon": 75,
     "health": 100,
     "shield": 0,
     "armor": 100,
@@ -1162,6 +1166,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Sentients/Troopers/SentientTrooperAvatar",
     "name": "Battalyst",
+    "weapon": 105,
     "health": 1150,
     "shield": 0,
     "armor": 250,
@@ -1210,8 +1215,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/RocketBombardAvatar",
     "name": "Bombard",
-    "primary": "Ogris",
-    "melee": "Sheev",
+    "weapon": 25,
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -1224,8 +1228,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/RocketBombardAvatarLeader",
     "name": "Bombard",
-    "primary": "Ogris",
-    "melee": "Sheev",
+    "weapon": 25,
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -1274,8 +1277,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/BladeSawmanAvatar",
     "name": "Butcher",
-    "primary": "Dual Cleavers",
-    "melee": "Dual Cleavers",
+    "weapon": 30,
     "health": 50,
     "shield": 0,
     "armor": 5,
@@ -1288,8 +1290,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/BladeSawmanAvatarLeader",
     "name": "Butcher",
-    "primary": "Dual Cleavers",
-    "melee": "Dual Cleavers",
+    "weapon": 30,
     "health": 50,
     "shield": 0,
     "armor": 5,
@@ -1363,6 +1364,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Infested/AiWeek/Quadrupeds/QuadrupedAvatar",
     "name": "Charger",
+    "weapon": 75,
     "health": 80,
     "shield": 0,
     "armor": 0,
@@ -1375,6 +1377,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Infested/AiWeek/Quadrupeds/QuadrupedAvatarLeader",
     "name": "Charger",
+    "weapon": 75,
     "health": 80,
     "shield": 0,
     "armor": 0,
@@ -1435,6 +1438,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/GrineerAvatars/GrineerMarineLeaderAvatar",
     "name": "Commander",
+    "weapon": 3,
     "health": 500,
     "shield": 0,
     "armor": 95,
@@ -1591,8 +1595,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/DeployableSpacemanAvatar",
     "name": "Corpus Tech",
-    "primary": "Supra",
-    "melee": "Prova",
+    "weapon": 15,
     "health": 700,
     "shield": 250,
     "armor": 0,
@@ -1605,8 +1608,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/DeployableSpacemanAvatarLeader",
     "name": "Corpus Tech",
-    "primary": "Supra",
-    "melee": "Prova",
+    "weapon": 15,
     "health": 700,
     "shield": 250,
     "armor": 0,
@@ -1619,6 +1621,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Vip/Avatars/VenusVipPowerSpacemanAvatar",
     "name": "Corpus Trencher Target",
+    "weapon": 50,
     "health": 800,
     "shield": 400,
     "armor": 75,
@@ -1679,8 +1682,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Orokin/OrokinRocketBombardAvatar",
     "name": "Corrupted Bombard",
-    "primary": "Ogris",
-    "melee": "Sheev",
+    "weapon": 25,
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -1693,8 +1695,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Orokin/OrokinRocketBombardAvatarLeader",
     "name": "Corrupted Bombard",
-    "primary": "Ogris",
-    "melee": "Sheev",
+    "weapon": 25,
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -1707,8 +1708,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Orokin/OrokinBladeSawmanAvatar",
     "name": "Corrupted Butcher",
-    "primary": "Dual Cleavers",
-    "melee": "Dual Cleavers",
+    "weapon": 30,
     "health": 100,
     "shield": 0,
     "armor": 5,
@@ -1721,8 +1721,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Orokin/OrokinBladeSawmanAvatarLeader",
     "name": "Corrupted Butcher",
-    "primary": "Dual Cleavers",
-    "melee": "Dual Cleavers",
+    "weapon": 30,
     "health": 100,
     "shield": 0,
     "armor": 5,
@@ -1735,8 +1734,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Orokin/RifleSpacemanAvatar",
     "name": "Corrupted Crewman",
-    "primary": "Strun",
-    "melee": "Prova",
+    "weapon": 7,
     "faction": "Orokin",
     "health": 60,
     "shield": 150,
@@ -1750,8 +1748,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Orokin/RifleSpacemanLeaderAvatar",
     "name": "Corrupted Crewman",
-    "primary": "Strun",
-    "melee": "Prova",
+    "weapon": 7,
     "faction": "Orokin",
     "health": 60,
     "shield": 150,
@@ -1777,8 +1774,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Orokin/OrokinHeavyFemaleAvatar",
     "name": "Corrupted Heavy Gunner",
-    "primary": "Gorgon",
-    "melee": "Sheev",
+    "weapon": 10,
     "health": 700,
     "shield": 0,
     "armor": 500,
@@ -1791,8 +1787,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Orokin/RifleLancerAvatar",
     "name": "Corrupted Lancer",
-    "primary": "Dera",
-    "melee": "Sheev",
+    "weapon": "Dera",
     "faction": "Orokin",
     "health": 60,
     "shield": 0,
@@ -1806,8 +1801,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Orokin/RifleLancerLeaderAvatar",
     "name": "Corrupted Lancer",
-    "primary": "Dera",
-    "melee": "Sheev",
+    "weapon": "Dera",
     "faction": "Orokin",
     "health": 60,
     "shield": 0,
@@ -1845,8 +1839,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Orokin/OrokinNullifySpacemanAvatar",
     "name": "Corrupted Nullifier",
-    "primary": "Lanka",
-    "melee": "Prova",
+    "weapon": "Lanka",
     "health": 60,
     "shield": 150,
     "armor": 0,
@@ -1859,8 +1852,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Orokin/OrokinNullifySpacemanAvatarLeader",
     "name": "Corrupted Nullifier",
-    "primary": "Lanka",
-    "melee": "Prova",
+    "weapon": "Lanka",
     "health": 60,
     "shield": 150,
     "armor": 0,
@@ -1971,8 +1963,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/RifleSpacemanAvatar",
     "name": "Crewman",
-    "primary": "Dera",
-    "melee": "Prova",
+    "weapon": 7,
     "faction": "Corpus",
     "health": 60,
     "shield": 150,
@@ -1986,8 +1977,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/RifleSpacemanAvatarLeader",
     "name": "Crewman",
-    "primary": "Dera",
-    "melee": "Prova",
+    "weapon": 7,
     "faction": "Corpus",
     "health": 60,
     "shield": 150,
@@ -2025,8 +2015,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/SpaceBattles/Grineer/Skiffs/GrineerSpaceMarineAvatar",
     "name": "Dargyn",
-    "primary": "Kraken",
-    "melee": "Sheev",
+    "weapon": 30,
     "health": 200,
     "shield": 0,
     "armor": 200,
@@ -2039,8 +2028,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/SpaceBattles/Grineer/Skiffs/GrineerSpaceMarineAvatarLeader",
     "name": "Dargyn",
-    "primary": "Kraken",
-    "melee": "Sheev",
+    "weapon": 30,
     "health": 200,
     "shield": 0,
     "armor": 200,
@@ -2053,8 +2041,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonSkiffPilotAvatar",
     "name": "Dargyn Pilot",
-    "primary": "Kraken",
-    "melee": "Sheev",
+    "weapon": 30,
     "health": 120,
     "shield": 0,
     "armor": 100,
@@ -2127,8 +2114,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Amalgams/Avatars/AmalgamCorpusSniperBossAvatar",
     "name": "Demolyst Heqet",
-    "primary": "Komorex",
-    "melee": "Komorex",
+    "weapon": "Komorex",
     "health": 2000,
     "shield": 800,
     "armor": 0,
@@ -2225,8 +2211,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/ShotgunSpacemanAvatar",
     "name": "Detron Crewman",
-    "primary": "Detron",
-    "melee": "Prova",
+    "weapon": 4,
     "faction": "Corpus",
     "health": 60,
     "shield": 150,
@@ -2240,8 +2225,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/ShotgunSpacemanAvatarLeader",
     "name": "Detron Crewman",
-    "primary": "Detron",
-    "melee": "Prova",
+    "weapon": 4,
     "faction": "Corpus",
     "health": 60,
     "shield": 150,
@@ -2315,6 +2299,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SeaLab/Avatars/FemaleGrineerSniperAvatar",
     "name": "Drekar Ballista",
+    "weapon": 75,
     "health": 100,
     "shield": 0,
     "armor": 100,
@@ -2327,6 +2312,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SeaLab/Avatars/FemaleGrineerSniperAvatarLeader",
     "name": "Drekar Ballista",
+    "weapon": 75,
     "health": 100,
     "shield": 0,
     "armor": 100,
@@ -2339,8 +2325,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SeaLab/Avatars/BladeSawmanAvatar",
     "name": "Drekar Butcher",
-    "primary": "Dual Cleavers",
-    "melee": "Dual Cleavers",
+    "weapon": 30,
     "health": 50,
     "shield": 0,
     "armor": 5,
@@ -2353,8 +2338,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SeaLab/Avatars/BladeSawmanAvatarLeader",
     "name": "Drekar Butcher",
-    "primary": "Dual Cleavers",
-    "melee": "Dual Cleavers",
+    "weapon": 30,
     "health": 50,
     "shield": 0,
     "armor": 5,
@@ -2367,8 +2351,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SeaLab/Avatars/EliteRifleLancerAvatar",
     "name": "Drekar Elite Lancer",
-    "primary": "Harpak",
-    "melee": "Sheev",
+    "weapon": "Harpak",
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -2381,8 +2364,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SeaLab/Avatars/EliteRifleLancerAvatarLeader",
     "name": "Drekar Elite Lancer",
-    "primary": "Harpak",
-    "melee": "Sheev",
+    "weapon": "Harpak",
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -2395,6 +2377,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SeaLab/Avatars/EvisceratorLancerAvatar",
     "name": "Drekar Eviscerator",
+    "weapon": 45,
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -2407,6 +2390,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SeaLab/Avatars/EvisceratorLancerAvatarLeader",
     "name": "Drekar Eviscerator",
+    "weapon": 45,
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -2419,8 +2403,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SeaLab/Avatars/FemaleGrineerHeavyAvatar",
     "name": "Drekar Heavy Gunner",
-    "primary": "Gorgon",
-    "melee": "Sheev",
+    "weapon": 10,
     "health": 350,
     "shield": 0,
     "armor": 500,
@@ -2445,8 +2428,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SeaLab/Avatars/RifleLancerAvatar",
     "name": "Drekar Lancer",
-    "primary": "Grakata",
-    "melee": "Sheev",
+    "weapon": "Grakata",
     "faction": "Grineer",
     "health": 100,
     "shield": 0,
@@ -2460,6 +2442,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SeaLab/Avatars/SeaLabManicGrineerAvatar",
     "name": "Drekar Manic",
+    "weapon": 50,
     "health": 450,
     "shield": 0,
     "armor": 25,
@@ -2472,8 +2455,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SeaLab/Avatars/SeaLabManicBombardAvatar",
     "name": "Drekar Manic Bombard",
-    "primary": "Gorgon",
-    "melee": "Sheev",
+    "weapon": "Gorgon",
     "health": 1750,
     "shield": 0,
     "armor": 500,
@@ -2486,6 +2468,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SeaLab/Avatars/FemaleGrineerMacheteAvatar",
     "name": "Drekar Scorpion",
+    "weapon": 50,
     "health": 350,
     "shield": 0,
     "armor": 150,
@@ -2510,8 +2493,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SeaLab/Avatars/ShotgunLancerAvatar",
     "name": "Drekar Trooper",
-    "primary": "Sobek",
-    "melee": "Sheev",
+    "weapon": 6,
     "faction": "Grineer",
     "health": 120,
     "shield": 0,
@@ -2645,6 +2627,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Sentients/Eidolon/SentientVomvalystAvatar",
     "name": "Eidolon Vomvalyst",
+    "weapon": 25,
     "health": 700,
     "shield": 0,
     "armor": 0,
@@ -2681,8 +2664,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/EliteSpacemanAvatar",
     "name": "Elite Crewman",
-    "primary": "Flux Rifle",
-    "melee": "Prova",
+    "weapon": "Flux Rifle",
     "health": 60,
     "shield": 200,
     "armor": 0,
@@ -2695,8 +2677,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Forest/Avatars/EliteRifleLancerAvatar",
     "name": "Elite Frontier Lancer",
-    "primary": "Karak",
-    "melee": "Sheev",
+    "weapon": "Karak",
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -2709,8 +2690,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Forest/Avatars/EliteRifleLancerAvatarLeader",
     "name": "Elite Frontier Lancer",
-    "primary": "Karak",
-    "melee": "Sheev",
+    "weapon": "Karak",
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -2723,8 +2703,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/EliteRifleLancerAvatar",
     "name": "Elite Lancer",
-    "primary": "Hind",
-    "melee": "Sheev",
+    "weapon": 6,
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -2737,8 +2716,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/EliteRifleLancerAvatarLeader",
     "name": "Elite Lancer",
-    "primary": "Hind",
-    "melee": "Sheev",
+    "weapon": 6,
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -2787,6 +2765,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/EviseratorLancerAvatar",
     "name": "Eviscerator",
+    "weapon": 45,
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -2799,6 +2778,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/EviseratorLancerAvatarLeader",
     "name": "Eviscerator",
+    "weapon": 45,
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -2991,8 +2971,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarWalkingDetector",
     "name": "Fog Comba",
-    "primary": "Lecta",
-    "melee": "Lecta",
+    "weapon": "Lecta",
     "health": 1100,
     "shield": 400,
     "armor": 0,
@@ -3005,8 +2984,6 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarSkatingDetector",
     "name": "Fog Scrambus",
-    "primary": "Angstrum",
-    "melee": "Lecta",
     "health": 1100,
     "shield": 400,
     "armor": 0,
@@ -3057,8 +3034,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Forest/Avatars/BladeSawmanAvatar",
     "name": "Frontier Butcher",
-    "primary": "Dual Cleavers",
-    "melee": "Dual Cleavers",
+    "weapon": 30,
     "health": 50,
     "shield": 0,
     "armor": 5,
@@ -3071,8 +3047,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Forest/Avatars/BladeSawmanAvatarLeader",
     "name": "Frontier Butcher",
-    "primary": "Dual Cleavers",
-    "melee": "Dual Cleavers",
+    "weapon": 30,
     "health": 50,
     "shield": 0,
     "armor": 5,
@@ -3085,6 +3060,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Forest/Avatars/EvisceratorLancerAvatar",
     "name": "Frontier Eviscerator",
+    "weapon": 45,
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -3097,6 +3073,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Forest/Avatars/EvisceratorLancerAvatarLeader",
     "name": "Frontier Eviscerator",
+    "weapon": 45,
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -3109,8 +3086,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Forest/HeavyFemaleGrineerAvatarDesert",
     "name": "Frontier Heavy Gunner",
-    "primary": "Gorgon",
-    "melee": "Sheev",
+    "weapon": 10,
     "health": 350,
     "shield": 0,
     "armor": 500,
@@ -3123,8 +3099,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Forest/HeavyFemaleGrineerAvatarDesertLeader",
     "name": "Frontier Heavy Gunner",
-    "primary": "Gorgon",
-    "melee": "Sheev",
+    "weapon": 10,
     "health": 350,
     "shield": 0,
     "armor": 500,
@@ -3149,8 +3124,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Forest/Avatars/RifleLancerAvatar",
     "name": "Frontier Lancer",
-    "primary": "Grakata",
-    "melee": "Sheev",
+    "weapon": "Grakata",
     "faction": "Grineer",
     "health": 100,
     "shield": 0,
@@ -3164,8 +3138,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Forest/Avatars/RifleLancerAvatarLeader",
     "name": "Frontier Lancer",
-    "primary": "Grakata",
-    "melee": "Sheev",
+    "weapon": "Grakata",
     "faction": "Grineer",
     "health": 100,
     "shield": 0,
@@ -3215,8 +3188,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Forest/Avatars/ShotgunLancerAvatar",
     "name": "Frontier Trooper",
-    "primary": "Sobek",
-    "melee": "Sheev",
+    "weapon": 6,
     "faction": "Grineer",
     "health": 65,
     "shield": 0,
@@ -3230,8 +3202,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Forest/Avatars/ShotgunLancerAvatarLeader",
     "name": "Frontier Trooper",
-    "primary": "Sobek",
-    "melee": "Sheev",
+    "weapon": 6,
     "faction": "Grineer",
     "health": 65,
     "shield": 0,
@@ -3365,6 +3336,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Ghouls/GhoulDevourerAvatar",
     "name": "Ghoul Devourer",
+    "weapon": 55,
     "health": 600,
     "shield": 0,
     "armor": 250,
@@ -3401,6 +3373,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Ghouls/GhoulSawmanAvatar",
     "name": "Ghoul Rictus",
+    "weapon": 20,
     "health": 400,
     "shield": 0,
     "armor": 200,
@@ -3413,6 +3386,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Ghouls/Vip/GhoulSawmanVipAvatar",
     "name": "Ghoul Rictus Alpha",
+    "weapon": 25,
     "health": 1200,
     "shield": 0,
     "armor": 250,
@@ -3450,6 +3424,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/ManicGrineerAvatar",
     "name": "Grineer Manic",
+    "weapon": 40,
     "health": 350,
     "shield": 0,
     "armor": 25,
@@ -3510,6 +3485,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/GrineerMeleeStaffAvatar",
     "name": "Guardsman",
+    "weapon": 30,
     "health": 150,
     "shield": 0,
     "armor": 5,
@@ -3522,6 +3498,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/GrineerMeleeStaffAvatarLeader",
     "name": "Guardsman",
+    "weapon": 30,
     "health": 150,
     "shield": 0,
     "armor": 5,
@@ -3558,8 +3535,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/HeavyFemaleGrineerAvatar",
     "name": "Heavy Gunner",
-    "primary": "Gorgon",
-    "melee": "Sheev",
+    "weapon": "Gorgon",
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -3572,8 +3548,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/HeavyFemaleGrineerAvatarLeader",
     "name": "Heavy Gunner",
-    "primary": "Gorgon",
-    "melee": "Sheev",
+    "weapon": "Gorgon",
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -3826,6 +3801,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/CorpusChampions/TeamC/CCTeamCDeceptionAvatar",
     "name": "Jen Dro",
+    "weapon": 5,
     "health": 150,
     "shield": 100,
     "armor": 200,
@@ -4006,6 +3982,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Fortress/Avatars/FortressFemaleGrineerAvatar",
     "name": "Kuva Ballista",
+    "weapon": 75,
     "health": 100,
     "shield": 0,
     "armor": 100,
@@ -4018,8 +3995,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Fortress/Avatars/FortressRocketBombardAvatar",
     "name": "Kuva Bombard",
-    "primary": "Ogris",
-    "melee": "Sheev",
+    "weapon": "Ogris",
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -4032,8 +4008,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Fortress/Avatars/FortressBladeSawmanAvatar",
     "name": "Kuva Butcher",
-    "primary": "Dual Cleavers",
-    "melee": "Dual Cleavers",
+    "weapon": 30,
     "health": 50,
     "shield": 0,
     "armor": 5,
@@ -4070,8 +4045,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Fortress/Avatars/FortressEliteRifleLancerAvatar",
     "name": "Kuva Elite Lancer",
-    "primary": "Grinlok",
-    "melee": "Sheev",
+    "weapon": 25,
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -4084,6 +4058,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Fortress/Avatars/FortressEviseratorLancerAvatar",
     "name": "Kuva Eviscerator",
+    "weapon": 45,
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -4120,8 +4095,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Fortress/Avatars/FortressHeavyFemaleGrineerAvatar",
     "name": "Kuva Heavy Gunner",
-    "primary": "Drakgoon",
-    "melee": "Sheev",
+    "weapon": 5,
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -4134,6 +4108,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Fortress/Avatars/FortressJetpackMarineAvatar",
     "name": "Kuva Hellion",
+    "weapon": 20,
     "health": 100,
     "shield": 0,
     "armor": 100,
@@ -4170,8 +4145,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Fortress/Avatars/FortressRifleLancerAvatar",
     "name": "Kuva Lancer",
-    "primary": "Kohm",
-    "melee": "Sheev",
+    "weapon": 1,
     "health": 100,
     "shield": 0,
     "armor": 100,
@@ -4184,8 +4158,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Fortress/Avatars/FortressIncendiaryBombardAvatar",
     "name": "Kuva Napalm",
-    "primary": "Tonkor",
-    "melee": "Sheev",
+    "weapon": 50,
     "health": 600,
     "shield": 0,
     "armor": 500,
@@ -4198,6 +4171,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Fortress/Avatars/FortressPistonSawmanAvatar",
     "name": "Kuva Powerclaw",
+    "weapon": 15,
     "health": 100,
     "shield": 0,
     "armor": 5,
@@ -4234,6 +4208,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Fortress/Avatars/FortressMacheteWomanAvatar",
     "name": "Kuva Scorpion",
+    "weapon": 50,
     "health": 150,
     "shield": 0,
     "armor": 150,
@@ -4258,8 +4233,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Fortress/Avatars/FortressShieldLancerAvatar",
     "name": "Kuva Shield Lancer",
-    "primary": "Marelok",
-    "melee": "Sheev",
+    "weapon": 80,
     "health": 100,
     "shield": 0,
     "armor": 5,
@@ -4284,8 +4258,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Fortress/Avatars/FortressShotgunLancerAvatar",
     "name": "Kuva Trooper",
-    "primary": "Hek",
-    "melee": "Sheev",
+    "weapon": 5,
     "health": 120,
     "shield": 0,
     "armor": 150,
@@ -4310,8 +4283,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/RifleLancerAvatar",
     "name": "Lancer",
-    "primary": "Grakata",
-    "melee": "Sheev",
+    "weapon": "Grakata",
     "faction": "Grineer",
     "health": 100,
     "shield": 0,
@@ -4325,8 +4297,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/RifleLancerAvatarLeader",
     "name": "Lancer",
-    "primary": "Grakata",
-    "melee": "Sheev",
+    "weapon": "Grakata",
     "faction": "Grineer",
     "health": 100,
     "shield": 0,
@@ -4640,8 +4611,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/ManicRocketBombardAvatar",
     "name": "Manic Bombard",
-    "primary": "Gorgon",
-    "melee": "Sheev",
+    "weapon": "Gorgon",
     "health": 1500,
     "shield": 0,
     "armor": 500,
@@ -4654,8 +4624,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/ManicRocketBombardAvatarLeader",
     "name": "Manic Bombard",
-    "primary": "Gorgon",
-    "melee": "Sheev",
+    "weapon": "Gorgon",
     "health": 1500,
     "shield": 0,
     "armor": 500,
@@ -4776,6 +4745,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Infested/AiWeek/InfestedDrones/PoisonDroneAvatar",
     "name": "Mutalist Osprey",
+    "weapon": 12,
     "health": 200,
     "shield": 0,
     "armor": 0,
@@ -4788,6 +4758,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Infested/AiWeek/InfestedDrones/CellCarrierDroneAvatar",
     "name": "Mutalist Osprey Carrier",
+    "weapon": 12,
     "health": 200,
     "shield": 0,
     "armor": 0,
@@ -4800,6 +4771,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/CorpusChampions/TeamA/CCTeamARifleAvatar",
     "name": "Nako Xol",
+    "weapon": 10,
     "health": 150,
     "shield": 100,
     "armor": 200,
@@ -4812,8 +4784,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/IncendiaryBombardAvatar",
     "name": "Napalm",
-    "primary": "Ogris",
-    "melee": "Sheev",
+    "weapon": 50,
     "health": 600,
     "shield": 0,
     "armor": 500,
@@ -4826,8 +4797,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/IncendiaryBombardAvatarLeader",
     "name": "Napalm",
-    "primary": "Ogris",
-    "melee": "Sheev",
+    "weapon": 50,
     "health": 600,
     "shield": 0,
     "armor": 500,
@@ -4924,8 +4894,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/NightwatchHeavyGunnerAvatar",
     "name": "Nightwatch Bombard",
-    "primary": "Ogris",
-    "melee": "Sheev",
+    "weapon": "Ogris",
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -4938,8 +4907,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/NightWatchShieldLancerAvatar",
     "name": "Nightwatch Brunt Lancer",
-    "primary": "Grinlok",
-    "melee": "Sheev",
+    "weapon": "Grinlok",
     "health": 100,
     "shield": 0,
     "armor": 5,
@@ -4952,8 +4920,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/NightwatchCarrierRifleLancerAvatar",
     "name": "Nightwatch Carrier",
-    "primary": "Grakata",
-    "melee": "Sheev",
+    "weapon": "Grakata",
     "health": 650,
     "shield": 0,
     "armor": 100,
@@ -4990,8 +4957,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/NightwatchRifleLancerAvatar",
     "name": "Nightwatch Lancer",
-    "primary": "Grinlok",
-    "melee": "Sheev",
+    "weapon": "Grinlok",
     "health": 100,
     "shield": 0,
     "armor": 100,
@@ -5004,6 +4970,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/NightwatchManicAvatar",
     "name": "Nightwatch Manic",
+    "weapon": 45,
     "health": 350,
     "shield": 0,
     "armor": 25,
@@ -5016,6 +4983,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/NightwatchPowerfistAvatar",
     "name": "Nightwatch Powerclaw",
+    "weapon": 30,
     "health": 100,
     "shield": 0,
     "armor": 5,
@@ -5064,8 +5032,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/ChemStrike/ChemStrikeNoxAvatar",
     "name": "Nox",
-    "primary": "Stug",
-    "melee": "Sheev",
+    "weapon": "Stug",
     "health": 350,
     "shield": 0,
     "armor": 250,
@@ -5078,8 +5045,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/ChemStrike/ChemStrikeNoxAvatarLeader",
     "name": "Nox",
-    "primary": "Stug",
-    "melee": "Sheev",
+    "weapon": "Stug",
     "health": 350,
     "shield": 0,
     "armor": 250,
@@ -5092,8 +5058,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarWalkingShield",
     "name": "Nul Comba",
-    "primary": "Detron",
-    "melee": "Lecta",
+    "weapon": "Detron",
     "health": 1100,
     "shield": 400,
     "armor": 0,
@@ -5106,8 +5071,6 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarSkatingShield",
     "name": "Nul Scrambus",
-    "primary": "Detron",
-    "melee": "Lecta",
     "health": 1100,
     "shield": 400,
     "armor": 0,
@@ -5120,8 +5083,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/NullifySpacemanAvatar",
     "name": "Nullifier Crewman",
-    "primary": "Lanka",
-    "melee": "Prova",
+    "weapon": "Lanka",
     "health": 60,
     "shield": 150,
     "armor": 0,
@@ -5134,8 +5096,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/NullifySpacemanAvatarLeader",
     "name": "Nullifier Crewman",
-    "primary": "Lanka",
-    "melee": "Prova",
+    "weapon": "Lanka",
     "health": 60,
     "shield": 150,
     "armor": 0,
@@ -5148,8 +5109,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/CaptureTargets/CaptureTargetCorpusNullifierAvatar",
     "name": "Nullifier Target",
-    "primary": "Detron",
-    "melee": "Prova",
+    "weapon": "Detron",
     "health": 800,
     "shield": 250,
     "armor": 0,
@@ -5282,6 +5242,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/CorpusChampions/TeamA/CCTeamASkateAvatar",
     "name": "Pelna Cade",
+    "weapon": 20,
     "health": 150,
     "shield": 100,
     "armor": 200,
@@ -5294,8 +5255,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/SpaceBattles/Corpus/CrewMan/JetpackMarineTwoAvatar",
     "name": "Penta Ranger",
-    "primary": "Penta",
-    "melee": "Prova",
+    "weapon": "Penta",
     "health": 100,
     "shield": 100,
     "armor": 0,
@@ -5308,8 +5268,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/SpaceBattles/Corpus/CrewMan/JetpackMarineTwoAvatarLeader",
     "name": "Penta Ranger",
-    "primary": "Penta",
-    "melee": "Prova",
+    "weapon": "Penta",
     "health": 100,
     "shield": 100,
     "armor": 0,
@@ -5358,6 +5317,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/PistonSawmanAvatar",
     "name": "Powerfist",
+    "weapon": 60,
     "health": 100,
     "shield": 0,
     "armor": 5,
@@ -5382,8 +5342,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/MeleeSpacemanAvatar",
     "name": "Prod Crewman",
-    "primary": "Prova",
-    "melee": "Prova",
+    "weapon": "Prova",
     "faction": "Corpus",
     "health": 100,
     "shield": 50,
@@ -5397,8 +5356,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/MeleeSpacemanAvatarLeader",
     "name": "Prod Crewman",
-    "primary": "Prova",
-    "melee": "Prova",
+    "weapon": "Prova",
     "faction": "Corpus",
     "health": 100,
     "shield": 50,
@@ -5448,8 +5406,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/SpaceBattles/Corpus/CrewMan/JetpackMarineThreeAvatar",
     "name": "Quanta Ranger",
-    "primary": "Quanta",
-    "melee": "Prova",
+    "weapon": "Quanta",
     "health": 100,
     "shield": 100,
     "armor": 0,
@@ -5462,8 +5419,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/SpaceBattles/Corpus/CrewMan/JetpackMarineThreeAvatarLeader",
     "name": "Quanta Ranger",
-    "primary": "Quanta",
-    "melee": "Prova",
+    "weapon": "Quanta",
     "health": 100,
     "shield": 100,
     "armor": 0,
@@ -5524,8 +5480,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/SpaceBattles/Corpus/CrewMan/JetpackMarineAvatar",
     "name": "Ranger",
-    "primary": "Dera",
-    "melee": "Prova",
+    "weapon": "Dera",
     "health": 100,
     "shield": 100,
     "armor": 0,
@@ -5538,8 +5493,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/SpaceBattles/Corpus/CrewMan/JetpackMarineAvatarLeader",
     "name": "Ranger",
-    "primary": "Dera",
-    "melee": "Prova",
+    "weapon": "Dera",
     "health": 100,
     "shield": 100,
     "armor": 0,
@@ -5756,8 +5710,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarWalkingLaser",
     "name": "Sap Comba",
-    "primary": "Lecta",
-    "melee": "Lecta",
+    "weapon": "Lecta",
     "health": 1100,
     "shield": 400,
     "armor": 0,
@@ -5770,8 +5723,6 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarSkatingLaser",
     "name": "Sap Scrambus",
-    "primary": "Detron",
-    "melee": "Lecta",
     "health": 1100,
     "shield": 400,
     "armor": 0,
@@ -5784,6 +5735,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/DiscDroneAvatar",
     "name": "Sapping Osprey",
+    "weapon": 55,
     "health": 200,
     "shield": 50,
     "armor": 0,
@@ -5796,6 +5748,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/DiscDroneAvatarLeader",
     "name": "Sapping Osprey",
+    "weapon": 55,
     "health": 200,
     "shield": 50,
     "armor": 0,
@@ -5880,6 +5833,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/MacheteWomanAvatar",
     "name": "Scorpion",
+    "weapon": 50,
     "health": 150,
     "shield": 0,
     "armor": 150,
@@ -5892,6 +5846,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/MacheteWomanAvatarLeader",
     "name": "Scorpion",
+    "weapon": 50,
     "health": 150,
     "shield": 0,
     "armor": 150,
@@ -6060,8 +6015,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/ShieldLancerAvatar",
     "name": "Shield Lancer",
-    "primary": "Viper",
-    "melee": "Sheev",
+    "weapon": 12,
     "health": 100,
     "shield": 0,
     "armor": 5,
@@ -6074,8 +6028,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/ShieldLancerAvatarLeader",
     "name": "Shield Lancer",
-    "primary": "Viper",
-    "melee": "Sheev",
+    "weapon": 12,
     "health": 100,
     "shield": 0,
     "armor": 5,
@@ -6196,8 +6149,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarWalkingTesla",
     "name": "Slo Comba",
-    "primary": "Angstrum",
-    "melee": "Lecta",
+    "weapon": "Angstrum",
     "health": 1100,
     "shield": 400,
     "armor": 0,
@@ -6210,8 +6162,6 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarSkatingTesla",
     "name": "Slo Scrambus",
-    "primary": "Lecta",
-    "melee": "Lecta",
     "health": 1100,
     "shield": 400,
     "armor": 0,
@@ -6224,8 +6174,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/SniperSpacemanAvatar",
     "name": "Sniper Crewman",
-    "primary": "Lanka",
-    "melee": "Prova",
+    "weapon": "Lanka",
     "health": 60,
     "shield": 150,
     "armor": 0,
@@ -6238,8 +6187,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/SniperSpacemanAvatarLeader",
     "name": "Sniper Crewman",
-    "primary": "Lanka",
-    "melee": "Prova",
+    "weapon": "Lanka",
     "health": 60,
     "shield": 150,
     "armor": 0,
@@ -6336,6 +6284,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Infested/AiWeek/InfestedMoas/NaniteCloudBipedAvatar",
     "name": "Swarm Mutalist Moa",
+    "weapon": 30,
     "health": 350,
     "shield": 0,
     "armor": 0,
@@ -6348,6 +6297,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Infested/AiWeek/InfestedMoas/NaniteCloudBipedAvatarLeader",
     "name": "Swarm Mutalist Moa",
+    "weapon": 30,
     "health": 275,
     "shield": 0,
     "armor": 0,
@@ -6372,6 +6322,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Infested/AiWeek/InfestedMoas/SlowBombBipedAvatar",
     "name": "Tar Mutalist Moa",
+    "weapon": 15,
     "health": 350,
     "shield": 0,
     "armor": 0,
@@ -6384,6 +6335,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Infested/AiWeek/InfestedMoas/SlowBombBipedAvatarLeader",
     "name": "Tar Mutalist Moa",
+    "weapon": 15,
     "health": 275,
     "shield": 0,
     "armor": 0,
@@ -6420,6 +6372,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Avatars/VenusDroneAttackAvatar",
     "name": "Terra Attack Drone",
+    "weapon": 9,
     "health": 250,
     "shield": 75,
     "armor": 0,
@@ -6432,6 +6385,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Avatars/VenusDroneAttackAvatarLeader",
     "name": "Terra Attack Drone",
+    "weapon": 9,
     "health": 250,
     "shield": 75,
     "armor": 0,
@@ -6444,8 +6398,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Avatars/VenusEliteSpacemanAvatar",
     "name": "Terra Crewman",
-    "primary": "Tetra",
-    "melee": "Prova",
+    "weapon": "Tetra",
     "health": 100,
     "shield": 200,
     "armor": 0,
@@ -6458,8 +6411,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Avatars/VenusEliteSpacemanAvatarLeader",
     "name": "Terra Crewman",
-    "primary": "Tetra",
-    "melee": "Prova",
+    "weapon": "Tetra",
     "health": 250,
     "shield": 200,
     "armor": 0,
@@ -6472,8 +6424,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Avatars/VenusHeavyEliteSpacemanAvatar",
     "name": "Terra Elite Crewman",
-    "primary": "Tetra",
-    "melee": "Prova",
+    "weapon": 20,
     "health": 300,
     "shield": 400,
     "armor": 0,
@@ -6486,8 +6437,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Avatars/VenusHeavyEliteSpacemanAvatarLeader",
     "name": "Terra Elite Crewman",
-    "primary": "Tetra",
-    "melee": "Prova",
+    "weapon": 20,
     "health": 300,
     "shield": 400,
     "armor": 0,
@@ -6524,6 +6474,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusGrenadierEliteSpacemanAvatar",
     "name": "Terra Elite Overtaker",
+    "weapon": 170,
     "health": 800,
     "shield": 500,
     "armor": 0,
@@ -6536,6 +6487,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusGrenadierEliteSpacemanAvatarLeader",
     "name": "Terra Elite Overtaker",
+    "weapon": 170,
     "health": 800,
     "shield": 500,
     "armor": 0,
@@ -6548,6 +6500,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusFlyingEliteSpacemanAvatar",
     "name": "Terra Elite Provisor",
+    "weapon": 20,
     "health": 600,
     "shield": 800,
     "armor": 0,
@@ -6560,6 +6513,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusFlyingEliteSpacemanAvatarLeader",
     "name": "Terra Elite Provisor",
+    "weapon": 20,
     "health": 600,
     "shield": 800,
     "armor": 0,
@@ -6584,6 +6538,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusHeavyMeleeEliteSpacemanAvatar",
     "name": "Terra Elite Trencher",
+    "weapon": 75,
     "health": 800,
     "shield": 500,
     "armor": 0,
@@ -6596,6 +6551,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusHeavyMeleeEliteSpacemanAvatarLeader",
     "name": "Terra Elite Trencher",
+    "weapon": 75,
     "health": 800,
     "shield": 500,
     "armor": 0,
@@ -6632,6 +6588,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusGuardSpacemanAvatar",
     "name": "Terra Jailer",
+    "weapon": 60,
     "health": 600,
     "shield": 500,
     "armor": 0,
@@ -6644,6 +6601,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusCombatSpacemanAvatar",
     "name": "Terra Manker",
+    "weapon": 60,
     "health": 900,
     "shield": 800,
     "armor": 25,
@@ -6656,6 +6614,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusCombatSpacemanAvatarLeader",
     "name": "Terra Manker",
+    "weapon": 60,
     "health": 900,
     "shield": 800,
     "armor": 25,
@@ -6668,6 +6627,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Avatars/VenusLaserCannonBipedAvatar",
     "name": "Terra Moa",
+    "weapon": 9,
     "health": 60,
     "shield": 150,
     "armor": 0,
@@ -6680,6 +6640,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Avatars/VenusLaserCannonBipedAvatarLeader",
     "name": "Terra Moa",
+    "weapon": 9,
     "health": 60,
     "shield": 150,
     "armor": 0,
@@ -6692,6 +6653,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusGrenadierSpacemanAvatar",
     "name": "Terra Overtaker",
+    "weapon": 85,
     "health": 400,
     "shield": 250,
     "armor": 0,
@@ -6704,6 +6666,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusGrenadierSpacemanAvatarLeader",
     "name": "Terra Overtaker",
+    "weapon": 85,
     "health": 400,
     "shield": 250,
     "armor": 0,
@@ -6716,6 +6679,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Avatars/VenusShotgunSpacemanAvatar",
     "name": "Terra Plasmor Crewman",
+    "weapon": 25,
     "health": 60,
     "shield": 200,
     "armor": 0,
@@ -6728,6 +6692,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Avatars/VenusShotgunSpacemanAvatarLeader",
     "name": "Terra Plasmor Crewman",
+    "weapon": 25,
     "health": 60,
     "shield": 200,
     "armor": 0,
@@ -6740,6 +6705,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusFlyingSpacemanAvatar",
     "name": "Terra Provisor",
+    "weapon": 20,
     "health": 300,
     "shield": 450,
     "armor": 0,
@@ -6752,6 +6718,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusFlyingSpacemanAvatarLeader",
     "name": "Terra Provisor",
+    "weapon": 20,
     "health": 300,
     "shield": 450,
     "armor": 0,
@@ -6800,6 +6767,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Avatars/VenusShockwaveBipedAvatar",
     "name": "Terra Shockwave Moa",
+    "weapon": 12,
     "health": 200,
     "shield": 200,
     "armor": 0,
@@ -6812,6 +6780,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Avatars/VenusShockwaveBipedAvatarLeader",
     "name": "Terra Shockwave Moa",
+    "weapon": 12,
     "health": 400,
     "shield": 200,
     "armor": 0,
@@ -6848,6 +6817,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusHeavyMeleeSpacemanAvatar",
     "name": "Terra Trencher",
+    "weapon": 50,
     "health": 450,
     "shield": 300,
     "armor": 0,
@@ -6860,6 +6830,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusHeavyMeleeSpacemanAvatarLeader",
     "name": "Terra Trencher",
+    "weapon": 50,
     "health": 1000,
     "shield": 300,
     "armor": 0,
@@ -6920,6 +6891,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/CorpusChampions/TeamC/CCTeamCStealthAvatar",
     "name": "Tia Mayn",
+    "weapon": 132,
     "health": 150,
     "shield": 100,
     "armor": 200,
@@ -7041,8 +7013,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/ShotgunLancerAvatar",
     "name": "Trooper",
-    "primary": "Sobek",
-    "melee": "Sheev",
+    "weapon": 6,
     "faction": "Grineer",
     "health": 120,
     "shield": 0,
@@ -7056,8 +7027,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/ShotgunLancerAvatarLeader",
     "name": "Trooper",
-    "primary": "Sobek",
-    "melee": "Sheev",
+    "weapon": 6,
     "faction": "Grineer",
     "health": 120,
     "shield": 0,
@@ -7071,6 +7041,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonFemaleGrineerAvatar",
     "name": "Tusk Ballista",
+    "weapon": 75,
     "health": 100,
     "shield": 0,
     "armor": 100,
@@ -7083,6 +7054,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonFemaleGrineerAvatarLeader",
     "name": "Tusk Ballista",
+    "weapon": 75,
     "health": 100,
     "shield": 0,
     "armor": 100,
@@ -7107,8 +7079,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonRocketBombardAvatar",
     "name": "Tusk Bombard",
-    "primary": "Ogris",
-    "melee": "Sheev",
+    "weapon": 30,
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -7121,8 +7092,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonRocketBombardAvatarLeader",
     "name": "Tusk Bombard",
-    "primary": "Ogris",
-    "melee": "Sheev",
+    "weapon": 30,
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -7135,8 +7105,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonBladeSawmanAvatar",
     "name": "Tusk Butcher",
-    "primary": "Dual Cleavers",
-    "melee": "Dual Cleavers",
+    "weapon": 30,
     "health": 50,
     "shield": 0,
     "armor": 5,
@@ -7149,6 +7118,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonBladeSawmanAvatarLeader",
     "name": "Tusk Butcher",
+    "weapon": 30,
     "health": 50,
     "shield": 0,
     "armor": 5,
@@ -7197,8 +7167,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonEliteRifleLancerAvatar",
     "name": "Tusk Elite Lancer",
-    "primary": "Grinlok",
-    "melee": "Sheev",
+    "weapon": "Grinlok",
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -7211,8 +7180,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonEliteRifleLancerAvatarLeader",
     "name": "Tusk Elite Lancer",
-    "primary": "Grinlok",
-    "melee": "Sheev",
+    "weapon": "Grinlok",
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -7225,6 +7193,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonEviseratorLancerAvatar",
     "name": "Tusk Eviscerator",
+    "weapon": 45,
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -7237,6 +7206,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonEviseratorLancerAvatarLeader",
     "name": "Tusk Eviscerator",
+    "weapon": 45,
     "health": 150,
     "shield": 0,
     "armor": 200,
@@ -7285,8 +7255,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonHeavyFemaleGrineerAvatar",
     "name": "Tusk Heavy Gunner",
-    "primary": "Kohmak",
-    "melee": "Sheev",
+    "weapon": 7,
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -7299,8 +7268,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonHeavyFemaleGrineerAvatarLeader",
     "name": "Tusk Heavy Gunner",
-    "primary": "Kohmak",
-    "melee": "Sheev",
+    "weapon": 7,
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -7313,6 +7281,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonJetpackMarineAvatar",
     "name": "Tusk Hellion",
+    "weapon": 20,
     "health": 100,
     "shield": 0,
     "armor": 100,
@@ -7325,6 +7294,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonJetpackMarineAvatarLeader",
     "name": "Tusk Hellion",
+    "weapon": 20,
     "health": 100,
     "shield": 0,
     "armor": 100,
@@ -7337,8 +7307,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonRifleLancerAvatar",
     "name": "Tusk Lancer",
-    "primary": "Hind",
-    "melee": "Sheev",
+    "weapon": 4,
     "health": 100,
     "shield": 0,
     "armor": 100,
@@ -7351,8 +7320,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonRifleLancerAvatarLeader",
     "name": "Tusk Lancer",
-    "primary": "Hind",
-    "melee": "Sheev",
+    "weapon": 4,
     "health": 100,
     "shield": 0,
     "armor": 100,
@@ -7365,8 +7333,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonMortarBombardAvatar",
     "name": "Tusk Mortar Bombard",
-    "primary": "Kraken",
-    "melee": "Sheev",
+    "weapon": 30,
     "health": 300,
     "shield": 0,
     "armor": 500,
@@ -7379,8 +7346,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonIncendiaryBombardAvatar",
     "name": "Tusk Napalm",
-    "primary": "Ogris",
-    "melee": "Sheev",
+    "weapon": 50,
     "health": 450,
     "shield": 0,
     "armor": 500,
@@ -7393,8 +7359,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonIncendiaryBombardAvatarLeader",
     "name": "Tusk Napalm",
-    "primary": "Ogris",
-    "melee": "Sheev",
+    "weapon": 50,
     "health": 450,
     "shield": 0,
     "armor": 500,
@@ -7515,8 +7480,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonShieldLancerAvatar",
     "name": "Tusk Shield Lancer",
-    "primary": "Marelok",
-    "melee": "Sheev",
+    "weapon": 80,
     "health": 100,
     "shield": 0,
     "armor": 5,
@@ -7529,8 +7493,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonShieldLancerAvatarLeader",
     "name": "Tusk Shield Lancer",
-    "primary": "Marelok",
-    "melee": "Sheev",
+    "weapon": 80,
     "health": 100,
     "shield": 0,
     "armor": 5,
@@ -7591,8 +7554,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonShotgunLancerAvatar",
     "name": "Tusk Trooper",
-    "primary": "Karak",
-    "melee": "Sheev",
+    "weapon": 4,
     "health": 120,
     "shield": 0,
     "armor": 150,
@@ -7605,8 +7567,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/Eidolon/Avatars/EidolonShotgunLancerAvatarLeader",
     "name": "Tusk Trooper",
-    "primary": "Karak",
-    "melee": "Sheev",
+    "weapon": 4,
     "health": 120,
     "shield": 0,
     "armor": 150,
@@ -7715,8 +7676,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasRifleSpacemanAvatar",
     "name": "Vapos Crewman",
-    "primary": "Dera",
-    "melee": "Prova",
+    "weapon": 7,
     "health": 60,
     "shield": 150,
     "armor": 0,
@@ -7729,8 +7689,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasRifleSpacemanAvatarLeader",
     "name": "Vapos Crewman",
-    "primary": "Dera",
-    "melee": "Prova",
+    "weapon": 7,
     "health": 250,
     "shield": 150,
     "armor": 0,
@@ -7743,8 +7702,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasShotgunSpacemanAvatar",
     "name": "Vapos Detron Crewman",
-    "primary": "Detron",
-    "melee": "Prova",
+    "weapon": 4,
     "health": 60,
     "shield": 50,
     "armor": 0,
@@ -7757,8 +7715,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasShotgunSpacemanAvatarLeader",
     "name": "Vapos Detron Crewman",
-    "primary": "Detron",
-    "melee": "Prova",
+    "weapon": 4,
     "health": 250,
     "shield": 50,
     "armor": 0,
@@ -7771,8 +7728,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasEliteSpacemanAvatar",
     "name": "Vapos Elite Crewman",
-    "primary": "Exergis",
-    "melee": "Prova",
+    "weapon": 10,
     "health": 60,
     "shield": 200,
     "armor": 0,
@@ -7785,8 +7741,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasEliteSpacemanAvatarLeader",
     "name": "Vapos Elite Crewman",
-    "primary": "Exergis",
-    "melee": "Prova",
+    "weapon": 10,
     "health": 300,
     "shield": 200,
     "armor": 0,
@@ -7799,8 +7754,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasEliteFlyingSpacemanAvatar",
     "name": "Vapos Elite Ranger",
-    "primary": "Exergis",
-    "melee": "Prova",
+    "weapon": "Exergis",
     "health": 80,
     "shield": 450,
     "armor": 0,
@@ -7813,8 +7767,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasEliteFlyingSpacemanAvatarLeader",
     "name": "Vapos Elite Ranger",
-    "primary": "Exergis",
-    "melee": "Prova",
+    "weapon": "Exergis",
     "health": 280,
     "shield": 450,
     "armor": 0,
@@ -7911,8 +7864,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasMeleeSpacemanAvatar",
     "name": "Vapos Prod Crewman",
-    "primary": "Prova",
-    "melee": "Prova",
+    "weapon": "Prova",
     "health": 100,
     "shield": 50,
     "armor": 0,
@@ -7925,8 +7877,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasMeleeSpacemanAvatarLeader",
     "name": "Vapos Prod Crewman",
-    "primary": "Prova",
-    "melee": "Prova",
+    "weapon": "Prova",
     "health": 400,
     "shield": 50,
     "armor": 0,
@@ -7939,8 +7890,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasRailgunBipedAvatar",
     "name": "Vapos Railgun Moa",
-    "primary": "Opticor",
-    "melee": "Opticor",
+    "weapon": "Opticor",
     "health": 60,
     "shield": 150,
     "armor": 0,
@@ -7953,8 +7903,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasRailgunBipedAvatarLeader",
     "name": "Vapos Railgun Moa",
-    "primary": "Opticor",
-    "melee": "Opticor",
+    "weapon": "Opticor",
     "health": 250,
     "shield": 150,
     "armor": 0,
@@ -7967,6 +7916,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasDiscDroneAvatar",
     "name": "Vapos Sapping Osprey",
+    "weapon": 55,
     "health": 80,
     "shield": 50,
     "armor": 0,
@@ -7979,6 +7929,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasDiscDroneAvatarLeader",
     "name": "Vapos Sapping Osprey",
+    "weapon": 55,
     "health": 280,
     "shield": 50,
     "armor": 0,
@@ -8027,8 +7978,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasSniperSpacemanAvatar",
     "name": "Vapos Sniper Crewman",
-    "primary": "Lanka",
-    "melee": "Prova",
+    "weapon": "Lanka",
     "health": 60,
     "shield": 150,
     "armor": 0,
@@ -8041,8 +7991,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/GasCity/Avatars/GasSniperSpacemanAvatarLeader",
     "name": "Vapos Sniper Crewman",
-    "primary": "Lanka",
-    "melee": "Prova",
+    "weapon": "Lanka",
     "health": 250,
     "shield": 150,
     "armor": 0,
@@ -8091,6 +8040,7 @@
   {
     "uniqueName": "/Lotus/Types/Enemies/CorpusChampions/TeamA/CCTeamASkateBAvatar",
     "name": "Ved Xol",
+    "weapon": 120,
     "health": 150,
     "shield": 100,
     "armor": 200,
