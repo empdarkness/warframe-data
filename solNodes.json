@@ -2866,5 +2866,61 @@
         "enemy": "Grineer",
         "type": "Skirmish",
         "dark_sector": false
+    },
+    "SolNode706": {
+        "node": "Orokin Derelict Capture",
+        "planet": "Orokin Derelic",
+        "enemy": "Infested",
+        "type": "Capture",
+        "dark_sector": false
+    },
+    "SolNode707": {
+        "node": "Orokin Derelict Defense",
+        "planet": "Orokin Derelict",
+        "enemy": "Infested",
+        "type": "Defense",
+        "dark_sector": false
+    },
+    "SolNode708": {
+        "node": "Orokin Derelict Exterminate",
+        "planet": "Orokin Derelict",
+        "enemy": "Infested",
+        "type": "Exterminate",
+        "dark_sector": false
+    },
+    "SolNode709": {
+        "node": "Orokin Derelict Mobile Defense",
+        "planet": "Orokin Derelict",
+        "enemy": "Infested",
+        "type": "Mobile Defense",
+        "dark_sector": false
+    },
+    "SolNode710": {
+        "node": "Orokin Derelict Sabotage",
+        "planet": "Orokin Derelict",
+        "enemy": "Infested",
+        "type": "Sabotage",
+        "dark_sector": false
+    },
+    "SolNode711": {
+        "node": "Orokin Derelict Survival",
+        "planet": "Orokin Derelict",
+        "enemy": "Infested",
+        "type": "Survival",
+        "dark_sector": false
+    },
+    "SolNode712": {
+        "node": "Orokin Derelict Assassinate",
+        "planet": "Orokin Derelict",
+        "enemy": "Infested",
+        "type": "Assassinate",
+        "dark_sector": false
+    },
+    "SolNode713": {
+        "node": "Zealoid Prelate",
+        "planet": "Orokin Derelict",
+        "enemy": "Infested",
+        "type": "Assassinate",
+        "dark_sector": false
     }
 }
