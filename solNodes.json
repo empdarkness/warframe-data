@@ -2866,12 +2866,5 @@
         "enemy": "Grineer",
         "type": "Skirmish",
         "dark_sector": false
-    },
-    "SolNode711": {
-        "node": "Orokin Derelict Survival",
-        "planet": "Orokin Derelict",
-        "enemy": "Infested",
-        "type": "Survival",
-        "dark_sector": false
     }
 }
