@@ -2867,13 +2867,6 @@
         "type": "Skirmish",
         "dark_sector": false
     },
-    "SolNode707": {
-        "node": "Orokin Derelict Defense",
-        "planet": "Orokin Derelict",
-        "enemy": "Infested",
-        "type": "Defense",
-        "dark_sector": false
-    },
     "SolNode711": {
         "node": "Orokin Derelict Survival",
         "planet": "Orokin Derelict",
