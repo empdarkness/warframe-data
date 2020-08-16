@@ -2868,64 +2868,64 @@
         "dark_sector": false
     },
     "SolNode706": {
-        "node": "Orokin Derelict Capture",
-        "planet": "Orokin Derelic",
+        "node": "Horend",
+        "planet": "Deimos",
         "enemy": "Infested",
         "type": "Capture",
         "tileset": "Orokin Derelict",
         "dark_sector": false
     },
     "SolNode707": {
-        "node": "Orokin Derelict Defense",
-        "planet": "Orokin Derelict",
+        "node": "Hyf",
+        "planet": "Deimos",
         "enemy": "Infested",
         "type": "Defense",
         "tileset": "Orokin Derelict",
         "dark_sector": false
     },
     "SolNode708": {
-        "node": "Orokin Derelict Exterminate",
-        "planet": "Orokin Derelict",
+        "node": "Phlegyas",
+        "planet": "Deimos",
         "enemy": "Infested",
         "type": "Exterminate",
         "tileset": "Orokin Derelict",
         "dark_sector": false
     },
     "SolNode709": {
-        "node": "Orokin Derelict Mobile Defense",
-        "planet": "Orokin Derelict",
+        "node": "Dirus",
+        "planet": "Deimos",
         "enemy": "Infested",
         "type": "Mobile Defense",
         "tileset": "Orokin Derelict",
         "dark_sector": false
     },
     "SolNode710": {
-        "node": "Orokin Derelict Sabotage",
-        "planet": "Orokin Derelict",
+        "node": "Formido",
+        "planet": "Deimos",
         "enemy": "Infested",
         "type": "Sabotage",
         "tileset": "Orokin Derelict",
         "dark_sector": false
     },
     "SolNode711": {
-        "node": "Orokin Derelict Survival",
-        "planet": "Orokin Derelict",
+        "node": "Terrorem",
+        "planet": "Deimos",
         "enemy": "Infested",
         "type": "Survival",
         "tileset": "Orokin Derelict",
         "dark_sector": false
     },
     "SolNode712": {
-        "node": "Orokin Derelict Assassinate",
-        "planet": "Orokin Derelict",
+        "node": "Magnacidium",
+        "planet": "Deimos",
         "enemy": "Infested",
         "type": "Assassinate",
         "tileset": "Orokin Derelict",
         "dark_sector": false
     },
     "SolNode713": {
-        "node": "Zealoid Prelate",
-        "planet": "Orokin Derelict",
+        "node": "Exequias",
+        "planet": "Deimos",
         "enemy": "Infested",
         "type": "Assassinate",
         "tileset": "Orokin Derelict",
