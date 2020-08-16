@@ -1,2934 +1,2934 @@
 {
-    "SolNode0": {
-        "node": "SolNode0",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode1": {
-        "node": "Galatea",
-        "planet": "Neptune",
-        "enemy": "Corpus",
-        "type": "Capture",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode2": {
-        "node": "Aphrodite",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Mobile Defense",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode3": {
-        "node": "Cordelia",
-        "planet": "Uranus",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode4": {
-        "node": "Acheron",
-        "planet": "Pluto",
-        "enemy": "Corpus",
-        "type": "Exterminate",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode5": {
-        "node": "Perdita",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode6": {
-        "node": "Despina",
-        "planet": "Neptune",
-        "enemy": "Corpus",
-        "type": "Excavation",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode7": {
-        "node": "Epimetheus",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode8": {
-        "node": "Nix",
-        "planet": "Pluto",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode9": {
-        "node": "Rosalind",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Spy",
-        "tileset": "Grineer Sealab",
-        "dark_sector": false
-    },
-    "SolNode10": {
-        "node": "Thebe",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Sabotage",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "SolNode11": {
-        "node": "Tharsis",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Mobile Defense",
-        "tileset": "Grineer Settlement",
-        "dark_sector": false
-    },
-    "SolNode12": {
-        "node": "Elion",
-        "planet": "Mercury",
-        "enemy": "Grineer",
-        "type": "Capture",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode13": {
-        "node": "Bianca",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode14": {
-        "node": "Ultor",
-        "planet": "Mars",
-        "enemy": "Crossfire",
-        "type": "Exterminate",
-        "tileset": "Corpus Ice Planet",
-        "dark_sector": false
-    },
-    "SolNode15": {
-        "node": "Pacific",
-        "planet": "Earth",
-        "enemy": "Grineer",
-        "type": "Rescue",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode16": {
-        "node": "Augustus",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Excavation",
-        "tileset": "Grineer Settlement",
-        "dark_sector": false
-    },
-    "SolNode17": {
-        "node": "Proteus",
-        "planet": "Neptune",
-        "enemy": "Corpus",
-        "type": "Defense",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode18": {
-        "node": "Rhea",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Interception",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode19": {
-        "node": "Enceladus",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Sabotage",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode20": {
-        "node": "Telesto",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Exterminate",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode21": {
-        "node": "Narcissus",
-        "planet": "Pluto",
-        "enemy": "Corpus",
-        "type": "Exterminate",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode22": {
-        "node": "Tessera",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Defense",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode23": {
-        "node": "Cytherean",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Interception",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode24": {
-        "node": "Oro",
-        "planet": "Earth",
-        "enemy": "Grineer",
-        "type": "Assassination",
-        "tileset": "Grineer Forest",
-        "dark_sector": false
-    },
-    "SolNode25": {
-        "node": "Callisto",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Interception",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "SolNode26": {
-        "node": "Lith",
-        "planet": "Earth",
-        "enemy": "Grineer",
-        "type": "Defense",
-        "tileset": "Grineer Forest",
-        "dark_sector": false
-    },
-    "SolNode27": {
-        "node": "E Prime",
-        "planet": "Earth",
-        "enemy": "Grineer",
-        "type": "Exterminate",
-        "tileset": "Grineer Forest",
-        "dark_sector": false
-    },
-    "SolNode28": {
-        "node": "M Prime",
-        "planet": "Mercury",
-        "enemy": "Crossfire",
-        "type": "Exterminate",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode29": {
-        "node": "Oberon",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode30": {
-        "node": "Olympus",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Disruption",
-        "tileset": "Grineer Settlement",
-        "dark_sector": false
-    },
-    "SolNode31": {
-        "node": "Anthe",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Rescue",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode32": {
-        "node": "Tethys",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Assassination",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode33": {
-        "node": "Ariel",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Capture",
-        "tileset": "Grineer Sealab",
-        "dark_sector": false
-    },
-    "SolNode34": {
-        "node": "Sycorax",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Exterminate",
-        "tileset": "Grineer Sealab",
-        "dark_sector": false
-    },
-    "SolNode35": {
-        "node": "Arcadia",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode36": {
-        "node": "Martialis",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Rescue",
-        "tileset": "Grineer Settlement",
-        "dark_sector": false
-    },
-    "SolNode37": {
-        "node": "Pallene",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode38": {
-        "node": "Minthe",
-        "planet": "Pluto",
-        "enemy": "Corpus",
-        "type": "Mobile Defense",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode39": {
-        "node": "Everest",
-        "planet": "Earth",
-        "enemy": "Grineer",
-        "type": "Excavation",
-        "tileset": "Grineer Forest",
-        "dark_sector": false
-    },
-    "SolNode40": {
-        "node": "Prospero",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode41": {
-        "node": "Arval",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Spy",
-        "tileset": "Grineer Settlement",
-        "dark_sector": false
-    },
-    "SolNode42": {
-        "node": "Helene",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Defense",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode43": {
-        "node": "Cerberus",
-        "planet": "Pluto",
-        "enemy": "Corpus",
-        "type": "Interception",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode44": {
-        "node": "Mimas",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode45": {
-        "node": "Ara",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Capture",
-        "tileset": "Grineer Settlement",
-        "dark_sector": false
-    },
-    "SolNode46": {
-        "node": "Spear",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Defense",
-        "tileset": "Grineer Settlement",
-        "dark_sector": false
-    },
-    "SolNode47": {
-        "node": "Janus",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode48": {
-        "node": "Regna",
-        "planet": "Pluto",
-        "enemy": "Corpus",
-        "type": "Rescue",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode49": {
-        "node": "Larissa",
-        "planet": "Neptune",
-        "enemy": "Corpus",
-        "type": "Mobile Defense",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode50": {
-        "node": "Numa",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Rescue",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode51": {
-        "node": "Hades",
-        "planet": "Pluto",
-        "enemy": "Corpus",
-        "type": "Assassination",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode52": {
-        "node": "Portia",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode53": {
-        "node": "Themisto",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Assassination",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "SolNode54": {
-        "node": "Silvanus",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode55": {
-        "node": "Methone",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode56": {
-        "node": "Cypress",
-        "planet": "Pluto",
-        "enemy": "Corpus",
-        "type": "Sabotage",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode57": {
-        "node": "Sao",
-        "planet": "Neptune",
-        "enemy": "Corpus",
-        "type": "Sabotage",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode58": {
-        "node": "Hellas",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Exterminate",
-        "tileset": "Grineer Settlement",
-        "dark_sector": false
-    },
-    "SolNode59": {
-        "node": "Eurasia",
-        "planet": "Earth",
-        "enemy": "Grineer",
-        "type": "Mobile Defense",
-        "tileset": "Grineer Forest",
-        "dark_sector": false
-    },
-    "SolNode60": {
-        "node": "Caliban",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Rescue",
-        "tileset": "Grineer Sealab",
-        "dark_sector": false
-    },
-    "SolNode61": {
-        "node": "Ishtar",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Sabotage",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode62": {
-        "node": "Neso",
-        "planet": "Neptune",
-        "enemy": "Corpus",
-        "type": "Exterminate",
-        "tileset": "Corpus Ice Planet",
-        "dark_sector": false
-    },
-    "SolNode63": {
-        "node": "Mantle",
-        "planet": "Earth",
-        "enemy": "Grineer",
-        "type": "Capture",
-        "tileset": "Grineer Forest",
-        "dark_sector": false
-    },
-    "SolNode64": {
-        "node": "Umbriel",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Interception",
-        "tileset": "Grineer Sealab",
-        "dark_sector": false
-    },
-    "SolNode65": {
-        "node": "Gradivus",
-        "planet": "Mars",
-        "enemy": "Corpus",
-        "type": "Sabotage",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode66": {
-        "node": "Unda",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Spy",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode67": {
-        "node": "Dione",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Spy",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode68": {
-        "node": "Vallis",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Mobile Defense",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode69": {
-        "node": "Ophelia",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Survival",
-        "tileset": "Grineer Sealab",
-        "dark_sector": false
-    },
-    "SolNode70": {
-        "node": "Cassini",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Capture",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode71": {
-        "node": "Vesper",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Spy",
-        "dark_sector": false
-    },
-    "SolNode72": {
-        "node": "Outer Terminus",
-        "planet": "Pluto",
-        "enemy": "Corpus",
-        "type": "Defense",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode73": {
-        "node": "Ananke",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Capture",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "SolNode74": {
-        "node": "Carme",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Mobile Defense",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "SolNode75": {
-        "node": "Cervantes",
-        "planet": "Earth",
-        "enemy": "Grineer",
-        "type": "Sabotage",
-        "tileset": "Grineer Forest",
-        "dark_sector": false
-    },
-    "SolNode76": {
-        "node": "Hydra",
-        "planet": "Pluto",
-        "enemy": "Corpus",
-        "type": "Capture",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode77": {
-        "node": "Cupid",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode78": {
-        "node": "Triton",
-        "planet": "Neptune",
-        "enemy": "Corpus",
-        "type": "Rescue",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode79": {
-        "node": "Cambria",
-        "planet": "Earth",
-        "enemy": "Grineer",
-        "type": "Spy",
-        "tileset": "Grineer Forest",
-        "dark_sector": false
-    },
-    "SolNode80": {
-        "node": "Phoebe",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode81": {
-        "node": "Palus",
-        "planet": "Pluto",
-        "enemy": "Corpus",
-        "type": "Survival",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode82": {
-        "node": "Calypso",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Sabotage",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode83": {
-        "node": "Cressida",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Mobile Defense",
-        "tileset": "Grineer Sealab",
-        "dark_sector": false
-    },
-    "SolNode84": {
-        "node": "Nereid",
-        "planet": "Neptune",
-        "enemy": "Corpus",
-        "type": "Spy",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode85": {
-        "node": "Gaia",
-        "planet": "Earth",
-        "enemy": "Grineer",
-        "type": "Interception",
-        "tileset": "Grineer Forest",
-        "dark_sector": false
-    },
-    "SolNode86": {
-        "node": "Aegaeon",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode87": {
-        "node": "Ganymede",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Disruption",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "SolNode88": {
-        "node": "Adrastea",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Sabotage",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "SolNode89": {
-        "node": "Mariana",
-        "planet": "Earth",
-        "enemy": "Grineer",
-        "type": "Exterminate",
-        "tileset": "Grineer Sealab",
-        "dark_sector": false
-    },
-    "SolNode90": {
-        "node": "Miranda",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode91": {
-        "node": "Iapetus",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode92": {
-        "node": "Charon",
-        "planet": "Pluto",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode93": {
-        "node": "Keeler",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Mobile Defense",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode94": {
-        "node": "Apollodorus",
-        "planet": "Mercury",
-        "enemy": "Infested",
-        "type": "Survival",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode95": {
-        "node": "Thalassa",
-        "planet": "Neptune",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode96": {
-        "node": "Titan",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Survival",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode97": {
-        "node": "Amalthea",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Spy",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "SolNode98": {
-        "node": "Desdemona",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Capture",
-        "tileset": "Grineer Sealab",
-        "dark_sector": false
-    },
-    "SolNode99": {
-        "node": "War",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Assassinate",
-        "tileset": "Grineer Settlement",
-        "dark_sector": false
-    },
-    "SolNode100": {
-        "node": "Elara",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Survival",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "SolNode101": {
-        "node": "Kiliken",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Excavation",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode102": {
-        "node": "Oceanum",
-        "planet": "Pluto",
-        "enemy": "Corpus",
-        "type": "Spy",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode103": {
-        "node": "Terminus",
-        "planet": "Mercury",
-        "enemy": "Crossfire",
-        "type": "Sabotage",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode104": {
-        "node": "Fossa",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Assassinate",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode105": {
-        "node": "Titania",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Assassination",
-        "tileset": "Grineer Sealab",
-        "dark_sector": false
-    },
-    "SolNode106": {
-        "node": "Alator",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Interception",
-        "tileset": "Grineer Settlement",
-        "dark_sector": false
-    },
-    "SolNode107": {
-        "node": "Venera",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Capture",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode108": {
-        "node": "Tolstoj",
-        "planet": "Mercury",
-        "enemy": "Grineer",
-        "type": "Assassinate",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode109": {
-        "node": "Linea",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Rescue",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode110": {
-        "node": "Hyperion",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode111": {
-        "node": "Juliet",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode112": {
-        "node": "Setebos",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode113": {
-        "node": "Ares",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Sabotage",
-        "tileset": "Grineer Settlement",
-        "dark_sector": false
-    },
-    "SolNode114": {
-        "node": "Puck",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Exterminate",
-        "tileset": "Grineer Sealab",
-        "dark_sector": false
-    },
-    "SolNode115": {
-        "node": "Quirinus",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode116": {
-        "node": "Mab",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode117": {
-        "node": "Naiad",
-        "planet": "Neptune",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode118": {
-        "node": "Laomedeia",
-        "planet": "Neptune",
-        "enemy": "Corpus",
-        "type": "Disruption",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode119": {
-        "node": "Caloris",
-        "planet": "Mercury",
-        "enemy": "Grineer",
-        "type": "Rescue",
-        "tilset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode120": {
-        "node": "Halimede",
-        "planet": "Neptune",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode121": {
-        "node": "Carpo",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Exterminate",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "SolNode122": {
-        "node": "Stephano",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Defense",
-        "tileset": "Grineer Sealab",
-        "dark_sector": false
-    },
-    "SolNode123": {
-        "node": "V Prime",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Survival",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode124": {
-        "node": "Trinculo",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode125": {
-        "node": "Io",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Defense",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "SolNode126": {
-        "node": "Metis",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Rescue",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "SolNode127": {
-        "node": "Psamathe",
-        "planet": "Neptune",
-        "enemy": "Corpus",
-        "type": "Assassination",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode128": {
-        "node": "E Gate",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Exterminate",
-        "tileset": "Corpus Outpost",
-        "dark_sector": false
-    },
-    "SolNode129": {
-        "node": "Orb Vallis",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Free Roam",
-        "tileset": "Orb Vallis",
-        "dark_sector": false
-    },
-    "SolNode130": {
-        "node": "Lares",
-        "planet": "Mercury",
-        "enemy": "Infested",
-        "type": "Defense",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode131": {
-        "node": "Pallas",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Exterminate",
-        "tileset": "Grineer Shipyard",
-        "dark_sector": false
-    },
-    "SolNode132": {
-        "node": "Bode",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Spy",
-        "tileset": "Grineer Shipyard",
-        "dark_sector": false
-    },
-    "SolNode133": {
-        "node": "Vedic",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode134": {
-        "node": "Varro",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode135": {
-        "node": "Thon",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Sabotage",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode136": {
-        "node": "Olla",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode137": {
-        "node": "Nuovo",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Rescue",
-        "tileset": "Grineer Shipyard",
-        "dark_sector": false
-    },
-    "SolNode138": {
-        "node": "Ludi",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Hijack",
-        "tileset": "Grineer Shipyard",
-        "dark_sector": false
-    },
-    "SolNode139": {
-        "node": "Lex",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Capture",
-        "tileset": "Grineer Shipyard",
-        "dark_sector": false
-    },
-    "SolNode140": {
-        "node": "Kiste",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Mobile Defense",
-        "tileset": "Grineer Shipyard",
-        "dark_sector": false
-    },
-    "SolNode141": {
-        "node": "Ker",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Sabotage",
-        "tileset": "Grineer Shipyard",
-        "dark_sector": false
-    },
-    "SolNode142": {
-        "node": "Hapke",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode143": {
-        "node": "Gefion",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode144": {
-        "node": "Exta",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Assassination",
-        "tileset": "Grineer Shipyard",
-        "dark_sector": false
-    },
-    "SolNode145": {
-        "node": "Egeria",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode146": {
-        "node": "Draco",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Survival",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode147": {
-        "node": "Cinxia",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Interception",
-        "tileset": "Grineer Shipyard",
-        "dark_sector": false
-    },
-    "SolNode148": {
-        "node": "Cerium",
-        "planet": "Ceres",
-        "dark_sector": false
-    },
-    "SolNode149": {
-        "node": "Casta",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Defense",
-        "tileset": "Grineer Shipyard",
-        "dark_sector": false
-    },
-    "SolNode150": {
-        "node": "Albedo",
-        "planet": "Ceres",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode151": {
-        "node": "Acanth",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode152": {
-        "node": "Ascar",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode153": {
-        "node": "Brugia",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Rescue",
-        "tileset": "Infested Ship",
-        "dark_sector": false
-    },
-    "SolNode154": {
-        "node": "Candiru",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode155": {
-        "node": "Cosis",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode156": {
-        "node": "Cyath",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode157": {
-        "node": "Giardia",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode158": {
-        "node": "Gnathos",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode159": {
-        "node": "Lepis",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode160": {
-        "node": "Histo",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode161": {
-        "node": "Hymeno",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode162": {
-        "node": "Isos",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Capture",
-        "tileset": "Infested Ship",
-        "dark_sector": false
-    },
-    "SolNode163": {
-        "node": "Ixodes",
-        "planet": "Eris",
-        "dark_sector": false
-    },
-    "SolNode164": {
-        "node": "Kala-azar",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Defense",
-        "tileset": "Infested Ship",
-        "dark_sector": false
-    },
-    "SolNode165": {
-        "node": "Sporid",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Hive Sabotage",
-        "dark_sector": false
-    },
-    "SolNode166": {
-        "node": "Nimus",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Survival",
-        "tileset": "Infested Ship",
-        "dark_sector": false
-    },
-    "SolNode167": {
-        "node": "Oestrus",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Salvage",
-        "tileset": "Infested Ship",
-        "dark_sector": false
-    },
-    "SolNode168": {
-        "node": "Phalan",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode169": {
-        "node": "Psoro",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode170": {
-        "node": "Ranova",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode171": {
-        "node": "Saxis",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Exterminate",
-        "tileset": "Infested Ship",
-        "dark_sector": false
-    },
-    "SolNode172": {
-        "node": "Xini",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Interception",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode173": {
-        "node": "Solium",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Mobile Defense",
-        "tileset": "Infested Ship",
-        "dark_sector": false
-    },
-    "SolNode174": {
-        "node": "Sparga",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode175": {
-        "node": "Naeglar",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Hive",
-        "tileset": "Infested Ship",
-        "dark_sector": false
-    },
-    "SolNode176": {
-        "node": "Viver",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode177": {
-        "node": "Kappa",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Spy",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode178": {
-        "node": "Hyosube",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode179": {
-        "node": "Jengu",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode180": {
-        "node": "Undine",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode181": {
-        "node": "Adaro",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Exterminate",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode182": {
-        "node": "Camenae",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode183": {
-        "node": "Vodyanoi",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Arena",
-        "tileset": "Grineer Sealab",
-        "dark_sector": false
-    },
-    "SolNode184": {
-        "node": "Rusalka",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Capture",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode185": {
-        "node": "Berehynia",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Interception",
-        "tileset": "Grineer Shipyard",
-        "dark_sector": false
-    },
-    "SolNode186": {
-        "node": "Phithale",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Sabotage",
-        "dark_sector": false
-    },
-    "SolNode187": {
-        "node": "Selkie",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Survival",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode188": {
-        "node": "Kelpie",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Disruption",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode189": {
-        "node": "Naga",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Rescue",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode190": {
-        "node": "Nakki",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Arena",
-        "tileset": "Grineer Shipyard",
-        "dark_sector": false
-    },
-    "SolNode191": {
-        "node": "Marid",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Hijack",
-        "tileset": "Grineer Shipyard",
-        "dark_sector": false
-    },
-    "SolNode192": {
-        "node": "Tikoloshe",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Spy",
-        "dark_sector": false
-    },
-    "SolNode193": {
-        "node": "Merrow",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Assassination",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode194": {
-        "node": "Ponaturi",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode195": {
-        "node": "Hydron",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Defense",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode196": {
-        "node": "Charybdis",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Mobile Defense",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode197": {
-        "node": "Graeae",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode198": {
-        "node": "Scylla",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode199": {
-        "node": "Yam",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Arena",
-        "tileset": "Grineer Sealab",
-        "dark_sector": false
-    },
-    "SolNode200": {
-        "node": "Veles",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode201": {
-        "node": "Tiamat",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode202": {
-        "node": "Yemaja",
-        "planet": "Sedna",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode203": {
-        "node": "Abaddon",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Capture",
-        "tileset": "Corpus Ice Planet",
-        "dark_sector": false
-    },
-    "SolNode204": {
-        "node": "Armaros",
-        "planet": "Europa",
-        "enemy": "Infested",
-        "type": "Exterminate",
-        "tileset": "Infested Ship",
-        "dark_sector": false
-    },
-    "SolNode205": {
-        "node": "Baal",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Exterminate",
-        "tileset": "Corpus Ice Planet",
-        "dark_sector": false
-    },
-    "SolNode206": {
-        "node": "Eligor",
-        "planet": "Europa",
-        "dark_sector": false
-    },
-    "SolNode207": {
-        "node": "Gamygyn",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode208": {
-        "node": "Lillith",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode209": {
-        "node": "Morax",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Mobile Defense",
-        "tileset": "Corpus Ice Planet",
-        "dark_sector": false
-    },
-    "SolNode210": {
-        "node": "Naamah",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Assassination",
-        "tileset": "Corpus Ice Planet",
-        "dark_sector": false
-    },
-    "SolNode211": {
-        "node": "Ose",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Interception",
-        "tileset": "Corpus Ice Planet",
-        "dark_sector": false
-    },
-    "SolNode212": {
-        "node": "Paimon",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Defense",
-        "tileset": "Corpus Ice Planet",
-        "dark_sector": false
-    },
-    "SolNode213": {
-        "node": "Shax",
-        "planet": "Europa",
-        "dark_sector": false
-    },
-    "SolNode214": {
-        "node": "Sorath",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Hijack",
-        "tileset": "Corpus Ice Planet",
-        "dark_sector": false
-    },
-    "SolNode215": {
-        "node": "Valac",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Spy",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SolNode216": {
-        "node": "Valefor",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Excavation",
-        "tileset": "Corpus Ice Planet",
-        "dark_sector": false
-    },
-    "SolNode217": {
-        "node": "Orias",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Rescue",
-        "tileset": "Corpus Ice Planet",
-        "dark_sector": false
-    },
-    "SolNode218": {
-        "node": "Zagan",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode219": {
-        "node": "Beleth",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode220": {
-        "node": "Kokabiel",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Sabotage",
-        "tileset": "Corpus Ice Planet",
-        "dark_sector": false
-    },
-    "SolNode221": {
-        "node": "Neruda",
-        "planet": "Mercury",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode222": {
-        "node": "Eminescu",
-        "planet": "Mercury",
-        "enemy": "Grineer",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode223": {
-        "node": "Boethius",
-        "planet": "Mercury",
-        "enemy": "Infested",
-        "type": "Mobile Defense",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "SolNode224": {
-        "node": "Odin",
-        "planet": "Mercury",
-        "enemy": "Grineer",
-        "type": "Interception",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode225": {
-        "node": "Suisei",
-        "planet": "Mercury",
-        "enemy": "Grineer",
-        "type": "Spy",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode226": {
-        "node": "Pantheon",
-        "planet": "Mercury",
-        "enemy": "Grineer",
-        "type": "Exterminate",
-        "tileset": "Grineer Galleon",
-        "dark_sector": false
-    },
-    "SolNode227": {
-        "node": "Verdi",
-        "planet": "Mercury",
-        "dark_sector": false
-    },
-    "SolNode228": {
-        "node": "Plains of Eidolon",
-        "planet": "Earth",
-        "enemy": "Grineer",
-        "type": "Free Roam",
-        "tileset": "Plains of Eidolon",
-        "dark_sector": false
-    },
-    "SolNode400": {
-        "node": "Teshub",
-        "planet": "Void",
-        "enemy": "Orokin",
-        "type": "Exterminate",
-        "tileset": "Orokin Tower",
-        "dark_sector": false
-    },
-    "SolNode401": {
-        "node": "Hepit",
-        "planet": "Void",
-        "enemy": "Orokin",
-        "type": "Capture",
-        "tileset": "Orokin Tower",
-        "dark_sector": false
-    },
-    "SolNode402": {
-        "node": "Taranis",
-        "planet": "Void",
-        "enemy": "Orokin",
-        "type": "Defense",
-        "tileset": "Orokin Tower",
-        "dark_sector": false
-    },
-    "SolNode403": {
-        "node": "Tiwaz",
-        "planet": "Void",
-        "enemy": "Orokin",
-        "type": "Mobile Defense",
-        "tileset": "Orokin Tower",
-        "dark_sector": false
-    },
-    "SolNode404": {
-        "node": "Stribog",
-        "planet": "Void",
-        "enemy": "Orokin",
-        "type": "Orokin Sabotage",
-        "tileset": "Orokin Tower",
-        "dark_sector": false
-    },
-    "SolNode405": {
-        "node": "Ani",
-        "planet": "Void",
-        "enemy": "Orokin",
-        "type": "Survival",
-        "tileset": "Orokin Tower",
-        "dark_sector": false
-    },
-    "SolNode406": {
-        "node": "Ukko",
-        "planet": "Void",
-        "enemy": "Orokin",
-        "type": "Capture",
-        "tileset": "Orokin Tower",
-        "dark_sector": false
-    },
-    "SolNode407": {
-        "node": "Oxomoco",
-        "planet": "Void",
-        "enemy": "Orokin",
-        "type": "Exterminate",
-        "tileset": "Orokin Tower",
-        "dark_sector": false
-    },
-    "SolNode408": {
-        "node": "Belenus",
-        "planet": "Void",
-        "enemy": "Orokin",
-        "type": "Defense",
-        "tileset": "Orokin Tower",
-        "dark_sector": false
-    },
-    "SolNode409": {
-        "node": "Mot",
-        "planet": "Void",
-        "enemy": "Orokin",
-        "type": "Survival",
-        "tileset": "Orokin Tower",
-        "dark_sector": false
-    },
-    "SolNode410": {
-        "node": "Aten",
-        "planet": "Void",
-        "enemy": "Orokin",
-        "type": "Mobile Defense",
-        "tileset": "Orokin Tower",
-        "dark_sector": false
-    },
-    "SolNode411": {
-        "node": "SolNode411",
-        "planet": "Void",
-        "enemy": "Orokin",
-        "type": "Ancient Retribution",
-        "tileset": "Orokin Tower",
-        "dark_sector": false
-    },
-    "SolNode412": {
-        "node": "Mithra",
-        "planet": "Void",
-        "enemy": "Orokin",
-        "type": "Interception",
-        "tileset": "Orokin Tower",
-        "dark_sector": false
-    },
-    "SolNode413": {
-        "node": "SolNode413",
-        "planet": "Void",
-        "enemy": "Corrupted",
-        "type": "Ancient Retribution",
-        "tileset": "Orokin Tower",
-        "dark_sector": false
-    },
-    "SolNode740": {
-        "node": "The Ropalolyst",
-        "planet": "Jupiter",
-        "enemy": "Sentient",
-        "type": "Assassination",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "SolNode741": {
-        "node": "Koro",
-        "planet": "Kuva Fortress",
-        "enemy": "Grineer",
-        "type": "Assault",
-        "tileset": "Grineer Asteroid Fortress",
-        "dark_sector": false
-    },
-    "SolNode742": {
-        "node": "Nabuk",
-        "planet": "Kuva Fortress",
-        "enemy": "Grineer",
-        "type": "Capture",
-        "tileset": "Grineer Asteroid Fortress",
-        "dark_sector": false
-    },
-    "SolNode743": {
-        "node": "Rotuma",
-        "planet": "Kuva Fortress",
-        "enemy": "Grineer",
-        "type": "Mobile Defense",
-        "tileset": "Grineer Asteroid Fortress",
-        "dark_sector": false
-    },
-    "SolNode744": {
-        "node": "Taveuni",
-        "planet": "Kuva Fortress",
-        "enemy": "Grineer",
-        "type": "Survival",
-        "tileset": "Grineer Asteroid Fortress",
-        "dark_sector": false
-    },
-    "SolNode745": {
-        "node": "Tamu",
-        "planet": "Kuva Fortress",
-        "enemy": "Grineer",
-        "type": "Disruption",
-        "tileset": "Grineer Asteroid Fortress",
-        "dark_sector": false
-    },
-    "SolNode746": {
-        "node": "Dakata",
-        "planet": "Kuva Fortress",
-        "enemy": "Grineer",
-        "type": "Extermination",
-        "tileset": "Grineer Asteroid Fortress",
-        "dark_sector": false
-    },
-    "SolNode747": {
-        "node": "Pago",
-        "planet": "Kuva Fortress",
-        "enemy": "Grineer",
-        "type": "Spy",
-        "tileset": "Grineer Asteroid Fortress",
-        "dark_sector": false
-    },
-    "SolNode748": {
-        "node": "Garus",
-        "planet": "Kuva Fortress",
-        "enemy": "Grineer",
-        "type": "Rescue",
-        "tileset": "Grineer Asteroid Fortress",
-        "dark_sector": false
-    },
-    "SolNode901": {
-        "node": "Caduceus",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SolNode902": {
-        "node": "Montes",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Exterminate (Archwing)",
-        "tileset": "Corpus Ship (Archwing)",
-        "dark_sector": false
-    },
-    "SolNode903": {
-        "node": "Erpo",
-        "planet": "Earth",
-        "enemy": "Grineer",
-        "type": "Mobile Defense (Archwing)",
-        "tileset": "Free Space",
-        "dark_sector": false
-    },
-    "SolNode904": {
-        "node": "Syrtis",
-        "planet": "Mars",
-        "enemy": "Grineer",
-        "type": "Exterminate (Archwing)",
-        "tileset": "Free Space",
-        "dark_sector": false
-    },
-    "SolNode905": {
-        "node": "Galilea ",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Sabotage (Archwing)",
-        "tileset": "Corpus Ship (Archwing)",
-        "dark_sector": false
-    },
-    "SolNode906": {
-        "node": "Pandora",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Pursuit (Archwing)",
-        "tileset": "Free Space",
-        "dark_sector": false
-    },
-    "SolNode907": {
-        "node": "Caelus",
-        "planet": "Uranus",
-        "enemy": "Grineer",
-        "type": "Interception (Archwing)",
-        "tileset": "Free Space",
-        "dark_sector": false
-    },
-    "SolNode908": {
-        "node": "Salacia",
-        "planet": "Neptune",
-        "enemy": "Corpus",
-        "type": "Mobile Defense (Archwing)",
-        "tileset": "Corpus Ship (Archwing)",
-        "dark_sector": false
-    },
-    "SolNode300": {
-        "node": "Plato",
-        "planet": "Lua",
-        "enemy": "Grineer",
-        "type": "Exterminate",
-        "tileset": "Orokin Moon",
-        "dark_sector": false
-    },
-    "SolNode301": {
-        "node": "Grimaldi",
-        "planet": "Lua",
-        "enemy": "Grineer",
-        "type": "Mobile Defense",
-        "tileset": "Orokin Moon",
-        "dark_sector": false
-    },
-    "SolNode302": {
-        "node": "Tycho",
-        "planet": "Lua",
-        "enemy": "Corpus",
-        "type": "Survival",
-        "tileset": "Orokin Moon",
-        "dark_sector": false
-    },
-    "SolNode304": {
-        "node": "Copernicus",
-        "planet": "Lua",
-        "enemy": "Grineer",
-        "type": "Mobile Defense",
-        "tileset": "Orokin Moon",
-        "dark_sector": false
-    },
-    "SolNode305": {
-        "node": "Stöfler",
-        "planet": "Lua",
-        "enemy": "Grineer",
-        "type": "Defense",
-        "tileset": "Orokin Moon",
-        "dark_sector": false
-    },
-    "SolNode306": {
-        "node": "Pavlov",
-        "planet": "Lua",
-        "enemy": "Corpus",
-        "type": "Spy",
-        "tileset": "Orokin Moon",
-        "dark_sector": false
-    },
-    "SolNode307": {
-        "node": "Zeipel",
-        "planet": "Lua",
-        "enemy": "Corpus",
-        "type": "Rescue",
-        "tileset": "Orokin Moon",
-        "dark_sector": false
-    },
-    "SolNode308": {
-        "node": "Apollo",
-        "planet": "Lua",
-        "enemy": "Corpus",
-        "type": "Disruption",
-        "tileset": "Orokin Moon",
-        "dark_sector": false
-    },
-    "SettlementNode1": {
-        "node": "Roche",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Exterminate",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SettlementNode2": {
-        "node": "Skyresh",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Capture",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SettlementNode3": {
-        "node": "Stickney",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Survival",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SettlementNode4": {
-        "node": "Drunlo",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SettlementNode5": {
-        "node": "Grildrig",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SettlementNode6": {
-        "node": "Limtoc",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SettlementNode7": {
-        "node": "Hall",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SettlementNode8": {
-        "node": "Reldresal",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SettlementNode9": {
-        "node": "Clustril",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SettlementNode10": {
-        "node": "Kepler",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Rush (Archwing)",
-        "tileset": "Corpus Ship (Archwing)",
-        "dark_sector": false
-    },
-    "SettlementNode11": {
-        "node": "Gulliver",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Defense",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SettlementNode12": {
-        "node": "Monolith",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Rescue",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SettlementNode13": {
-        "node": "D'Arrest",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SettlementNode14": {
-        "node": "Shklovsky",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Spy",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SettlementNode15": {
-        "node": "Sharpless",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Mobile Defense",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "SettlementNode16": {
-        "node": "Wendell",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SettlementNode17": {
-        "node": "Flimnap",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SettlementNode18": {
-        "node": "Opik",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SettlementNode19": {
-        "node": "Todd",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "SettlementNode20": {
-        "node": "Iliad",
-        "planet": "Phobos",
-        "enemy": "Corpus",
-        "type": "Assassination",
-        "tileset": "Corpus Ship",
-        "dark_sector": false
-    },
-    "MercuryHUB": {
-        "node": "Larunda Relay",
-        "planet": "Mercury",
-        "enemy": "Grineer",
-        "type": "Relay",
-        "dark_sector": false
-    },
-    "VenusHUB": {
-        "node": "Vesper Relay",
-        "planet": "Venus",
-        "enemy": "Corpus",
-        "type": "Relay",
-        "dark_sector": false
-    },
-    "EarthHUB": {
-        "node": "Strata Relay",
-        "planet": "Earth",
-        "enemy": "Grineer",
-        "type": "Relay",
-        "dark_sector": false
-    },
-    "SaturnHUB": {
-        "node": "Kronia Relay",
-        "planet": "Saturn",
-        "enemy": "Grineer",
-        "type": "Relay",
-        "dark_sector": false
-    },
-    "ErisHUB": {
-        "node": "Kuiper Relay",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Relay",
-        "dark_sector": false
-    },
-    "EuropaHUB": {
-        "node": "Leonov Relay",
-        "planet": "Europa",
-        "enemy": "Corpus",
-        "type": "Relay",
-        "dark_sector": false
-    },
-    "PlutoHUB": {
-        "node": "Orcus Relay",
-        "planet": "Pluto",
-        "enemy": "Corpus",
-        "type": "Relay",
-        "dark_sector": false
-    },
-    "EventNode0": {
-        "node": "Balor",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode1": {
-        "node": "Tethra",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode2": {
-        "node": "Operation Gate Crash",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode3": {
-        "node": "Elatha",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode4": {
-        "node": "Proxy Rebellion",
-        "enemy": "Corpus",
-        "type": "Survival",
-        "dark_sector": false
-    },
-    "EventNode5": {
-        "node": "Birog",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode6": {
-        "node": "Tyl Reygor Seal Lab",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode7": {
-        "node": "Proxy Rebellion",
-        "enemy": "Corpus",
-        "type": "Interception",
-        "dark_sector": false
-    },
-    "EventNode8": {
-        "node": "Corb",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode9": {
-        "node": "Operation Gate Crash Pt. 2",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode10": {
-        "node": "Lugh",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode11": {
-        "node": "Nemed",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode12": {
-        "node": "Operation Cryotic Front",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode13": {
-        "node": "Shifting Sands",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode14": {
-        "node": "Gate Crash",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode15": {
-        "node": "Operation Cryotic Front",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode16": {
-        "node": "Operation Cryotic Front",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode17": {
-        "node": "Proxy Rebellion",
-        "enemy": "Corpus",
-        "type": "Defense",
-        "dark_sector": false
-    },
-    "EventNode18": {
-        "node": "Proxy Rebellion",
-        "enemy": "Corpus",
-        "type": "Defense",
-        "dark_sector": false
-    },
-    "EventNode19": {
-        "node": "Mars",
-        "enemy": "Grineer",
-        "type": "Defense",
-        "dark_sector": false
-    },
-    "EventNode20": {
-        "node": "Tyl Regor Sea Lab",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode22": {
-        "node": "Tyl Regor Sea Lab",
-        "enemy": "Sentient",
-        "type": "Ancient Retribution",
-        "dark_sector": false
-    },
-    "EventNode24": {
-        "node": "Earth",
-        "enemy": "Grineer",
-        "type": "Arena",
-        "dark_sector": false
-    },
-    "EventNode25": {
-        "node": "Earth",
-        "enemy": "Grineer",
-        "type": "Arena",
-        "dark_sector": false
-    },
-    "EventNode26": {
-        "node": "Earth",
-        "enemy": "Grineer",
-        "type": "Exterminate",
-        "dark_sector": false
-    },
-    "EventNode27": {
-        "node": "Void",
-        "enemy": "Corrupted",
-        "type": "Survival",
-        "dark_sector": false
-    },
-    "EventNode28": {
-        "node": "Saturn",
-        "enemy": "Grineer",
-        "type": "Assassination",
-        "dark_sector": false
-    },
-    "EventNode29": {
-        "node": "Saturn",
-        "enemy": "Grineer",
-        "type": "Assassination",
-        "dark_sector": false
-    },
-    "EventNode30": {
-        "node": "Ganymede",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Disruption",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "EventNode31": {
-        "node": "Ganymede",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Disruption",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "EventNode32": {
-        "node": "Ganymede",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Disruption",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "EventNode33": {
-        "node": "Ganymede",
-        "planet": "Jupiter",
-        "enemy": "Corpus",
-        "type": "Disruption",
-        "tileset": "Corpus Gas City",
-        "dark_sector": false
-    },
-    "EventNode34": {
-        "node": "Earth",
-        "enemy": "Grineer",
-        "type": "Arena",
-        "dark_sector": false
-    },
-    "EventNode35": {
-        "node": "Earth",
-        "enemy": "Grineer",
-        "type": "Arena",
-        "dark_sector": false
-    },
-    "EventNode761": {
-        "node": "The Index",
-        "enemy": "Corpus",
-        "type": "Arena",
-        "dark_sector": false
-    },
-    "EventNode762": {
-        "node": "The Index pt 2",
-        "enemy": "Corpus",
-        "type": "Arena",
-        "dark_sector": false
-    },
-    "EventNode763": {
-        "node": "The Index Endurance",
-        "enemy": "Corpus",
-        "type": "Arena",
-        "dark_sector": false
-    },
-    "PvpNode0": {
-        "node": "Conclave Capture the Cephalon",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "PvpNode1": {
-        "node": "Conclave",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "PvpNode2": {
-        "node": "Conclave",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "PvpNode3": {
-        "node": "Conclave Capture the Cephalon",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "PvpNode4": {
-        "node": "Conclave",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "PvpNode5": {
-        "node": "Conclave",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "PvpNode6": {
-        "node": "Conclave",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "PvpNode7": {
-        "node": "Conclave",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "PvpNode8": {
-        "node": "Conclave",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "PvpNode9": {
-        "node": "Conclave Team Domination",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "PvpNode10": {
-        "node": "Conclave Domination",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "PvpNode11": {
-        "node": "Conclave Domination",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "PvpNode12": {
-        "node": "Conclave Domination",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "PvpNode13": {
-        "node": "Tactical Alert: Snoball Fight!",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "PvpNode14": {
-        "node": "Conclave: Quick Steel",
-        "enemy": "Tenno",
-        "type": "Conclave",
-        "dark_sector": false
-    },
-    "ClanNode0": {
-        "node": "Romula",
-        "planet": "Venus",
-        "enemy": "Infested",
-        "type": "Defense",
-        "tileset": "Corpus Ship",
-        "dark_sector": true,
-		"bonus": "10%"
-    },
-    "ClanNode1": {
-        "node": "Malva",
-        "planet": "Venus",
-        "enemy": "Infested",
-        "type": "Survival",
-        "tileset": "Corpus Ship",
-        "dark_sector": true,
-		"bonus": "10%"
-    },
-    "ClanNode2": {
-        "node": "Coba",
-        "planet": "Earth",
-        "enemy": "Infested",
-        "type": "Defense",
-        "tileset": "Grineer Forest",
-        "dark_sector": true,
-		"bonus": "15%"
-    },
-    "ClanNode3": {
-        "node": "Tikal",
-        "planet": "Earth",
-        "enemy": "Infested",
-        "type": "Excavation",
-        "tileset": "Grineer Forest",
-        "dark_sector": true,
-		"bonus": "15%"
-    },
-    "ClanNode4": {
-        "node": "Sinai",
-        "planet": "Jupiter",
-        "enemy": "Infested",
-        "type": "Defense",
-        "tileset": "Corpus Gas City",
-        "dark_sector": true,
-		"bonus": "20%"
-    },
-    "ClanNode5": {
-        "node": "Cameria",
-        "planet": "Jupiter",
-        "enemy": "Infested",
-        "type": "Survival",
-        "tileset": "Corpus Gas City",
-        "dark_sector": true,
-		"bonus": "20%"
-    },
-    "ClanNode6": {
-        "node": "Larzac",
-        "planet": "Europa",
-        "enemy": "Infested",
-        "type": "Defense",
-        "tileset": "Corpus Ice Planet",
-        "dark_sector": true,
-		"bonus": "25%"
-    },
-    "ClanNode7": {
-        "node": "Cholistan",
-        "planet": "Europa",
-        "enemy": "Infested",
-        "type": "Excavation",
-        "tileset": "Corpus Ice Planet",
-        "dark_sector": true,
-		"bonus": "25%"
-    },
-    "ClanNode8": {
-        "node": "Kadesh",
-        "planet": "Mars",
-        "enemy": "Infested",
-        "type": "Defense",
-        "tileset": "Grineer Settlement",
-        "dark_sector": true,
-		"bonus": "20%"
-    },
-    "ClanNode9": {
-        "node": "Wahiba",
-        "planet": "Mars",
-        "enemy": "Infested",
-        "type": "Survival",
-        "tileset": "Corpus Ship",
-        "dark_sector": true,
-		"bonus": "20%"
-    },
-    "ClanNode10": {
-        "node": "Memphis",
-        "planet": "Phobos",
-        "enemy": "Infested",
-        "type": "Defection",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": true,
-		"bonus": "25%"
-    },
-    "ClanNode11": {
-        "node": "Zeugma",
-        "planet": "Phobos",
-        "enemy": "Infested",
-        "type": "Survival",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": true,
-		"bonus": "25%"
-    },
-    "ClanNode12": {
-        "node": "Caracol",
-        "planet": "Saturn",
-        "enemy": "Infested",
-        "type": "Defection",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": true,
-		"bonus": "20%"
-    },
-    "ClanNode13": {
-        "node": "Piscinas",
-        "planet": "Saturn",
-        "enemy": "Infested",
-        "type": "Survival",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": true,
-		"bonus": "20%"
-    },
-    "ClanNode14": {
-        "node": "Amarna",
-        "planet": "Sedna",
-        "enemy": "Infested",
-        "type": "Survival",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": true,
-		"bonus": "25%"
-    },
-    "ClanNode15": {
-        "node": "Sangeru",
-        "planet": "Sedna",
-        "enemy": "Infested",
-        "type": "Defense",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": true,
-		"bonus": "25%"
-    },
-    "ClanNode16": {
-        "node": "Ur",
-        "planet": "Uranus",
-        "enemy": "Infested",
-        "type": "Disruption",
-        "tileset": "Grineer Galleon",
-        "dark_sector": true,
-		"bonus": "25%"
-    },
-    "ClanNode17": {
-        "node": "Assur",
-        "planet": "Uranus",
-        "enemy": "Infested",
-        "type": "Survival",
-        "tileset": "Grineer Galleon",
-        "dark_sector": true,
-		"bonus": "25%"
-    },
-    "ClanNode18": {
-        "node": "Akkad",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Defense",
-        "tileset": "Infested Ship",
-        "dark_sector": true,
-		"bonus": "30%"
-    },
-    "ClanNode19": {
-        "node": "Zabala",
-        "planet": "Eris",
-        "enemy": "Infested",
-        "type": "Survival",
-        "tileset": "Infested Ship",
-        "dark_sector": true,
-		"bonus": "30%"
-    },
-    "ClanNode20": {
-        "node": "Yursa",
-        "planet": "Neptune",
-        "enemy": "Infested",
-        "type": "Defection",
-        "tileset": "Infested Ship",
-        "dark_sector": true,
-		"bonus": "30%"
-    },
-    "ClanNode21": {
-        "node": "Kelashin",
-        "planet": "Neptune",
-        "enemy": "Infested",
-        "type": "Survival",
-        "tileset": "Infested Ship",
-        "dark_sector": true,
-		"bonus": "30%"
-    },
-    "ClanNode22": {
-        "node": "Seimeni",
-        "planet": "Ceres",
-        "enemy": "Infested",
-        "type": "Defense",
-        "tileset": "Grineer Shipyard",
-        "dark_sector": true,
-		"bonus": "35%"
-    },
-    "ClanNode23": {
-        "node": "Gabii",
-        "planet": "Ceres",
-        "enemy": "Infested",
-        "type": "Survival",
-        "tileset": "Grineer Galleon",
-        "dark_sector": true,
-		"bonus": "35%"
-    },
-    "ClanNode24": {
-        "node": "Sechura",
-        "planet": "Pluto",
-        "enemy": "Infested",
-        "type": "Defense",
-        "tileset": "Corpus Outpost",
-        "dark_sector": true,
-		"bonus": "35%"
-    },
-    "ClanNode25": {
-        "node": "Hieracon",
-        "planet": "Pluto",
-        "enemy": "Infested",
-        "type": "Excavation",
-        "tileset": "Corpus Outpost",
-        "dark_sector": true,
-		"bonus": "35%"
-    },
-    "/Lotus/Types/Keys/SortieBossKeyPhorid": {
-        "node": "Sortie Boss: Phorid",
-        "enemy": "Infested",
-        "type": "Assassination",
-        "tileset": "Grineer Asteroid",
-        "dark_sector": false
-    },
-    "CrewBattleNode505": {
-        "node": "Ruse War Field",
-        "planet": "Veil Proxima",
-        "enemy": "Grineer",
-        "type": "Skirmish",
-        "dark_sector": false
-    },
-    "CrewBattleNode510": {
-        "node": "Gian Point",
-        "planet": "Veil Proxima",
-        "enemy": "Grineer",
-        "type": "Skirmish",
-        "dark_sector": false
-    },
-    "CrewBattleNode550": {
-        "node": "Nsu Grid",
-        "planet": "Veil Proxima",
-        "enemy": "Grineer",
-        "type": "Skirmish",
-        "dark_sector": false
-    },
-    "CrewBattleNode551": {
-        "node": "Ganalen's Grave",
-        "planet": "Veil Proxima",
-        "enemy": "Grineer",
-        "type": "Skirmish",
-        "dark_sector": false
-    },
-    "CrewBattleNode552": {
-        "node": "Rya",
-        "planet": "Veil Proxima",
-        "enemy": "Grineer",
-        "type": "Skirmish",
-        "dark_sector": false
-    },
-    "CrewBattleNode553": {
-        "node": "Flexa",
-        "planet": "Veil Proxima",
-        "enemy": "Grineer",
-        "type": "Skirmish",
-        "dark_sector": false
-    },
-    "CrewBattleNode554": {
-        "node": "H-2 Cloud",
-        "planet": "Veil Proxima",
-        "enemy": "Grineer",
-        "type": "Skirmish",
-        "dark_sector": false
-    },
-    "CrewBattleNode555": {
-        "node": "R-9 Cloud",
-        "planet": "Veil Proxima",
-        "enemy": "Grineer",
-        "type": "Skirmish",
-        "dark_sector": false
-    },
-    "SolNode706": {
-        "node": "Horend",
-        "planet": "Deimos",
-        "enemy": "Infested",
-        "type": "Capture",
-        "tileset": "Orokin Derelict",
-        "dark_sector": false
-    },
-    "SolNode707": {
-        "node": "Hyf",
-        "planet": "Deimos",
-        "enemy": "Infested",
-        "type": "Defense",
-        "tileset": "Orokin Derelict",
-        "dark_sector": false
-    },
-    "SolNode708": {
-        "node": "Phlegyas",
-        "planet": "Deimos",
-        "enemy": "Infested",
-        "type": "Exterminate",
-        "tileset": "Orokin Derelict",
-        "dark_sector": false
-    },
-    "SolNode709": {
-        "node": "Dirus",
-        "planet": "Deimos",
-        "enemy": "Infested",
-        "type": "Mobile Defense",
-        "tileset": "Orokin Derelict",
-        "dark_sector": false
-    },
-    "SolNode710": {
-        "node": "Formido",
-        "planet": "Deimos",
-        "enemy": "Infested",
-        "type": "Sabotage",
-        "tileset": "Orokin Derelict",
-        "dark_sector": false
-    },
-    "SolNode711": {
-        "node": "Terrorem",
-        "planet": "Deimos",
-        "enemy": "Infested",
-        "type": "Survival",
-        "tileset": "Orokin Derelict",
-        "dark_sector": false
-    },
-    "SolNode712": {
-        "node": "Magnacidium",
-        "planet": "Deimos",
-        "enemy": "Infested",
-        "type": "Assassinate",
-        "tileset": "Orokin Derelict",
-        "dark_sector": false
-    },
-    "SolNode713": {
-        "node": "Exequias",
-        "planet": "Deimos",
-        "enemy": "Infested",
-        "type": "Assassinate",
-        "tileset": "Orokin Derelict",
-        "dark_sector": false
-    }
+  "SolNode0": {
+    "node": "SolNode0",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode1": {
+    "node": "Galatea",
+    "planet": "Neptune",
+    "enemy": "Corpus",
+    "type": "Capture",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode2": {
+    "node": "Aphrodite",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Mobile Defense",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode3": {
+    "node": "Cordelia",
+    "planet": "Uranus",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode4": {
+    "node": "Acheron",
+    "planet": "Pluto",
+    "enemy": "Corpus",
+    "type": "Exterminate",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode5": {
+    "node": "Perdita",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode6": {
+    "node": "Despina",
+    "planet": "Neptune",
+    "enemy": "Corpus",
+    "type": "Excavation",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode7": {
+    "node": "Epimetheus",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode8": {
+    "node": "Nix",
+    "planet": "Pluto",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode9": {
+    "node": "Rosalind",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Spy",
+    "tileset": "Grineer Sealab",
+    "dark_sector": false
+  },
+  "SolNode10": {
+    "node": "Thebe",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Sabotage",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "SolNode11": {
+    "node": "Tharsis",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Mobile Defense",
+    "tileset": "Grineer Settlement",
+    "dark_sector": false
+  },
+  "SolNode12": {
+    "node": "Elion",
+    "planet": "Mercury",
+    "enemy": "Grineer",
+    "type": "Capture",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode13": {
+    "node": "Bianca",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode14": {
+    "node": "Ultor",
+    "planet": "Mars",
+    "enemy": "Crossfire",
+    "type": "Exterminate",
+    "tileset": "Corpus Ice Planet",
+    "dark_sector": false
+  },
+  "SolNode15": {
+    "node": "Pacific",
+    "planet": "Earth",
+    "enemy": "Grineer",
+    "type": "Rescue",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode16": {
+    "node": "Augustus",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Excavation",
+    "tileset": "Grineer Settlement",
+    "dark_sector": false
+  },
+  "SolNode17": {
+    "node": "Proteus",
+    "planet": "Neptune",
+    "enemy": "Corpus",
+    "type": "Defense",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode18": {
+    "node": "Rhea",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Interception",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode19": {
+    "node": "Enceladus",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Sabotage",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode20": {
+    "node": "Telesto",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Exterminate",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode21": {
+    "node": "Narcissus",
+    "planet": "Pluto",
+    "enemy": "Corpus",
+    "type": "Exterminate",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode22": {
+    "node": "Tessera",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Defense",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode23": {
+    "node": "Cytherean",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Interception",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode24": {
+    "node": "Oro",
+    "planet": "Earth",
+    "enemy": "Grineer",
+    "type": "Assassination",
+    "tileset": "Grineer Forest",
+    "dark_sector": false
+  },
+  "SolNode25": {
+    "node": "Callisto",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Interception",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "SolNode26": {
+    "node": "Lith",
+    "planet": "Earth",
+    "enemy": "Grineer",
+    "type": "Defense",
+    "tileset": "Grineer Forest",
+    "dark_sector": false
+  },
+  "SolNode27": {
+    "node": "E Prime",
+    "planet": "Earth",
+    "enemy": "Grineer",
+    "type": "Exterminate",
+    "tileset": "Grineer Forest",
+    "dark_sector": false
+  },
+  "SolNode28": {
+    "node": "M Prime",
+    "planet": "Mercury",
+    "enemy": "Crossfire",
+    "type": "Exterminate",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode29": {
+    "node": "Oberon",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode30": {
+    "node": "Olympus",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Disruption",
+    "tileset": "Grineer Settlement",
+    "dark_sector": false
+  },
+  "SolNode31": {
+    "node": "Anthe",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Rescue",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode32": {
+    "node": "Tethys",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Assassination",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode33": {
+    "node": "Ariel",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Capture",
+    "tileset": "Grineer Sealab",
+    "dark_sector": false
+  },
+  "SolNode34": {
+    "node": "Sycorax",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Exterminate",
+    "tileset": "Grineer Sealab",
+    "dark_sector": false
+  },
+  "SolNode35": {
+    "node": "Arcadia",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode36": {
+    "node": "Martialis",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Rescue",
+    "tileset": "Grineer Settlement",
+    "dark_sector": false
+  },
+  "SolNode37": {
+    "node": "Pallene",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode38": {
+    "node": "Minthe",
+    "planet": "Pluto",
+    "enemy": "Corpus",
+    "type": "Mobile Defense",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode39": {
+    "node": "Everest",
+    "planet": "Earth",
+    "enemy": "Grineer",
+    "type": "Excavation",
+    "tileset": "Grineer Forest",
+    "dark_sector": false
+  },
+  "SolNode40": {
+    "node": "Prospero",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode41": {
+    "node": "Arval",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Spy",
+    "tileset": "Grineer Settlement",
+    "dark_sector": false
+  },
+  "SolNode42": {
+    "node": "Helene",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Defense",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode43": {
+    "node": "Cerberus",
+    "planet": "Pluto",
+    "enemy": "Corpus",
+    "type": "Interception",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode44": {
+    "node": "Mimas",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode45": {
+    "node": "Ara",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Capture",
+    "tileset": "Grineer Settlement",
+    "dark_sector": false
+  },
+  "SolNode46": {
+    "node": "Spear",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Defense",
+    "tileset": "Grineer Settlement",
+    "dark_sector": false
+  },
+  "SolNode47": {
+    "node": "Janus",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode48": {
+    "node": "Regna",
+    "planet": "Pluto",
+    "enemy": "Corpus",
+    "type": "Rescue",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode49": {
+    "node": "Larissa",
+    "planet": "Neptune",
+    "enemy": "Corpus",
+    "type": "Mobile Defense",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode50": {
+    "node": "Numa",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Rescue",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode51": {
+    "node": "Hades",
+    "planet": "Pluto",
+    "enemy": "Corpus",
+    "type": "Assassination",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode52": {
+    "node": "Portia",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode53": {
+    "node": "Themisto",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Assassination",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "SolNode54": {
+    "node": "Silvanus",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode55": {
+    "node": "Methone",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode56": {
+    "node": "Cypress",
+    "planet": "Pluto",
+    "enemy": "Corpus",
+    "type": "Sabotage",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode57": {
+    "node": "Sao",
+    "planet": "Neptune",
+    "enemy": "Corpus",
+    "type": "Sabotage",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode58": {
+    "node": "Hellas",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Exterminate",
+    "tileset": "Grineer Settlement",
+    "dark_sector": false
+  },
+  "SolNode59": {
+    "node": "Eurasia",
+    "planet": "Earth",
+    "enemy": "Grineer",
+    "type": "Mobile Defense",
+    "tileset": "Grineer Forest",
+    "dark_sector": false
+  },
+  "SolNode60": {
+    "node": "Caliban",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Rescue",
+    "tileset": "Grineer Sealab",
+    "dark_sector": false
+  },
+  "SolNode61": {
+    "node": "Ishtar",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Sabotage",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode62": {
+    "node": "Neso",
+    "planet": "Neptune",
+    "enemy": "Corpus",
+    "type": "Exterminate",
+    "tileset": "Corpus Ice Planet",
+    "dark_sector": false
+  },
+  "SolNode63": {
+    "node": "Mantle",
+    "planet": "Earth",
+    "enemy": "Grineer",
+    "type": "Capture",
+    "tileset": "Grineer Forest",
+    "dark_sector": false
+  },
+  "SolNode64": {
+    "node": "Umbriel",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Interception",
+    "tileset": "Grineer Sealab",
+    "dark_sector": false
+  },
+  "SolNode65": {
+    "node": "Gradivus",
+    "planet": "Mars",
+    "enemy": "Corpus",
+    "type": "Sabotage",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode66": {
+    "node": "Unda",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Spy",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode67": {
+    "node": "Dione",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Spy",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode68": {
+    "node": "Vallis",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Mobile Defense",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode69": {
+    "node": "Ophelia",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Survival",
+    "tileset": "Grineer Sealab",
+    "dark_sector": false
+  },
+  "SolNode70": {
+    "node": "Cassini",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Capture",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode71": {
+    "node": "Vesper",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Spy",
+    "dark_sector": false
+  },
+  "SolNode72": {
+    "node": "Outer Terminus",
+    "planet": "Pluto",
+    "enemy": "Corpus",
+    "type": "Defense",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode73": {
+    "node": "Ananke",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Capture",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "SolNode74": {
+    "node": "Carme",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Mobile Defense",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "SolNode75": {
+    "node": "Cervantes",
+    "planet": "Earth",
+    "enemy": "Grineer",
+    "type": "Sabotage",
+    "tileset": "Grineer Forest",
+    "dark_sector": false
+  },
+  "SolNode76": {
+    "node": "Hydra",
+    "planet": "Pluto",
+    "enemy": "Corpus",
+    "type": "Capture",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode77": {
+    "node": "Cupid",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode78": {
+    "node": "Triton",
+    "planet": "Neptune",
+    "enemy": "Corpus",
+    "type": "Rescue",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode79": {
+    "node": "Cambria",
+    "planet": "Earth",
+    "enemy": "Grineer",
+    "type": "Spy",
+    "tileset": "Grineer Forest",
+    "dark_sector": false
+  },
+  "SolNode80": {
+    "node": "Phoebe",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode81": {
+    "node": "Palus",
+    "planet": "Pluto",
+    "enemy": "Corpus",
+    "type": "Survival",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode82": {
+    "node": "Calypso",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Sabotage",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode83": {
+    "node": "Cressida",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Mobile Defense",
+    "tileset": "Grineer Sealab",
+    "dark_sector": false
+  },
+  "SolNode84": {
+    "node": "Nereid",
+    "planet": "Neptune",
+    "enemy": "Corpus",
+    "type": "Spy",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode85": {
+    "node": "Gaia",
+    "planet": "Earth",
+    "enemy": "Grineer",
+    "type": "Interception",
+    "tileset": "Grineer Forest",
+    "dark_sector": false
+  },
+  "SolNode86": {
+    "node": "Aegaeon",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode87": {
+    "node": "Ganymede",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Disruption",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "SolNode88": {
+    "node": "Adrastea",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Sabotage",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "SolNode89": {
+    "node": "Mariana",
+    "planet": "Earth",
+    "enemy": "Grineer",
+    "type": "Exterminate",
+    "tileset": "Grineer Sealab",
+    "dark_sector": false
+  },
+  "SolNode90": {
+    "node": "Miranda",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode91": {
+    "node": "Iapetus",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode92": {
+    "node": "Charon",
+    "planet": "Pluto",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode93": {
+    "node": "Keeler",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Mobile Defense",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode94": {
+    "node": "Apollodorus",
+    "planet": "Mercury",
+    "enemy": "Infested",
+    "type": "Survival",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode95": {
+    "node": "Thalassa",
+    "planet": "Neptune",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode96": {
+    "node": "Titan",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Survival",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode97": {
+    "node": "Amalthea",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Spy",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "SolNode98": {
+    "node": "Desdemona",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Capture",
+    "tileset": "Grineer Sealab",
+    "dark_sector": false
+  },
+  "SolNode99": {
+    "node": "War",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Assassinate",
+    "tileset": "Grineer Settlement",
+    "dark_sector": false
+  },
+  "SolNode100": {
+    "node": "Elara",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Survival",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "SolNode101": {
+    "node": "Kiliken",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Excavation",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode102": {
+    "node": "Oceanum",
+    "planet": "Pluto",
+    "enemy": "Corpus",
+    "type": "Spy",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode103": {
+    "node": "Terminus",
+    "planet": "Mercury",
+    "enemy": "Crossfire",
+    "type": "Sabotage",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode104": {
+    "node": "Fossa",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Assassinate",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode105": {
+    "node": "Titania",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Assassination",
+    "tileset": "Grineer Sealab",
+    "dark_sector": false
+  },
+  "SolNode106": {
+    "node": "Alator",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Interception",
+    "tileset": "Grineer Settlement",
+    "dark_sector": false
+  },
+  "SolNode107": {
+    "node": "Venera",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Capture",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode108": {
+    "node": "Tolstoj",
+    "planet": "Mercury",
+    "enemy": "Grineer",
+    "type": "Assassinate",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode109": {
+    "node": "Linea",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Rescue",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode110": {
+    "node": "Hyperion",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode111": {
+    "node": "Juliet",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode112": {
+    "node": "Setebos",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode113": {
+    "node": "Ares",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Sabotage",
+    "tileset": "Grineer Settlement",
+    "dark_sector": false
+  },
+  "SolNode114": {
+    "node": "Puck",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Exterminate",
+    "tileset": "Grineer Sealab",
+    "dark_sector": false
+  },
+  "SolNode115": {
+    "node": "Quirinus",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode116": {
+    "node": "Mab",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode117": {
+    "node": "Naiad",
+    "planet": "Neptune",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode118": {
+    "node": "Laomedeia",
+    "planet": "Neptune",
+    "enemy": "Corpus",
+    "type": "Disruption",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode119": {
+    "node": "Caloris",
+    "planet": "Mercury",
+    "enemy": "Grineer",
+    "type": "Rescue",
+    "tilset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode120": {
+    "node": "Halimede",
+    "planet": "Neptune",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode121": {
+    "node": "Carpo",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Exterminate",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "SolNode122": {
+    "node": "Stephano",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Defense",
+    "tileset": "Grineer Sealab",
+    "dark_sector": false
+  },
+  "SolNode123": {
+    "node": "V Prime",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Survival",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode124": {
+    "node": "Trinculo",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode125": {
+    "node": "Io",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Defense",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "SolNode126": {
+    "node": "Metis",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Rescue",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "SolNode127": {
+    "node": "Psamathe",
+    "planet": "Neptune",
+    "enemy": "Corpus",
+    "type": "Assassination",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode128": {
+    "node": "E Gate",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Exterminate",
+    "tileset": "Corpus Outpost",
+    "dark_sector": false
+  },
+  "SolNode129": {
+    "node": "Orb Vallis",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Free Roam",
+    "tileset": "Orb Vallis",
+    "dark_sector": false
+  },
+  "SolNode130": {
+    "node": "Lares",
+    "planet": "Mercury",
+    "enemy": "Infested",
+    "type": "Defense",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode131": {
+    "node": "Pallas",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Exterminate",
+    "tileset": "Grineer Shipyard",
+    "dark_sector": false
+  },
+  "SolNode132": {
+    "node": "Bode",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Spy",
+    "tileset": "Grineer Shipyard",
+    "dark_sector": false
+  },
+  "SolNode133": {
+    "node": "Vedic",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode134": {
+    "node": "Varro",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode135": {
+    "node": "Thon",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Sabotage",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode136": {
+    "node": "Olla",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode137": {
+    "node": "Nuovo",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Rescue",
+    "tileset": "Grineer Shipyard",
+    "dark_sector": false
+  },
+  "SolNode138": {
+    "node": "Ludi",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Hijack",
+    "tileset": "Grineer Shipyard",
+    "dark_sector": false
+  },
+  "SolNode139": {
+    "node": "Lex",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Capture",
+    "tileset": "Grineer Shipyard",
+    "dark_sector": false
+  },
+  "SolNode140": {
+    "node": "Kiste",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Mobile Defense",
+    "tileset": "Grineer Shipyard",
+    "dark_sector": false
+  },
+  "SolNode141": {
+    "node": "Ker",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Sabotage",
+    "tileset": "Grineer Shipyard",
+    "dark_sector": false
+  },
+  "SolNode142": {
+    "node": "Hapke",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode143": {
+    "node": "Gefion",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode144": {
+    "node": "Exta",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Assassination",
+    "tileset": "Grineer Shipyard",
+    "dark_sector": false
+  },
+  "SolNode145": {
+    "node": "Egeria",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode146": {
+    "node": "Draco",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Survival",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode147": {
+    "node": "Cinxia",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Interception",
+    "tileset": "Grineer Shipyard",
+    "dark_sector": false
+  },
+  "SolNode148": {
+    "node": "Cerium",
+    "planet": "Ceres",
+    "dark_sector": false
+  },
+  "SolNode149": {
+    "node": "Casta",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Defense",
+    "tileset": "Grineer Shipyard",
+    "dark_sector": false
+  },
+  "SolNode150": {
+    "node": "Albedo",
+    "planet": "Ceres",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode151": {
+    "node": "Acanth",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode152": {
+    "node": "Ascar",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode153": {
+    "node": "Brugia",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Rescue",
+    "tileset": "Infested Ship",
+    "dark_sector": false
+  },
+  "SolNode154": {
+    "node": "Candiru",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode155": {
+    "node": "Cosis",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode156": {
+    "node": "Cyath",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode157": {
+    "node": "Giardia",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode158": {
+    "node": "Gnathos",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode159": {
+    "node": "Lepis",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode160": {
+    "node": "Histo",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode161": {
+    "node": "Hymeno",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode162": {
+    "node": "Isos",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Capture",
+    "tileset": "Infested Ship",
+    "dark_sector": false
+  },
+  "SolNode163": {
+    "node": "Ixodes",
+    "planet": "Eris",
+    "dark_sector": false
+  },
+  "SolNode164": {
+    "node": "Kala-azar",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Defense",
+    "tileset": "Infested Ship",
+    "dark_sector": false
+  },
+  "SolNode165": {
+    "node": "Sporid",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Hive Sabotage",
+    "dark_sector": false
+  },
+  "SolNode166": {
+    "node": "Nimus",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Survival",
+    "tileset": "Infested Ship",
+    "dark_sector": false
+  },
+  "SolNode167": {
+    "node": "Oestrus",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Salvage",
+    "tileset": "Infested Ship",
+    "dark_sector": false
+  },
+  "SolNode168": {
+    "node": "Phalan",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode169": {
+    "node": "Psoro",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode170": {
+    "node": "Ranova",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode171": {
+    "node": "Saxis",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Exterminate",
+    "tileset": "Infested Ship",
+    "dark_sector": false
+  },
+  "SolNode172": {
+    "node": "Xini",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Interception",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode173": {
+    "node": "Solium",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Mobile Defense",
+    "tileset": "Infested Ship",
+    "dark_sector": false
+  },
+  "SolNode174": {
+    "node": "Sparga",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode175": {
+    "node": "Naeglar",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Hive",
+    "tileset": "Infested Ship",
+    "dark_sector": false
+  },
+  "SolNode176": {
+    "node": "Viver",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode177": {
+    "node": "Kappa",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Spy",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode178": {
+    "node": "Hyosube",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode179": {
+    "node": "Jengu",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode180": {
+    "node": "Undine",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode181": {
+    "node": "Adaro",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Exterminate",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode182": {
+    "node": "Camenae",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode183": {
+    "node": "Vodyanoi",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Arena",
+    "tileset": "Grineer Sealab",
+    "dark_sector": false
+  },
+  "SolNode184": {
+    "node": "Rusalka",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Capture",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode185": {
+    "node": "Berehynia",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Interception",
+    "tileset": "Grineer Shipyard",
+    "dark_sector": false
+  },
+  "SolNode186": {
+    "node": "Phithale",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Sabotage",
+    "dark_sector": false
+  },
+  "SolNode187": {
+    "node": "Selkie",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Survival",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode188": {
+    "node": "Kelpie",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Disruption",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode189": {
+    "node": "Naga",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Rescue",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode190": {
+    "node": "Nakki",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Arena",
+    "tileset": "Grineer Shipyard",
+    "dark_sector": false
+  },
+  "SolNode191": {
+    "node": "Marid",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Hijack",
+    "tileset": "Grineer Shipyard",
+    "dark_sector": false
+  },
+  "SolNode192": {
+    "node": "Tikoloshe",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Spy",
+    "dark_sector": false
+  },
+  "SolNode193": {
+    "node": "Merrow",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Assassination",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode194": {
+    "node": "Ponaturi",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode195": {
+    "node": "Hydron",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Defense",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode196": {
+    "node": "Charybdis",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Mobile Defense",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode197": {
+    "node": "Graeae",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode198": {
+    "node": "Scylla",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode199": {
+    "node": "Yam",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Arena",
+    "tileset": "Grineer Sealab",
+    "dark_sector": false
+  },
+  "SolNode200": {
+    "node": "Veles",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode201": {
+    "node": "Tiamat",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode202": {
+    "node": "Yemaja",
+    "planet": "Sedna",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode203": {
+    "node": "Abaddon",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Capture",
+    "tileset": "Corpus Ice Planet",
+    "dark_sector": false
+  },
+  "SolNode204": {
+    "node": "Armaros",
+    "planet": "Europa",
+    "enemy": "Infested",
+    "type": "Exterminate",
+    "tileset": "Infested Ship",
+    "dark_sector": false
+  },
+  "SolNode205": {
+    "node": "Baal",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Exterminate",
+    "tileset": "Corpus Ice Planet",
+    "dark_sector": false
+  },
+  "SolNode206": {
+    "node": "Eligor",
+    "planet": "Europa",
+    "dark_sector": false
+  },
+  "SolNode207": {
+    "node": "Gamygyn",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode208": {
+    "node": "Lillith",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode209": {
+    "node": "Morax",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Mobile Defense",
+    "tileset": "Corpus Ice Planet",
+    "dark_sector": false
+  },
+  "SolNode210": {
+    "node": "Naamah",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Assassination",
+    "tileset": "Corpus Ice Planet",
+    "dark_sector": false
+  },
+  "SolNode211": {
+    "node": "Ose",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Interception",
+    "tileset": "Corpus Ice Planet",
+    "dark_sector": false
+  },
+  "SolNode212": {
+    "node": "Paimon",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Defense",
+    "tileset": "Corpus Ice Planet",
+    "dark_sector": false
+  },
+  "SolNode213": {
+    "node": "Shax",
+    "planet": "Europa",
+    "dark_sector": false
+  },
+  "SolNode214": {
+    "node": "Sorath",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Hijack",
+    "tileset": "Corpus Ice Planet",
+    "dark_sector": false
+  },
+  "SolNode215": {
+    "node": "Valac",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Spy",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SolNode216": {
+    "node": "Valefor",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Excavation",
+    "tileset": "Corpus Ice Planet",
+    "dark_sector": false
+  },
+  "SolNode217": {
+    "node": "Orias",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Rescue",
+    "tileset": "Corpus Ice Planet",
+    "dark_sector": false
+  },
+  "SolNode218": {
+    "node": "Zagan",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode219": {
+    "node": "Beleth",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode220": {
+    "node": "Kokabiel",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Sabotage",
+    "tileset": "Corpus Ice Planet",
+    "dark_sector": false
+  },
+  "SolNode221": {
+    "node": "Neruda",
+    "planet": "Mercury",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode222": {
+    "node": "Eminescu",
+    "planet": "Mercury",
+    "enemy": "Grineer",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode223": {
+    "node": "Boethius",
+    "planet": "Mercury",
+    "enemy": "Infested",
+    "type": "Mobile Defense",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "SolNode224": {
+    "node": "Odin",
+    "planet": "Mercury",
+    "enemy": "Grineer",
+    "type": "Interception",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode225": {
+    "node": "Suisei",
+    "planet": "Mercury",
+    "enemy": "Grineer",
+    "type": "Spy",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode226": {
+    "node": "Pantheon",
+    "planet": "Mercury",
+    "enemy": "Grineer",
+    "type": "Exterminate",
+    "tileset": "Grineer Galleon",
+    "dark_sector": false
+  },
+  "SolNode227": {
+    "node": "Verdi",
+    "planet": "Mercury",
+    "dark_sector": false
+  },
+  "SolNode228": {
+    "node": "Plains of Eidolon",
+    "planet": "Earth",
+    "enemy": "Grineer",
+    "type": "Free Roam",
+    "tileset": "Plains of Eidolon",
+    "dark_sector": false
+  },
+  "SolNode400": {
+    "node": "Teshub",
+    "planet": "Void",
+    "enemy": "Orokin",
+    "type": "Exterminate",
+    "tileset": "Orokin Tower",
+    "dark_sector": false
+  },
+  "SolNode401": {
+    "node": "Hepit",
+    "planet": "Void",
+    "enemy": "Orokin",
+    "type": "Capture",
+    "tileset": "Orokin Tower",
+    "dark_sector": false
+  },
+  "SolNode402": {
+    "node": "Taranis",
+    "planet": "Void",
+    "enemy": "Orokin",
+    "type": "Defense",
+    "tileset": "Orokin Tower",
+    "dark_sector": false
+  },
+  "SolNode403": {
+    "node": "Tiwaz",
+    "planet": "Void",
+    "enemy": "Orokin",
+    "type": "Mobile Defense",
+    "tileset": "Orokin Tower",
+    "dark_sector": false
+  },
+  "SolNode404": {
+    "node": "Stribog",
+    "planet": "Void",
+    "enemy": "Orokin",
+    "type": "Orokin Sabotage",
+    "tileset": "Orokin Tower",
+    "dark_sector": false
+  },
+  "SolNode405": {
+    "node": "Ani",
+    "planet": "Void",
+    "enemy": "Orokin",
+    "type": "Survival",
+    "tileset": "Orokin Tower",
+    "dark_sector": false
+  },
+  "SolNode406": {
+    "node": "Ukko",
+    "planet": "Void",
+    "enemy": "Orokin",
+    "type": "Capture",
+    "tileset": "Orokin Tower",
+    "dark_sector": false
+  },
+  "SolNode407": {
+    "node": "Oxomoco",
+    "planet": "Void",
+    "enemy": "Orokin",
+    "type": "Exterminate",
+    "tileset": "Orokin Tower",
+    "dark_sector": false
+  },
+  "SolNode408": {
+    "node": "Belenus",
+    "planet": "Void",
+    "enemy": "Orokin",
+    "type": "Defense",
+    "tileset": "Orokin Tower",
+    "dark_sector": false
+  },
+  "SolNode409": {
+    "node": "Mot",
+    "planet": "Void",
+    "enemy": "Orokin",
+    "type": "Survival",
+    "tileset": "Orokin Tower",
+    "dark_sector": false
+  },
+  "SolNode410": {
+    "node": "Aten",
+    "planet": "Void",
+    "enemy": "Orokin",
+    "type": "Mobile Defense",
+    "tileset": "Orokin Tower",
+    "dark_sector": false
+  },
+  "SolNode411": {
+    "node": "SolNode411",
+    "planet": "Void",
+    "enemy": "Orokin",
+    "type": "Ancient Retribution",
+    "tileset": "Orokin Tower",
+    "dark_sector": false
+  },
+  "SolNode412": {
+    "node": "Mithra",
+    "planet": "Void",
+    "enemy": "Orokin",
+    "type": "Interception",
+    "tileset": "Orokin Tower",
+    "dark_sector": false
+  },
+  "SolNode413": {
+    "node": "SolNode413",
+    "planet": "Void",
+    "enemy": "Corrupted",
+    "type": "Ancient Retribution",
+    "tileset": "Orokin Tower",
+    "dark_sector": false
+  },
+  "SolNode740": {
+    "node": "The Ropalolyst",
+    "planet": "Jupiter",
+    "enemy": "Sentient",
+    "type": "Assassination",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "SolNode741": {
+    "node": "Koro",
+    "planet": "Kuva Fortress",
+    "enemy": "Grineer",
+    "type": "Assault",
+    "tileset": "Grineer Asteroid Fortress",
+    "dark_sector": false
+  },
+  "SolNode742": {
+    "node": "Nabuk",
+    "planet": "Kuva Fortress",
+    "enemy": "Grineer",
+    "type": "Capture",
+    "tileset": "Grineer Asteroid Fortress",
+    "dark_sector": false
+  },
+  "SolNode743": {
+    "node": "Rotuma",
+    "planet": "Kuva Fortress",
+    "enemy": "Grineer",
+    "type": "Mobile Defense",
+    "tileset": "Grineer Asteroid Fortress",
+    "dark_sector": false
+  },
+  "SolNode744": {
+    "node": "Taveuni",
+    "planet": "Kuva Fortress",
+    "enemy": "Grineer",
+    "type": "Survival",
+    "tileset": "Grineer Asteroid Fortress",
+    "dark_sector": false
+  },
+  "SolNode745": {
+    "node": "Tamu",
+    "planet": "Kuva Fortress",
+    "enemy": "Grineer",
+    "type": "Disruption",
+    "tileset": "Grineer Asteroid Fortress",
+    "dark_sector": false
+  },
+  "SolNode746": {
+    "node": "Dakata",
+    "planet": "Kuva Fortress",
+    "enemy": "Grineer",
+    "type": "Extermination",
+    "tileset": "Grineer Asteroid Fortress",
+    "dark_sector": false
+  },
+  "SolNode747": {
+    "node": "Pago",
+    "planet": "Kuva Fortress",
+    "enemy": "Grineer",
+    "type": "Spy",
+    "tileset": "Grineer Asteroid Fortress",
+    "dark_sector": false
+  },
+  "SolNode748": {
+    "node": "Garus",
+    "planet": "Kuva Fortress",
+    "enemy": "Grineer",
+    "type": "Rescue",
+    "tileset": "Grineer Asteroid Fortress",
+    "dark_sector": false
+  },
+  "SolNode901": {
+    "node": "Caduceus",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SolNode902": {
+    "node": "Montes",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Exterminate (Archwing)",
+    "tileset": "Corpus Ship (Archwing)",
+    "dark_sector": false
+  },
+  "SolNode903": {
+    "node": "Erpo",
+    "planet": "Earth",
+    "enemy": "Grineer",
+    "type": "Mobile Defense (Archwing)",
+    "tileset": "Free Space",
+    "dark_sector": false
+  },
+  "SolNode904": {
+    "node": "Syrtis",
+    "planet": "Mars",
+    "enemy": "Grineer",
+    "type": "Exterminate (Archwing)",
+    "tileset": "Free Space",
+    "dark_sector": false
+  },
+  "SolNode905": {
+    "node": "Galilea ",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Sabotage (Archwing)",
+    "tileset": "Corpus Ship (Archwing)",
+    "dark_sector": false
+  },
+  "SolNode906": {
+    "node": "Pandora",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Pursuit (Archwing)",
+    "tileset": "Free Space",
+    "dark_sector": false
+  },
+  "SolNode907": {
+    "node": "Caelus",
+    "planet": "Uranus",
+    "enemy": "Grineer",
+    "type": "Interception (Archwing)",
+    "tileset": "Free Space",
+    "dark_sector": false
+  },
+  "SolNode908": {
+    "node": "Salacia",
+    "planet": "Neptune",
+    "enemy": "Corpus",
+    "type": "Mobile Defense (Archwing)",
+    "tileset": "Corpus Ship (Archwing)",
+    "dark_sector": false
+  },
+  "SolNode300": {
+    "node": "Plato",
+    "planet": "Lua",
+    "enemy": "Grineer",
+    "type": "Exterminate",
+    "tileset": "Orokin Moon",
+    "dark_sector": false
+  },
+  "SolNode301": {
+    "node": "Grimaldi",
+    "planet": "Lua",
+    "enemy": "Grineer",
+    "type": "Mobile Defense",
+    "tileset": "Orokin Moon",
+    "dark_sector": false
+  },
+  "SolNode302": {
+    "node": "Tycho",
+    "planet": "Lua",
+    "enemy": "Corpus",
+    "type": "Survival",
+    "tileset": "Orokin Moon",
+    "dark_sector": false
+  },
+  "SolNode304": {
+    "node": "Copernicus",
+    "planet": "Lua",
+    "enemy": "Grineer",
+    "type": "Mobile Defense",
+    "tileset": "Orokin Moon",
+    "dark_sector": false
+  },
+  "SolNode305": {
+    "node": "Stöfler",
+    "planet": "Lua",
+    "enemy": "Grineer",
+    "type": "Defense",
+    "tileset": "Orokin Moon",
+    "dark_sector": false
+  },
+  "SolNode306": {
+    "node": "Pavlov",
+    "planet": "Lua",
+    "enemy": "Corpus",
+    "type": "Spy",
+    "tileset": "Orokin Moon",
+    "dark_sector": false
+  },
+  "SolNode307": {
+    "node": "Zeipel",
+    "planet": "Lua",
+    "enemy": "Corpus",
+    "type": "Rescue",
+    "tileset": "Orokin Moon",
+    "dark_sector": false
+  },
+  "SolNode308": {
+    "node": "Apollo",
+    "planet": "Lua",
+    "enemy": "Corpus",
+    "type": "Disruption",
+    "tileset": "Orokin Moon",
+    "dark_sector": false
+  },
+  "SettlementNode1": {
+    "node": "Roche",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Exterminate",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SettlementNode2": {
+    "node": "Skyresh",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Capture",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SettlementNode3": {
+    "node": "Stickney",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Survival",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SettlementNode4": {
+    "node": "Drunlo",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SettlementNode5": {
+    "node": "Grildrig",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SettlementNode6": {
+    "node": "Limtoc",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SettlementNode7": {
+    "node": "Hall",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SettlementNode8": {
+    "node": "Reldresal",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SettlementNode9": {
+    "node": "Clustril",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SettlementNode10": {
+    "node": "Kepler",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Rush (Archwing)",
+    "tileset": "Corpus Ship (Archwing)",
+    "dark_sector": false
+  },
+  "SettlementNode11": {
+    "node": "Gulliver",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Defense",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SettlementNode12": {
+    "node": "Monolith",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Rescue",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SettlementNode13": {
+    "node": "D'Arrest",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SettlementNode14": {
+    "node": "Shklovsky",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Spy",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SettlementNode15": {
+    "node": "Sharpless",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Mobile Defense",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "SettlementNode16": {
+    "node": "Wendell",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SettlementNode17": {
+    "node": "Flimnap",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SettlementNode18": {
+    "node": "Opik",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SettlementNode19": {
+    "node": "Todd",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "SettlementNode20": {
+    "node": "Iliad",
+    "planet": "Phobos",
+    "enemy": "Corpus",
+    "type": "Assassination",
+    "tileset": "Corpus Ship",
+    "dark_sector": false
+  },
+  "MercuryHUB": {
+    "node": "Larunda Relay",
+    "planet": "Mercury",
+    "enemy": "Grineer",
+    "type": "Relay",
+    "dark_sector": false
+  },
+  "VenusHUB": {
+    "node": "Vesper Relay",
+    "planet": "Venus",
+    "enemy": "Corpus",
+    "type": "Relay",
+    "dark_sector": false
+  },
+  "EarthHUB": {
+    "node": "Strata Relay",
+    "planet": "Earth",
+    "enemy": "Grineer",
+    "type": "Relay",
+    "dark_sector": false
+  },
+  "SaturnHUB": {
+    "node": "Kronia Relay",
+    "planet": "Saturn",
+    "enemy": "Grineer",
+    "type": "Relay",
+    "dark_sector": false
+  },
+  "ErisHUB": {
+    "node": "Kuiper Relay",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Relay",
+    "dark_sector": false
+  },
+  "EuropaHUB": {
+    "node": "Leonov Relay",
+    "planet": "Europa",
+    "enemy": "Corpus",
+    "type": "Relay",
+    "dark_sector": false
+  },
+  "PlutoHUB": {
+    "node": "Orcus Relay",
+    "planet": "Pluto",
+    "enemy": "Corpus",
+    "type": "Relay",
+    "dark_sector": false
+  },
+  "EventNode0": {
+    "node": "Balor",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode1": {
+    "node": "Tethra",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode2": {
+    "node": "Operation Gate Crash",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode3": {
+    "node": "Elatha",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode4": {
+    "node": "Proxy Rebellion",
+    "enemy": "Corpus",
+    "type": "Survival",
+    "dark_sector": false
+  },
+  "EventNode5": {
+    "node": "Birog",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode6": {
+    "node": "Tyl Reygor Seal Lab",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode7": {
+    "node": "Proxy Rebellion",
+    "enemy": "Corpus",
+    "type": "Interception",
+    "dark_sector": false
+  },
+  "EventNode8": {
+    "node": "Corb",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode9": {
+    "node": "Operation Gate Crash Pt. 2",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode10": {
+    "node": "Lugh",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode11": {
+    "node": "Nemed",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode12": {
+    "node": "Operation Cryotic Front",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode13": {
+    "node": "Shifting Sands",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode14": {
+    "node": "Gate Crash",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode15": {
+    "node": "Operation Cryotic Front",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode16": {
+    "node": "Operation Cryotic Front",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode17": {
+    "node": "Proxy Rebellion",
+    "enemy": "Corpus",
+    "type": "Defense",
+    "dark_sector": false
+  },
+  "EventNode18": {
+    "node": "Proxy Rebellion",
+    "enemy": "Corpus",
+    "type": "Defense",
+    "dark_sector": false
+  },
+  "EventNode19": {
+    "node": "Mars",
+    "enemy": "Grineer",
+    "type": "Defense",
+    "dark_sector": false
+  },
+  "EventNode20": {
+    "node": "Tyl Regor Sea Lab",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode22": {
+    "node": "Tyl Regor Sea Lab",
+    "enemy": "Sentient",
+    "type": "Ancient Retribution",
+    "dark_sector": false
+  },
+  "EventNode24": {
+    "node": "Earth",
+    "enemy": "Grineer",
+    "type": "Arena",
+    "dark_sector": false
+  },
+  "EventNode25": {
+    "node": "Earth",
+    "enemy": "Grineer",
+    "type": "Arena",
+    "dark_sector": false
+  },
+  "EventNode26": {
+    "node": "Earth",
+    "enemy": "Grineer",
+    "type": "Exterminate",
+    "dark_sector": false
+  },
+  "EventNode27": {
+    "node": "Void",
+    "enemy": "Corrupted",
+    "type": "Survival",
+    "dark_sector": false
+  },
+  "EventNode28": {
+    "node": "Saturn",
+    "enemy": "Grineer",
+    "type": "Assassination",
+    "dark_sector": false
+  },
+  "EventNode29": {
+    "node": "Saturn",
+    "enemy": "Grineer",
+    "type": "Assassination",
+    "dark_sector": false
+  },
+  "EventNode30": {
+    "node": "Ganymede",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Disruption",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "EventNode31": {
+    "node": "Ganymede",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Disruption",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "EventNode32": {
+    "node": "Ganymede",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Disruption",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "EventNode33": {
+    "node": "Ganymede",
+    "planet": "Jupiter",
+    "enemy": "Corpus",
+    "type": "Disruption",
+    "tileset": "Corpus Gas City",
+    "dark_sector": false
+  },
+  "EventNode34": {
+    "node": "Earth",
+    "enemy": "Grineer",
+    "type": "Arena",
+    "dark_sector": false
+  },
+  "EventNode35": {
+    "node": "Earth",
+    "enemy": "Grineer",
+    "type": "Arena",
+    "dark_sector": false
+  },
+  "EventNode761": {
+    "node": "The Index",
+    "enemy": "Corpus",
+    "type": "Arena",
+    "dark_sector": false
+  },
+  "EventNode762": {
+    "node": "The Index pt 2",
+    "enemy": "Corpus",
+    "type": "Arena",
+    "dark_sector": false
+  },
+  "EventNode763": {
+    "node": "The Index Endurance",
+    "enemy": "Corpus",
+    "type": "Arena",
+    "dark_sector": false
+  },
+  "PvpNode0": {
+    "node": "Conclave Capture the Cephalon",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "PvpNode1": {
+    "node": "Conclave",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "PvpNode2": {
+    "node": "Conclave",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "PvpNode3": {
+    "node": "Conclave Capture the Cephalon",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "PvpNode4": {
+    "node": "Conclave",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "PvpNode5": {
+    "node": "Conclave",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "PvpNode6": {
+    "node": "Conclave",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "PvpNode7": {
+    "node": "Conclave",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "PvpNode8": {
+    "node": "Conclave",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "PvpNode9": {
+    "node": "Conclave Team Domination",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "PvpNode10": {
+    "node": "Conclave Domination",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "PvpNode11": {
+    "node": "Conclave Domination",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "PvpNode12": {
+    "node": "Conclave Domination",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "PvpNode13": {
+    "node": "Tactical Alert: Snoball Fight!",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "PvpNode14": {
+    "node": "Conclave: Quick Steel",
+    "enemy": "Tenno",
+    "type": "Conclave",
+    "dark_sector": false
+  },
+  "ClanNode0": {
+    "node": "Romula",
+    "planet": "Venus",
+    "enemy": "Infested",
+    "type": "Defense",
+    "tileset": "Corpus Ship",
+    "dark_sector": true,
+    "bonus": "10%"
+  },
+  "ClanNode1": {
+    "node": "Malva",
+    "planet": "Venus",
+    "enemy": "Infested",
+    "type": "Survival",
+    "tileset": "Corpus Ship",
+    "dark_sector": true,
+    "bonus": "10%"
+  },
+  "ClanNode2": {
+    "node": "Coba",
+    "planet": "Earth",
+    "enemy": "Infested",
+    "type": "Defense",
+    "tileset": "Grineer Forest",
+    "dark_sector": true,
+    "bonus": "15%"
+  },
+  "ClanNode3": {
+    "node": "Tikal",
+    "planet": "Earth",
+    "enemy": "Infested",
+    "type": "Excavation",
+    "tileset": "Grineer Forest",
+    "dark_sector": true,
+    "bonus": "15%"
+  },
+  "ClanNode4": {
+    "node": "Sinai",
+    "planet": "Jupiter",
+    "enemy": "Infested",
+    "type": "Defense",
+    "tileset": "Corpus Gas City",
+    "dark_sector": true,
+    "bonus": "20%"
+  },
+  "ClanNode5": {
+    "node": "Cameria",
+    "planet": "Jupiter",
+    "enemy": "Infested",
+    "type": "Survival",
+    "tileset": "Corpus Gas City",
+    "dark_sector": true,
+    "bonus": "20%"
+  },
+  "ClanNode6": {
+    "node": "Larzac",
+    "planet": "Europa",
+    "enemy": "Infested",
+    "type": "Defense",
+    "tileset": "Corpus Ice Planet",
+    "dark_sector": true,
+    "bonus": "25%"
+  },
+  "ClanNode7": {
+    "node": "Cholistan",
+    "planet": "Europa",
+    "enemy": "Infested",
+    "type": "Excavation",
+    "tileset": "Corpus Ice Planet",
+    "dark_sector": true,
+    "bonus": "25%"
+  },
+  "ClanNode8": {
+    "node": "Kadesh",
+    "planet": "Mars",
+    "enemy": "Infested",
+    "type": "Defense",
+    "tileset": "Grineer Settlement",
+    "dark_sector": true,
+    "bonus": "20%"
+  },
+  "ClanNode9": {
+    "node": "Wahiba",
+    "planet": "Mars",
+    "enemy": "Infested",
+    "type": "Survival",
+    "tileset": "Corpus Ship",
+    "dark_sector": true,
+    "bonus": "20%"
+  },
+  "ClanNode10": {
+    "node": "Memphis",
+    "planet": "Phobos",
+    "enemy": "Infested",
+    "type": "Defection",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": true,
+    "bonus": "25%"
+  },
+  "ClanNode11": {
+    "node": "Zeugma",
+    "planet": "Phobos",
+    "enemy": "Infested",
+    "type": "Survival",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": true,
+    "bonus": "25%"
+  },
+  "ClanNode12": {
+    "node": "Caracol",
+    "planet": "Saturn",
+    "enemy": "Infested",
+    "type": "Defection",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": true,
+    "bonus": "20%"
+  },
+  "ClanNode13": {
+    "node": "Piscinas",
+    "planet": "Saturn",
+    "enemy": "Infested",
+    "type": "Survival",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": true,
+    "bonus": "20%"
+  },
+  "ClanNode14": {
+    "node": "Amarna",
+    "planet": "Sedna",
+    "enemy": "Infested",
+    "type": "Survival",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": true,
+    "bonus": "25%"
+  },
+  "ClanNode15": {
+    "node": "Sangeru",
+    "planet": "Sedna",
+    "enemy": "Infested",
+    "type": "Defense",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": true,
+    "bonus": "25%"
+  },
+  "ClanNode16": {
+    "node": "Ur",
+    "planet": "Uranus",
+    "enemy": "Infested",
+    "type": "Disruption",
+    "tileset": "Grineer Galleon",
+    "dark_sector": true,
+    "bonus": "25%"
+  },
+  "ClanNode17": {
+    "node": "Assur",
+    "planet": "Uranus",
+    "enemy": "Infested",
+    "type": "Survival",
+    "tileset": "Grineer Galleon",
+    "dark_sector": true,
+    "bonus": "25%"
+  },
+  "ClanNode18": {
+    "node": "Akkad",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Defense",
+    "tileset": "Infested Ship",
+    "dark_sector": true,
+    "bonus": "30%"
+  },
+  "ClanNode19": {
+    "node": "Zabala",
+    "planet": "Eris",
+    "enemy": "Infested",
+    "type": "Survival",
+    "tileset": "Infested Ship",
+    "dark_sector": true,
+    "bonus": "30%"
+  },
+  "ClanNode20": {
+    "node": "Yursa",
+    "planet": "Neptune",
+    "enemy": "Infested",
+    "type": "Defection",
+    "tileset": "Infested Ship",
+    "dark_sector": true,
+    "bonus": "30%"
+  },
+  "ClanNode21": {
+    "node": "Kelashin",
+    "planet": "Neptune",
+    "enemy": "Infested",
+    "type": "Survival",
+    "tileset": "Infested Ship",
+    "dark_sector": true,
+    "bonus": "30%"
+  },
+  "ClanNode22": {
+    "node": "Seimeni",
+    "planet": "Ceres",
+    "enemy": "Infested",
+    "type": "Defense",
+    "tileset": "Grineer Shipyard",
+    "dark_sector": true,
+    "bonus": "35%"
+  },
+  "ClanNode23": {
+    "node": "Gabii",
+    "planet": "Ceres",
+    "enemy": "Infested",
+    "type": "Survival",
+    "tileset": "Grineer Galleon",
+    "dark_sector": true,
+    "bonus": "35%"
+  },
+  "ClanNode24": {
+    "node": "Sechura",
+    "planet": "Pluto",
+    "enemy": "Infested",
+    "type": "Defense",
+    "tileset": "Corpus Outpost",
+    "dark_sector": true,
+    "bonus": "35%"
+  },
+  "ClanNode25": {
+    "node": "Hieracon",
+    "planet": "Pluto",
+    "enemy": "Infested",
+    "type": "Excavation",
+    "tileset": "Corpus Outpost",
+    "dark_sector": true,
+    "bonus": "35%"
+  },
+  "/Lotus/Types/Keys/SortieBossKeyPhorid": {
+    "node": "Sortie Boss: Phorid",
+    "enemy": "Infested",
+    "type": "Assassination",
+    "tileset": "Grineer Asteroid",
+    "dark_sector": false
+  },
+  "CrewBattleNode505": {
+    "node": "Ruse War Field",
+    "planet": "Veil Proxima",
+    "enemy": "Grineer",
+    "type": "Skirmish",
+    "dark_sector": false
+  },
+  "CrewBattleNode510": {
+    "node": "Gian Point",
+    "planet": "Veil Proxima",
+    "enemy": "Grineer",
+    "type": "Skirmish",
+    "dark_sector": false
+  },
+  "CrewBattleNode550": {
+    "node": "Nsu Grid",
+    "planet": "Veil Proxima",
+    "enemy": "Grineer",
+    "type": "Skirmish",
+    "dark_sector": false
+  },
+  "CrewBattleNode551": {
+    "node": "Ganalen's Grave",
+    "planet": "Veil Proxima",
+    "enemy": "Grineer",
+    "type": "Skirmish",
+    "dark_sector": false
+  },
+  "CrewBattleNode552": {
+    "node": "Rya",
+    "planet": "Veil Proxima",
+    "enemy": "Grineer",
+    "type": "Skirmish",
+    "dark_sector": false
+  },
+  "CrewBattleNode553": {
+    "node": "Flexa",
+    "planet": "Veil Proxima",
+    "enemy": "Grineer",
+    "type": "Skirmish",
+    "dark_sector": false
+  },
+  "CrewBattleNode554": {
+    "node": "H-2 Cloud",
+    "planet": "Veil Proxima",
+    "enemy": "Grineer",
+    "type": "Skirmish",
+    "dark_sector": false
+  },
+  "CrewBattleNode555": {
+    "node": "R-9 Cloud",
+    "planet": "Veil Proxima",
+    "enemy": "Grineer",
+    "type": "Skirmish",
+    "dark_sector": false
+  },
+  "SolNode706": {
+    "node": "Horend",
+    "planet": "Deimos",
+    "enemy": "Infested",
+    "type": "Capture",
+    "tileset": "Orokin Derelict",
+    "dark_sector": false
+  },
+  "SolNode707": {
+    "node": "Hyf",
+    "planet": "Deimos",
+    "enemy": "Infested",
+    "type": "Defense",
+    "tileset": "Orokin Derelict",
+    "dark_sector": false
+  },
+  "SolNode708": {
+    "node": "Phlegyas",
+    "planet": "Deimos",
+    "enemy": "Infested",
+    "type": "Exterminate",
+    "tileset": "Orokin Derelict",
+    "dark_sector": false
+  },
+  "SolNode709": {
+    "node": "Dirus",
+    "planet": "Deimos",
+    "enemy": "Infested",
+    "type": "Mobile Defense",
+    "tileset": "Orokin Derelict",
+    "dark_sector": false
+  },
+  "SolNode710": {
+    "node": "Formido",
+    "planet": "Deimos",
+    "enemy": "Infested",
+    "type": "Sabotage",
+    "tileset": "Orokin Derelict",
+    "dark_sector": false
+  },
+  "SolNode711": {
+    "node": "Terrorem",
+    "planet": "Deimos",
+    "enemy": "Infested",
+    "type": "Survival",
+    "tileset": "Orokin Derelict",
+    "dark_sector": false
+  },
+  "SolNode712": {
+    "node": "Magnacidium",
+    "planet": "Deimos",
+    "enemy": "Infested",
+    "type": "Assassinate",
+    "tileset": "Orokin Derelict",
+    "dark_sector": false
+  },
+  "SolNode713": {
+    "node": "Exequias",
+    "planet": "Deimos",
+    "enemy": "Infested",
+    "type": "Assassinate",
+    "tileset": "Orokin Derelict",
+    "dark_sector": false
+  }
 }
