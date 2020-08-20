@@ -918,6 +918,48 @@
         "disposition": 3
     },
     {
+        "name": "Athodai",
+        "totalDamage": 70,
+        "criticalChance": 0.31999999,
+        "criticalMultiplier": 2,
+        "procChance": 0.079999983,
+        "fireRate": 5.0000005,
+        "masteryReq": 10,
+        "slot": 0,
+        "omegaAttenuation": 1,
+        "noise": "Alarming",
+        "trigger": "Auto",
+        "magazineSize": 24,
+        "reloadTime": 2,
+        "multishot": 1,
+        "type": "Pistol",
+        "imageName": "athodai.png",
+        "category": "Secondary",
+        "tradable": false,
+        "ammo": 48,
+        "damage": "48.0 heat",
+        "damageTypes": {
+            "puncture": 22,
+            "heat": 48
+        },
+        "projectile": "Hitscan",
+        "secondary": {
+            "name": "Charge",
+            "speed": 12,
+            "crit_chance": 18,
+            "crit_mult": 2,
+            "status_chance": 0.2,
+            "shot_type": "Discharge",
+            "heat": 88,
+            "damage": "88.0 heat"
+        },
+        "tags": [
+            "Tenno"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Athodai",
+        "disposition": 3
+    },
+    {
         "name": "Atomos",
         "totalDamage": 29,
         "criticalChance": 0.15000001,
@@ -969,6 +1011,11 @@
         "magazineSize": 75,
         "reloadTime": 1.4,
         "multishot": 1,
+        "buildPrice": 30000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 25,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
         "type": "Pistol",
         "imageName": "azima.png",
         "category": "Secondary",

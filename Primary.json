@@ -1045,6 +1045,20 @@
         },
         "marketCost": 175,
         "projectile": "Discharge",
+        "secondary": {
+            "speed": 16,
+            "crit_chance": 16,
+            "crit_mult": 2.4,
+            "status_chance": 0.5,
+            "shot_type": "Discharge",
+            "pellet": {
+                "count": 2,
+                "name": "Beam"
+            },
+            "impact": 1.8,
+            "slash": 14.4,
+            "puncture": 1.8
+        },
         "tags": [
             "Corpus"
         ],
@@ -1151,6 +1165,7 @@
         "secondaryArea": {
             "name": "Air Burst Explosion",
             "status_chance": 50,
+            "radius": 980,
             "blast": 2200,
             "damage": "2200.0 blast"
         },
@@ -6523,6 +6538,11 @@
         "magazineSize": 90,
         "reloadTime": 1.6,
         "multishot": 1,
+        "buildPrice": 30000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 25,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
         "type": "Rifle",
         "imageName": "zenith.png",
         "category": "Primary",

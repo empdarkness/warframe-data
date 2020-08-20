@@ -426,6 +426,11 @@
         "exalted": [
             "/Lotus/Powersuits/Excalibur/DoomSwordUmbra"
         ],
+        "buildPrice": 10000,
+        "buildTime": 10,
+        "skipBuildTimePrice": 0,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
         "type": "Warframe",
         "imageName": "excalibur-umbra.png",
         "category": "Warframes",
@@ -1459,7 +1464,7 @@
         "category": "Warframes",
         "tradable": false,
         "conclave": false,
-        "color": 3752016,
+        "color": 2960945,
         "introduced": "28",
         "sex": "Female",
         "sprint": 1.2,
