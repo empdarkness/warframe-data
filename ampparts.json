@@ -1,6 +1,6 @@
 [
   {
-    "1": {
+    1: {
       "name": "Raplak Prism",
       "syndicate": "The Quills",
 	  "damage": 3000,
@@ -15,7 +15,7 @@
 	  "rechargeRate": 30,
 	  "range": 100
     },
-    "2": {
+    2: {
       "name": "Shwaak Prism",
       "syndicate": "The Quills",
 	  "damage": 3500,
@@ -30,7 +30,7 @@
 	  "rechargeRate": 30,
 	  "range": "15-30"
     },
-    "3": {
+    3: {
       "name": "Granmu Prism",
       "syndicate": "The Quills",
 	  "damage": 2400,
@@ -45,7 +45,7 @@
 	  "rechargeRate": 30,
 	  "range": 70
     },
-    "4": {
+    4: {
       "name": "Rahn Prism",
       "syndicate": "The Quills",
 	  "damage": 1000,
@@ -60,7 +60,7 @@
 	  "rechargeRate": 30,
 	  "range": 100
     },
-    "5": {
+    5: {
       "name": "Cantic Prism",
       "syndicate": "Vox Solaris",
 	  "damage": 1460,
@@ -75,7 +75,7 @@
 	  "rechargeRate": 30,
 	  "range": 100
     },
-    "6": {
+    6: {
       "name": "Lega Prism",
       "syndicate": "Vox Solaris",
 	  "damage": 600,
@@ -90,7 +90,7 @@
 	  "rechargeRate": 30,
 	  "range": 24
     },
-    "7": {
+    7: {
       "name": "Klamora Prism",
       "syndicate": "Vox Solaris",
 	  "damage": 600,
@@ -107,7 +107,7 @@
     }
   },
   {
-    "1": {
+    1: {
       "name": "Pencha Scaffold",
       "syndicate": "The Quills",
 	  "damage": 9000,
@@ -122,7 +122,7 @@
 	  "rechargeRate": 30,
 	  "range": 41
     },
-    "2": {
+    2: {
       "name": "Shraksun Scaffold",
       "syndicate": "The Quills",
 	  "damage": 7500,
@@ -152,7 +152,7 @@
 	  "rechargeRate": 30,
 	  "range": 24
     },
-    "4": {
+    4: {
       "name": "Phahd Scaffold",
       "syndicate": "The Quills",
 	  "damage": 6100,
@@ -167,7 +167,7 @@
 	  "rechargeRate": 30,
 	  "range": 300
     },
-    "5": {
+    5: {
       "name": "Exard Scaffold",
       "syndicate": "Vox Solaris",
 	  "damage": 2800,
@@ -182,7 +182,7 @@
 	  "rechargeRate": 30,
 	  "range": 40
     },
-    "6": {
+    6: {
       "name": "Dissic Scaffold",
       "syndicate": "Vox Solaris",
 	  "damage": 9300,
@@ -197,7 +197,7 @@
 	  "rechargeRate": 30,
 	  "range": 300
     },
-    "7": {
+    7: {
       "name": "Propa Scaffold",
       "syndicate": "Vox Solaris",
 	  "damage": 9000,
