@@ -1,38 +1,55 @@
-[{
-  "1": {
-    "name": "Clapkra Brace",
-    "syndicate": "The Quills",
-	"modifiers": ["maxEnergy+40"]
-  },
-  "2": {
-    "name": "Juttni Brace",
-    "syndicate": "The Quills",
-	"modifiers": ["rechargeDelay/2"]
-  },
-  "3": {
-    "name": "Lohrin Brace",
-    "syndicate": "The Quills",
-	"modifiers": ["cc+0.12", "sc+0.12"]
-  },
-  "4": {
-    "name": "Anspatha Brace",
-    "syndicate": "The Quills",
-	"modifiers": ["maxEnergy+20", "rechargeRate+15"]
-  },
-  "5": {
-    "name": "Suo Brace",
-    "syndicate": "Vox Solaris",
-	"modifiers": ["maxEnergy+100", "rechargeDelay+2"]
-  },
-  "6": {
-    "name": "Plaga Brace",
-    "syndicate": "Vox Solaris",
-	"modifiers": ["maxEnergy-20", "rechargeDelay-1.5"]
-  },
-  "7": {
-    "name": "Certus Brace",
-    "syndicate": "Vox Solaris",
-	"modifiers": ["cc+0.2"]
-  }
+{
+	"1": {
+		"name": "Clapkra Brace",
+		"syndicate": "The Quills",
+		"modifiers": [
+			"maxEnergy+40"
+		]
+	},
+	"2": {
+		"name": "Juttni Brace",
+		"syndicate": "The Quills",
+		"modifiers": [
+			"rechargeDelay/2"
+		]
+	},
+	"3": {
+		"name": "Lohrin Brace",
+		"syndicate": "The Quills",
+		"modifiers": [
+			"cc+0.12",
+			"sc+0.12"
+		]
+	},
+	"4": {
+		"name": "Anspatha Brace",
+		"syndicate": "The Quills",
+		"modifiers": [
+			"maxEnergy+20",
+			"rechargeRate+15"
+		]
+	},
+	"5": {
+		"name": "Suo Brace",
+		"syndicate": "Vox Solaris",
+		"modifiers": [
+			"maxEnergy+100",
+			"rechargeDelay+2"
+		]
+	},
+	"6": {
+		"name": "Plaga Brace",
+		"syndicate": "Vox Solaris",
+		"modifiers": [
+			"maxEnergy-20",
+			"rechargeDelay-1.5"
+		]
+	},
+	"7": {
+		"name": "Certus Brace",
+		"syndicate": "Vox Solaris",
+		"modifiers": [
+			"cc+0.2"
+		]
+	}
 }
-]
