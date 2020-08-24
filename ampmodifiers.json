@@ -1,12 +1,12 @@
 {
   "1": {
     "name": "Clapkra Brace",
-    "syndicate": "The Quills"
+    "syndicate": "The Quills",
 	"modifiers": ["maxEnergy+40"]
   },
   "2": {
     "name": "Juttni Brace",
-    "syndicate": "The Quills"
+    "syndicate": "The Quills",
 	"modifiers": ["rechargeDelay/2"]
   },
   "3": {
