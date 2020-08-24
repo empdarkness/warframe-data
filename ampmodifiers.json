@@ -1,4 +1,4 @@
-{
+[{
   "1": {
     "name": "Clapkra Brace",
     "syndicate": "The Quills",
@@ -35,3 +35,4 @@
 	"modifiers": ["cc+0.2"]
   }
 }
+]
