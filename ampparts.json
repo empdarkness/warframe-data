@@ -125,7 +125,7 @@
     2: {
       "name": "Shraksun Scaffold",
       "syndicate": "The Quills",
-	  "damage": 7500,
+	  "damage": 4500,
 	  "cc": 0.2,
 	  "cd": 2.5,
 	  "sc": 0.2,
@@ -155,7 +155,7 @@
     4: {
       "name": "Phahd Scaffold",
       "syndicate": "The Quills",
-	  "damage": 6100,
+	  "damage": 3100,
 	  "cc": 0.34,
 	  "cd": 2.6,
 	  "sc": 0.12,
@@ -170,7 +170,7 @@
     5: {
       "name": "Exard Scaffold",
       "syndicate": "Vox Solaris",
-	  "damage": 2800,
+	  "damage": 2600,
 	  "cc": 0.17,
 	  "cd": 1.9,
 	  "sc": 0.33,
@@ -185,7 +185,7 @@
     6: {
       "name": "Dissic Scaffold",
       "syndicate": "Vox Solaris",
-	  "damage": 9300,
+	  "damage": 6600,
 	  "cc": 0.03,
 	  "cd": 1.5,
 	  "sc": 0.37,
