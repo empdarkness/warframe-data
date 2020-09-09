@@ -842,6 +842,9 @@
         "power": 125,
         "masteryReq": 0,
         "sprintSpeed": 1.05,
+        "exalted": [
+            "/Lotus/Powersuits/Khora/Kavat/KhoraKavatPowerSuit"
+        ],
         "buildPrice": 25000,
         "buildTime": 259200,
         "skipBuildTimePrice": 50,
@@ -1845,6 +1848,29 @@
         "vaulted": true
     },
     {
+        "name": "Voidrig Necramech",
+        "health": 1500,
+        "shield": 500,
+        "armor": 400,
+        "stamina": 200,
+        "power": 150,
+        "masteryReq": 0,
+        "excludeFromCodex": true,
+        "sprintSpeed": 1,
+        "exalted": [
+            "/Lotus/Types/Enemies/Orokin/Entrati/EntratiTech/NechroTech/ExaltedArtilleryWeapon"
+        ],
+        "buildPrice": 25000,
+        "buildTime": 259200,
+        "skipBuildTimePrice": 50,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Warframe",
+        "imageName": "voidrig-necramech.png",
+        "category": "Warframes",
+        "tradable": false
+    },
+    {
         "name": "Volt",
         "health": 100,
         "shield": 150,
@@ -1986,6 +2012,32 @@
         "releaseDate": "2019 07 07",
         "vaultDate": "n/a",
         "estimatedVaultDate": "2020 12 03"
+    },
+    {
+        "name": "Xaku",
+        "health": 97,
+        "shield": 89,
+        "armor": 137,
+        "stamina": 3,
+        "power": 153,
+        "masteryReq": 0,
+        "sprintSpeed": 1.02,
+        "buildPrice": 25000,
+        "buildTime": 259200,
+        "skipBuildTimePrice": 50,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Warframe",
+        "imageName": "xaku.png",
+        "category": "Warframes",
+        "tradable": false,
+        "aura": "naramon",
+        "conclave": false,
+        "color": 4404788,
+        "introduced": "29",
+        "sex": "",
+        "sprint": 1.02,
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Xaku"
     },
     {
         "name": "Zephyr",
