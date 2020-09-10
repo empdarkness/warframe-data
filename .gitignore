@@ -2,3 +2,6 @@
 Clean.py
 enemy.py
 warframes.py
+primary.py
+melee.py
+secondary.py
