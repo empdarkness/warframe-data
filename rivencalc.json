@@ -3400,21 +3400,21 @@
     },
     {
       "riventype": "Shotgun",
-      "text": "Projectile Speed",
+      "text": "Flight Speed",
       "value": 90,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Pistol",
-      "text": "Projectile Speed",
+      "text": "Flight Speed",
       "value": 90,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Rifle",
-      "text": "Projectile Speed",
+      "text": "Flight Speed",
       "value": 90,
       "curse": true,
       "buff": true
