@@ -1,0 +1,110 @@
+{
+    "/Lotus/Types/Sentinels/SentinelWeapons/Gremlin": {
+        "totalDamage": 5,
+        "fireRate": 1,
+        "name": "Artax",
+        "type": "Rifle"
+    },
+    "/Lotus/Types/Sentinels/SentinelWeapons/BurstLaserPistol": {
+        "totalDamage": 7,
+        "fireRate": 1.6071428,
+        "name": "Burst Laser",
+        "type": "Pistol"
+    },
+    "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/CryoxionWeapon": {
+        "totalDamage": 10,
+        "fireRate": 1,
+        "name": "Cryotra",
+        "type": "Rifle"
+    },
+    "/Lotus/Types/Sentinels/SentinelWeapons/SentGlaiveWeapon": {
+        "totalDamage": 50,
+        "fireRate": 1.3333334,
+        "name": "Deconstructor",
+        "type": "Glaive"
+    },
+    "/Lotus/Types/Sentinels/SentinelWeapons/DeconstructorPrime/PrimeHeliosGlaiveWeapon": {
+        "totalDamage": 75,
+        "fireRate": 1.3333334,
+        "name": "Deconstructor Prime",
+        "type": "Glaive"
+    },
+    "/Lotus/Types/Sentinels/SentinelWeapons/DethMachineRifle": {
+        "totalDamage": 5,
+        "fireRate": 8.333334,
+        "name": "Deth Machine Rifle",
+        "type": "Rifle"
+    },
+    "/Lotus/Types/Sentinels/SentinelWeapons/PrimeDethMachineRifle": {
+        "totalDamage": 7,
+        "fireRate": 10.000001,
+        "name": "Deth Machine Rifle Prime",
+        "type": "Rifle"
+    },
+    "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon": {
+        "totalDamage": 16,
+        "fireRate": 0.90909088,
+        "name": "Helstrum",
+        "type": "Rifle"
+    },
+    "/Lotus/Types/Sentinels/SentinelWeapons/LaserRifle": {
+        "totalDamage": 8,
+        "fireRate": 1.6666667,
+        "name": "Laser Rifle",
+        "type": "Rifle"
+    },
+    "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/HextraWeapon": {
+        "totalDamage": 5,
+        "fireRate": 3.3333335,
+        "name": "Multron",
+        "type": "Rifle"
+    },
+    "/Lotus/Types/Sentinels/SentinelWeapons/PrimeLaserRifle": {
+        "totalDamage": 11.999999,
+        "fireRate": 10.000001,
+        "name": "Prime Laser Rifle",
+        "type": "Rifle"
+    },
+    "/Lotus/Types/Sentinels/SentinelWeapons/PrismaBurstLaserPistol": {
+        "totalDamage": 10,
+        "fireRate": 1.6071428,
+        "name": "Prisma Burst Laser",
+        "type": "Pistol"
+    },
+    "/Lotus/Types/Sentinels/SentinelWeapons/SentBioWeapon": {
+        "totalDamage": 15,
+        "fireRate": 3.3333335,
+        "name": "Stinger",
+        "type": "Rifle"
+    },
+    "/Lotus/Types/Sentinels/SentinelWeapons/SentShotgun": {
+        "totalDamage": 7,
+        "fireRate": 1,
+        "name": "Sweeper",
+        "type": "Shotgun"
+    },
+    "/Lotus/Types/Sentinels/SentinelWeapons/PrimeSentShotgun": {
+        "totalDamage": 10,
+        "fireRate": 1,
+        "name": "Sweeper Prime",
+        "type": "Shotgun"
+    },
+    "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/TazronWeapon": {
+        "totalDamage": 6,
+        "fireRate": 8.333334,
+        "name": "Tazicor",
+        "type": "Rifle"
+    },
+    "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/ThermocorMoaWeapon": {
+        "totalDamage": 35,
+        "fireRate": 1,
+        "name": "Vulcax",
+        "type": "Rifle"
+    },
+    "/Lotus/Types/Sentinels/SentinelWeapons/SentElecRailgun": {
+        "totalDamage": 85,
+        "fireRate": 0.15000001,
+        "name": "Vulklok",
+        "type": "Sniper Rifle"
+    }
+}

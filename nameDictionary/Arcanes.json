@@ -1,0 +1,254 @@
+{
+    "[Ph] Regenerate On Headshot": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RegenerateOnHeadshot"
+    },
+    "Arcane": {
+        "uniqueName": "/Lotus/Types/Game/WarframeCosmeticEnhancer"
+    },
+    "Arcane Acceleration": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunSpeedOnCrit"
+    },
+    "Arcane Aegis": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/GolemArcaneShieldRegenOnDamage"
+    },
+    "Arcane Agility": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnDamage"
+    },
+    "Arcane Arachne": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneBonusDamageOnWallLatch"
+    },
+    "Arcane Avenger": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/CritChanceOnDamage"
+    },
+    "Arcane Awakening": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/PistolDamageOnReload"
+    },
+    "Arcane Barrier": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/InstantShieldOnDamage"
+    },
+    "Arcane Blade Charger": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDmgOnRifleKill"
+    },
+    "Arcane Bodyguard": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealCompanionOnSixMeleeKills"
+    },
+    "Arcane Consequence": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneAimGlideOnHeadshot"
+    },
+    "Arcane Defense": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/PunctureProcResist"
+    },
+    "Arcane Deflection": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SlashProcResist"
+    },
+    "Arcane Detoxifier": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/PoisonProcResist"
+    },
+    "Arcane Energize": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneRadialEnergyOnEnergyPickup"
+    },
+    "Arcane Eruption": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialKnockdownOnEnergyPickup"
+    },
+    "Arcane Fury": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDamageOnCrit"
+    },
+    "Arcane Grace": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/HealthRegenOnDamage"
+    },
+    "Arcane Guardian": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ArmourOnDamage"
+    },
+    "Arcane Healing": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadiationProcResist"
+    },
+    "Arcane Ice": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FireProcResist"
+    },
+    "Arcane Liquid": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/GasProcResist"
+    },
+    "Arcane Momentum": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneSniperSpeedOnCrit"
+    },
+    "Arcane Nullifier": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/MagneticProcResist"
+    },
+    "Arcane Phantasm": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnParry"
+    },
+    "Arcane Pistoleer": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AmmoEfficiencyOnPistolHeadshot"
+    },
+    "Arcane Precision": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolDamageOnHeadshot"
+    },
+    "Arcane Primary Charger": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDmgOnMeleeKill"
+    },
+    "Arcane Protection": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/CorrosiveProcResist"
+    },
+    "Arcane Pulse": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialHealOnHealthPickup"
+    },
+    "Arcane Rage": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunDamageOnHeadshot"
+    },
+    "Arcane Resistance": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ElectricityProcResist"
+    },
+    "Arcane Shield": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ImpactProcResist"
+    },
+    "Arcane Strike": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeSpeedOnHit"
+    },
+    "Arcane Survival": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/SlowerBleedOutOnPredeath"
+    },
+    "Arcane Tanker": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ArmorOnHeavyGunEquipped"
+    },
+    "Arcane Temperance": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/DamageReductionDuringRevive"
+    },
+    "Arcane Tempo": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneShotgunSpeedOnCrit"
+    },
+    "Arcane Trickery": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/InvisibilityOnFinisher"
+    },
+    "Arcane Ultimatum": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneArmorOnFinisher"
+    },
+    "Arcane Velocity": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolSpeedOnCrit"
+    },
+    "Arcane Victory": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealthRegenOnHeadshot"
+    },
+    "Arcane Warmth": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FreezeProcResist"
+    },
+    "Exodia Brave": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ChannelKillEnergyRate"
+    },
+    "Exodia Contagion": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneProjectileOnJump"
+    },
+    "Exodia Epidemic": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneShockwaveOnJump"
+    },
+    "Exodia Force": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusTriggerRadialDamage"
+    },
+    "Exodia Hunt": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GroundSlamPull"
+    },
+    "Exodia Might": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/FinisherLifesteal"
+    },
+    "Exodia Triumph": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusChannelingDamage"
+    },
+    "Exodia Valor": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritChannelingDamage"
+    },
+    "Magus Accelerant": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HeatResistOnBlast"
+    },
+    "Magus Anomaly": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/PullOnTransferenceIn"
+    },
+    "Magus Cadence": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/SpeedOnVoidDash"
+    },
+    "Magus Cloud": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ImmunityFallDamageOnVoidDash"
+    },
+    "Magus Destruct": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ProcResistOnBlast"
+    },
+    "Magus Drive": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HoverboardSpeedOnTransferenceIn"
+    },
+    "Magus Elevate": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnTransferenceIn"
+    },
+    "Magus Firewall": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/DamageReductionOnVoidMode"
+    },
+    "Magus Glitch": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/NoPenaltyOnDeath"
+    },
+    "Magus Husk": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ArmourOnOperatorMode"
+    },
+    "Magus Lockdown": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/TetherMineOnDash"
+    },
+    "Magus Melt": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HeatDamageOnDash"
+    },
+    "Magus Nourish": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnTransferenceOut"
+    },
+    "Magus Overload": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/RobotStunOnBlast"
+    },
+    "Magus Repair": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnVoidMode"
+    },
+    "Magus Replenish": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnVoidDash"
+    },
+    "Magus Revert": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ReverseOnDash"
+    },
+    "Magus Vigor": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealthOnOperatorMode"
+    },
+    "Pax Bolt": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/EnergyEfficiencyOnHeadshot"
+    },
+    "Pax Charge": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/BulletToBattery"
+    },
+    "Pax Seeker": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SeekerProjOnHeadshotKill"
+    },
+    "Pax Soar": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/EyeInTheSky"
+    },
+    "Virtuos Forge": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToHeatDamage"
+    },
+    "Virtuos Fury": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedDamageOnStatusProc"
+    },
+    "Virtuos Ghost": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/StatusChanceOnHeadshot"
+    },
+    "Virtuos Null": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/OperatorAmmoRegenOnKill"
+    },
+    "Virtuos Shadow": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/CriticalChanceOnHeadshot"
+    },
+    "Virtuos Spike": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToPunctureDamage"
+    },
+    "Virtuos Strike": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedCriticalDamageOnCriticalStrike"
+    },
+    "Virtuos Surge": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToElectricDamage"
+    },
+    "Virtuos Tempo": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/AttackSpeedOnKill"
+    },
+    "Virtuos Trojan": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToViralDamage"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "Carrier": {
+        "health": 200,
+        "shield": 100,
+        "armor": 50,
+        "imageName": "carrier.png",
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/CarrierPowerSuit"
+    },
+    "Carrier Prime": {
+        "health": 400,
+        "shield": 100,
+        "armor": 150,
+        "imageName": "carrier-prime.png",
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeCarrierPowerSuit"
+    },
+    "Dethcube": {
+        "health": 200,
+        "shield": 100,
+        "armor": 50,
+        "imageName": "dethcube.png",
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/DethCubePowerSuit"
+    },
+    "Dethcube Prime": {
+        "health": 300,
+        "shield": 100,
+        "armor": 150,
+        "imageName": "dethcube-prime.png",
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeDethCubePowerSuit"
+    },
+    "Diriga": {
+        "health": 350,
+        "shield": 50,
+        "armor": 50,
+        "imageName": "diriga.png",
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/ArcDronePowerSuit"
+    },
+    "Djinn": {
+        "health": 200,
+        "shield": 100,
+        "armor": 50,
+        "imageName": "djinn.png",
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/GubberPowerSuit"
+    },
+    "Helios": {
+        "health": 200,
+        "shield": 100,
+        "armor": 50,
+        "imageName": "helios.png",
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/MeleePetPowerSuit"
+    },
+    "Helios Prime": {
+        "health": 250,
+        "shield": 100,
+        "armor": 100,
+        "imageName": "helios-prime.png",
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeHeliosPowerSuit"
+    },
+    "Oxylus": {
+        "health": 200,
+        "shield": 100,
+        "armor": 50,
+        "imageName": "oxylus.png",
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/RadarPowerSuit"
+    },
+    "Prisma Shade": {
+        "health": 350,
+        "shield": 100,
+        "armor": 75,
+        "imageName": "prisma-shade.png",
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/PrismaShadePowerSuit"
+    },
+    "Shade": {
+        "health": 350,
+        "shield": 50,
+        "armor": 50,
+        "imageName": "shade.png",
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/ShadePowerSuit"
+    },
+    "Taxon": {
+        "health": 200,
+        "shield": 100,
+        "armor": 50,
+        "imageName": "taxon.png",
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/TnSentinelCrossPowerSuit"
+    },
+    "Wyrm": {
+        "health": 200,
+        "shield": 100,
+        "armor": 50,
+        "imageName": "wyrm.png",
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/WyrmPowerSuit"
+    },
+    "Wyrm Prime": {
+        "health": 225,
+        "shield": 300,
+        "armor": 150,
+        "imageName": "wyrm-prime.png",
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeWyrmPowerSuit"
+    }
+}

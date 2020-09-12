@@ -1,0 +1,58 @@
+{
+    "Agkuza": {
+        "totalDamage": 435.99997,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchSwordHook/ArchHookSwordWeapon",
+        "type": "",
+        "rivenStatMulti": 0.5
+    },
+    "Centaur": {
+        "totalDamage": 376,
+        "fireRate": 1.0833334,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/Archswordandshield/ArchSwordShield",
+        "type": "",
+        "rivenStatMulti": 0.5
+    },
+    "Kaszas": {
+        "totalDamage": 392,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchScythe/ArchScythe",
+        "type": "",
+        "rivenStatMulti": 0.5
+    },
+    "Knux": {
+        "totalDamage": 445,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/GrnArchHand/GrnArchHandWeapon",
+        "type": "",
+        "rivenStatMulti": 0.5
+    },
+    "Onorix": {
+        "totalDamage": 412,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/Archaxe/ArchAxeWeapon",
+        "type": "",
+        "rivenStatMulti": 0.5
+    },
+    "Prisma Veritux": {
+        "totalDamage": 394,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/VoidTraderArchsword/VTArchSwordWeapon",
+        "type": "",
+        "rivenStatMulti": 0.5
+    },
+    "Rathbone": {
+        "totalDamage": 449.99997,
+        "fireRate": 0.91666669,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchHammer/ArchHammer",
+        "type": "",
+        "rivenStatMulti": 0.5
+    },
+    "Veritux": {
+        "totalDamage": 470,
+        "fireRate": 0.83333337,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/Archsword/ArchSwordWeapon",
+        "type": "",
+        "rivenStatMulti": 0.5
+    }
+}

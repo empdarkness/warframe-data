@@ -1,0 +1,898 @@
+{
+    "Acrid": {
+        "totalDamage": 35,
+        "fireRate": 6.666667,
+        "uniqueName": "/Lotus/Weapons/ClanTech/Bio/AcidDartPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.33
+    },
+    "Afuris": {
+        "totalDamage": 20,
+        "fireRate": 12.500001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboAutoPistols",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.45
+    },
+    "Akarius": {
+        "totalDamage": 487,
+        "fireRate": 4.2483659,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/SapientPistol/SapientPistol",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.05
+    },
+    "Akbolto": {
+        "totalDamage": 40,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboBolto",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Akbolto Prime": {
+        "totalDamage": 32,
+        "fireRate": 7.0000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAkbolto/PrimeAkBoltoWeapon",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.05
+    },
+    "Akbronco": {
+        "totalDamage": 40,
+        "fireRate": 8.333334,
+        "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboShotGun",
+        "type": "Dual Shotguns",
+        "multishot": 7,
+        "rivenStatMulti": 1.35
+    },
+    "Akbronco Prime": {
+        "totalDamage": 50,
+        "fireRate": 4.3333335,
+        "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/PrimeAkimboShotGun",
+        "type": "Dual Shotguns",
+        "multishot": 7,
+        "rivenStatMulti": 1.3
+    },
+    "Akjagara": {
+        "totalDamage": 30,
+        "fireRate": 16.666668,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TigrisRedeemerSetPistol/TnoBladedPistols",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 0.94999999
+    },
+    "Akjagara Prime": {
+        "totalDamage": 36,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAkjagara/AkJagaraPrime",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 0.85000002
+    },
+    "Aklato": {
+        "totalDamage": 30,
+        "fireRate": 7.5000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboPistol",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.52
+    },
+    "Aklex": {
+        "totalDamage": 130,
+        "fireRate": 1.5833334,
+        "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkLexPistols",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.05
+    },
+    "Aklex Prime": {
+        "totalDamage": 150,
+        "fireRate": 2.6666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkLexPrimePistols",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 0.85000002
+    },
+    "Akmagnus": {
+        "totalDamage": 76,
+        "fireRate": 6.166667,
+        "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/DualMagnus",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Aksomati": {
+        "totalDamage": 18,
+        "fireRate": 12.500001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/SomaSidearm/AkimboSomaPistols",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Aksomati Prime": {
+        "totalDamage": 20,
+        "fireRate": 13.333334,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAksomati/PrimeAksomati",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 0.94999999
+    },
+    "Akstiletto": {
+        "totalDamage": 28,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TennoUzi/TennoUzi",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 0.80000001
+    },
+    "Akstiletto Prime": {
+        "totalDamage": 36,
+        "fireRate": 7.0833335,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAkstiletto/PrimeAkstiletto",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 0.60000002
+    },
+    "Akvasto": {
+        "totalDamage": 58,
+        "fireRate": 8.666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/DualVastos",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Akvasto Prime": {
+        "totalDamage": 66,
+        "fireRate": 6.3333335,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/AkPrimeVasto/AkPrimeVastoPistol",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Akzani": {
+        "totalDamage": 12,
+        "fireRate": 20.000002,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/HarlequinGun/HarlequinPistols",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.52
+    },
+    "Angstrum": {
+        "totalDamage": 450,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpHandRL/CorpusHandRocketLauncher",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Arca Scisco": {
+        "totalDamage": 60,
+        "fireRate": 4.666667,
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/SniperPistol/CrpScopeGun",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.1
+    },
+    "Athodai": {
+        "totalDamage": 70,
+        "fireRate": 5.0000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnJetTurbine/TnJetTurbinePistolWeapon",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Atomos": {
+        "totalDamage": 29,
+        "fireRate": 8,
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/HeatGun/GrnHeatGun",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 0.85000002
+    },
+    "Azima": {
+        "totalDamage": 20,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/SundialGun/SundialPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Ballistica": {
+        "totalDamage": 100,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/AutomaticHandCrossbow/AutoCrossBow",
+        "type": "Crossbow",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Ballistica Prime": {
+        "totalDamage": 76,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeBallistica/PrimeBallistica",
+        "type": "Crossbow",
+        "multishot": 4,
+        "rivenStatMulti": 1.2
+    },
+    "Bolto": {
+        "totalDamage": 40,
+        "fireRate": 6.8333335,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/CrossBow",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.51
+    },
+    "Brakk": {
+        "totalDamage": 20,
+        "fireRate": 5.0000005,
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrineerHandShotgun/GrineerHandCannon",
+        "type": "Shotgun Sidearm",
+        "multishot": 10,
+        "rivenStatMulti": 1.25
+    },
+    "Bronco": {
+        "totalDamage": 40,
+        "fireRate": 5.0000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/HandShotGun",
+        "type": "Shotgun Sidearm",
+        "multishot": 7,
+        "rivenStatMulti": 1.45
+    },
+    "Bronco Prime": {
+        "totalDamage": 50,
+        "fireRate": 4.166667,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/BroncoPrime",
+        "type": "Shotgun Sidearm",
+        "multishot": 7,
+        "rivenStatMulti": 1.4
+    },
+    "Castanas": {
+        "totalDamage": 160,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/StickyBomb/StickyBombs",
+        "type": "Thrown",
+        "multishot": 1,
+        "rivenStatMulti": 1.4
+    },
+    "Cestra": {
+        "totalDamage": 26.000002,
+        "fireRate": 8.333334,
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.52
+    },
+    "Cyanex": {
+        "totalDamage": 91,
+        "fireRate": 4.666667,
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpSentAmalgPistol/CrpSentAmalgPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 0.85000002
+    },
+    "Cycron": {
+        "totalDamage": 23,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpChargeGun/CrpChargeGun",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Despair": {
+        "totalDamage": 58,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/StalkerKunai",
+        "type": "Thrown",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Detron": {
+        "totalDamage": 40,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CorpusHandShotgun/CorpusHandCannon",
+        "type": "Shotgun Sidearm",
+        "multishot": 7,
+        "rivenStatMulti": 1.15
+    },
+    "Dex Furis": {
+        "totalDamage": 16,
+        "fireRate": 20.000002,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/DexFuris/DexFuris",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.39
+    },
+    "Dual Cestra": {
+        "totalDamage": 26.000002,
+        "fireRate": 18.750002,
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/DualCorpusMinigun",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Dual Toxocyst": {
+        "totalDamage": 75,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfVomitGun/InfVomitGunWep",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Embolist": {
+        "totalDamage": 35,
+        "fireRate": 8,
+        "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfestedPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.4
+    },
+    "Euphona Prime": {
+        "totalDamage": 325,
+        "fireRate": 1.5000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/AllNew1hSG/AllNew1hSG",
+        "type": "Shotgun Sidearm",
+        "multishot": 1,
+        "rivenStatMulti": 0.75
+    },
+    "Furis": {
+        "totalDamage": 20,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/AutoPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Fusilai": {
+        "totalDamage": 77,
+        "fireRate": 2.8333335,
+        "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/GlassKunai/GlassKunaiWeapon",
+        "type": "Thrown",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Gammacor": {
+        "totalDamage": 16,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Syndicates/CephalonSuda/Pistols/CSDroidArray",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Hikou": {
+        "totalDamage": 26,
+        "fireRate": 6.666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/TennoStars",
+        "type": "Thrown",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Hikou Prime": {
+        "totalDamage": 36,
+        "fireRate": 5.8333335,
+        "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/PrimeThrowingStar/PrimeHikou",
+        "type": "Thrown",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Hystrix": {
+        "totalDamage": 36.000004,
+        "fireRate": 7.0000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/QuillDartgun/QuillDartGunWeapon",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Knell": {
+        "totalDamage": 150,
+        "fireRate": 4,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnPriestPistolScope/TnPriestPistolWeapon",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Kohmak": {
+        "totalDamage": 30,
+        "fireRate": 5.0000005,
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnKohmPistol/GrnKohmPistol",
+        "type": "Shotgun Sidearm",
+        "multishot": 5,
+        "rivenStatMulti": 1.35
+    },
+    "Kraken": {
+        "totalDamage": 49,
+        "fireRate": 4.4155846,
+        "uniqueName": "/Lotus/Weapons/Grineer/GrineerPistol/GrnHeavyPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.53
+    },
+    "Kulstar": {
+        "totalDamage": 500,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnTorpedoPistol/GrnTorpedoPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Kunai": {
+        "totalDamage": 45.999996,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/Kunai",
+        "type": "Thrown",
+        "multishot": 1,
+        "rivenStatMulti": 1.51
+    },
+    "Kuva Brakk": {
+        "totalDamage": 13,
+        "fireRate": 5.8333335,
+        "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Brakk/KuvaBrakk",
+        "type": "Shotgun Sidearm",
+        "multishot": 10,
+        "rivenStatMulti": 0.89999998
+    },
+    "Kuva Kraken": {
+        "totalDamage": 43,
+        "fireRate": 6.7729087,
+        "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Kraken/KuvaKraken",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.05
+    },
+    "Kuva Nukor": {
+        "totalDamage": 21,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Nukor/KuvaNukor",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 0.64999998
+    },
+    "Kuva Seer": {
+        "totalDamage": 200,
+        "fireRate": 2.5000002,
+        "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Seer/KuvaSeer",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 0.94999999
+    },
+    "Kuva Twin Stubbas": {
+        "totalDamage": 27,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Stubba/KuvaStubba",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 0.89999998
+    },
+    "Lato": {
+        "totalDamage": 30,
+        "fireRate": 6.666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/Pistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.4
+    },
+    "Lato Prime": {
+        "totalDamage": 48,
+        "fireRate": 6.666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/LatoPrime",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Lato Vandal": {
+        "totalDamage": 46,
+        "fireRate": 5.0000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/LatoVandal",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Lex": {
+        "totalDamage": 130,
+        "fireRate": 1.0833334,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/HeavyPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Lex Prime": {
+        "totalDamage": 150,
+        "fireRate": 2.0833335,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeLex/PrimeLex",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Magnus": {
+        "totalDamage": 76,
+        "fireRate": 5.8333335,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/Magnum/Magnum",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.53
+    },
+    "Mara Detron": {
+        "totalDamage": 40,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/VoidTrader/VTDetron",
+        "type": "Shotgun Sidearm",
+        "multishot": 7,
+        "rivenStatMulti": 1
+    },
+    "Marelok": {
+        "totalDamage": 160,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrineerLeverActionPistol/GLAPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Mk1-Furis": {
+        "totalDamage": 12.999999,
+        "fireRate": 8.333334,
+        "uniqueName": "/Lotus/Weapons/MK1Series/MK1Furis",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.4
+    },
+    "Mk1-Kunai": {
+        "totalDamage": 40,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/MK1Series/MK1Kunai",
+        "type": "Thrown",
+        "multishot": 1,
+        "rivenStatMulti": 1.51
+    },
+    "Nukor": {
+        "totalDamage": 22,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrineerMicrowavegun/GrnMicrowavePistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.45
+    },
+    "Ocucor": {
+        "totalDamage": 11,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpSentExperimentPistol/CrpSentExperimentPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Pandero": {
+        "totalDamage": 72,
+        "fireRate": 3.0000002,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnBardPistol/TnBardPistolGun",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.1
+    },
+    "Plinx": {
+        "totalDamage": 46,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpSonificBlastor/CrpBlastorWeapon",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Pox": {
+        "totalDamage": 70,
+        "fireRate": 2.0833335,
+        "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfProximityStars/InfProximityStars",
+        "type": "Thrown",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Prisma Angstrum": {
+        "totalDamage": 450,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpHandRL/PrismaAngstrum",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Prisma Twin Gremlins": {
+        "totalDamage": 27,
+        "fireRate": 8.833334,
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrineerBulbousSMG/Prisma/PrismaTwinGremlinsWeapon",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Pyrana": {
+        "totalDamage": 22,
+        "fireRate": 4.166667,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun",
+        "type": "Shotgun Sidearm",
+        "multishot": 12,
+        "rivenStatMulti": 0.80000001
+    },
+    "Pyrana Prime": {
+        "totalDamage": 24,
+        "fireRate": 4,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimePyrana/PrimePyranaPistol",
+        "type": "Shotgun Sidearm",
+        "multishot": 10,
+        "rivenStatMulti": 0.60000002
+    },
+    "Quatz": {
+        "totalDamage": 29,
+        "fireRate": 15.000001,
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnAmphisPistol/GrnAmphisPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Rakta Ballistica": {
+        "totalDamage": 300,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Syndicates/RedVeil/Pistols/RVBallistica",
+        "type": "Crossbow",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Sancti Castanas": {
+        "totalDamage": 300,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Syndicates/NewLoka/Pistols/NLCastanas",
+        "type": "Thrown",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Secura Dual Cestra": {
+        "totalDamage": 28,
+        "fireRate": 12.500001,
+        "uniqueName": "/Lotus/Weapons/Syndicates/PerrinSequence/Pistols/PSDualCestra",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Seer": {
+        "totalDamage": 101,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Grineer/GrineerPistol/GrnScopedPistolPlayer",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.5
+    },
+    "Sepulcrum": {
+        "totalDamage": 94,
+        "fireRate": 3.6666665,
+        "uniqueName": "/Lotus/Weapons/Thanotech/ThanoPistol/ThanotechPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 0.5
+    },
+    "Sicarus": {
+        "totalDamage": 30,
+        "fireRate": 7.3943663,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/BurstPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Sicarus Prime": {
+        "totalDamage": 50,
+        "fireRate": 9.375,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeSicarus/PrimeSicarusPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.1
+    },
+    "Sonicor": {
+        "totalDamage": 50,
+        "fireRate": 1.2500001,
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpAirPistol/CrpAirPistolArray",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Spectra": {
+        "totalDamage": 18,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/ClanTech/Energy/CrpLaserPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.49
+    },
+    "Spectra Vandal": {
+        "totalDamage": 22,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CorpusModularPistol/Vandal/CrpLaserPistolVandal",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.45
+    },
+    "Spira": {
+        "totalDamage": 82,
+        "fireRate": 2.5000002,
+        "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/LiDagger/LiDagger",
+        "type": "Thrown",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Spira Prime": {
+        "totalDamage": 60,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/PrimeLiDagger/PrimeLiDagger",
+        "type": "Thrown",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Staticor": {
+        "totalDamage": 150,
+        "fireRate": 3.5000002,
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpElectroMag/CrpElectroMag",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 0.52999997
+    },
+    "Stubba": {
+        "totalDamage": 33,
+        "fireRate": 6.3333335,
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnUzi/GrnUziWeapon",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Stug": {
+        "totalDamage": 79,
+        "fireRate": 4,
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.48
+    },
+    "Synoid Gammacor": {
+        "totalDamage": 21,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Syndicates/CephalonSuda/Pistols/CSSynoidGammacor",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.05
+    },
+    "Talons": {
+        "totalDamage": 120,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/U18ThrowingKnives/U18throwingknives",
+        "type": "Thrown",
+        "multishot": 1,
+        "rivenStatMulti": 1.4400001
+    },
+    "Telos Akbolto": {
+        "totalDamage": 47,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/Pistols/AHAkbolto",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Twin Grakatas": {
+        "totalDamage": 10,
+        "fireRate": 20.000002,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/TwinGrakatas",
+        "type": "Dual Pistols",
+        "multishot": 2,
+        "rivenStatMulti": 1.15
+    },
+    "Twin Gremlins": {
+        "totalDamage": 37,
+        "fireRate": 5.0000005,
+        "uniqueName": "/Lotus/Weapons/Grineer/GrineerPistol/GrineerAkimboPistol",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Twin Kohmak": {
+        "totalDamage": 30,
+        "fireRate": 6.666667,
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnDWUniques/GrnTwinKohmaks",
+        "type": "Dual Shotguns",
+        "multishot": 5,
+        "rivenStatMulti": 1.25
+    },
+    "Twin Rogga": {
+        "totalDamage": 47.000004,
+        "fireRate": 2.5000002,
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnQueenGuardDualPistol/GrnQueenGuardDualPistols",
+        "type": "Dual Shotguns",
+        "multishot": 15,
+        "rivenStatMulti": 1.3
+    },
+    "Twin Vipers": {
+        "totalDamage": 17,
+        "fireRate": 25.000002,
+        "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboViperPistols",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.45
+    },
+    "Twin Vipers Wraith": {
+        "totalDamage": 18,
+        "fireRate": 25.000002,
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers",
+        "type": "Dual Pistols",
+        "multishot": 1,
+        "rivenStatMulti": 1.41
+    },
+    "Tysis": {
+        "totalDamage": 76,
+        "fireRate": 2.5000002,
+        "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfestedDartPistol/InfestedDartPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.45
+    },
+    "Vasto": {
+        "totalDamage": 58,
+        "fireRate": 5.0000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/RevolverPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.4
+    },
+    "Vasto Prime": {
+        "totalDamage": 66,
+        "fireRate": 5.416667,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/PrimeVastoPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Vaykor Marelok": {
+        "totalDamage": 160,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Syndicates/SteelMeridian/Pistols/SMMarelok",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.1
+    },
+    "Velox": {
+        "totalDamage": 24,
+        "fireRate": 15.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnOdaliskSmg/TnOdaliskSmgPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 0.80000001
+    },
+    "Viper": {
+        "totalDamage": 17,
+        "fireRate": 14.383334,
+        "uniqueName": "/Lotus/Weapons/Grineer/GrineerPistol/GrineerLightPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.45
+    },
+    "Viper Wraith": {
+        "totalDamage": 18,
+        "fireRate": 14.383334,
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/WraithSingleViper/WraithSingleViper",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.4
+    },
+    "Zakti": {
+        "totalDamage": 30,
+        "fireRate": 5.0000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnGuandoPistol/TnGuandoPistolGun",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Zylok": {
+        "totalDamage": 140,
+        "fireRate": 1.5000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/ConclaveLeverPistol/ConclaveLeverPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Zymos": {
+        "totalDamage": 84,
+        "fireRate": 1.3333334,
+        "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfUzi/InfUziWeapon",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 0.5
+    }
+}

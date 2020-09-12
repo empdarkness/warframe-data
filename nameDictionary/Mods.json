@@ -1,0 +1,3140 @@
+{
+    "Abating Link": {
+        "uniqueName": "/Lotus/Powersuits/Trinity/LinkAugmentCard"
+    },
+    "Abundant Mutation": {
+        "uniqueName": "/Lotus/Powersuits/Infestation/InfestPassiveAugmentCard"
+    },
+    "Accelerated Blast": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/AcceleratedBlastMod"
+    },
+    "Accelerated Deflection": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/SentinelShieldRechargeRateMod"
+    },
+    "Accumulating Whipclaw": {
+        "uniqueName": "/Lotus/Powersuits/Khora/KhoraCrackAugmentCard"
+    },
+    "Acid Shells": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Event/ProjectNightwatch/SobekNightwatchMod"
+    },
+    "Acidic Spittle": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorSpitAcidPrecept"
+    },
+    "Adaptation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarResistanceOnDamageMod"
+    },
+    "Adept Surge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreBulletJumpLessHealthMod"
+    },
+    "Adhesive Blast": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponGrenadeStickyMod"
+    },
+    "Adrenaline Boost": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreEnergyLessHealthMod"
+    },
+    "Aerial Ace": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/JumpRefreshOnKillRifleMod"
+    },
+    "Aero Agility": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Hawk/HawkModB"
+    },
+    "Aero Periphery": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Hawk/HawkModC"
+    },
+    "Aero Vantage": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Hawk/HawkModA"
+    },
+    "Aerodynamic": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/WarframeAuraVerticalityMod"
+    },
+    "Afterburn": {
+        "uniqueName": "/Lotus/Powersuits/Dragon/DragonBreathAugmentCard"
+    },
+    "Afterburner": {
+        "uniqueName": "/Lotus/Powersuits/Archwing/DemolitionJetPack/ExhaustTrailAugmentCard"
+    },
+    "Agile Aim": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterMovementWhileAimingRifleMod"
+    },
+    "Agility Drift": {
+        "uniqueName": "/Lotus/Upgrades/Mods/OrokinChallenge/OrokinChallengeModAgility"
+    },
+    "Air Recon": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HigherAirAimFoVPistolMod"
+    },
+    "Air Thrusters": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/AirSlideBoost"
+    },
+    "Air Time": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBAirGravMod"
+    },
+    "Amalgam Argonak Metal Auger": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DualSource/Rifle/ArgonakDaggerMod"
+    },
+    "Amalgam Barrel Diffusion": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DualSource/Pistol/MultishotDodgeMod"
+    },
+    "Amalgam Daikyu Target Acquired": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DualSource/Rifle/DaikyuKatanaMod"
+    },
+    "Amalgam Furax Body Count": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DualSource/Melee/FuraxLauncherMod"
+    },
+    "Amalgam Javlok Magazine Warp": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DualSource/Rifle/JavlokSwordShieldMod"
+    },
+    "Amalgam Organ Shatter": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DualSource/Melee/CritDamageChargeSpeedMod"
+    },
+    "Amalgam Ripkas True Steel": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DualSource/Melee/RipkasShotgunMod"
+    },
+    "Amalgam Serration": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DualSource/Rifle/SerratedRushMod"
+    },
+    "Amalgam Shotgun Spazz": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DualSource/Shotgun/ShotgunMedicMod"
+    },
+    "Ambush": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/GhostAugmentCard"
+    },
+    "Ambush Optics": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/RubicoLowZoom"
+    },
+    "Ammo Case": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/ItemVacum"
+    },
+    "Ammo Chain": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleAmmoMaxMod"
+    },
+    "Ammo Drum": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponAmmoMaxMod"
+    },
+    "Ammo Stock": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponClipMaxMod"
+    },
+    "Anabolic Pollination": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorBuffSporesPrecept"
+    },
+    "Anchored Glide": {
+        "uniqueName": "/Lotus/Powersuits/Tengu/TenguDisablePassiveMod"
+    },
+    "Anemic Agility": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/CorruptedFireRateDamagePistol"
+    },
+    "Animal Instinct": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/SentinelLootRadarEnemyRadarMod"
+    },
+    "Anti-Flak Plating": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/BlastResist"
+    },
+    "Anti-Grav Array": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/AntigravDilator"
+    },
+    "Anti-Grav Grenade": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaLiftBombPrecept"
+    },
+    "Anticipation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/StaggerImmunityMod"
+    },
+    "Antimatter Absorb": {
+        "uniqueName": "/Lotus/Powersuits/AntiMatter/AntiMatterDropAugmentCard"
+    },
+    "Antimatter Mine": {
+        "uniqueName": "/Lotus/Powersuits/AntiMatter/AntiMatterDropPvPAugmentCard"
+    },
+    "Antitoxin": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistancePoisonBeginner"
+    },
+    "Apex Predator": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MarkTargetRifleMod"
+    },
+    "Arc Coil": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/ArcTrap"
+    },
+    "Archgun Ace": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingHeadshotKillAmmoEfficiencyMod"
+    },
+    "Archgun Riven Mod": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare"
+    },
+    "Argent Scourge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPPolearmStanceOne"
+    },
+    "Argon Plating": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitArmourMod"
+    },
+    "Argon Scope": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/CritChanceWhileAimingRifleMod"
+    },
+    "Armored Acrobatics": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/DamageResistanceLessMobility"
+    },
+    "Armored Agility": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/DualStat/RunSpeedArmorMod"
+    },
+    "Armored Evade": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/DamageResistanceLessSlide"
+    },
+    "Armored Recovery": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/RagdollImmunityMod"
+    },
+    "Arrow Mutation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponBowConvertAmmoMod"
+    },
+    "Assault Mode": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/SentinelAttack"
+    },
+    "Assimilate": {
+        "uniqueName": "/Lotus/Powersuits/Jade/SelfBulletAttractorAugmentCard"
+    },
+    "Astral Autopsy": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeScanOnKillMod"
+    },
+    "Astral Slash": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingDualStatSlashStatusMeleeMod"
+    },
+    "Astral Twilight": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbTwoMeleeTree"
+    },
+    "Atlantis Vulcan": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/NunchakuCmbOneMeleeTree"
+    },
+    "Auger Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponEventPunctureDamageMod"
+    },
+    "Augur Accord": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Augur/WarframeAugurAccordMod"
+    },
+    "Augur Message": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Augur/WarframeAugurMessageMod"
+    },
+    "Augur Pact": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Augur/SecondaryAugurPactMod"
+    },
+    "Augur Reach": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Augur/WarframeAugurReachMod"
+    },
+    "Augur Secrets": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Augur/WarframeAugurSecretsMod"
+    },
+    "Augur Seeker": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Augur/SecondaryAugurSeekerMod"
+    },
+    "Auto Breach": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Cipher/AutoHackMod"
+    },
+    "Automatic Trigger": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleFireRateMod"
+    },
+    "Auxiliary Power": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitPowerMaxMod"
+    },
+    "Avenging Truth": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/SilvaAegisMod"
+    },
+    "Aviator": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageReductionInAir"
+    },
+    "Balefire Surge": {
+        "uniqueName": "/Lotus/Powersuits/IronFrame/IronFrameBlastAugmentCard"
+    },
+    "Ballista Measure": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleRangeMod"
+    },
+    "Ballistic Bullseye": {
+        "uniqueName": "/Lotus/Powersuits/Cowgirl/BallisticBatteryAugmentCard"
+    },
+    "Bane Of Corpus": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponFactionDamageCorpus"
+    },
+    "Bane Of Corrupted": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponFactionDamageCorrupted"
+    },
+    "Bane Of Grineer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponFactionDamageGrineer"
+    },
+    "Bane Of Infested": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponFactionDamageInfested"
+    },
+    "Barrel Diffusion": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponFireIterationsMod"
+    },
+    "Battering Maneuver": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/ImpactParkourTwoMod"
+    },
+    "Beguiling Lantern": {
+        "uniqueName": "/Lotus/Powersuits/Fairy/FairyLightAugmentCard"
+    },
+    "Berserker": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponCritFireRateBonusMod"
+    },
+    "Bite": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowCritMod"
+    },
+    "Biting Piranha": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPDualDaggersStanceOne"
+    },
+    "Blade Of Truth": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/JawSwordMod"
+    },
+    "Bladed Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/CritDamageWhileAimingRifleMod"
+    },
+    "Blast Shield": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaChargePrecept"
+    },
+    "Blaze": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/BlazeMod"
+    },
+    "Blazing Pillage": {
+        "uniqueName": "/Lotus/Powersuits/IronFrame/IronFrameStripAugmentCard"
+    },
+    "Blazing Steel": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponFireDamageMod"
+    },
+    "Bleeding Edge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeCritDamageMod"
+    },
+    "Bleeding Willow": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbTwoMeleeTree"
+    },
+    "Blind Justice": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbThreeMeleeTree"
+    },
+    "Blind Rage": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/DualStat/CorruptedPowerEfficiencyWarframe"
+    },
+    "Blind Shot": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HigherVelocityLessAccuratePistolMod"
+    },
+    "Blinding Reave": {
+        "uniqueName": "/Lotus/Powersuits/Revenant/RevenantAfflictionAugmentCard"
+    },
+    "Blood For Ammo": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionAmmoMod"
+    },
+    "Blood For Energy": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionEnergyDropMod"
+    },
+    "Blood For Life": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionHealthDropMod"
+    },
+    "Blood Forge": {
+        "uniqueName": "/Lotus/Powersuits/Garuda/GarudaBloodAugmentCard"
+    },
+    "Blood Rush": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Event/ComboCritChanceMod"
+    },
+    "Blunderbuss": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponCritChanceMod"
+    },
+    "Body Count": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Event/ComboDurationMod"
+    },
+    "Bomb The Landin'": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBGrindSlamMod"
+    },
+    "Bore": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponEventPunctureDamageMod"
+    },
+    "Bounty Hunter": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/MarkTargetShotgunMod"
+    },
+    "Brain Storm": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/GrakataUnlimitedAmmo"
+    },
+    "Breach Loader": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponEventPunctureDamageMod"
+    },
+    "Brief Respite": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/FairyQuest/FairyQuestAbilityToShieldsAuraMod"
+    },
+    "Bright Purity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/SkanaMod"
+    },
+    "Broad Eye": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/HigherAirAimFoVShotgunMod"
+    },
+    "Brutal Tide": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PunchKickCmbTwoMeleeTree"
+    },
+    "Bullet Dance": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/GunbladeCmbTwoMeleeTree"
+    },
+    "Burdened Magazine": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedMaxClipReloadSpeedShotgun"
+    },
+    "Burning Wasp": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/WhipCmbOneMeleeTree"
+    },
+    "Bursting Mass": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/InfCrpShockSwarmRifleArbitrationMod"
+    },
+    "Buzz Kill": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponEventSlashDamageMod"
+    },
+    "Calculated Redirection": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/SentinelShieldMaxMod"
+    },
+    "Calculated Shot": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/HeadShot"
+    },
+    "Calculated Spring": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreHealthLessBulletJumpMod"
+    },
+    "Calculated Victory": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/RestoreShieldsOnKillMod"
+    },
+    "Calm & Frenzy": {
+        "uniqueName": "/Lotus/Powersuits/YinYang/YinYangTargetAugmentCard"
+    },
+    "Capacitance": {
+        "uniqueName": "/Lotus/Powersuits/Volt/OverloadAugmentCard"
+    },
+    "Carnis Carapace": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Ashen/AshenCarapaceMod"
+    },
+    "Carnis Mandible": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Ashen/AshenMandibleMod"
+    },
+    "Carnis Stinger": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Ashen/AshenStingerMod"
+    },
+    "Carving Mantis": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbThreeMeleeTree"
+    },
+    "Cat'S Eye": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowCatsEyePrecept"
+    },
+    "Cataclysmic Continuum": {
+        "uniqueName": "/Lotus/Powersuits/Magician/TearInSpaceAugmentCard"
+    },
+    "Catalyzer Link": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/StatusProcWhileAimingRifleMod"
+    },
+    "Catapult": {
+        "uniqueName": "/Lotus/Powersuits/Devourer/DevourerBowlAugmentCard"
+    },
+    "Cautious Shot": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponResistSelfDamageMod"
+    },
+    "Celestial Nightfall": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPGlaiveStanceOne"
+    },
+    "Celestial Stomp": {
+        "uniqueName": "/Lotus/Powersuits/MonkeyKing/MonkeyPokeAugmentCard"
+    },
+    "Chaos Sphere": {
+        "uniqueName": "/Lotus/Powersuits/Jade/ChaosAugmentCard"
+    },
+    "Charged Bullets": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventElectricStatusRifleMod"
+    },
+    "Charged Chamber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/SniperReloadDamageMod"
+    },
+    "Charged Shell": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponElectricityDamageMod"
+    },
+    "Charm": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowLuckPrecept"
+    },
+    "Chilling Globe": {
+        "uniqueName": "/Lotus/Powersuits/Frost/IceShieldAugmentCard"
+    },
+    "Chilling Grasp": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponFreezeDamageMod"
+    },
+    "Chilling Reload": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/ColdDmgReloadSpeedMod"
+    },
+    "Chromatic Blade": {
+        "uniqueName": "/Lotus/Powersuits/Excalibur/SwordOfDoomAugmentCard"
+    },
+    "Clashing Forest": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/StaffCmbOneMeleeTree"
+    },
+    "Cleanse Corpus": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageCorpus"
+    },
+    "Cleanse Corrupted": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageCorrupted"
+    },
+    "Cleanse Grineer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageGrineer"
+    },
+    "Cleanse Infested": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageInfested"
+    },
+    "Cleaving Whirlwind": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/AxeCmbTwoMeleeTree"
+    },
+    "Coaction Drift": {
+        "uniqueName": "/Lotus/Upgrades/Mods/OrokinChallenge/OrokinChallengeModCollaboration"
+    },
+    "Coiling Viper": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/WhipCmbTwoMeleeTree"
+    },
+    "Cold Arrival": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBColdLeakMod"
+    },
+    "Cold Snap": {
+        "uniqueName": "/Lotus/Powersuits/Archwing/StealthJetPack/GravInstabilityAugmentCard"
+    },
+    "Collision Force": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponEventMeleeImpactDamageMod"
+    },
+    "Combat Discipline": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/WarframeAuraBloodLetterMod"
+    },
+    "Combustion Beam": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponBeamExplodeOnDeath"
+    },
+    "Combustion Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponFireDamageMod"
+    },
+    "Comet Blast": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingDualStatImpactStatusMod"
+    },
+    "Comet Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/DamageBiasImpactRifleMod"
+    },
+    "Concealed Explosives": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/ThrowingExplosionChanceMod"
+    },
+    "Concentrated Arrow": {
+        "uniqueName": "/Lotus/Powersuits/Ranger/RangerBowAugmentCard"
+    },
+    "Concussion Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponImpactDamageMod"
+    },
+    "Condition Overload": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponDamageIfVictimProcActive"
+    },
+    "Conductor": {
+        "uniqueName": "/Lotus/Powersuits/Bard/BardCharmAugmentCard"
+    },
+    "Constitution": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/DualStat/ConstitutionMod"
+    },
+    "Contagion Cloud": {
+        "uniqueName": "/Lotus/Powersuits/Saryn/WeaponPoisonAugmentCard"
+    },
+    "Contagious Spread": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponToxinDamageMod"
+    },
+    "Contamination Casing": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventToxinStatusRifleMod"
+    },
+    "Continuity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarAbilityDurationModBeginner"
+    },
+    "Continuous Misery": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponProcTimeMod"
+    },
+    "Controlled Slide": {
+        "uniqueName": "/Lotus/Powersuits/Nezha/NezhaDisablePassiveMod"
+    },
+    "Convulsion": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponElectricityDamageMod"
+    },
+    "Coolant Leak": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/CoolantLeak"
+    },
+    "Corroding Barrage": {
+        "uniqueName": "/Lotus/Powersuits/Pirate/CannonBarrageAugmentCard"
+    },
+    "Corrosive Projection": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/EnemyArmorReductionAuraMod"
+    },
+    "Corrupt Charge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/CorruptedHeavyDamageChargeSpeedMod"
+    },
+    "Counter Pulse": {
+        "uniqueName": "/Lotus/Powersuits/Mag/ShieldRegenAugmentCard"
+    },
+    "Counterweight": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Melee/DamageBiasImpactMeleeMod"
+    },
+    "Covert Lethality": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeStealthLethalMod"
+    },
+    "Crash Course": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponEventRifleImpactDamageMod"
+    },
+    "Crash Shot": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/DamageBiasImpactShotgunMod"
+    },
+    "Crashing Havoc": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPHammerStanceOne"
+    },
+    "Crashing Timber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPStavesStanceOne"
+    },
+    "Creeping Bullseye": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/CorruptedCritChanceFireRatePistol"
+    },
+    "Creeping Terrify": {
+        "uniqueName": "/Lotus/Powersuits/Necro/TerrorTotemAugmentCard"
+    },
+    "Crescent Charge": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedCatbrowGoreTossPrecept"
+    },
+    "Crescent Devolution": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/HornedInfestedCatbrowRespawn"
+    },
+    "Crimson Dervish": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/CrimsonDervishMeleeTree"
+    },
+    "Critical Deceleration": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedCritChanceFireRateShotgun"
+    },
+    "Critical Delay": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedCritRateFireRateRifle"
+    },
+    "Critical Focus": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritChanceDamageAimingMod"
+    },
+    "Crossing Snakes": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbTwoMeleeTree"
+    },
+    "Crowd Dispersion": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/CrowdDispersion"
+    },
+    "Crushing Ruin": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/HammerCmbTwoMeleeTree"
+    },
+    "Cryo Coating": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventColdStatusMeleeMod"
+    },
+    "Cryo Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponFreezeDamageMod"
+    },
+    "Cunning Aspect": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPRapierStanceOne"
+    },
+    "Cunning Drift": {
+        "uniqueName": "/Lotus/Upgrades/Mods/OrokinChallenge/OrokinChallengeModCunning"
+    },
+    "Curative Undertow": {
+        "uniqueName": "/Lotus/Powersuits/Pirate/LiquifyAugmentCard"
+    },
+    "Cutting Edge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeDamageMod"
+    },
+    "Cyclone Kraken": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/MacheteCmbTwoMeleeTree"
+    },
+    "Dead Eye": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerSniperDamageAuraMod"
+    },
+    "Deadly Efficiency": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingDamageAfterReloadMod"
+    },
+    "Deadly Maneuvers": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Nightwave/MagnusNightwaveMod"
+    },
+    "Deadly Sequence": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/GrinlokMod"
+    },
+    "Deceptive Bond": {
+        "uniqueName": "/Lotus/Powersuits/Loki/DecoyPvPAugmentCard"
+    },
+    "Decisive Judgement": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbTwoMeleeTree"
+    },
+    "Deep Freeze": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponFreezeDamageMod"
+    },
+    "Defiled Reckoning": {
+        "uniqueName": "/Lotus/Powersuits/Paladin/ReckoningPvPAugmentCard"
+    },
+    "Defiled Snapdragon": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordWhipCmbOneMeleeTree"
+    },
+    "Deft Tempo": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterBulletJumponHeadshotRifleMod"
+    },
+    "Depleted Reload": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedReloadSpeedMaxClipRifle"
+    },
+    "Desiccation'S Curse": {
+        "uniqueName": "/Lotus/Powersuits/Sandman/SandmanBlastAugmentCard"
+    },
+    "Despoil": {
+        "uniqueName": "/Lotus/Powersuits/Necro/SearchTheDeadAugmentCard"
+    },
+    "Detect Vulnerability": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/WeaknessScanPrecept"
+    },
+    "Diamond Skin": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistanceLaserBeginner"
+    },
+    "Dig": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowDigPrecept"
+    },
+    "Directed Convergence": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/SupraHigherAccuracyAiming"
+    },
+    "Disarming Purity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/PantheraMod"
+    },
+    "Discharge Strike": {
+        "uniqueName": "/Lotus/Powersuits/Necro/SoulPunchPvPAugmentCard"
+    },
+    "Dispatch Overdrive": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/MoveSpeedOnChannelKillMod"
+    },
+    "Disruptor": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponImpactDamageMod"
+    },
+    "Dividing Blades": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPDualSwordStanceOne"
+    },
+    "Dizzying Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Nightwave/BroncoNightwaveMod"
+    },
+    "Double Tap": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MoreDamageonTripleTapRifleMod"
+    },
+    "Double-Barrel Drift": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/MoreAccuracyLessRecoilSlidingShotgunMod"
+    },
+    "Draining Bite": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowVampireBitePrecept"
+    },
+    "Draining Gloom": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/DespairEnergyDrainAoE"
+    },
+    "Dread Ward": {
+        "uniqueName": "/Lotus/Powersuits/Garuda/GarudaShieldAugmentCard"
+    },
+    "Drifting Contact": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/ComboTimeStatusChanceMod"
+    },
+    "Dual Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleFireIterationsMod"
+    },
+    "Duality": {
+        "uniqueName": "/Lotus/Powersuits/YinYang/YinYangSwitchAugmentCard"
+    },
+    "Eagle Eye": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponZoomFovMod"
+    },
+    "Efficient Beams": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Event/Arbitration/CrpSplitLaserArbitrationMod"
+    },
+    "Efficient Transferral": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityDurationMod"
+    },
+    "Eject Magazine": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/PassiveReloadMod"
+    },
+    "Electrified Barrel": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponElectricityDamageMod"
+    },
+    "Electro Pulse": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/TaserStun"
+    },
+    "Electromagnetic Shielding": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Event/ProjectNightwatch/AckBruntNightwatchMod"
+    },
+    "Elemental Sandstorm": {
+        "uniqueName": "/Lotus/Powersuits/Sandman/SandmanStormAugmentCard"
+    },
+    "Eleventh Storm": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordShieldCmbOneMeleeTree"
+    },
+    "Embedded Catalyzer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Event/StatusProcWhileAimingPistolMod"
+    },
+    "Emergent Aftermath": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterReloadOnKillSniperMod"
+    },
+    "Emp Aura": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/RobotPoorAimAuraMod"
+    },
+    "Empowered Blades": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/FairyQuest/FairyQuestShieldsToCritAuraMod"
+    },
+    "Empowered Quiver": {
+        "uniqueName": "/Lotus/Powersuits/Ranger/RangerQuiverAugmentCard"
+    },
+    "Endless Lullaby": {
+        "uniqueName": "/Lotus/Powersuits/Pacifist/PacifistWaveAugmentCard"
+    },
+    "Endoparasitic Vector": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorSpitParasitePrecept"
+    },
+    "Endurance Drift": {
+        "uniqueName": "/Lotus/Upgrades/Mods/OrokinChallenge/OrokinChallengeModEndurance"
+    },
+    "Enduring Affliction": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelProcTimeExtendOnHitMod"
+    },
+    "Enduring Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelStatusMod"
+    },
+    "Enemy Radar": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerEnemyRadarAuraMod"
+    },
+    "Enemy Sense": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarEnemyRadarModBeginner"
+    },
+    "Energizing Shot": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Event/ShootPickUpPistolMod"
+    },
+    "Energy Amplifier": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityRangeMod"
+    },
+    "Energy Channel": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponPowerDamageMod"
+    },
+    "Energy Conversion": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/EnergyPickupGivesStrengthMod"
+    },
+    "Energy Field": {
+        "uniqueName": "/Lotus/Powersuits/Archwing/StandardJetPack/FireShieldAugmentCard"
+    },
+    "Energy Generator": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/ItemDropOnAssist"
+    },
+    "Energy Inversion": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitShieldMaxMod"
+    },
+    "Energy Siphon": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerEnergyRegenAuraMod"
+    },
+    "Energy Transfer": {
+        "uniqueName": "/Lotus/Powersuits/YinYang/YinYangBurstAugmentCard"
+    },
+    "Enhanced Durability": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitHealthMaxMod"
+    },
+    "Enhanced Vitality": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/SentinelHealthMaxMod"
+    },
+    "Enraged": {
+        "uniqueName": "/Lotus/Powersuits/Berserker/LastStandAugmentTwoCard"
+    },
+    "Entropy Burst": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/SupraMod"
+    },
+    "Entropy Detonation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/ObexMod"
+    },
+    "Entropy Flight": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/KestrelMod"
+    },
+    "Entropy Spike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/BoltoMod"
+    },
+    "Enveloping Cloud": {
+        "uniqueName": "/Lotus/Powersuits/MonkeyKing/MonkeyCloudAugmentCard"
+    },
+    "Equilibrium": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarPickupBonusModBeginner"
+    },
+    "Eroding Blight": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/EmbolistMod"
+    },
+    "Escape Velocity": {
+        "uniqueName": "/Lotus/Powersuits/AntiMatter/WormHoleAugmentCard"
+    },
+    "Eternal War": {
+        "uniqueName": "/Lotus/Powersuits/Berserker/IntimidateAugmentCard"
+    },
+    "Everlasting Ward": {
+        "uniqueName": "/Lotus/Powersuits/Dragon/DragonLuckAugmentCard"
+    },
+    "Exothermic": {
+        "uniqueName": "/Lotus/Powersuits/Ember/WorldOnFireAugmentCard"
+    },
+    "Expel Corpus": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Beginner/WeaponPistolFactionDamageCorpusBeginner"
+    },
+    "Expel Corrupted": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageCorrupted"
+    },
+    "Expel Grineer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageGrineer"
+    },
+    "Expel Infested": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageInfested"
+    },
+    "Explosive Demise": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Melee/ExplodeOnMeleeDeath"
+    },
+    "Explosive Legerdemain": {
+        "uniqueName": "/Lotus/Powersuits/Harlequin/ObjectChangeAugmentCard"
+    },
+    "Exposing Harpoon": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/GrnHarpoonGunArbitrationMod"
+    },
+    "Extend": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeRangeIncMod"
+    },
+    "Extreme Velocity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBSpeedMod"
+    },
+    "Failsafe": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnFailHackResetMod"
+    },
+    "Fanged Fusillade": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponEventSlashDamageMod"
+    },
+    "Fass": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalSixMod"
+    },
+    "Fast Deflection": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarShieldRechargeRateModBeginner"
+    },
+    "Fast Hands": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponReloadSpeedMod"
+    },
+    "Fatal Acceleration": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponProjectileSpeedMod"
+    },
+    "Fatal Attraction": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/Bait"
+    },
+    "Fatal Teleport": {
+        "uniqueName": "/Lotus/Powersuits/Ninja/TeleportToAugmentCard"
+    },
+    "Fateful Truth": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPKatanaStanceOne"
+    },
+    "Feathered Arrows": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherVelocityLessDamageBowMod"
+    },
+    "Ferocity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowFinisherMod"
+    },
+    "Fetch": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/BeastUniversalVacuum"
+    },
+    "Fever Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponToxinDamageMod"
+    },
+    "Final Act": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/IncreasedEfficiencyOnLowHealth"
+    },
+    "Final Harbinger": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/RegorSwordShieldMeleeTree"
+    },
+    "Final Tap": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HindDamageonFifthHit"
+    },
+    "Finishing Touch": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFinisherDamageMod"
+    },
+    "Fireball Frenzy": {
+        "uniqueName": "/Lotus/Powersuits/Ember/FireBallAugmentCard"
+    },
+    "Fired Up": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/SentinelOverheatDamageMod"
+    },
+    "Firestorm": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponIncreaseRadialExplosionMod"
+    },
+    "Firewalker": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/FireParkourTwoMod"
+    },
+    "Flailing Branch": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/StaffCmbTwoMeleeTree"
+    },
+    "Flak Shot": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/DamageBiasSlashShotgunMod"
+    },
+    "Flame Gland": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowFireEventMeleeMod"
+    },
+    "Flame Repellent": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistanceFireBeginner"
+    },
+    "Flechette": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponArmorPiercingDamageMod"
+    },
+    "Fleeting Expertise": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/DualStat/CorruptedEfficiencyDurationWarframe"
+    },
+    "Flow": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarPowerMaxModBeginner"
+    },
+    "Flux Overdrive": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/CorpusArena/FluxRifleCorpusArenaMod"
+    },
+    "Focus Energy": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/FocusEnergyMod"
+    },
+    "Focused Acceleration": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/TetraFasterProjAiming"
+    },
+    "Focused Defense": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelArmourMod"
+    },
+    "Follow Through": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/EnergyOnKill"
+    },
+    "Fomorian Accelerant": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Event/ProjectNightwatch/DrakgoonNightwatchMod"
+    },
+    "Fortitude": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/DualStat/FortitudeMod"
+    },
+    "Four Riders": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/ClawCmbThreeMeleeTree"
+    },
+    "Fracturing Crush": {
+        "uniqueName": "/Lotus/Powersuits/Mag/CrushAugmentCard"
+    },
+    "Fracturing Wind": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/FistCmbOneMeleeTree"
+    },
+    "Frail Momentum": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedFireRateDamageShotgun"
+    },
+    "Freeze Force": {
+        "uniqueName": "/Lotus/Powersuits/Frost/IcicleAugmentCard"
+    },
+    "Frigid Blast": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/IceEventShotgunMod"
+    },
+    "Frost Jaw": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowIceEventMeleeMod"
+    },
+    "Frostbite": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/IceEventPistolMod"
+    },
+    "Full Capacity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/LargerMagLongerReloadPistolMod"
+    },
+    "Full Contact": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponEventShotgunImpactDamageMod"
+    },
+    "Fulmination": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Event/AmbulasEvent/SecondaryExplosionRadiusMod"
+    },
+    "Funnel Clouds": {
+        "uniqueName": "/Lotus/Powersuits/Tengu/TornadoAugmentCard"
+    },
+    "Furious Javelin": {
+        "uniqueName": "/Lotus/Powersuits/Excalibur/RadialJavelinAugmentCard"
+    },
+    "Furor": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeFireRateMod"
+    },
+    "Fury": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponFireRateMod"
+    },
+    "Gaia'S Tragedy": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/FistCmbThreeMeleeTree"
+    },
+    "Gale Kick": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/WarframeMightyKickMod"
+    },
+    "Galvanized Blade": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponElectricityDamageMod"
+    },
+    "Gemini Cross": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/TonfaCmbOneMeleeTree"
+    },
+    "Ghost": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/Ghost"
+    },
+    "Gilded Truth": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/BurstonPrimeMod"
+    },
+    "Glacial Edge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponFreezeDamageMod"
+    },
+    "Gladiator Aegis": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Gladiator/WarframeGladiatorAegisMod"
+    },
+    "Gladiator Finesse": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Gladiator/WarframeGladiatorFinesseMod"
+    },
+    "Gladiator Might": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Gladiator/MeleeGladiatorMightMod"
+    },
+    "Gladiator Resolve": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Gladiator/WarframeGladiatorResolveMod"
+    },
+    "Gladiator Rush": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Gladiator/MeleeGladiatorRushMod"
+    },
+    "Gladiator Vice": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Gladiator/MeleeGladiatorViceMod"
+    },
+    "Gleaming Blight": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/DarkDaggerMod"
+    },
+    "Gleaming Talon": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbOneMeleeTree"
+    },
+    "Gnashing Payara": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbTwoMeleeTree"
+    },
+    "Gorgon Frenzy": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterRoFonKillGorgonMod"
+    },
+    "Greedy Pull": {
+        "uniqueName": "/Lotus/Powersuits/Mag/PullAugmentCard"
+    },
+    "Grim Fury": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PunchKickCmbOneMeleeTree"
+    },
+    "Grinloked": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MoreAccuracyOnHitGrinlokMod"
+    },
+    "Growing Power": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/FairyQuest/FairyQuestCritToAbilityAuraMod"
+    },
+    "Guardian": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/Guardian"
+    },
+    "Guardian Derision": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponBlockingTauntMod"
+    },
+    "Guided Effigy": {
+        "uniqueName": "/Lotus/Powersuits/Dragon/DragonPeltAugmentCard"
+    },
+    "Guided Ordnance": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/AccuracyWhileAimingRifleMod"
+    },
+    "Gun Glide": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MoreAccuracyLessRecoilSlidingMod"
+    },
+    "Gunslinger": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponFireRateMod"
+    },
+    "Hall Of Malevolence": {
+        "uniqueName": "/Lotus/Powersuits/Harlequin/IllusionAugmentCard"
+    },
+    "Hallowed Eruption": {
+        "uniqueName": "/Lotus/Powersuits/Paladin/StairwayToHeavenAugmentCard"
+    },
+    "Hallowed Reckoning": {
+        "uniqueName": "/Lotus/Powersuits/Paladin/ReckoningAugmentCard"
+    },
+    "Hammer Shot": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/HammerShotMod"
+    },
+    "Handspring": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarKnockdownRecoveryMod"
+    },
+    "Hard Engage": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Moa/MoaMeleeMod"
+    },
+    "Harkonar Scope": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/ProjectNightwatch/VulkarNightwatchMod"
+    },
+    "Hastened Deflection": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowShieldRechargeRateMod"
+    },
+    "Hastened Steps": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/FasterSprintLessShield"
+    },
+    "Hawk Eye": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolZoomFovMod"
+    },
+    "Healing Flame": {
+        "uniqueName": "/Lotus/Powersuits/Ember/FireBlastAugmentCard"
+    },
+    "Healing Return": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponHealOnHitEnemyWithProc"
+    },
+    "Health Conversion": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/HealthPickupGivesArmourMod"
+    },
+    "Heartseeker": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Melee/DaggerMeleeAutoTargetBonus"
+    },
+    "Heated Charge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponFireDamageMod"
+    },
+    "Heavy Caliber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedDamageRecoilRifle"
+    },
+    "Heavy Impact": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarFallingImpactModBeginner"
+    },
+    "Heavy Trauma": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponImpactDamageMod"
+    },
+    "Heavy Warhead": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/BiggerRadiusSlowerVelocityPistolMod"
+    },
+    "Heightened Reflexes": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/FasterCastingHigherEnergyCostMod"
+    },
+    "Hell'S Chamber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireIterationsMod"
+    },
+    "Hellfire": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponFireDamageMod"
+    },
+    "High Noon": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/GunbladeCmbOneMeleeTree"
+    },
+    "High Voltage": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/ElectEventRifleMod"
+    },
+    "Hit And Run": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionParkourSpeedMod"
+    },
+    "Hollow Point": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/CorruptedCritDamagePistol"
+    },
+    "Hollowed Bullets": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritDamageMod"
+    },
+    "Homing Fang": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbOneMeleeTree"
+    },
+    "Hornet Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponDamageAmountMod"
+    },
+    "Howl": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowFearPrecept"
+    },
+    "Hunt": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowChargePrecept"
+    },
+    "Hunter Adrenaline": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Hunter/WarframeHunterAdrenalineMod"
+    },
+    "Hunter Command": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Hunter/CompanionHunterCommandMod"
+    },
+    "Hunter Munitions": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Hunter/PrimaryHunterMunitionsMod"
+    },
+    "Hunter Recovery": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Hunter/CompanionHunterRecoveryMod"
+    },
+    "Hunter Synergy": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Hunter/CompanionHunterSynergyMod"
+    },
+    "Hunter Track": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Hunter/PrimaryHunterTrackMod"
+    },
+    "Hunter'S Bonesaw": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Event/ProjectNightwatch/RipkasNightwatchMod"
+    },
+    "Hush": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponNoiseReductionMod"
+    },
+    "Hushed Invisibility": {
+        "uniqueName": "/Lotus/Powersuits/Loki/InvisibilityAugmentCard"
+    },
+    "Hydraulic Barrel": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/LessRecoilSmallerMagPistolMod"
+    },
+    "Hydraulic Chamber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/LessRecoilSmallerMagShotgunMod"
+    },
+    "Hydraulic Crosshairs": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Event/CritChanceWhileAimingPistolMod"
+    },
+    "Hydraulic Gauge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/LessRecoilSmallerMagRifleMod"
+    },
+    "Hyperion Thrusters": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitSprintSpeedMod"
+    },
+    "Hypothermic Shell": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventColdStatusRifleMod"
+    },
+    "Hysterical Assault": {
+        "uniqueName": "/Lotus/Powersuits/Berserker/LastStandAugmentCard"
+    },
+    "Hysterical Fixation": {
+        "uniqueName": "/Lotus/Powersuits/Berserker/LastStandPvPAugmentCard"
+    },
+    "Iatric Mycelium": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorHealingSporesPrecept"
+    },
+    "Ice Spring": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/IceParkourTwoMod"
+    },
+    "Ice Storm": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/IceStormMod"
+    },
+    "Ice Wave Impedance": {
+        "uniqueName": "/Lotus/Powersuits/Frost/IceSpikeAugmentCard"
+    },
+    "Icy Avalanche": {
+        "uniqueName": "/Lotus/Powersuits/Frost/AvalancheAugmentCard"
+    },
+    "Immolated Radiance": {
+        "uniqueName": "/Lotus/Powersuits/Ember/FireSkinAugmentCard"
+    },
+    "Impaler Munitions": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/DamageBiasPuncturePistolMod"
+    },
+    "Impenetrable Offense": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Melee/BlockMoreAttackSlowerMeleeMod"
+    },
+    "Incendiary Coat": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireDamageMod"
+    },
+    "Inertia Dampeners": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBPointsMultiplierMod"
+    },
+    "Infected Clip": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponToxinDamageMod"
+    },
+    "Infectious Bite": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorInfectiousBitePrecept"
+    },
+    "Infectious Injection": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventToxinStatusMeleeMod"
+    },
+    "Infested Impedance": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/InfestationSpeedReductionAuraMod"
+    },
+    "Infiltrate": {
+        "uniqueName": "/Lotus/Powersuits/Ranger/RangerStealAugmentCard"
+    },
+    "Insatiable": {
+        "uniqueName": "/Lotus/Powersuits/Infestation/InfestPodsAugmentCard"
+    },
+    "Insulation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistanceIceBeginner"
+    },
+    "Intensify": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarAbilityStrengthModBeginner"
+    },
+    "Intruder": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarTimeLimitIncreaseModBeginner"
+    },
+    "Investigator": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/CodexScannerPrecept"
+    },
+    "Ion Infusion": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventElectricStatusMeleeMod"
+    },
+    "Iron Phoenix": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/IronPhoenixMeleeTree"
+    },
+    "Iron Shrapnel": {
+        "uniqueName": "/Lotus/Powersuits/Rhino/IronSkinAugmentCard"
+    },
+    "Ironclad Charge": {
+        "uniqueName": "/Lotus/Powersuits/Rhino/RhinoChargeAugmentCard"
+    },
+    "Ironclad Flight": {
+        "uniqueName": "/Lotus/Powersuits/Fairy/FairyDisablePassiveMod"
+    },
+    "Irradiating Disarm": {
+        "uniqueName": "/Lotus/Powersuits/Loki/DisarmAugmentCard"
+    },
+    "Jagged Edge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponSlashDamageMod"
+    },
+    "Jahu": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalThreeMod"
+    },
+    "Jet Stream": {
+        "uniqueName": "/Lotus/Powersuits/Tengu/TurbulenceAugmentCard"
+    },
+    "Jolt": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod"
+    },
+    "Jugulus Barbs": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Boneblade/BonebladeBarbsMod"
+    },
+    "Jugulus Carapace": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Boneblade/BonebladeCarapaceMod"
+    },
+    "Jugulus Spines": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Boneblade/BonebladeSpinesMod"
+    },
+    "Juice": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBEnergyTricksMod"
+    },
+    "Justice Blades": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/DualCleaversMod"
+    },
+    "Kavat'S Grace": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/WarframeCatMod"
+    },
+    "Khra": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalEightMod"
+    },
+    "Kill Switch": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/FasterReloadOnKillShotgunMod"
+    },
+    "Killing Blow": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeHeavyDamageMod"
+    },
+    "Kinetic Collision": {
+        "uniqueName": "/Lotus/Powersuits/Volt/SpeedPvPAugmentCard"
+    },
+    "Kinetic Diversion": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingDamageToEnergyMod"
+    },
+    "Kinetic Friction": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBGrindStaticMod"
+    },
+    "Kinetic Ricochet": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/CorpusArena/TetraCorpusArenaMod"
+    },
+    "Kitgun Riven Mod": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Randomized/LotusModularPistolRandomModRare"
+    },
+    "Larva Burst": {
+        "uniqueName": "/Lotus/Powersuits/Infestation/InfestTendrilsAugmentCard"
+    },
+    "Laser Sight": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Event/CritChanceWhileAimingShotgunMod"
+    },
+    "Lashing Coil": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPWhipStanceOne"
+    },
+    "Last Herald": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPSwordShieldStanceOne"
+    },
+    "Lasting Covenant": {
+        "uniqueName": "/Lotus/Powersuits/Priest/PriestPactAugmentCard"
+    },
+    "Lasting Purity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/VulkarMod"
+    },
+    "Lasting Sting": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponProcTimeMod"
+    },
+    "Lethal Momentum": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponProjectileSpeedMod"
+    },
+    "Lethal Torrent": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/GrinderMod"
+    },
+    "Lie In Wait": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherAimedDamageMoreRecoilSniperMod"
+    },
+    "Life Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelVampireMod"
+    },
+    "Lightning Dash": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/ElectricalParkourTwoMod"
+    },
+    "Lightning Rod": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarDamageResistanceElectricityBeginner"
+    },
+    "Lingering Torment": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponProcTimeMod"
+    },
+    "Link Armor": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowLinkArmourMaxMod"
+    },
+    "Link Health": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowLinkHealthMaxMod"
+    },
+    "Link Shields": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowLinkShieldMaxMod"
+    },
+    "Live Wire": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Cipher/ElectrifyOnHackMod"
+    },
+    "Loaded Capacity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/LargerMagLongerReloadShotgunMod"
+    },
+    "Lock And Load": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/PassiveReloadMod"
+    },
+    "Lohk": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalOneMod"
+    },
+    "Loose Chamber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/FasterReloadMoreRecoilShotgunMod"
+    },
+    "Loose Hatch": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterReloadMoreRecoilRifleMod"
+    },
+    "Loose Magazine": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/FasterReloadMoreRecoilPistolMod"
+    },
+    "Loot Detector": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerLootRadarAuraMod"
+    },
+    "Looter": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/Looter"
+    },
+    "Loyal Companion": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowMasterBleedoutMod"
+    },
+    "Lucky Shot": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherVelocityLessAccurateRifleMod"
+    },
+    "Mad Stack": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBFallVelocityMod"
+    },
+    "Madurai Transmute Core": {
+        "uniqueName": "/Lotus/Upgrades/Mods/TransmuteCores/AttackTransmuteCore"
+    },
+    "Mafic Rain": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPNunchakuStanceOne"
+    },
+    "Mag Locks": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBGrindMagnetismMod"
+    },
+    "Magazine Extension": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleClipMaxMod"
+    },
+    "Magazine Warp": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponClipMaxMod"
+    },
+    "Maglev": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarSlideBoostModBeginner"
+    },
+    "Magma Chamber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventFireStatusRifleMod"
+    },
+    "Magnetized Discharge": {
+        "uniqueName": "/Lotus/Powersuits/Mag/BulletAttractorAugmentCard"
+    },
+    "Magnum Force": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/CorruptedDamageRecoilPistol"
+    },
+    "Maim": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponEventSlashDamageMod"
+    },
+    "Maiming Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Event/SlideAttackCritChanceMod"
+    },
+    "Malicious Raptor": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/ClawCmbOneMeleeTree"
+    },
+    "Malignant Force": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/PoisonEventRifleMod"
+    },
+    "Marked Target": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleStatusChanceAimingMod"
+    },
+    "Martial Fury": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Melee/MeleeAutoTargetBonus"
+    },
+    "Master Key": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnHackLockersMod"
+    },
+    "Master Thief": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarChanceToLoot"
+    },
+    "Maul": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowMeleeDamageMod"
+    },
+    "Maximum Capacity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/LargerMagLongerReloadRifleMod"
+    },
+    "Measured Burst": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/TiberonLowRoFAiming"
+    },
+    "Mecha Empowered": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Mecha/WarframeAuraMechaEmpowerMod"
+    },
+    "Mecha Overdrive": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Mecha/KubrowMechaOverdriveMod"
+    },
+    "Mecha Pulse": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Mecha/WarframeMechaPulseMod"
+    },
+    "Mecha Recharge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Mecha/KubrowMechaRechargeMod"
+    },
+    "Medi-Pet Kit": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Events/Index/CompanionMedipetKitMod"
+    },
+    "Medi-Ray": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/Events/ProjectNightwatch/SentinelHealthRegenPreceptNightwatchMod"
+    },
+    "Melee Guidance": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/WarframeAuraBladedRestraintMod"
+    },
+    "Melee Prowess": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponStunChanceMod"
+    },
+    "Melee Riven Mod": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Randomized/PlayerMeleeWeaponRandomModRare"
+    },
+    "Mending Shot": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/ShootPickUpRifleMod"
+    },
+    "Mending Splinters": {
+        "uniqueName": "/Lotus/Powersuits/Glass/GlassShatterAugmentCard"
+    },
+    "Mesa'S Waltz": {
+        "uniqueName": "/Lotus/Powersuits/Cowgirl/GunFuPvPAugmentCard"
+    },
+    "Metal Auger": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponPunctureDepthMod"
+    },
+    "Metal Fiber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/SentinelArmourMod"
+    },
+    "Meteor Crash": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingDualStatImpactStatusMeleeMod"
+    },
+    "Meteor Munitions": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/DamageBiasImpactPistolMod"
+    },
+    "Meticulous Aim": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/GrnSniperRifleArbitrationMod"
+    },
+    "Mind Freak": {
+        "uniqueName": "/Lotus/Powersuits/Jade/MindControlAugmentCard"
+    },
+    "Mischief": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowDistractPrecept"
+    },
+    "Mobilize": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/ParkourTwoMod"
+    },
+    "Modified Munitions": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleStatusChanceMod"
+    },
+    "Molecular Conversion": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/ShieldVampire"
+    },
+    "Molecular Fission": {
+        "uniqueName": "/Lotus/Powersuits/AntiMatter/MolecularPrimeAugmentCard"
+    },
+    "Molten Impact": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponFireDamageMod"
+    },
+    "Momentary Pause": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/RestoreHealthOnKillMod"
+    },
+    "Morphic Transformer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityStrengthMod"
+    },
+    "Mortal Conduct": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Melee/ChannelingEfficiencyOnLowHealth"
+    },
+    "Motus Impact": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Raptor/RaptorModC"
+    },
+    "Motus Setup": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Raptor/RaptorModB"
+    },
+    "Motus Signal": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Raptor/RaptorModA"
+    },
+    "Muzzle Flash": {
+        "uniqueName": "/Lotus/Powersuits/Cowgirl/RussianRouletteAugmentCard"
+    },
+    "Nano-Applicator": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Event/StatusProcWhileAimingShotgunMod"
+    },
+    "Napalm Grenades": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/GrenadeLauncherProjectileMod"
+    },
+    "Naramon Transmute Core": {
+        "uniqueName": "/Lotus/Upgrades/Mods/TransmuteCores/TacticTransmuteCore"
+    },
+    "Narrow Barrel": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Event/AccuracyWhileAimingShotgunMod"
+    },
+    "Narrow Minded": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/DualStat/CorruptedDurationRangeWarframe"
+    },
+    "Natural Talent": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarCastingSpeedMod"
+    },
+    "Nebula Bore": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingDualStatPunctureStatusMeleeMod"
+    },
+    "Necramech Continuity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityDurationMod"
+    },
+    "Necramech Intensify": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityStrengthMod"
+    },
+    "Necramech Pressure Point": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechMeleeDamageMod"
+    },
+    "Necramech Reach": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechMeleeRangeMod"
+    },
+    "Necramech Redirection": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechShieldMaxMod"
+    },
+    "Necramech Refuel": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechBoostRechargeMod"
+    },
+    "Necramech Seismic Wave": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechSlamDamageMod"
+    },
+    "Necramech Slipstream": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechSlideSpeedMod"
+    },
+    "Necramech Steel Fiber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechArmourMaxMod"
+    },
+    "Necramech Thrusters": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechBoostMaxMod"
+    },
+    "Necramech Vitality": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechHealthMaxMod"
+    },
+    "Negate": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/ProcAbsorb"
+    },
+    "Negation Swarm": {
+        "uniqueName": "/Lotus/Powersuits/Sandman/SandmanSwarmAugmentCard"
+    },
+    "Netra": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalSevenMod"
+    },
+    "Neutralize": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowDisarmPrecept"
+    },
+    "Neutralizing Justice": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/MiterMod"
+    },
+    "Neutron Star": {
+        "uniqueName": "/Lotus/Powersuits/AntiMatter/NullStarAugmentCard"
+    },
+    "Night Stalker": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/MarkTargetPistolMod"
+    },
+    "Nightwatch Napalm": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/ProjectNightwatch/OgrisNightwatchMod"
+    },
+    "Nitro Boost": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBSprintSpeedMod"
+    },
+    "No Current Leap": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreBulletJumpLessEnergy"
+    },
+    "No Return": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponArmorPiercingDamageMod"
+    },
+    "Noble Cadence": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPHeavyBladeStanceOne"
+    },
+    "North Wind": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponFreezeDamageMod"
+    },
+    "Odomedic": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/HealBot"
+    },
+    "Ore Gaze": {
+        "uniqueName": "/Lotus/Powersuits/Brawler/BrawlerGazeAugmentCard"
+    },
+    "Organ Shatter": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponCritDamageMod"
+    },
+    "Out Of Sight": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionBlindMod"
+    },
+    "Overcharge Detectors": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/EffectOnFullEnergyMod"
+    },
+    "Overcharged": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/EnergyToOvershieldsOnSpawnMod"
+    },
+    "Overextended": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/DualStat/CorruptedRangePowerWarframe"
+    },
+    "Overview": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherAirAimFoVRifleMod"
+    },
+    "Pacifying Bolts": {
+        "uniqueName": "/Lotus/Powersuits/Jade/DaggerAugmentCard"
+    },
+    "Pack Leader": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowPackLeaderMod"
+    },
+    "Pain Threshold": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Events/AvatarStaggerRecoveryMod"
+    },
+    "Panzer Devolution": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/ArmoredInfestedCatbrowRespawn"
+    },
+    "Parallax Scope": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritChanceMod"
+    },
+    "Paralytic Spores": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorFinisherSporesPrecept"
+    },
+    "Parry": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarParryMeleeModBeginner"
+    },
+    "Partitioned Mallet": {
+        "uniqueName": "/Lotus/Powersuits/Bard/BardMusicAugmentCard"
+    },
+    "Patagium": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/SuperGlideParkourTwoMod"
+    },
+    "Path Of Statues": {
+        "uniqueName": "/Lotus/Powersuits/Brawler/BrawlerPunchAugmentCard"
+    },
+    "Pathogen Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponToxinDamageMod"
+    },
+    "Peaceful Provocation": {
+        "uniqueName": "/Lotus/Powersuits/YinYang/YinYangAuraAugmentCard"
+    },
+    "Peculiar Bloom": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Peculiars/FlowerPowerMod"
+    },
+    "Peculiar Growth": {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Peculiars/InflationMod"
+    },
+    "Perfect Balance": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBFallChanceReductionMod"
+    },
+    "Perpetual Agony": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponProcTimeMod"
+    },
+    "Phoenix Renewal": {
+        "uniqueName": "/Lotus/Powersuits/Paladin/RegenerationAugmentCard"
+    },
+    "Photon Repeater": {
+        "uniqueName": "/Lotus/Powersuits/Trapper/MagHoleAugmentCard"
+    },
+    "Physique": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerHealthAuraMod"
+    },
+    "Piercing Caliber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponEventPunctureDamageMod"
+    },
+    "Piercing Fury": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPDaggerStanceOne"
+    },
+    "Piercing Hit": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponArmorPiercingDamageMod"
+    },
+    "Piercing Navigator": {
+        "uniqueName": "/Lotus/Powersuits/Ranger/RangerControlAugmentCard"
+    },
+    "Piercing Roar": {
+        "uniqueName": "/Lotus/Powersuits/Rhino/RadialBlastAugmentCard"
+    },
+    "Piercing Step": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/PunctureParkourTwoMod"
+    },
+    "Pilfering Strangledome": {
+        "uniqueName": "/Lotus/Powersuits/Khora/KhoraCageAugmentCard"
+    },
+    "Pilfering Swarm": {
+        "uniqueName": "/Lotus/Powersuits/Pirate/KrakenAugmentCard"
+    },
+    "Pistol Ammo Mutation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolConvertAmmoMod"
+    },
+    "Pistol Amp": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerPistolDamageAuraMod"
+    },
+    "Pistol Gambit": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponCritChanceMod"
+    },
+    "Pistol Pestilence": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/PoisonEventPistolMod"
+    },
+    "Pistol Riven Mod": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare"
+    },
+    "Pistol Scavenger": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerPistolAmmoAuraMod"
+    },
+    "Plan B": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterPistolRoFOnHitBowMod"
+    },
+    "Point Blank": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponDamageAmountMod"
+    },
+    "Point Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponCritChanceMod"
+    },
+    "Pointed Wind": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree"
+    },
+    "Poisonous Sting": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponToxinDamageMod"
+    },
+    "Polar Magazine": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponFreezeDamageMod"
+    },
+    "Pool Of Life": {
+        "uniqueName": "/Lotus/Powersuits/Trinity/WellOfLifeAugmentCard"
+    },
+    "Pop Top": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBJumpChargeTimeMod"
+    },
+    "Poppin' Vert": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBDoubleJumpHeightMod"
+    },
+    "Pounce": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowPouncePrecept"
+    },
+    "Power Donation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/AvatarAuraPowerMaxMod"
+    },
+    "Power Drift": {
+        "uniqueName": "/Lotus/Upgrades/Mods/OrokinChallenge/OrokinChallengeModPower"
+    },
+    "Power Of Three": {
+        "uniqueName": "/Lotus/Powersuits/Ranger/RangerQuiverPvPAugmentCard"
+    },
+    "Power Throw": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponGlaivePowerthrowMod"
+    },
+    "Precision Munition": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/TonkorAccuracySmallerMag"
+    },
+    "Precision Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/GrnGrenadeLauncherArbitrationMod"
+    },
+    "Preparation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarSpawnEnergyMod"
+    },
+    "Pressure Point": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeDamageMod"
+    },
+    "Pressurized Magazine": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Event/FireRateWhileAimingPistolMod"
+    },
+    "Primal Rage": {
+        "uniqueName": "/Lotus/Powersuits/MonkeyKing/MonkeyStaffAugmentCard"
+    },
+    "Primed Animal Instinct": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/SentinelLootRadarEnemyRadarExpertMod"
+    },
+    "Primed Bane Of Corpus": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageCorpus"
+    },
+    "Primed Bane Of Corrupted": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageCorrupted"
+    },
+    "Primed Bane Of Grineer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageGrineer"
+    },
+    "Primed Bane Of Infested": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageInfested"
+    },
+    "Primed Chamber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/EventSniperReloadDamageMod"
+    },
+    "Primed Charged Shell": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponElectricityDamageModExpert"
+    },
+    "Primed Cleanse Corpus": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageCorpusExpert"
+    },
+    "Primed Cleanse Corrupted": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageCorruptedExpert"
+    },
+    "Primed Cleanse Grineer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageGrineerExpert"
+    },
+    "Primed Cleanse Infested": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageInfestedExpert"
+    },
+    "Primed Continuity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Expert/AvatarAbilityDurationModExpert"
+    },
+    "Primed Cryo Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponFreezeDamageModExpert"
+    },
+    "Primed Expel Corpus": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert"
+    },
+    "Primed Expel Corrupted": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorruptedExpert"
+    },
+    "Primed Expel Grineer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageGrineerExpert"
+    },
+    "Primed Expel Infested": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageInfestedExpert"
+    },
+    "Primed Fast Hands": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponReloadSpeedModExpert"
+    },
+    "Primed Fever Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponToxinDamageModExpert"
+    },
+    "Primed Flow": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Expert/AvatarPowerMaxModExpert"
+    },
+    "Primed Fury": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponFireRateModExpert"
+    },
+    "Primed Heated Charge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponFireDamageModExpert"
+    },
+    "Primed Heavy Trauma": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponImpactDamageModExpert"
+    },
+    "Primed Morphic Transformer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Expert/ArchwingSuitAbilityStrengthModExpert"
+    },
+    "Primed Pack Leader": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/Expert/KubrowPackLeaderExpertMod"
+    },
+    "Primed Pistol Ammo Mutation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolConvertAmmoModExpert"
+    },
+    "Primed Pistol Gambit": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponCritChanceModBeginnerExpert"
+    },
+    "Primed Point Blank": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponDamageAmountModExpert"
+    },
+    "Primed Pressure Point": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeDamageModExpert"
+    },
+    "Primed Quickdraw": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponReloadSpeedModExpert"
+    },
+    "Primed Ravage": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponCritDamageModExpert"
+    },
+    "Primed Reach": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeRangeIncModExpert"
+    },
+    "Primed Regen": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/PrimedRegen"
+    },
+    "Primed Rifle Ammo Mutation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponRifleConvertAmmoModExpert"
+    },
+    "Primed Rubedo-Lined Barrel": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleDamageAmountModExpert"
+    },
+    "Primed Shotgun Ammo Mutation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunConvertAmmoModExpert"
+    },
+    "Primed Shred": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/PrimedShredMod"
+    },
+    "Primed Slip Magazine": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponClipMaxModExpert"
+    },
+    "Primed Smite Corpus": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageCorpusExpert"
+    },
+    "Primed Smite Corrupted": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageCorruptedExpert"
+    },
+    "Primed Smite Grineer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageGrineerExpert"
+    },
+    "Primed Smite Infested": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageInfestedExpert"
+    },
+    "Primed Sure Footed": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Expert/AvatarKnockdownResistanceModExpert"
+    },
+    "Primed Target Cracker": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/PrimedWeaponCritDamageMod"
+    },
+    "Primed Vigor": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Expert/VigorModExpert"
+    },
+    "Primo Flair": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBEliteTricksterMod"
+    },
+    "Prism Guard": {
+        "uniqueName": "/Lotus/Powersuits/Harlequin/PrismPvPAugmentCard"
+    },
+    "Prize Kill": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/RestoreShieldsOnKillMod"
+    },
+    "Proboscis": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowGrabPrecept"
+    },
+    "Prolonged Paralysis": {
+        "uniqueName": "/Lotus/Powersuits/Berserker/ShieldBashAugmentCard"
+    },
+    "Protect": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowShieldPrecept"
+    },
+    "Proton Jet": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Spider/SpiderModB"
+    },
+    "Proton Pulse": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Spider/SpiderModA"
+    },
+    "Proton Snap": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Spider/SpiderModC"
+    },
+    "Provoked": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarGroundFireDmgModBeginner"
+    },
+    "Pummel": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponEventPistolImpactDamageMod"
+    },
+    "Purging Slash": {
+        "uniqueName": "/Lotus/Powersuits/Excalibur/SlashDashPvPAugmentCard"
+    },
+    "Purifying Flames": {
+        "uniqueName": "/Lotus/Powersuits/Ember/FireBlastPvPAugmentCard"
+    },
+    "Push & Pull": {
+        "uniqueName": "/Lotus/Powersuits/YinYang/YinYangSwitchPvPAugmentCard"
+    },
+    "Pyroclastic Flow": {
+        "uniqueName": "/Lotus/Powersuits/Nezha/NezhaTrailAugmentCard"
+    },
+    "Quaking Hand": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPFistStanceOne"
+    },
+    "Quasar Drill": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingDualStatPunctureStatusMod"
+    },
+    "Quick Charge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/ReduceShieldRechargeDelayWarframe"
+    },
+    "Quick Escape": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBEscapePlanMod"
+    },
+    "Quick Reload": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleReloadSpeedMod"
+    },
+    "Quick Return": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveReflectionDecreaseMod"
+    },
+    "Quick Thinking": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarPowerToHealthOnDeathModBeginner"
+    },
+    "Quickdraw": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponReloadSpeedMod"
+    },
+    "Quickening": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelFireRateMod"
+    },
+    "Radiant Finish": {
+        "uniqueName": "/Lotus/Powersuits/Excalibur/RadialBlindAugmentCard"
+    },
+    "Rage": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageToEnergyMod"
+    },
+    "Rail Guards": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBGrindSpeedMod"
+    },
+    "Rapid Resilience": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarProcTimeMod"
+    },
+    "Ravage": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponCritDamageMod"
+    },
+    "Razor Munitions": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/DamageBiasSlashPistolMod"
+    },
+    "Razor Shot": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponSlashDamageMod"
+    },
+    "Razorwing Blitz": {
+        "uniqueName": "/Lotus/Powersuits/Fairy/FairyFlightAugmentCard"
+    },
+    "Reach": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeRangeIncMod"
+    },
+    "Reactive Storm": {
+        "uniqueName": "/Lotus/Powersuits/Pacifist/PacifistFistAugmentCard"
+    },
+    "Reaping Chakram": {
+        "uniqueName": "/Lotus/Powersuits/Nezha/NezhaRingAugmentCard"
+    },
+    "Reaping Spiral": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/ScytheCmbOneMeleeTree"
+    },
+    "Reawaken": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/RespawnSelf"
+    },
+    "Rebound": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveReflectionIncreaseMod"
+    },
+    "Recharge Barrier": {
+        "uniqueName": "/Lotus/Powersuits/Volt/ShieldPvPAugmentCard"
+    },
+    "Recover": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/RestoreHealthOnKillMod"
+    },
+    "Recuperate": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/RestoreHealthOnKillMod"
+    },
+    "Redirection": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarShieldMaxModBeginner"
+    },
+    "Reflect": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowReflectPrecept"
+    },
+    "Reflection": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarParryReflectModBeginner"
+    },
+    "Reflex Coil": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeChargeRateMod"
+    },
+    "Reflex Draw": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HolsterSpeedBonusMod"
+    },
+    "Reflex Guard": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarAutoParryMod"
+    },
+    "Regen": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/Regen"
+    },
+    "Regenerative Molt": {
+        "uniqueName": "/Lotus/Powersuits/Saryn/ShedAugmentCard"
+    },
+    "Reinforcing Stomp": {
+        "uniqueName": "/Lotus/Powersuits/Rhino/RhinoStompAugmentCard"
+    },
+    "Rejuvenation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerHealthRegenAuraMod"
+    },
+    "Relentless Assault": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Melee/MeleeVictimStaminaDrain"
+    },
+    "Relentless Combination": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeComboChanceFromDot"
+    },
+    "Rending Crane": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/AxeCmbOneMeleeTree"
+    },
+    "Rending Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/RendingStrikeMod"
+    },
+    "Rending Turn": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/SlashParkourTwoMod"
+    },
+    "Rending Wind": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPMacheteStanceOne"
+    },
+    "Repair Kit": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/SentinelRepairKitMod"
+    },
+    "Repeater Clip": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Event/FireRateWhileAimingShotgunMod"
+    },
+    "Repelling Bastille": {
+        "uniqueName": "/Lotus/Powersuits/Trapper/LevTrapAugmentCard"
+    },
+    "Resolute Focus": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingCCImmunityIfAimingMod"
+    },
+    "Resonance": {
+        "uniqueName": "/Lotus/Powersuits/Banshee/SonarAugmentCard"
+    },
+    "Resonating Quake": {
+        "uniqueName": "/Lotus/Powersuits/Banshee/EarthQuakeAugmentCard"
+    },
+    "Retribution": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarRevengeDamageMelee"
+    },
+    "Retrieve": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowLootPrecept"
+    },
+    "Revealing Spores": {
+        "uniqueName": "/Lotus/Powersuits/Saryn/PoisonAugmentTwoCard"
+    },
+    "Revenge": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/Revenge"
+    },
+    "Rifle Ammo Mutation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponRifleConvertAmmoMod"
+    },
+    "Rifle Amp": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerRifleDamageAuraMod"
+    },
+    "Rifle Aptitude": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponStunChanceMod"
+    },
+    "Rifle Riven Mod": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare"
+    },
+    "Rifle Scavenger": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerRifleAmmoAuraMod"
+    },
+    "Rift Haven": {
+        "uniqueName": "/Lotus/Powersuits/Magician/BanishAugmentCard"
+    },
+    "Rift Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Event/ProjectNightwatch/TwinBasolkNightwatchMod"
+    },
+    "Rift Torrent": {
+        "uniqueName": "/Lotus/Powersuits/Magician/VolatileAugmentCard"
+    },
+    "Rime Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/IceEventRifleMod"
+    },
+    "Rime Vault": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/FreezeParkourPvPMod"
+    },
+    "Ripper Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/DamageBiasPunctureRifleMod"
+    },
+    "Ris": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalFiveMod"
+    },
+    "Rising Skill": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreBulletJumpLessShieldMod"
+    },
+    "Rising Steel": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPSwordStanceOne"
+    },
+    "Rising Storm": {
+        "uniqueName": "/Lotus/Powersuits/Ninja/NinjaStormAugmentCard"
+    },
+    "Rolling Guard": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarInvulnOnRollMod"
+    },
+    "Rubble Heap": {
+        "uniqueName": "/Lotus/Powersuits/Brawler/BrawlerPassiveAugmentCard"
+    },
+    "Rubedo-Lined Barrel": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleDamageAmountMod"
+    },
+    "Ruinous Extension": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponBeamDistanceMod"
+    },
+    "Rumbled": {
+        "uniqueName": "/Lotus/Powersuits/Brawler/BrawlerSummonPvPAugmentCard"
+    },
+    "Runtime": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnHackSprintSpeedMod"
+    },
+    "Rupture": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponImpactDamageMod"
+    },
+    "Rush": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarSprintSpeedModBeginner"
+    },
+    "Sabot Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRiflePunchthroughMod"
+    },
+    "Sacrifice": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/RevivePlayer"
+    },
+    "Sacrificial Pressure": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Sacrifice/MeleeSacrificeModA"
+    },
+    "Sacrificial Steel": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Sacrifice/MeleeSacrificeModB"
+    },
+    "Safeguard": {
+        "uniqueName": "/Lotus/Powersuits/Nezha/NezhaSashAugmentCard"
+    },
+    "Safeguard Switch": {
+        "uniqueName": "/Lotus/Powersuits/Loki/SwitchAugmentCard"
+    },
+    "Sanctuary": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/Sanctuary"
+    },
+    "Sapping Reach": {
+        "uniqueName": "/Lotus/Powersuits/Mag/PullPvPAugmentCard"
+    },
+    "Savage Silence": {
+        "uniqueName": "/Lotus/Powersuits/Banshee/SilenceAugmentCard"
+    },
+    "Savagery": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowClonedFinisherMod"
+    },
+    "Savior Decoy": {
+        "uniqueName": "/Lotus/Powersuits/Loki/DecoyAugmentCard"
+    },
+    "Sawtooth Clip": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponSlashDamageMod"
+    },
+    "Saxum Carapace": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Femur/FemurCarapaceMod"
+    },
+    "Saxum Spittle": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Femur/FemurSpittleMod"
+    },
+    "Saxum Thorax": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Femur/FemurThoraxMod"
+    },
+    "Scan Matter": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/LocateResources"
+    },
+    "Scarlet Hurricane": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPClawStanceOne"
+    },
+    "Scattered Justice": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/HekMod"
+    },
+    "Scattering Inferno": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/FireEventShotgunMod"
+    },
+    "Scavenge": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowThiefPrecept"
+    },
+    "Scorch": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/FireEventPistolMod"
+    },
+    "Searing Leap": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/FireParkourPvPMod"
+    },
+    "Searing Steel": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventFireStatusMeleeMod"
+    },
+    "Secondary Wind": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HealthRegenonKillPistolMod"
+    },
+    "Security Override": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaHackerPrecept"
+    },
+    "Seeker": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponPunctureDepthMod"
+    },
+    "Seeking Force": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponPunctureDepthMod"
+    },
+    "Seeking Fury": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/ReloadSpeedPunchThroughMod"
+    },
+    "Seeking Shuriken": {
+        "uniqueName": "/Lotus/Powersuits/Ninja/GlaiveAugmentCard"
+    },
+    "Seismic Palm": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/FistCmbTwoMeleeTree"
+    },
+    "Seismic Wave": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeSlamDamageMod"
+    },
+    "Self Destruct": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/SentinelExplosionMod"
+    },
+    "Sense Danger": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowTremorSensePrecept"
+    },
+    "Sequence Burn": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/SpectraMod"
+    },
+    "Serrated Edges": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Melee/DamageBiasPunctureMeleeMod"
+    },
+    "Serrated Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/DamageBiasSlashRifleMod"
+    },
+    "Serration": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponDamageAmountMod"
+    },
+    "Shadow Harvest": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPScytheStanceOne"
+    },
+    "Sharpened Blade": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Melee/DamageBiasSlashMeleeMod"
+    },
+    "Sharpened Bullets": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Event/CritDamageWhileAimingPistolMod"
+    },
+    "Sharpened Claws": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowShredPrecept"
+    },
+    "Sharpshooter": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/EnergyOnHeadshotRifle"
+    },
+    "Shattering Impact": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeArmorShatterMod"
+    },
+    "Shattering Justice": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/SobekMod"
+    },
+    "Shattering Storm": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/HammerCmbOneMeleeTree"
+    },
+    "Shell Compression": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponAmmoMaxMod"
+    },
+    "Shell Rush": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleChargeSpeedMod"
+    },
+    "Shell Shock": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/ElectEventShotgunMod"
+    },
+    "Shelter": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowSanctuary"
+    },
+    "Shepherd": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/WarframeAuraLoyalHerdMod"
+    },
+    "Shield Charger": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/Events/CorpusArena/ShieldAuraPrecept"
+    },
+    "Shield Disruption": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/EnemyShieldReductionAuraMod"
+    },
+    "Shield Of Shadows": {
+        "uniqueName": "/Lotus/Powersuits/Necro/CloneTheDeadAugmentCard"
+    },
+    "Shield Overload": {
+        "uniqueName": "/Lotus/Powersuits/Mag/ShieldRegenPvPAugmentCard"
+    },
+    "Shimmering Blight": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbOneMeleeTree"
+    },
+    "Shock Absorbers": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageResistanceKnockdown"
+    },
+    "Shock Collar": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowElectEventMeleeMod"
+    },
+    "Shock Trooper": {
+        "uniqueName": "/Lotus/Powersuits/Volt/ShockAugmentCard"
+    },
+    "Shocking Speed": {
+        "uniqueName": "/Lotus/Powersuits/Volt/SpeedAugmentCard"
+    },
+    "Shocking Touch": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponElectricityDamageMod"
+    },
+    "Shockwave Actuators": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaShockwavePrecept"
+    },
+    "Shotgun Ammo Mutation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunConvertAmmoMod"
+    },
+    "Shotgun Amp": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerShellDamageAuraMod"
+    },
+    "Shotgun Riven Mod": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Randomized/LotusShotgunRandomModRare"
+    },
+    "Shotgun Savvy": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponStunChanceMod"
+    },
+    "Shotgun Scavenger": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerShellAmmoAuraMod"
+    },
+    "Shotgun Spazz": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireRateMod"
+    },
+    "Shrapnel Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/MarelokMultishot"
+    },
+    "Shrapnel Shot": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Event/CritDamageWhileAimingShotgunMod"
+    },
+    "Shred": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/ShredMod"
+    },
+    "Shred Shot": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/DamageBiasPunctureShotgunMod"
+    },
+    "Shredder": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponSlashDamageMod"
+    },
+    "Signal Flare": {
+        "uniqueName": "/Lotus/Powersuits/Excalibur/RadialBlindPvPAugmentCard"
+    },
+    "Silent Battery": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Event/ProjectNightwatch/WeaponNoiseReductionMod"
+    },
+    "Singularity": {
+        "uniqueName": "/Lotus/Powersuits/Jade/SelfBulletAttractorPvPAugmentCard"
+    },
+    "Sinister Reach": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponBeamDistanceMod"
+    },
+    "Sinking Talon": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbOneMeleeTree"
+    },
+    "Skull Shots": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/ViperUnlimitedAmmo"
+    },
+    "Slay Board": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBSlayBoardMod"
+    },
+    "Slicing Feathers": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/WarfanCmbOneMeleeTree"
+    },
+    "Slip Magazine": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponClipMaxMod"
+    },
+    "Sly Devolution": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/VulpineInfestedCatbrowRespawn"
+    },
+    "Smite Corpus": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFactionDamageCorpus"
+    },
+    "Smite Corrupted": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFactionDamageCorrupted"
+    },
+    "Smite Grineer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFactionDamageGrineer"
+    },
+    "Smite Infested": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFactionDamageInfested"
+    },
+    "Smite Infusion": {
+        "uniqueName": "/Lotus/Powersuits/Paladin/SmiteAugmentCard"
+    },
+    "Smoke Shadow": {
+        "uniqueName": "/Lotus/Powersuits/Ninja/SmokeScreenAugmentCard"
+    },
+    "Snap Shot": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/FasterMovementWhileAimingShotgunlMod"
+    },
+    "Sniper Ammo Mutation": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponSnipersConvertAmmoMod"
+    },
+    "Sniper Scavenger": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerSniperAmmoAuraMod"
+    },
+    "Soaring Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterChargeInAirBowMod"
+    },
+    "Soft Hands": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/HolsterSpeedBonusMod"
+    },
+    "Sonic Boost": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBSonicBoomMod"
+    },
+    "Sonic Fracture": {
+        "uniqueName": "/Lotus/Powersuits/Banshee/PushAugmentCard"
+    },
+    "Soul Survivor": {
+        "uniqueName": "/Lotus/Powersuits/Necro/SoulPunchAugmentCard"
+    },
+    "Sovereign Outcast": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/TonfaCmbTwoMeleeTree"
+    },
+    "Spare Parts": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/SentinelDropChanceMod"
+    },
+    "Spectrosiphon": {
+        "uniqueName": "/Lotus/Powersuits/Glass/GlassFragmentAugmentCard"
+    },
+    "Speed Drift": {
+        "uniqueName": "/Lotus/Upgrades/Mods/OrokinChallenge/OrokinChallengeModSpeed"
+    },
+    "Speed Holster": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerHolsterSpeedAuraMod"
+    },
+    "Speed Trigger": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponFireRateMod"
+    },
+    "Spellbound Harvest": {
+        "uniqueName": "/Lotus/Powersuits/Fairy/FairyDustAugmentCard"
+    },
+    "Spinning Needle": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbThreeMeleeTree"
+    },
+    "Split Chamber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponFireIterationsMod"
+    },
+    "Split Flights": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/BowMultiShotOnHitMod"
+    },
+    "Spoiled Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/CorruptedDamageSpeedMod"
+    },
+    "Spring-Loaded Blade": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/MeleeRangeOnProcMod"
+    },
+    "Spring-Loaded Broadhead": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/DaikyuMoreDamageOverDistanceMod"
+    },
+    "Spring-Loaded Chamber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/FireRateWhileAimingRifleMod"
+    },
+    "Sprint Boost": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerSprintAuraMod"
+    },
+    "Spry Sights": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/FasterMovementWhileAimingPistolMod"
+    },
+    "Stabilizer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponRecoilReductionMod"
+    },
+    "Staggering Shield": {
+        "uniqueName": "/Lotus/Powersuits/Cowgirl/RicochetArmourAugmentCard"
+    },
+    "Stalk": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowCloakPrecept"
+    },
+    "Stalking Fan": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/ScytheCmbTwoMeleeTree"
+    },
+    "Stand Ground": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Melee/AbilityDamageBlockMod"
+    },
+    "Stand United": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/FairyQuest/FairyQuestThornsAuraMod"
+    },
+    "Star Divide": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPTonfaStanceOne"
+    },
+    "Stasis Field": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaStasisFieldPrecept"
+    },
+    "Static Alacrity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/StaticorFasterProjLessAoE"
+    },
+    "Static Discharge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Event/CorpusArena/ProvaCorpusArenaMod"
+    },
+    "Steady Hands": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponRecoilReductionMod"
+    },
+    "Stealth Drift": {
+        "uniqueName": "/Lotus/Upgrades/Mods/OrokinChallenge/OrokinChallengeModStealth"
+    },
+    "Steel Charge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerMeleeAuraMod"
+    },
+    "Steel Fiber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarArmourModBeginner"
+    },
+    "Stinging Thorn": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbThreeMeleeTree"
+    },
+    "Stinging Truth": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/ViperMod"
+    },
+    "Stockpiled Blight": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/KunaiMod"
+    },
+    "Stormbringer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponElectricityDamageMod"
+    },
+    "Strafing Slide": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Pistol/MoreAccuracyLessRecoilSlidingPistolMod"
+    },
+    "Strain Consume": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Strain/WarframeStrainConsumeMod"
+    },
+    "Strain Eruption": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Strain/HelminthStrainEruptionMod"
+    },
+    "Strain Fever": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Strain/HelminthStrainFeverMod"
+    },
+    "Strain Infection": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Strain/MeleeStrainInfectionMod"
+    },
+    "Streamline": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarAbilityEfficiencyModBeginner"
+    },
+    "Streamlined Form": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/DualStat/HolsterSpeedSlideBoostMod"
+    },
+    "Stretch": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarAbilityRangeModBeginner"
+    },
+    "Stunning Speed": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/StunningSpeedMod"
+    },
+    "Sudden Impact": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeStatusChanceMod"
+    },
+    "Sudden Justice": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/SybarisIncreaseRoFonHit"
+    },
+    "Sundering Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponArmorPiercingDamageMod"
+    },
+    "Sundering Weave": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/MacheteCmbOneMeleeTree"
+    },
+    "Superior Defenses": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitShieldRechargeRateMod"
+    },
+    "Suppress": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponNoiseReductionMod"
+    },
+    "Sure Footed": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarKnockdownResistanceMod"
+    },
+    "Sure Shot": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponStunChanceMod"
+    },
+    "Surging Dash": {
+        "uniqueName": "/Lotus/Powersuits/Excalibur/SlashDashAugmentCard"
+    },
+    "Surplus Diverters": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/EnergyOnFullShieldRegenMod"
+    },
+    "Survival Instinct": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedCatbrowEvasionBuffPrecept"
+    },
+    "Sweeping Serration": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponEventSlashDamageMod"
+    },
+    "Swift Momentum": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/WarframeAuraWickedStrikesMod"
+    },
+    "Swing Line": {
+        "uniqueName": "/Lotus/Powersuits/Berserker/GrappleAugmentCard"
+    },
+    "Swipe": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowSwipePrecept"
+    },
+    "Swirling Tiger": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbOneMeleeTree"
+    },
+    "Swooping Falcon": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordCmbTwoMeleeTree"
+    },
+    "Sword Alone": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Melee/IncreasedMobilityEquipped"
+    },
+    "Synth Charge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Synth/PistolSynthChargeMod"
+    },
+    "Synth Deconstruct": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Synth/SentinelSynthDeconstructMod"
+    },
+    "Synth Fiber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Synth/SentinelSynthFibersMod"
+    },
+    "Synth Reflex": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Synth/WarframeSynthReflexMod"
+    },
+    "System Reroute": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityEfficiencyMod"
+    },
+    "Tactical Pump": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/WeaponReloadSpeedMod"
+    },
+    "Tactical Reload": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/PassiveReloadMod"
+    },
+    "Tactical Retreat": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/IncreasedMobilityOnLowHealth"
+    },
+    "Tainted Clip": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/DualStat/CorruptedMaxClipReloadSpeedPistol"
+    },
+    "Tainted Hydra": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPSwordWhipStanceOne"
+    },
+    "Tainted Mag": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedMaxClipReloadSpeedRifle"
+    },
+    "Tainted Shell": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedAccuracyFireRateShotgun"
+    },
+    "Target Acquired": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/SniperHeadshotMultiplierMod"
+    },
+    "Target Cracker": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponCritDamageMod"
+    },
+    "Target Fixation": {
+        "uniqueName": "/Lotus/Powersuits/Tengu/DiveBombAugmentCard"
+    },
+    "Targeting Receptor": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/ThrowGlaivePrecept"
+    },
+    "Targeting Subsystem": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Event/AccuracyWhileAimingPistolMod"
+    },
+    "Tear Gas": {
+        "uniqueName": "/Lotus/Powersuits/Ninja/SmokeScreenPvPAugmentCard"
+    },
+    "Tectonic Fracture": {
+        "uniqueName": "/Lotus/Powersuits/Brawler/BrawlerBarrierAugmentCard"
+    },
+    "Teeming Virulence": {
+        "uniqueName": "/Lotus/Powersuits/Infestation/InfestRuptureAugmentCard"
+    },
+    "Tek Assault": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Tek/KavatTekAssaultMod"
+    },
+    "Tek Collateral": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Tek/WarframeTekCollateralMod"
+    },
+    "Tek Enhance": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Tek/KavatTekEnhanceMod"
+    },
+    "Tek Gravity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Tek/MeleeTekGravityMod"
+    },
+    "Tempered Blade": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeCritChanceMod"
+    },
+    "Tempered Bound": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreShieldLessBulletJumpMod"
+    },
+    "Tempo Royale": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/AxeCmbThreeMeleeTree"
+    },
+    "Terminal Velocity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponProjectileSpeedMod"
+    },
+    "Territorial Aggression": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowMarkTerritoryPrecept"
+    },
+    "Tesla Bank": {
+        "uniqueName": "/Lotus/Powersuits/Trapper/ZapTrapAugmentCard"
+    },
+    "Tether Grenades": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/CorpusArena/PentaCorpusArenaMod"
+    },
+    "Thermagnetic Shells": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/CorpusArena/SupraCorpusArenaMod"
+    },
+    "Thermite Rounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/FireEventRifleMod"
+    },
+    "Thief'S Wit": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarLootRadarModBeginner"
+    },
+    "Thrash Landing": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBTrickExplosionMod"
+    },
+    "Thumper": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/Thumper"
+    },
+    "Thunderbolt": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/BowExplosionChanceMod"
+    },
+    "Thundermiter": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/ExplodingMiterBlades"
+    },
+    "Tidal Impunity": {
+        "uniqueName": "/Lotus/Powersuits/Pirate/TidalWaveAugmentCard"
+    },
+    "Titanic Rumbler": {
+        "uniqueName": "/Lotus/Powersuits/Brawler/BrawlerSummonAugmentCard"
+    },
+    "Total Eclipse": {
+        "uniqueName": "/Lotus/Powersuits/Harlequin/LightAugmentCard"
+    },
+    "Toxic Barrage": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/PoisonEventShotgunMod"
+    },
+    "Toxic Blight": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/MireMod"
+    },
+    "Toxic Flight": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/ToxinParkourTwoMod"
+    },
+    "Toxic Sequence": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/AcridMod"
+    },
+    "Toxin Resistance": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerPoisonImmunityAuraMod"
+    },
+    "Tractor Beam": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaTractorBeamPrecept"
+    },
+    "Trail Blazer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBElementTrailMod"
+    },
+    "Trample": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/ChargerChargePrecept"
+    },
+    "Tranquil Cleave": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbOneMeleeTree"
+    },
+    "Transfusion": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowTransfusionPrecept"
+    },
+    "Transient Fortitude": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/DualStat/CorruptedPowerStrengthPowerDurationWarframe"
+    },
+    "Transistor Shield": {
+        "uniqueName": "/Lotus/Powersuits/Volt/ShieldAugmentCard"
+    },
+    "Tribunal": {
+        "uniqueName": "/Lotus/Powersuits/Priest/PriestCondemnAugmentCard"
+    },
+    "Trick Mag": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponAmmoMaxMod"
+    },
+    "Triple Tap": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MoreDamageonMultiHitRifleMod"
+    },
+    "True Punishment": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelCritsMod"
+    },
+    "True Steel": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponCritChanceMod"
+    },
+    "Twirling Spire": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbThreeMeleeTree"
+    },
+    "Twitch": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HolsterSpeedBonusMod"
+    },
+    "Umbral Fiber": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Umbra/WarframeUmbraModB"
+    },
+    "Umbral Intensify": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Umbra/WarframeUmbraModC"
+    },
+    "Umbral Vitality": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Umbra/WarframeUmbraModA"
+    },
+    "Undying Will": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarBleedoutDelayMod"
+    },
+    "Unfused Artifact": {
+        "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Upgrades/InnateDamageRandomMod"
+    },
+    "Unleashed": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowVipChasePrecept"
+    },
+    "Untraceable": {
+        "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnHackInvisMod"
+    },
+    "Vacuum": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/UniversalVacuum"
+    },
+    "Vampire Leech": {
+        "uniqueName": "/Lotus/Powersuits/Trinity/EnergyVampireAugmentCard"
+    },
+    "Vanquished Prey": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/RestoreShieldsOnKillMod"
+    },
+    "Vapor Trail": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBEnergyInjectionMod"
+    },
+    "Vaporize": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/Vaporize"
+    },
+    "Vazarin Transmute Core": {
+        "uniqueName": "/Lotus/Upgrades/Mods/TransmuteCores/DefenseTransmuteCore"
+    },
+    "Venari Bodyguard": {
+        "uniqueName": "/Lotus/Powersuits/Khora/KhoraKavatAugmentCard"
+    },
+    "Venerdo Hoverdrive": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBJumpHeightMod"
+    },
+    "Vengeful Revenant": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/StalkerSwordMeleeTree"
+    },
+    "Venom Dose": {
+        "uniqueName": "/Lotus/Powersuits/Saryn/PoisonAugmentCard"
+    },
+    "Venom Teeth": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowPoisonEventMeleeMod"
+    },
+    "Venomous Clip": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponToxinDamageMod"
+    },
+    "Venomous Rise": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/PoisonParkourPvPMod"
+    },
+    "Vermillion Storm": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/ClawCmbTwoMeleeTree"
+    },
+    "Vexing Retaliation": {
+        "uniqueName": "/Lotus/Powersuits/Dragon/DragonScalesAugmentCard"
+    },
+    "Vicious Approach": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPPunchKickStanceOne"
+    },
+    "Vicious Frost": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/IceEventMeleeMod"
+    },
+    "Vicious Spread": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedDamageAccuracyShotgun"
+    },
+    "Vigilante Armaments": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Vigilante/PrimaryVigilanteArmamentsMod"
+    },
+    "Vigilante Fervor": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Vigilante/PrimaryVigilanteFervorMod"
+    },
+    "Vigilante Offense": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Vigilante/PrimaryVigilanteOffenseMod"
+    },
+    "Vigilante Pursuit": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Vigilante/WarframeVigilantePursuitMod"
+    },
+    "Vigilante Supplies": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Vigilante/PrimaryVigilanteSuppliesMod"
+    },
+    "Vigilante Vigor": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Sets/Vigilante/WarframeVigilanteVigorMod"
+    },
+    "Vigor": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/DualStat/VigorMod"
+    },
+    "Vigorous Swap": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarHolsterDamageMod"
+    },
+    "Vile Acceleration": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedFireRateDamageRifle"
+    },
+    "Vile Precision": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedRecoilFireRateRifle"
+    },
+    "Viral Quills": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedKavatViralQuillsPrecept"
+    },
+    "Virulent Scourge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/PoisonEventMeleeMod"
+    },
+    "Vital Sense": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponCritDamageMod"
+    },
+    "Vital Systems Bypass": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/HealthRegenLongerShieldRecharge"
+    },
+    "Vitality": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarHealthMaxModBeginner"
+    },
+    "Volcanic Edge": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/FireEventMeleeMod"
+    },
+    "Voltage Sequence": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/LankaMod"
+    },
+    "Voltaic Lance": {
+        "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/ElectricityParkourPvPMod"
+    },
+    "Voltaic Strike": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/ElectEventMeleeMod"
+    },
+    "Vome": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalFourMod"
+    },
+    "Vulcan Blitz": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Event/ProjectNightwatch/JatKittagNightwatchMod"
+    },
+    "Vulpine Mask": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/RapierCmbOneMeleeTree"
+    },
+    "Ward Recovery": {
+        "uniqueName": "/Lotus/Powersuits/Nezha/NezhaSashPvPAugmentCard"
+    },
+    "Warding Thurible": {
+        "uniqueName": "/Lotus/Powersuits/Priest/PriestRavageAugmentCard"
+    },
+    "Warm Coat": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarMissionSpecificResistanceIce"
+    },
+    "Weeping Wounds": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/Event/ComboStatusChanceMod"
+    },
+    "Whiplash Mine": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaTetherVaccumMinePrecept"
+    },
+    "Whirlwind": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveSpeedMod"
+    },
+    "Wild Frenzy": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/GrnAssaultRifleArbitrationMod"
+    },
+    "Wildfire": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/DualStat/WildfireMod"
+    },
+    "Winds Of Purity": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Syndicate/FurisMod"
+    },
+    "Wise Razor": {
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/LongKatanaCmbOneMeleeTree"
+    },
+    "Xata": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Immortal/ImmortalTwoMod"
+    },
+    "Zaw Riven Mod": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Randomized/LotusModularMeleeRandomModRare"
+    },
+    "Zodiac Shred": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingDualStatSlashStatusMod"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "/Lotus/Powersuits/Archwing/SupportJetPack/SupportJetPack": {
+        "name": "Amesha",
+        "health": 400,
+        "shield": 200,
+        "armor": 200
+    },
+    "/Lotus/Powersuits/Archwing/DemolitionJetPack/DemolitionJetPack": {
+        "name": "Elytron",
+        "health": 450,
+        "shield": 450,
+        "armor": 150
+    },
+    "/Lotus/Powersuits/Archwing/StealthJetPack/StealthJetPack": {
+        "name": "Itzal",
+        "health": 200,
+        "shield": 200,
+        "armor": 50
+    },
+    "/Lotus/Powersuits/Archwing/StandardJetPack/StandardJetPack": {
+        "name": "Odonata",
+        "health": 300,
+        "shield": 300,
+        "armor": 100
+    },
+    "/Lotus/Powersuits/Archwing/PrimeJetPack/PrimeJetPack": {
+        "name": "Odonata Prime",
+        "health": 400,
+        "shield": 400,
+        "armor": 100
+    }
+}

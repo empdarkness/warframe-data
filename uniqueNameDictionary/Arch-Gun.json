@@ -1,0 +1,62 @@
+{
+    "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon": {
+        "totalDamage": 880,
+        "fireRate": 2,
+        "name": "Corvas",
+        "type": ""
+    },
+    "/Lotus/Weapons/Tenno/Archwing/Primary/ArchBurstGun/ArchBurstGun": {
+        "totalDamage": 120,
+        "fireRate": 9.09091,
+        "name": "Cyngas",
+        "type": ""
+    },
+    "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/ArchHeavyPistols": {
+        "totalDamage": 110,
+        "fireRate": 8.333334,
+        "name": "Dual Decurion",
+        "type": ""
+    },
+    "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow": {
+        "totalDamage": 250,
+        "fireRate": 5.0000005,
+        "name": "Fluctus",
+        "type": ""
+    },
+    "/Lotus/Weapons/Tenno/Archwing/Primary/RepurposedGrineerAntiAircraftGun/ArchGRNAAGun": {
+        "totalDamage": 305,
+        "fireRate": 6.2500005,
+        "name": "Grattler",
+        "type": ""
+    },
+    "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGun": {
+        "totalDamage": 50,
+        "fireRate": 16.666668,
+        "name": "Imperator",
+        "type": ""
+    },
+    "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGunVandal": {
+        "totalDamage": 50,
+        "fireRate": 25.000002,
+        "name": "Imperator Vandal",
+        "type": ""
+    },
+    "/Lotus/Weapons/Tenno/Archwing/Primary/TnShieldframeArchGun/TnShieldFrameArchGun": {
+        "totalDamage": 90,
+        "fireRate": 12.000001,
+        "name": "Larkspur",
+        "type": ""
+    },
+    "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle": {
+        "totalDamage": 56,
+        "fireRate": 18.750002,
+        "name": "Phaedra",
+        "type": ""
+    },
+    "/Lotus/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun": {
+        "totalDamage": 1600,
+        "fireRate": 5.0000005,
+        "name": "Velocitus",
+        "type": ""
+    }
+}

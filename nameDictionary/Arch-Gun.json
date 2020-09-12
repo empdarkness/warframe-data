@@ -1,0 +1,82 @@
+{
+    "Corvas": {
+        "totalDamage": 880,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 1.05
+    },
+    "Cyngas": {
+        "totalDamage": 120,
+        "fireRate": 9.09091,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchBurstGun/ArchBurstGun",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Dual Decurion": {
+        "totalDamage": 110,
+        "fireRate": 8.333334,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/ArchHeavyPistols",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Fluctus": {
+        "totalDamage": 250,
+        "fireRate": 5.0000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 0.89999998
+    },
+    "Grattler": {
+        "totalDamage": 305,
+        "fireRate": 6.2500005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/RepurposedGrineerAntiAircraftGun/ArchGRNAAGun",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 0.94999999
+    },
+    "Imperator": {
+        "totalDamage": 50,
+        "fireRate": 16.666668,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGun",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 0.85000002
+    },
+    "Imperator Vandal": {
+        "totalDamage": 50,
+        "fireRate": 25.000002,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGunVandal",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 0.85000002
+    },
+    "Larkspur": {
+        "totalDamage": 90,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/TnShieldframeArchGun/TnShieldFrameArchGun",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 0.80000001
+    },
+    "Phaedra": {
+        "totalDamage": 56,
+        "fireRate": 18.750002,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Velocitus": {
+        "totalDamage": 1600,
+        "fireRate": 5.0000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 1.05
+    }
+}

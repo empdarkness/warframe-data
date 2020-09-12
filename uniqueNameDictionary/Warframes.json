@@ -1,0 +1,527 @@
+{
+    "/Lotus/Powersuits/Ninja/Ninja": {
+        "name": "Ash",
+        "health": 150,
+        "shield": 100,
+        "armor": 100,
+        "imageName": "ash.png"
+    },
+    "/Lotus/Powersuits/Ninja/AshPrime": {
+        "name": "Ash Prime",
+        "health": 150,
+        "shield": 125,
+        "armor": 175,
+        "imageName": "ash-prime.png"
+    },
+    "/Lotus/Powersuits/Brawler/Brawler": {
+        "name": "Atlas",
+        "health": 100,
+        "shield": 100,
+        "armor": 450,
+        "imageName": "atlas.png"
+    },
+    "/Lotus/Powersuits/Brawler/AtlasPrime": {
+        "name": "Atlas Prime",
+        "health": 175,
+        "shield": 150,
+        "armor": 475,
+        "imageName": "atlas-prime.png"
+    },
+    "/Lotus/Powersuits/Banshee/Banshee": {
+        "name": "Banshee",
+        "health": 100,
+        "shield": 100,
+        "armor": 100,
+        "imageName": "banshee.png"
+    },
+    "/Lotus/Powersuits/Banshee/BansheePrime": {
+        "name": "Banshee Prime",
+        "health": 100,
+        "shield": 100,
+        "armor": 125,
+        "imageName": "banshee-prime.png"
+    },
+    "/Lotus/Powersuits/Pacifist/Pacifist": {
+        "name": "Baruuk",
+        "health": 75,
+        "shield": 100,
+        "armor": 175,
+        "imageName": "baruuk.png"
+    },
+    "/Lotus/Powersuits/Dragon/Dragon": {
+        "name": "Chroma",
+        "health": 100,
+        "shield": 100,
+        "armor": 350,
+        "imageName": "chroma.png"
+    },
+    "/Lotus/Powersuits/Dragon/ChromaPrime": {
+        "name": "Chroma Prime",
+        "health": 100,
+        "shield": 100,
+        "armor": 425,
+        "imageName": "chroma-prime.png"
+    },
+    "/Lotus/Powersuits/Ember/Ember": {
+        "name": "Ember",
+        "health": 100,
+        "shield": 100,
+        "armor": 125,
+        "imageName": "ember.png"
+    },
+    "/Lotus/Powersuits/Ember/EmberPrime": {
+        "name": "Ember Prime",
+        "health": 100,
+        "shield": 125,
+        "armor": 150,
+        "imageName": "ember-prime.png"
+    },
+    "/Lotus/Powersuits/YinYang/YinYang": {
+        "name": "Equinox",
+        "health": 100,
+        "shield": 100,
+        "armor": 125,
+        "imageName": "equinox.png"
+    },
+    "/Lotus/Powersuits/YinYang/EquinoxPrime": {
+        "name": "Equinox Prime",
+        "health": 125,
+        "shield": 100,
+        "armor": 150,
+        "imageName": "equinox-prime.png"
+    },
+    "/Lotus/Powersuits/Excalibur/Excalibur": {
+        "name": "Excalibur",
+        "health": 100,
+        "shield": 100,
+        "armor": 225,
+        "imageName": "excalibur.png"
+    },
+    "/Lotus/Powersuits/Excalibur/ExcaliburPrime": {
+        "name": "Excalibur Prime",
+        "health": 100,
+        "shield": 100,
+        "armor": 300,
+        "imageName": "excalibur-prime.png"
+    },
+    "/Lotus/Powersuits/Excalibur/ExcaliburUmbra": {
+        "name": "Excalibur Umbra",
+        "health": 100,
+        "shield": 100,
+        "armor": 300,
+        "imageName": "excalibur-umbra.png"
+    },
+    "/Lotus/Powersuits/Frost/Frost": {
+        "name": "Frost",
+        "health": 100,
+        "shield": 150,
+        "armor": 300,
+        "imageName": "frost.png"
+    },
+    "/Lotus/Powersuits/Frost/FrostPrime": {
+        "name": "Frost Prime",
+        "health": 100,
+        "shield": 175,
+        "armor": 300,
+        "imageName": "frost-prime.png"
+    },
+    "/Lotus/Powersuits/Glass/Glass": {
+        "name": "Gara",
+        "health": 100,
+        "shield": 100,
+        "armor": 150,
+        "imageName": "gara.png"
+    },
+    "/Lotus/Powersuits/Garuda/Garuda": {
+        "name": "Garuda",
+        "health": 100,
+        "shield": 100,
+        "armor": 300,
+        "imageName": "garuda.png"
+    },
+    "/Lotus/Powersuits/Runner/Runner": {
+        "name": "Gauss",
+        "health": 100,
+        "shield": 150,
+        "armor": 175,
+        "imageName": "gauss.png"
+    },
+    "/Lotus/Powersuits/Devourer/Devourer": {
+        "name": "Grendel",
+        "health": 350,
+        "shield": 25,
+        "armor": 350,
+        "imageName": "grendel.png"
+    },
+    "/Lotus/Powersuits/Priest/Priest": {
+        "name": "Harrow",
+        "health": 100,
+        "shield": 150,
+        "armor": 175,
+        "imageName": "harrow.png"
+    },
+    "/Lotus/Powersuits/IronFrame/IronFrame": {
+        "name": "Hildryn",
+        "health": 75,
+        "shield": 450,
+        "armor": 300,
+        "imageName": "hildryn.png"
+    },
+    "/Lotus/Powersuits/Pirate/Pirate": {
+        "name": "Hydroid",
+        "health": 100,
+        "shield": 125,
+        "armor": 225,
+        "imageName": "hydroid.png"
+    },
+    "/Lotus/Powersuits/Pirate/HydroidPrime": {
+        "name": "Hydroid Prime",
+        "health": 100,
+        "shield": 175,
+        "armor": 275,
+        "imageName": "hydroid-prime.png"
+    },
+    "/Lotus/Powersuits/Sandman/Sandman": {
+        "name": "Inaros",
+        "health": 550,
+        "shield": 0,
+        "armor": 225,
+        "imageName": "inaros.png"
+    },
+    "/Lotus/Powersuits/Sandman/InarosPrime": {
+        "name": "Inaros Prime",
+        "health": 575,
+        "shield": 0,
+        "armor": 225,
+        "imageName": "inaros-prime.png"
+    },
+    "/Lotus/Powersuits/Ranger/Ranger": {
+        "name": "Ivara",
+        "health": 75,
+        "shield": 100,
+        "armor": 100,
+        "imageName": "ivara.png"
+    },
+    "/Lotus/Powersuits/Ranger/IvaraPrime": {
+        "name": "Ivara Prime",
+        "health": 75,
+        "shield": 150,
+        "armor": 125,
+        "imageName": "ivara-prime.png"
+    },
+    "/Lotus/Powersuits/Khora/Khora": {
+        "name": "Khora",
+        "health": 125,
+        "shield": 100,
+        "armor": 275,
+        "imageName": "khora.png"
+    },
+    "/Lotus/Powersuits/Magician/Magician": {
+        "name": "Limbo",
+        "health": 100,
+        "shield": 75,
+        "armor": 100,
+        "imageName": "limbo.png"
+    },
+    "/Lotus/Powersuits/Magician/LimboPrime": {
+        "name": "Limbo Prime",
+        "health": 100,
+        "shield": 100,
+        "armor": 125,
+        "imageName": "limbo-prime.png"
+    },
+    "/Lotus/Powersuits/Loki/Loki": {
+        "name": "Loki",
+        "health": 75,
+        "shield": 75,
+        "armor": 100,
+        "imageName": "loki.png"
+    },
+    "/Lotus/Powersuits/Loki/LokiPrime": {
+        "name": "Loki Prime",
+        "health": 75,
+        "shield": 75,
+        "armor": 125,
+        "imageName": "loki-prime.png"
+    },
+    "/Lotus/Powersuits/Mag/Mag": {
+        "name": "Mag",
+        "health": 75,
+        "shield": 150,
+        "armor": 100,
+        "imageName": "mag.png"
+    },
+    "/Lotus/Powersuits/Mag/MagPrime": {
+        "name": "Mag Prime",
+        "health": 100,
+        "shield": 150,
+        "armor": 125,
+        "imageName": "mag-prime.png"
+    },
+    "/Lotus/Powersuits/Cowgirl/Cowgirl": {
+        "name": "Mesa",
+        "health": 125,
+        "shield": 75,
+        "armor": 100,
+        "imageName": "mesa.png"
+    },
+    "/Lotus/Powersuits/Cowgirl/MesaPrime": {
+        "name": "Mesa Prime",
+        "health": 135,
+        "shield": 75,
+        "armor": 125,
+        "imageName": "mesa-prime.png"
+    },
+    "/Lotus/Powersuits/Harlequin/Harlequin": {
+        "name": "Mirage",
+        "health": 80,
+        "shield": 80,
+        "armor": 100,
+        "imageName": "mirage.png"
+    },
+    "/Lotus/Powersuits/Harlequin/MiragePrime": {
+        "name": "Mirage Prime",
+        "health": 80,
+        "shield": 110,
+        "armor": 175,
+        "imageName": "mirage-prime.png"
+    },
+    "/Lotus/Powersuits/Necro/Necro": {
+        "name": "Nekros",
+        "health": 100,
+        "shield": 90,
+        "armor": 100,
+        "imageName": "nekros.png"
+    },
+    "/Lotus/Powersuits/Necro/NekrosPrime": {
+        "name": "Nekros Prime",
+        "health": 100,
+        "shield": 150,
+        "armor": 125,
+        "imageName": "nekros-prime.png"
+    },
+    "/Lotus/Powersuits/Nezha/Nezha": {
+        "name": "Nezha",
+        "health": 125,
+        "shield": 50,
+        "armor": 190,
+        "imageName": "nezha.png"
+    },
+    "/Lotus/Powersuits/Infestation/Infestation": {
+        "name": "Nidus",
+        "health": 150,
+        "shield": 0,
+        "armor": 300,
+        "imageName": "nidus.png"
+    },
+    "/Lotus/Powersuits/AntiMatter/Anti": {
+        "name": "Nova",
+        "health": 100,
+        "shield": 75,
+        "armor": 100,
+        "imageName": "nova.png"
+    },
+    "/Lotus/Powersuits/AntiMatter/NovaPrime": {
+        "name": "Nova Prime",
+        "health": 100,
+        "shield": 100,
+        "armor": 125,
+        "imageName": "nova-prime.png"
+    },
+    "/Lotus/Powersuits/Jade/Jade": {
+        "name": "Nyx",
+        "health": 100,
+        "shield": 100,
+        "armor": 100,
+        "imageName": "nyx.png"
+    },
+    "/Lotus/Powersuits/Jade/NyxPrime": {
+        "name": "Nyx Prime",
+        "health": 100,
+        "shield": 125,
+        "armor": 125,
+        "imageName": "nyx-prime.png"
+    },
+    "/Lotus/Powersuits/Paladin/Paladin": {
+        "name": "Oberon",
+        "health": 125,
+        "shield": 100,
+        "armor": 175,
+        "imageName": "oberon.png"
+    },
+    "/Lotus/Powersuits/Paladin/PaladinPrime": {
+        "name": "Oberon Prime",
+        "health": 125,
+        "shield": 100,
+        "armor": 225,
+        "imageName": "oberon-prime.png"
+    },
+    "/Lotus/Powersuits/Bard/Bard": {
+        "name": "Octavia",
+        "health": 100,
+        "shield": 75,
+        "armor": 150,
+        "imageName": "octavia.png"
+    },
+    "/Lotus/Powersuits/Odalisk/Odalisk": {
+        "name": "Protea",
+        "health": 100,
+        "shield": 150,
+        "armor": 125,
+        "imageName": "protea.png"
+    },
+    "/Lotus/Powersuits/Revenant/Revenant": {
+        "name": "Revenant",
+        "health": 100,
+        "shield": 225,
+        "armor": 125,
+        "imageName": "revenant.png"
+    },
+    "/Lotus/Powersuits/Rhino/Rhino": {
+        "name": "Rhino",
+        "health": 100,
+        "shield": 150,
+        "armor": 225,
+        "imageName": "rhino.png"
+    },
+    "/Lotus/Powersuits/Rhino/RhinoPrime": {
+        "name": "Rhino Prime",
+        "health": 100,
+        "shield": 150,
+        "armor": 275,
+        "imageName": "rhino-prime.png"
+    },
+    "/Lotus/Powersuits/Saryn/Saryn": {
+        "name": "Saryn",
+        "health": 125,
+        "shield": 100,
+        "armor": 225,
+        "imageName": "saryn.png"
+    },
+    "/Lotus/Powersuits/Saryn/SarynPrime": {
+        "name": "Saryn Prime",
+        "health": 125,
+        "shield": 100,
+        "armor": 300,
+        "imageName": "saryn-prime.png"
+    },
+    "/Lotus/Powersuits/Fairy/Fairy": {
+        "name": "Titania",
+        "health": 100,
+        "shield": 100,
+        "armor": 100,
+        "imageName": "titania.png"
+    },
+    "/Lotus/Powersuits/Fairy/TitaniaPrime": {
+        "name": "Titania Prime",
+        "health": 125,
+        "shield": 100,
+        "armor": 125,
+        "imageName": "titania-prime.png"
+    },
+    "/Lotus/Powersuits/Trinity/Trinity": {
+        "name": "Trinity",
+        "health": 100,
+        "shield": 100,
+        "armor": 100,
+        "imageName": "trinity.png"
+    },
+    "/Lotus/Powersuits/Trinity/TrinityPrime": {
+        "name": "Trinity Prime",
+        "health": 100,
+        "shield": 150,
+        "armor": 125,
+        "imageName": "trinity-prime.png"
+    },
+    "/Lotus/Powersuits/Berserker/Berserker": {
+        "name": "Valkyr",
+        "health": 100,
+        "shield": 50,
+        "armor": 600,
+        "imageName": "valkyr.png"
+    },
+    "/Lotus/Powersuits/Berserker/ValkyrPrime": {
+        "name": "Valkyr Prime",
+        "health": 100,
+        "shield": 50,
+        "armor": 700,
+        "imageName": "valkyr-prime.png"
+    },
+    "/Lotus/Powersuits/Trapper/Trapper": {
+        "name": "Vauban",
+        "health": 100,
+        "shield": 75,
+        "armor": 150,
+        "imageName": "vauban.png"
+    },
+    "/Lotus/Powersuits/Trapper/TrapperPrime": {
+        "name": "Vauban Prime",
+        "health": 100,
+        "shield": 100,
+        "armor": 200,
+        "imageName": "vauban-prime.png"
+    },
+    "/Lotus/Powersuits/EntratiMech/NechroTech": {
+        "name": "Voidrig Necramech",
+        "health": 1500,
+        "shield": 500,
+        "armor": 400,
+        "imageName": "voidrig-necramech.png"
+    },
+    "/Lotus/Powersuits/Volt/Volt": {
+        "name": "Volt",
+        "health": 100,
+        "shield": 150,
+        "armor": 100,
+        "imageName": "volt.png"
+    },
+    "/Lotus/Powersuits/Volt/VoltPrime": {
+        "name": "Volt Prime",
+        "health": 100,
+        "shield": 150,
+        "armor": 125,
+        "imageName": "volt-prime.png"
+    },
+    "/Lotus/Powersuits/Wisp/Wisp": {
+        "name": "Wisp",
+        "health": 100,
+        "shield": 75,
+        "armor": 175,
+        "imageName": "wisp.png"
+    },
+    "/Lotus/Powersuits/MonkeyKing/MonkeyKing": {
+        "name": "Wukong",
+        "health": 150,
+        "shield": 100,
+        "armor": 250,
+        "imageName": "wukong.png"
+    },
+    "/Lotus/Powersuits/MonkeyKing/WukongPrime": {
+        "name": "Wukong Prime",
+        "health": 150,
+        "shield": 120,
+        "armor": 275,
+        "imageName": "wukong-prime.png"
+    },
+    "/Lotus/Powersuits/BrokenFrame/BrokenFrame": {
+        "name": "Xaku",
+        "health": 97,
+        "shield": 89,
+        "armor": 137,
+        "imageName": "xaku.png"
+    },
+    "/Lotus/Powersuits/Tengu/Tengu": {
+        "name": "Zephyr",
+        "health": 150,
+        "shield": 150,
+        "armor": 100,
+        "imageName": "zephyr.png"
+    },
+    "/Lotus/Powersuits/Tengu/ZephyrPrime": {
+        "name": "Zephyr Prime",
+        "health": 150,
+        "shield": 150,
+        "armor": 125,
+        "imageName": "zephyr-prime.png"
+    }
+}

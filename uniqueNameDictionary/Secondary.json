@@ -1,0 +1,674 @@
+{
+    "/Lotus/Weapons/ClanTech/Bio/AcidDartPistol": {
+        "totalDamage": 35,
+        "fireRate": 6.666667,
+        "name": "Acrid",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Akimbo/AkimboAutoPistols": {
+        "totalDamage": 20,
+        "fireRate": 12.500001,
+        "name": "Afuris",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/SapientPistol/SapientPistol": {
+        "totalDamage": 487,
+        "fireRate": 4.2483659,
+        "name": "Akarius",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Akimbo/AkimboBolto": {
+        "totalDamage": 40,
+        "fireRate": 10.000001,
+        "name": "Akbolto",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/PrimeAkbolto/PrimeAkBoltoWeapon": {
+        "totalDamage": 32,
+        "fireRate": 7.0000005,
+        "name": "Akbolto Prime",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Akimbo/AkimboShotGun": {
+        "totalDamage": 40,
+        "fireRate": 8.333334,
+        "name": "Akbronco",
+        "type": "Dual Shotguns"
+    },
+    "/Lotus/Weapons/Tenno/Akimbo/PrimeAkimboShotGun": {
+        "totalDamage": 50,
+        "fireRate": 4.3333335,
+        "name": "Akbronco Prime",
+        "type": "Dual Shotguns"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/TigrisRedeemerSetPistol/TnoBladedPistols": {
+        "totalDamage": 30,
+        "fireRate": 16.666668,
+        "name": "Akjagara",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/PrimeAkjagara/AkJagaraPrime": {
+        "totalDamage": 36,
+        "fireRate": 10.000001,
+        "name": "Akjagara Prime",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Akimbo/AkimboPistol": {
+        "totalDamage": 30,
+        "fireRate": 7.5000005,
+        "name": "Aklato",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Akimbo/AkLexPistols": {
+        "totalDamage": 130,
+        "fireRate": 1.5833334,
+        "name": "Aklex",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Akimbo/AkLexPrimePistols": {
+        "totalDamage": 150,
+        "fireRate": 2.6666667,
+        "name": "Aklex Prime",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Akimbo/DualMagnus": {
+        "totalDamage": 76,
+        "fireRate": 6.166667,
+        "name": "Akmagnus",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/SomaSidearm/AkimboSomaPistols": {
+        "totalDamage": 18,
+        "fireRate": 12.500001,
+        "name": "Aksomati",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/PrimeAksomati/PrimeAksomati": {
+        "totalDamage": 20,
+        "fireRate": 13.333334,
+        "name": "Aksomati Prime",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/TennoUzi/TennoUzi": {
+        "totalDamage": 28,
+        "fireRate": 10.000001,
+        "name": "Akstiletto",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/PrimeAkstiletto/PrimeAkstiletto": {
+        "totalDamage": 36,
+        "fireRate": 7.0833335,
+        "name": "Akstiletto Prime",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Akimbo/DualVastos": {
+        "totalDamage": 58,
+        "fireRate": 8.666667,
+        "name": "Akvasto",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/AkPrimeVasto/AkPrimeVastoPistol": {
+        "totalDamage": 66,
+        "fireRate": 6.3333335,
+        "name": "Akvasto Prime",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/HarlequinGun/HarlequinPistols": {
+        "totalDamage": 12,
+        "fireRate": 20.000002,
+        "name": "Akzani",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Corpus/Pistols/CrpHandRL/CorpusHandRocketLauncher": {
+        "totalDamage": 450,
+        "fireRate": 2,
+        "name": "Angstrum",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Corpus/Pistols/SniperPistol/CrpScopeGun": {
+        "totalDamage": 60,
+        "fireRate": 4.666667,
+        "name": "Arca Scisco",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/TnJetTurbine/TnJetTurbinePistolWeapon": {
+        "totalDamage": 70,
+        "fireRate": 5.0000005,
+        "name": "Athodai",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Grineer/Pistols/HeatGun/GrnHeatGun": {
+        "totalDamage": 29,
+        "fireRate": 8,
+        "name": "Atomos",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/SundialGun/SundialPistol": {
+        "totalDamage": 20,
+        "fireRate": 10.000001,
+        "name": "Azima",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/AutomaticHandCrossbow/AutoCrossBow": {
+        "totalDamage": 100,
+        "fireRate": 3.3333335,
+        "name": "Ballistica",
+        "type": "Crossbow"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/PrimeBallistica/PrimeBallistica": {
+        "totalDamage": 76,
+        "fireRate": 3.3333335,
+        "name": "Ballistica Prime",
+        "type": "Crossbow"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/CrossBow": {
+        "totalDamage": 40,
+        "fireRate": 6.8333335,
+        "name": "Bolto",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Grineer/Pistols/GrineerHandShotgun/GrineerHandCannon": {
+        "totalDamage": 20,
+        "fireRate": 5.0000005,
+        "name": "Brakk",
+        "type": "Shotgun Sidearm"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/HandShotGun": {
+        "totalDamage": 40,
+        "fireRate": 5.0000005,
+        "name": "Bronco",
+        "type": "Shotgun Sidearm"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/BroncoPrime": {
+        "totalDamage": 50,
+        "fireRate": 4.166667,
+        "name": "Bronco Prime",
+        "type": "Shotgun Sidearm"
+    },
+    "/Lotus/Weapons/Tenno/ThrowingWeapons/StickyBomb/StickyBombs": {
+        "totalDamage": 160,
+        "fireRate": 3.3333335,
+        "name": "Castanas",
+        "type": "Thrown"
+    },
+    "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun": {
+        "totalDamage": 26.000002,
+        "fireRate": 8.333334,
+        "name": "Cestra",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Corpus/Pistols/CrpSentAmalgPistol/CrpSentAmalgPistol": {
+        "totalDamage": 91,
+        "fireRate": 4.666667,
+        "name": "Cyanex",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Corpus/Pistols/CrpChargeGun/CrpChargeGun": {
+        "totalDamage": 23,
+        "fireRate": 12.000001,
+        "name": "Cycron",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/ThrowingWeapons/StalkerKunai": {
+        "totalDamage": 58,
+        "fireRate": 3.3333335,
+        "name": "Despair",
+        "type": "Thrown"
+    },
+    "/Lotus/Weapons/Corpus/Pistols/CorpusHandShotgun/CorpusHandCannon": {
+        "totalDamage": 40,
+        "fireRate": 3.3333335,
+        "name": "Detron",
+        "type": "Shotgun Sidearm"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/DexFuris/DexFuris": {
+        "totalDamage": 16,
+        "fireRate": 20.000002,
+        "name": "Dex Furis",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/DualCorpusMinigun": {
+        "totalDamage": 26.000002,
+        "fireRate": 18.750002,
+        "name": "Dual Cestra",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Infested/Pistols/InfVomitGun/InfVomitGunWep": {
+        "totalDamage": 75,
+        "fireRate": 1,
+        "name": "Dual Toxocyst",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Infested/Pistols/InfestedPistol": {
+        "totalDamage": 35,
+        "fireRate": 8,
+        "name": "Embolist",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/AllNew1hSG/AllNew1hSG": {
+        "totalDamage": 325,
+        "fireRate": 1.5000001,
+        "name": "Euphona Prime",
+        "type": "Shotgun Sidearm"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/AutoPistol": {
+        "totalDamage": 20,
+        "fireRate": 10.000001,
+        "name": "Furis",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/ThrowingWeapons/GlassKunai/GlassKunaiWeapon": {
+        "totalDamage": 77,
+        "fireRate": 2.8333335,
+        "name": "Fusilai",
+        "type": "Thrown"
+    },
+    "/Lotus/Weapons/Syndicates/CephalonSuda/Pistols/CSDroidArray": {
+        "totalDamage": 16,
+        "fireRate": 12.000001,
+        "name": "Gammacor",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/ThrowingWeapons/TennoStars": {
+        "totalDamage": 26,
+        "fireRate": 6.666667,
+        "name": "Hikou",
+        "type": "Thrown"
+    },
+    "/Lotus/Weapons/Tenno/ThrowingWeapons/PrimeThrowingStar/PrimeHikou": {
+        "totalDamage": 36,
+        "fireRate": 5.8333335,
+        "name": "Hikou Prime",
+        "type": "Thrown"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/QuillDartgun/QuillDartGunWeapon": {
+        "totalDamage": 36.000004,
+        "fireRate": 7.0000005,
+        "name": "Hystrix",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/TnPriestPistolScope/TnPriestPistolWeapon": {
+        "totalDamage": 150,
+        "fireRate": 4,
+        "name": "Knell",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Grineer/Pistols/GrnKohmPistol/GrnKohmPistol": {
+        "totalDamage": 30,
+        "fireRate": 5.0000005,
+        "name": "Kohmak",
+        "type": "Shotgun Sidearm"
+    },
+    "/Lotus/Weapons/Grineer/GrineerPistol/GrnHeavyPistol": {
+        "totalDamage": 49,
+        "fireRate": 4.4155846,
+        "name": "Kraken",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Grineer/Pistols/GrnTorpedoPistol/GrnTorpedoPistol": {
+        "totalDamage": 500,
+        "fireRate": 2,
+        "name": "Kulstar",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/ThrowingWeapons/Kunai": {
+        "totalDamage": 45.999996,
+        "fireRate": 3.3333335,
+        "name": "Kunai",
+        "type": "Thrown"
+    },
+    "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Brakk/KuvaBrakk": {
+        "totalDamage": 13,
+        "fireRate": 5.8333335,
+        "name": "Kuva Brakk",
+        "type": "Shotgun Sidearm"
+    },
+    "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Kraken/KuvaKraken": {
+        "totalDamage": 43,
+        "fireRate": 6.7729087,
+        "name": "Kuva Kraken",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Nukor/KuvaNukor": {
+        "totalDamage": 21,
+        "fireRate": 10.000001,
+        "name": "Kuva Nukor",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Seer/KuvaSeer": {
+        "totalDamage": 200,
+        "fireRate": 2.5000002,
+        "name": "Kuva Seer",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Stubba/KuvaStubba": {
+        "totalDamage": 27,
+        "fireRate": 10.000001,
+        "name": "Kuva Twin Stubbas",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/Pistol": {
+        "totalDamage": 30,
+        "fireRate": 6.666667,
+        "name": "Lato",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/LatoPrime": {
+        "totalDamage": 48,
+        "fireRate": 6.666667,
+        "name": "Lato Prime",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/LatoVandal": {
+        "totalDamage": 46,
+        "fireRate": 5.0000005,
+        "name": "Lato Vandal",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/HeavyPistol": {
+        "totalDamage": 130,
+        "fireRate": 1.0833334,
+        "name": "Lex",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/PrimeLex/PrimeLex": {
+        "totalDamage": 150,
+        "fireRate": 2.0833335,
+        "name": "Lex Prime",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/Magnum/Magnum": {
+        "totalDamage": 76,
+        "fireRate": 5.8333335,
+        "name": "Magnus",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/VoidTrader/VTDetron": {
+        "totalDamage": 40,
+        "fireRate": 3.3333335,
+        "name": "Mara Detron",
+        "type": "Shotgun Sidearm"
+    },
+    "/Lotus/Weapons/Grineer/Pistols/GrineerLeverActionPistol/GLAPistol": {
+        "totalDamage": 160,
+        "fireRate": 2,
+        "name": "Marelok",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/MK1Series/MK1Furis": {
+        "totalDamage": 12.999999,
+        "fireRate": 8.333334,
+        "name": "Mk1-Furis",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/MK1Series/MK1Kunai": {
+        "totalDamage": 40,
+        "fireRate": 3.3333335,
+        "name": "Mk1-Kunai",
+        "type": "Thrown"
+    },
+    "/Lotus/Weapons/Grineer/Pistols/GrineerMicrowavegun/GrnMicrowavePistol": {
+        "totalDamage": 22,
+        "fireRate": 10.000001,
+        "name": "Nukor",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Corpus/Pistols/CrpSentExperimentPistol/CrpSentExperimentPistol": {
+        "totalDamage": 11,
+        "fireRate": 12.000001,
+        "name": "Ocucor",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/TnBardPistol/TnBardPistolGun": {
+        "totalDamage": 72,
+        "fireRate": 3.0000002,
+        "name": "Pandero",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Corpus/Pistols/CrpSonificBlastor/CrpBlastorWeapon": {
+        "totalDamage": 46,
+        "fireRate": 3.3333335,
+        "name": "Plinx",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Infested/Pistols/InfProximityStars/InfProximityStars": {
+        "totalDamage": 70,
+        "fireRate": 2.0833335,
+        "name": "Pox",
+        "type": "Thrown"
+    },
+    "/Lotus/Weapons/Corpus/Pistols/CrpHandRL/PrismaAngstrum": {
+        "totalDamage": 450,
+        "fireRate": 2,
+        "name": "Prisma Angstrum",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Grineer/Pistols/GrineerBulbousSMG/Prisma/PrismaTwinGremlinsWeapon": {
+        "totalDamage": 27,
+        "fireRate": 8.833334,
+        "name": "Prisma Twin Gremlins",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun": {
+        "totalDamage": 22,
+        "fireRate": 4.166667,
+        "name": "Pyrana",
+        "type": "Shotgun Sidearm"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/PrimePyrana/PrimePyranaPistol": {
+        "totalDamage": 24,
+        "fireRate": 4,
+        "name": "Pyrana Prime",
+        "type": "Shotgun Sidearm"
+    },
+    "/Lotus/Weapons/Grineer/Pistols/GrnAmphisPistol/GrnAmphisPistol": {
+        "totalDamage": 29,
+        "fireRate": 15.000001,
+        "name": "Quatz",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Syndicates/RedVeil/Pistols/RVBallistica": {
+        "totalDamage": 300,
+        "fireRate": 3.3333335,
+        "name": "Rakta Ballistica",
+        "type": "Crossbow"
+    },
+    "/Lotus/Weapons/Syndicates/NewLoka/Pistols/NLCastanas": {
+        "totalDamage": 300,
+        "fireRate": 3.3333335,
+        "name": "Sancti Castanas",
+        "type": "Thrown"
+    },
+    "/Lotus/Weapons/Syndicates/PerrinSequence/Pistols/PSDualCestra": {
+        "totalDamage": 28,
+        "fireRate": 12.500001,
+        "name": "Secura Dual Cestra",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Grineer/GrineerPistol/GrnScopedPistolPlayer": {
+        "totalDamage": 101,
+        "fireRate": 2,
+        "name": "Seer",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Thanotech/ThanoPistol/ThanotechPistol": {
+        "totalDamage": 94,
+        "fireRate": 3.6666665,
+        "name": "Sepulcrum",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/BurstPistol": {
+        "totalDamage": 30,
+        "fireRate": 7.3943663,
+        "name": "Sicarus",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/PrimeSicarus/PrimeSicarusPistol": {
+        "totalDamage": 50,
+        "fireRate": 9.375,
+        "name": "Sicarus Prime",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Corpus/Pistols/CrpAirPistol/CrpAirPistolArray": {
+        "totalDamage": 50,
+        "fireRate": 1.2500001,
+        "name": "Sonicor",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/ClanTech/Energy/CrpLaserPistol": {
+        "totalDamage": 18,
+        "fireRate": 12.000001,
+        "name": "Spectra",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Corpus/Pistols/CorpusModularPistol/Vandal/CrpLaserPistolVandal": {
+        "totalDamage": 22,
+        "fireRate": 12.000001,
+        "name": "Spectra Vandal",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/ThrowingWeapons/LiDagger/LiDagger": {
+        "totalDamage": 82,
+        "fireRate": 2.5000002,
+        "name": "Spira",
+        "type": "Thrown"
+    },
+    "/Lotus/Weapons/Tenno/ThrowingWeapons/PrimeLiDagger/PrimeLiDagger": {
+        "totalDamage": 60,
+        "fireRate": 3.3333335,
+        "name": "Spira Prime",
+        "type": "Thrown"
+    },
+    "/Lotus/Weapons/Corpus/Pistols/CrpElectroMag/CrpElectroMag": {
+        "totalDamage": 150,
+        "fireRate": 3.5000002,
+        "name": "Staticor",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Grineer/Pistols/GrnUzi/GrnUziWeapon": {
+        "totalDamage": 33,
+        "fireRate": 6.3333335,
+        "name": "Stubba",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun": {
+        "totalDamage": 79,
+        "fireRate": 4,
+        "name": "Stug",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Syndicates/CephalonSuda/Pistols/CSSynoidGammacor": {
+        "totalDamage": 21,
+        "fireRate": 12.000001,
+        "name": "Synoid Gammacor",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/ThrowingWeapons/U18ThrowingKnives/U18throwingknives": {
+        "totalDamage": 120,
+        "fireRate": 3.3333335,
+        "name": "Talons",
+        "type": "Thrown"
+    },
+    "/Lotus/Weapons/Syndicates/ArbitersOfHexis/Pistols/AHAkbolto": {
+        "totalDamage": 47,
+        "fireRate": 10.000001,
+        "name": "Telos Akbolto",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/TwinGrakatas": {
+        "totalDamage": 10,
+        "fireRate": 20.000002,
+        "name": "Twin Grakatas",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Grineer/GrineerPistol/GrineerAkimboPistol": {
+        "totalDamage": 37,
+        "fireRate": 5.0000005,
+        "name": "Twin Gremlins",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Grineer/Pistols/GrnDWUniques/GrnTwinKohmaks": {
+        "totalDamage": 30,
+        "fireRate": 6.666667,
+        "name": "Twin Kohmak",
+        "type": "Dual Shotguns"
+    },
+    "/Lotus/Weapons/Grineer/Pistols/GrnQueenGuardDualPistol/GrnQueenGuardDualPistols": {
+        "totalDamage": 47.000004,
+        "fireRate": 2.5000002,
+        "name": "Twin Rogga",
+        "type": "Dual Shotguns"
+    },
+    "/Lotus/Weapons/Tenno/Akimbo/AkimboViperPistols": {
+        "totalDamage": 17,
+        "fireRate": 25.000002,
+        "name": "Twin Vipers",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers": {
+        "totalDamage": 18,
+        "fireRate": 25.000002,
+        "name": "Twin Vipers Wraith",
+        "type": "Dual Pistols"
+    },
+    "/Lotus/Weapons/Infested/Pistols/InfestedDartPistol/InfestedDartPistol": {
+        "totalDamage": 76,
+        "fireRate": 2.5000002,
+        "name": "Tysis",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistol/RevolverPistol": {
+        "totalDamage": 58,
+        "fireRate": 5.0000005,
+        "name": "Vasto",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/PrimeVastoPistol": {
+        "totalDamage": 66,
+        "fireRate": 5.416667,
+        "name": "Vasto Prime",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Syndicates/SteelMeridian/Pistols/SMMarelok": {
+        "totalDamage": 160,
+        "fireRate": 2,
+        "name": "Vaykor Marelok",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/TnOdaliskSmg/TnOdaliskSmgPistol": {
+        "totalDamage": 24,
+        "fireRate": 15.000001,
+        "name": "Velox",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Grineer/GrineerPistol/GrineerLightPistol": {
+        "totalDamage": 17,
+        "fireRate": 14.383334,
+        "name": "Viper",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Grineer/Pistols/WraithSingleViper/WraithSingleViper": {
+        "totalDamage": 18,
+        "fireRate": 14.383334,
+        "name": "Viper Wraith",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/TnGuandoPistol/TnGuandoPistolGun": {
+        "totalDamage": 30,
+        "fireRate": 5.0000005,
+        "name": "Zakti",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Tenno/Pistols/ConclaveLeverPistol/ConclaveLeverPistol": {
+        "totalDamage": 140,
+        "fireRate": 1.5000001,
+        "name": "Zylok",
+        "type": "Pistol"
+    },
+    "/Lotus/Weapons/Infested/Pistols/InfUzi/InfUziWeapon": {
+        "totalDamage": 84,
+        "fireRate": 1.3333334,
+        "name": "Zymos",
+        "type": "Pistol"
+    }
+}

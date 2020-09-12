@@ -1,0 +1,1336 @@
+{
+    "Acceltra": {
+        "totalDamage": 70,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/SapientPrimary/SapientPrimaryWeapon",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.64999998
+    },
+    "Amprex": {
+        "totalDamage": 22,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/ChainLightningGun/ChainLightningRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.69999999
+    },
+    "Arca Plasmor": {
+        "totalDamage": 600,
+        "fireRate": 1.1,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpShotgun/CrpShotgun",
+        "type": "Shotgun",
+        "multishot": 1,
+        "rivenStatMulti": 0.64999998
+    },
+    "Argonak": {
+        "totalDamage": 57,
+        "fireRate": 4.3333335,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/LaserAimRifle/LaserAimRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Artax": {
+        "totalDamage": 5,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/Gremlin",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Astilla": {
+        "totalDamage": 190,
+        "fireRate": 4.3333335,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnGlassShotgun/TnGlassShotgunGun",
+        "type": "Shotgun",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Attica": {
+        "totalDamage": 80,
+        "fireRate": 3.6666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnoPrmryXbow/TnoPrmryXbowWeapon",
+        "type": "Crossbow",
+        "multishot": 1,
+        "rivenStatMulti": 1.42
+    },
+    "Basmu": {
+        "totalDamage": 58,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Sentients/SentRifleNewWar/SentRifleNewWarGun",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.1
+    },
+    "Battacor": {
+        "totalDamage": 66,
+        "fireRate": 3.571429,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpSentExperimentRifle/CrpSentExperimentRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.05
+    },
+    "Baza": {
+        "totalDamage": 16,
+        "fireRate": 16.666668,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnSMG/TnSMGWeapon",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.05
+    },
+    "Baza Prime": {
+        "totalDamage": 16,
+        "fireRate": 16.666668,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeBaza/PrimeBazaGun",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.94999999
+    },
+    "Boar": {
+        "totalDamage": 22,
+        "fireRate": 4.166667,
+        "uniqueName": "/Lotus/Weapons/Tenno/Shotgun/FullAutoShotgun",
+        "type": "Shotgun",
+        "multishot": 8,
+        "rivenStatMulti": 1.45
+    },
+    "Boar Prime": {
+        "totalDamage": 40,
+        "fireRate": 4.666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/Shotgun/PrimeBoar",
+        "type": "Shotgun",
+        "multishot": 8,
+        "rivenStatMulti": 1.34
+    },
+    "Boltor": {
+        "totalDamage": 25,
+        "fireRate": 8.75,
+        "uniqueName": "/Lotus/Weapons/Tenno/Rifle/BoltoRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Boltor Prime": {
+        "totalDamage": 45.999996,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeBoltor/PrimeBoltor",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Braton": {
+        "totalDamage": 24,
+        "fireRate": 8.75,
+        "uniqueName": "/Lotus/Weapons/Tenno/Rifle/Rifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Braton Prime": {
+        "totalDamage": 35,
+        "fireRate": 9.583334,
+        "uniqueName": "/Lotus/Weapons/Tenno/Rifle/BratonPrime",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Braton Vandal": {
+        "totalDamage": 35,
+        "fireRate": 7.5000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Rifle/VIPRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Burst Laser": {
+        "totalDamage": 7,
+        "fireRate": 1.6071428,
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/BurstLaserPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.45
+    },
+    "Burston": {
+        "totalDamage": 30,
+        "fireRate": 7.8328986,
+        "uniqueName": "/Lotus/Weapons/Tenno/Rifle/BurstRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.45
+    },
+    "Burston Prime": {
+        "totalDamage": 36,
+        "fireRate": 13.636364,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeBurston/PrimeBurston",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Buzlok": {
+        "totalDamage": 60,
+        "fireRate": 6.2500005,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrnGorgSniperRifle/GrnGorgSniperRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.45
+    },
+    "Cernos": {
+        "totalDamage": 380,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Tenno/Bows/AntlerBow/AntlerBow",
+        "type": "Bow",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Cernos Prime": {
+        "totalDamage": 183.99998,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Tenno/Bows/PrimeCernos/PrimeCernos",
+        "type": "Bow",
+        "multishot": 3,
+        "rivenStatMulti": 1.25
+    },
+    "Convectrix": {
+        "totalDamage": 12,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpSplitLaser/CrpSplitLaser",
+        "type": "Shotgun",
+        "multishot": 2,
+        "rivenStatMulti": 1.46
+    },
+    "Corinth": {
+        "totalDamage": 90,
+        "fireRate": 1.1666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnHeavyShotgun/TnHeavyShotgunGun",
+        "type": "Shotgun",
+        "multishot": 6,
+        "rivenStatMulti": 1.05
+    },
+    "Corinth Prime": {
+        "totalDamage": 90,
+        "fireRate": 1.4166667,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeCorinth/PrimeCorinth",
+        "type": "Shotgun",
+        "multishot": 6,
+        "rivenStatMulti": 0.89999998
+    },
+    "Cortege": {
+        "totalDamage": 90,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchGun/ThanoTechArchGun",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 0.5
+    },
+    "Corvas": {
+        "totalDamage": 880,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 1.05
+    },
+    "Cryotra": {
+        "totalDamage": 10,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/CryoxionWeapon",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Cyngas": {
+        "totalDamage": 120,
+        "fireRate": 9.09091,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchBurstGun/ArchBurstGun",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Daikyu": {
+        "totalDamage": 700,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Tenno/Bows/AsymetricalBow/AsymetricalBow",
+        "type": "Bow",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Deconstructor": {
+        "totalDamage": 50,
+        "fireRate": 1.3333334,
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentGlaiveWeapon",
+        "type": "Glaive",
+        "rivenStatMulti": 1.25
+    },
+    "Deconstructor Prime": {
+        "totalDamage": 75,
+        "fireRate": 1.3333334,
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/DeconstructorPrime/PrimeHeliosGlaiveWeapon",
+        "type": "Glaive",
+        "rivenStatMulti": 1.25
+    },
+    "Dera": {
+        "totalDamage": 30,
+        "fireRate": 11.250001,
+        "uniqueName": "/Lotus/Weapons/ClanTech/Energy/EnergyRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.4
+    },
+    "Dera Vandal": {
+        "totalDamage": 32,
+        "fireRate": 11.250001,
+        "uniqueName": "/Lotus/Weapons/ClanTech/Energy/DeraVandal",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Deth Machine Rifle": {
+        "totalDamage": 5,
+        "fireRate": 8.333334,
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/DethMachineRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.455
+    },
+    "Deth Machine Rifle Prime": {
+        "totalDamage": 7,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeDethMachineRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.455
+    },
+    "Dex Sybaris": {
+        "totalDamage": 75,
+        "fireRate": 4.166667,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/DexTheThird/DexTheThird",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Drakgoon": {
+        "totalDamage": 70,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerFlakCannon/FlakCannon",
+        "type": "Shotgun",
+        "multishot": 10,
+        "rivenStatMulti": 1.4
+    },
+    "Dread": {
+        "totalDamage": 336,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Tenno/Bows/StalkerBow",
+        "type": "Bow",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Dual Decurion": {
+        "totalDamage": 110,
+        "fireRate": 8.333334,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/ArchHeavyPistols",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Exergis": {
+        "totalDamage": 540,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpShapeBlast/CrpShapeBlastShotgun",
+        "type": "Shotgun",
+        "multishot": 3,
+        "rivenStatMulti": 1.05
+    },
+    "Ferrox": {
+        "totalDamage": 350,
+        "fireRate": 1.3333334,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/Spears/Railgun/CorpusRailgun",
+        "type": "Speargun",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Fluctus": {
+        "totalDamage": 250,
+        "fireRate": 5.0000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 0.89999998
+    },
+    "Flux Rifle": {
+        "totalDamage": 22,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/ClanTech/Energy/CrpLaserRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.55
+    },
+    "Fulmin": {
+        "totalDamage": 500,
+        "fireRate": 2.1666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnWispRifle/TnWispRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.60000002
+    },
+    "Glaxion": {
+        "totalDamage": 26,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpFreezeRay/CrpFreezeRayRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Glaxion Vandal": {
+        "totalDamage": 29,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpFreezeRay/Vandal/CrpFreezeRayVandalRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Gorgon": {
+        "totalDamage": 25,
+        "fireRate": 12.500001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Rifle/HeavyRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.4
+    },
+    "Gorgon Wraith": {
+        "totalDamage": 27,
+        "fireRate": 13.333334,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/WraithGorgon/WraithGorgon",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Grakata": {
+        "totalDamage": 11,
+        "fireRate": 20.000002,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/GrnAssaultRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Grattler": {
+        "totalDamage": 305,
+        "fireRate": 6.2500005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/RepurposedGrineerAntiAircraftGun/ArchGRNAAGun",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 0.94999999
+    },
+    "Grinlok": {
+        "totalDamage": 187,
+        "fireRate": 1.6666667,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/GLARifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Harpak": {
+        "totalDamage": 50,
+        "fireRate": 6,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrnHarpoonGun/GrnHarpoonGun",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.55
+    },
+    "Hek": {
+        "totalDamage": 75,
+        "fireRate": 2.1666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/Shotgun/QuadShotgun",
+        "type": "Shotgun",
+        "multishot": 7,
+        "rivenStatMulti": 1.2
+    },
+    "Helstrum": {
+        "totalDamage": 16,
+        "fireRate": 0.90909088,
+        "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Hema": {
+        "totalDamage": 47,
+        "fireRate": 6,
+        "uniqueName": "/Lotus/Weapons/Infested/LongGuns/InfWFAccompanyingPri/InfestedBurstRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Hind": {
+        "totalDamage": 30,
+        "fireRate": 6.2500005,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/BurstRifle/GrnBurstRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.42
+    },
+    "Ignis": {
+        "totalDamage": 33,
+        "fireRate": 8,
+        "uniqueName": "/Lotus/Weapons/ClanTech/Chemical/FlameThrower",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.60000002
+    },
+    "Ignis Wraith": {
+        "totalDamage": 35,
+        "fireRate": 8,
+        "uniqueName": "/Lotus/Weapons/ClanTech/Chemical/FlameThrowerWraith",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.55000001
+    },
+    "Imperator": {
+        "totalDamage": 50,
+        "fireRate": 16.666668,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGun",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 0.85000002
+    },
+    "Imperator Vandal": {
+        "totalDamage": 50,
+        "fireRate": 25.000002,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGunVandal",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 0.85000002
+    },
+    "Javlok": {
+        "totalDamage": 280,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrnFlameSpear/GrnFlameSpear",
+        "type": "Speargun",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Karak": {
+        "totalDamage": 29,
+        "fireRate": 11.666667,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerM16Homage/GrineerM16Rifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Karak Wraith": {
+        "totalDamage": 31,
+        "fireRate": 11.666667,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerM16Homage/KarakWraith",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.28
+    },
+    "Kohm": {
+        "totalDamage": 30,
+        "fireRate": 3.6666667,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrnSpark/GrnSparkRifle",
+        "type": "Shotgun",
+        "multishot": 9,
+        "rivenStatMulti": 1.3
+    },
+    "Komorex": {
+        "totalDamage": 87,
+        "fireRate": 6.0000005,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpSentAmlgSniper/CrpSentAmlgSniper",
+        "type": "Sniper Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.1
+    },
+    "Kuva Ayanga": {
+        "totalDamage": 274,
+        "fireRate": 4.5833335,
+        "uniqueName": "/Lotus/Weapons/Grineer/HeavyWeapons/GrnHeavyGrenadeLauncher",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Kuva Bramma": {
+        "totalDamage": 1026,
+        "fireRate": 0.66666669,
+        "uniqueName": "/Lotus/Weapons/Grineer/Bows/GrnBow/GrnBowWeapon",
+        "type": "Bow",
+        "multishot": 1,
+        "rivenStatMulti": 0.64999998
+    },
+    "Kuva Chakkhurr": {
+        "totalDamage": 366,
+        "fireRate": 1.1666667,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrnKuvaLichRifle/GrnKuvaLichRifleWeapon",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.85000002
+    },
+    "Kuva Drakgoon": {
+        "totalDamage": 46,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Drakgoon/KuvaDrakgoon",
+        "type": "Shotgun",
+        "multishot": 10,
+        "rivenStatMulti": 1.05
+    },
+    "Kuva Hind": {
+        "totalDamage": 30,
+        "fireRate": 9.09091,
+        "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Hind/KuvaHind",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Kuva Karak": {
+        "totalDamage": 23,
+        "fireRate": 11.666667,
+        "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Karak/KuvaKarak",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Kuva Kohm": {
+        "totalDamage": 20,
+        "fireRate": 4.166667,
+        "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Kohm/KuvaKohm",
+        "type": "Shotgun",
+        "multishot": 9,
+        "rivenStatMulti": 0.85000002
+    },
+    "Kuva Ogris": {
+        "totalDamage": 714,
+        "fireRate": 1.5000001,
+        "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Ogris/KuvaOgris",
+        "type": "Launcher",
+        "multishot": 1,
+        "rivenStatMulti": 0.89999998
+    },
+    "Kuva Quartakk": {
+        "totalDamage": 54,
+        "fireRate": 4.8333335,
+        "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Quartakk/KuvaQuartakk",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Kuva Tonkor": {
+        "totalDamage": 733,
+        "fireRate": 3.1666667,
+        "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Tonkor/KuvaTonkor",
+        "type": "Launcher",
+        "multishot": 1,
+        "rivenStatMulti": 0.94999999
+    },
+    "Lanka": {
+        "totalDamage": 525,
+        "fireRate": 0,
+        "uniqueName": "/Lotus/Weapons/ClanTech/Energy/Railgun",
+        "type": "Sniper Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.89999998
+    },
+    "Larkspur": {
+        "totalDamage": 90,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/TnShieldframeArchGun/TnShieldFrameArchGun",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 0.80000001
+    },
+    "Laser Rifle": {
+        "totalDamage": 8,
+        "fireRate": 1.6666667,
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/LaserRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.21
+    },
+    "Latron": {
+        "totalDamage": 55,
+        "fireRate": 4.166667,
+        "uniqueName": "/Lotus/Weapons/Tenno/Rifle/SemiAutoRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.4
+    },
+    "Latron Prime": {
+        "totalDamage": 90,
+        "fireRate": 4.166667,
+        "uniqueName": "/Lotus/Weapons/Tenno/Rifle/LatronPrime",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Latron Wraith": {
+        "totalDamage": 60,
+        "fireRate": 5.416667,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/WraithLatron/WraithLatron",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Lenz": {
+        "totalDamage": 60,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Corpus/Bow/Longbow/CrpBow",
+        "type": "Bow",
+        "multishot": 1,
+        "rivenStatMulti": 0.94999999
+    },
+    "Mausolon": {
+        "totalDamage": 120,
+        "fireRate": 8.333334,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchLongGun/ThanoTechLongGun",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 0.5
+    },
+    "Miter": {
+        "totalDamage": 250,
+        "fireRate": 2.5000002,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerSawbladeGun/SawBladeGun",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.5
+    },
+    "Mk1-Braton": {
+        "totalDamage": 18,
+        "fireRate": 7.5000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Rifle/StartingRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Mk1-Paris": {
+        "totalDamage": 230,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/MK1Series/MK1Paris",
+        "type": "Bow",
+        "multishot": 1,
+        "rivenStatMulti": 1.45
+    },
+    "Mk1-Strun": {
+        "totalDamage": 18,
+        "fireRate": 2.0833335,
+        "uniqueName": "/Lotus/Weapons/MK1Series/MK1Strun",
+        "type": "Shotgun",
+        "multishot": 10,
+        "rivenStatMulti": 1.45
+    },
+    "Multron": {
+        "totalDamage": 5,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/HextraWeapon",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Mutalist Cernos": {
+        "totalDamage": 415,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Infested/Bow/InfCernosBow/InfCernos",
+        "type": "Bow",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Mutalist Quanta": {
+        "totalDamage": 25,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Weapons/Infested/LongGuns/InfCrpShockSwarm/InfCrpShockSwarmRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.5
+    },
+    "Nagantaka": {
+        "totalDamage": 158.99998,
+        "fireRate": 2.5000002,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/GarudaCrossbow/GarudaCrossbow",
+        "type": "Crossbow",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Ogris": {
+        "totalDamage": 700,
+        "fireRate": 1.5000001,
+        "uniqueName": "/Lotus/Weapons/ClanTech/Chemical/RocketLauncher",
+        "type": "Launcher",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Opticor": {
+        "totalDamage": 999.99994,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpBFG/CrpBFG",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.1
+    },
+    "Opticor Vandal": {
+        "totalDamage": 400,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpBFG/Vandal/VandalCrpBFG",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Panthera": {
+        "totalDamage": 100,
+        "fireRate": 3.0000002,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/Miter/TnoMiter",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.4
+    },
+    "Panthera Prime": {
+        "totalDamage": 120,
+        "fireRate": 3.6666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimePanthera/PrimePanthera",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.5
+    },
+    "Paracyst": {
+        "totalDamage": 33,
+        "fireRate": 11.111112,
+        "uniqueName": "/Lotus/Weapons/Infested/LongGuns/QuantaFullyInfested/InfQuantaRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.3099999
+    },
+    "Paris": {
+        "totalDamage": 320,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Tenno/Bows/HuntingBow",
+        "type": "Bow",
+        "multishot": 1,
+        "rivenStatMulti": 1.4
+    },
+    "Paris Prime": {
+        "totalDamage": 360,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Tenno/Bows/PrimeHuntingBow",
+        "type": "Bow",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Penta": {
+        "totalDamage": 425,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/GrenadeLauncher/GrenadeLauncher",
+        "type": "Launcher",
+        "multishot": 1,
+        "rivenStatMulti": 1.35
+    },
+    "Phaedra": {
+        "totalDamage": 56,
+        "fireRate": 18.750002,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Phage": {
+        "totalDamage": 5,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Infested/LongGuns/Tentacluster/InfestedShotgun",
+        "type": "Shotgun",
+        "multishot": 7,
+        "rivenStatMulti": 1.46
+    },
+    "Phantasma": {
+        "totalDamage": 15,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/RevenantShotgun/RevenantShotgun",
+        "type": "Shotgun",
+        "multishot": 6,
+        "rivenStatMulti": 1.05
+    },
+    "Prime Laser Rifle": {
+        "totalDamage": 11.999999,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeLaserRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.21
+    },
+    "Prisma Burst Laser": {
+        "totalDamage": 10,
+        "fireRate": 1.6071428,
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrismaBurstLaserPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 1.45
+    },
+    "Prisma Gorgon": {
+        "totalDamage": 23.000002,
+        "fireRate": 14.166667,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/VoidTraderGorgon/VTGorgon",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Prisma Grakata": {
+        "totalDamage": 15,
+        "fireRate": 21.666668,
+        "uniqueName": "/Lotus/Weapons/VoidTrader/PrismaGrakata",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Prisma Grinlok": {
+        "totalDamage": 187,
+        "fireRate": 1.6666667,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/PrismaGrinlokWeapon",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Prisma Tetra": {
+        "totalDamage": 38,
+        "fireRate": 7.0833335,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CorpusUMP/PrismaCorpusUMP",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.45
+    },
+    "Quanta": {
+        "totalDamage": 10,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/CrpShockRifle",
+        "type": "Rifle",
+        "multishot": 2,
+        "rivenStatMulti": 1.4
+    },
+    "Quanta Vandal": {
+        "totalDamage": 13,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/QuantaVandal",
+        "type": "Rifle",
+        "multishot": 2,
+        "rivenStatMulti": 1.35
+    },
+    "Quartakk": {
+        "totalDamage": 49,
+        "fireRate": 6.3333335,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrnFourBarrelRifle/GrnFourBarrelRifleWeapon",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Quellor": {
+        "totalDamage": 58,
+        "fireRate": 6.0000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnRailjackRifle/RailjackRifleGun",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Rakta Cernos": {
+        "totalDamage": 470,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Weapons/Syndicates/RedVeil/Bows/RVCernos",
+        "type": "Bow",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Rubico": {
+        "totalDamage": 179.99998,
+        "fireRate": 2.6666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/FiveShotSniper/FiveShotSniper",
+        "type": "Sniper Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.80000001
+    },
+    "Rubico Prime": {
+        "totalDamage": 187,
+        "fireRate": 3.6666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/RubicoPrime/RubicoPrimeWeapon",
+        "type": "Sniper Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.60000002
+    },
+    "Sancti Tigris": {
+        "totalDamage": 210,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Syndicates/NewLoka/LongGuns/NLTigris",
+        "type": "Shotgun",
+        "multishot": 6,
+        "rivenStatMulti": 0.85000002
+    },
+    "Scourge": {
+        "totalDamage": 125,
+        "fireRate": 2.6666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnPriestSpear/TnPriestSpearGun",
+        "type": "Speargun",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Secura Penta": {
+        "totalDamage": 375,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Syndicates/PerrinSequence/LongGuns/PSPenta",
+        "type": "Launcher",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Shedu": {
+        "totalDamage": 158,
+        "fireRate": 2.5000002,
+        "uniqueName": "/Lotus/Weapons/Sentients/Shedu/SheduHeavyWeapon",
+        "type": "Arm-Cannon",
+        "multishot": 1,
+        "rivenStatMulti": 0.85000002
+    },
+    "Simulor": {
+        "totalDamage": 200,
+        "fireRate": 3.0000002,
+        "uniqueName": "/Lotus/Weapons/Cephalon/Primary/CephPrimary/CephPrimary",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Snipetron": {
+        "totalDamage": 180,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Tenno/Rifle/SniperRifle",
+        "type": "Sniper Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Snipetron Vandal": {
+        "totalDamage": 200,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Tenno/Rifle/VandalSniperRifle",
+        "type": "Sniper Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Sobek": {
+        "totalDamage": 70,
+        "fireRate": 2.5000002,
+        "uniqueName": "/Lotus/Weapons/Tenno/Shotgun/DoubleBarrelShotgun",
+        "type": "Shotgun",
+        "multishot": 5,
+        "rivenStatMulti": 1.33
+    },
+    "Soma": {
+        "totalDamage": 12,
+        "fireRate": 15.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Rifle/TennoAR",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.1
+    },
+    "Soma Prime": {
+        "totalDamage": 12,
+        "fireRate": 15.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeSoma/PrimeSomaRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Stahlta": {
+        "totalDamage": 52,
+        "fireRate": 6.0000005,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpRubanRifle/CrpRubanRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.69999999
+    },
+    "Stinger": {
+        "totalDamage": 15,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentBioWeapon",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.3150001
+    },
+    "Stradavar": {
+        "totalDamage": 28,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TennoTommyGun/TennoTommyGunRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.1
+    },
+    "Stradavar Prime": {
+        "totalDamage": 30,
+        "fireRate": 10.000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeStradavar/PrimeStradavarGun",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.1
+    },
+    "Strun": {
+        "totalDamage": 25,
+        "fireRate": 2.5000002,
+        "uniqueName": "/Lotus/Weapons/Tenno/Shotgun/Shotgun",
+        "type": "Shotgun",
+        "multishot": 12,
+        "rivenStatMulti": 1.4
+    },
+    "Strun Wraith": {
+        "totalDamage": 40,
+        "fireRate": 2.5000002,
+        "uniqueName": "/Lotus/Weapons/Tenno/Shotgun/ShotgunVandal",
+        "type": "Shotgun",
+        "multishot": 10,
+        "rivenStatMulti": 1.35
+    },
+    "Supra": {
+        "totalDamage": 40,
+        "fireRate": 12.500001,
+        "uniqueName": "/Lotus/Weapons/ClanTech/Energy/CrpHeavyRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Supra Vandal": {
+        "totalDamage": 40,
+        "fireRate": 12.500001,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/Machinegun/SupraVandal",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.89999998
+    },
+    "Sweeper": {
+        "totalDamage": 7,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentShotgun",
+        "type": "Shotgun",
+        "multishot": 6,
+        "rivenStatMulti": 1
+    },
+    "Sweeper Prime": {
+        "totalDamage": 10,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeSentShotgun",
+        "type": "Shotgun",
+        "multishot": 6,
+        "rivenStatMulti": 1
+    },
+    "Sybaris": {
+        "totalDamage": 80,
+        "fireRate": 3.9840639,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnoLeverAction/TnoLeverActionRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.25
+    },
+    "Sybaris Prime": {
+        "totalDamage": 88,
+        "fireRate": 4.7169814,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeSybaris/PrimeSybarisRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Synapse": {
+        "totalDamage": 20,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Infested/LongGuns/InfestedRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.3099999
+    },
+    "Synoid Simulor": {
+        "totalDamage": 240,
+        "fireRate": 3.3333335,
+        "uniqueName": "/Lotus/Weapons/Syndicates/CephalonSuda/LongGuns/CSSimulor",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Tazicor": {
+        "totalDamage": 6,
+        "fireRate": 8.333334,
+        "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/TazronWeapon",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Telos Boltor": {
+        "totalDamage": 30,
+        "fireRate": 9.333334,
+        "uniqueName": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/LongGuns/AHBoltor",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Tenora": {
+        "totalDamage": 24,
+        "fireRate": 11.666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnBardRifle/TnBardRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.1
+    },
+    "Tetra": {
+        "totalDamage": 32,
+        "fireRate": 6.666667,
+        "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CorpusUMP/CorpusUMP",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.5
+    },
+    "Tiberon": {
+        "totalDamage": 44,
+        "fireRate": 9.09091,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/DrakeRifle/DrakeRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Tiberon Prime": {
+        "totalDamage": 46,
+        "fireRate": 7.3770499,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeTiberon/PrimeTiberonRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.85000002
+    },
+    "Tigris": {
+        "totalDamage": 210,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/DoubleBarrelShotgun/TennoDoubleBarrelShotgun",
+        "type": "Shotgun",
+        "multishot": 5,
+        "rivenStatMulti": 1
+    },
+    "Tigris Prime": {
+        "totalDamage": 195,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeTigris/PrimeTigris",
+        "type": "Shotgun",
+        "multishot": 8,
+        "rivenStatMulti": 0.80000001
+    },
+    "Tonkor": {
+        "totalDamage": 725,
+        "fireRate": 3.1666667,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrnGrenadeLauncher/GrnGrenadeLauncher",
+        "type": "Launcher",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Torid": {
+        "totalDamage": 140,
+        "fireRate": 1.5000001,
+        "uniqueName": "/Lotus/Weapons/ClanTech/Bio/BioWeapon",
+        "type": "Launcher",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Trumna": {
+        "totalDamage": 82,
+        "fireRate": 4.666667,
+        "uniqueName": "/Lotus/Weapons/Thanotech/ThanoRifle/ThanotechRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.5
+    },
+    "Vaykor Hek": {
+        "totalDamage": 75,
+        "fireRate": 3.0000002,
+        "uniqueName": "/Lotus/Weapons/Syndicates/SteelMeridian/LongGuns/SMHek",
+        "type": "Shotgun",
+        "multishot": 7,
+        "rivenStatMulti": 1.1
+    },
+    "Vectis": {
+        "totalDamage": 225,
+        "fireRate": 1.5000001,
+        "uniqueName": "/Lotus/Weapons/Tenno/Rifle/TennoSniperRifle",
+        "type": "Sniper Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.05
+    },
+    "Vectis Prime": {
+        "totalDamage": 350,
+        "fireRate": 2.6666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeVectis/PrimeVectisRifle",
+        "type": "Sniper Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 0.85000002
+    },
+    "Veldt": {
+        "totalDamage": 90,
+        "fireRate": 3.6666667,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnRevolverRifle/TnRevolverRifleGun",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.3
+    },
+    "Velocitus": {
+        "totalDamage": 1600,
+        "fireRate": 5.0000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun",
+        "type": "",
+        "multishot": 1,
+        "rivenStatMulti": 1.05
+    },
+    "Vulcax": {
+        "totalDamage": 35,
+        "fireRate": 1,
+        "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/ThermocorMoaWeapon",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1
+    },
+    "Vulkar": {
+        "totalDamage": 224.99998,
+        "fireRate": 1.5000001,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerSniperRifle/GrnSniperRifle",
+        "type": "Sniper Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.45
+    },
+    "Vulkar Wraith": {
+        "totalDamage": 273,
+        "fireRate": 2,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerSniperRifle/VulkarWraith",
+        "type": "Sniper Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.4
+    },
+    "Vulklok": {
+        "totalDamage": 85,
+        "fireRate": 0.15000001,
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentElecRailgun",
+        "type": "Sniper Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.245
+    },
+    "Zarr": {
+        "totalDamage": 200,
+        "fireRate": 1.6666667,
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrnCannon/GrnCannonWeapon",
+        "type": "Launcher",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    },
+    "Zenith": {
+        "totalDamage": 30,
+        "fireRate": 10.833334,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/LoginPrimary/SundialRifle",
+        "type": "Rifle",
+        "multishot": 1,
+        "rivenStatMulti": 1.1
+    },
+    "Zhuge": {
+        "totalDamage": 100,
+        "fireRate": 4.166667,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/RepeatingCrossbow/RepeatingCrossbow",
+        "type": "Crossbow",
+        "multishot": 1,
+        "rivenStatMulti": 1.2
+    },
+    "Zhuge Prime": {
+        "totalDamage": 50,
+        "fireRate": 5.5000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeZhuge/PrimeZhugeCrossbow",
+        "type": "Crossbow",
+        "multishot": 1,
+        "rivenStatMulti": 1.15
+    }
+}

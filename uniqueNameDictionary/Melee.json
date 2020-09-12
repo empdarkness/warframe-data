@@ -1,0 +1,962 @@
+{
+    "/Lotus/Weapons/Grineer/Melee/GrineerTylAxeAndBoar/RegorAxeShield": {
+        "totalDamage": 149,
+        "fireRate": 0.83333337,
+        "name": "Ack & Brunt",
+        "type": "Sword And Shield"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Staff/GrnStaff": {
+        "totalDamage": 130,
+        "fireRate": 1.2500001,
+        "name": "Amphis",
+        "type": "Staff"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Scythe/ParisScythe/ParisScythe": {
+        "totalDamage": 170,
+        "fireRate": 1.0833334,
+        "name": "Anku",
+        "type": "Scythe"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Gauntlet/Gauntlet": {
+        "totalDamage": 90,
+        "fireRate": 1.1666667,
+        "name": "Ankyros",
+        "type": "Fist"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Gauntlet/PrimeAnkyros/PrimeAnkyros": {
+        "totalDamage": 128,
+        "fireRate": 1.2500001,
+        "name": "Ankyros Prime",
+        "type": "Fist"
+    },
+    "/Lotus/Weapons/Corpus/Melee/Hammer/CorpusHammerWeapon": {
+        "totalDamage": 360,
+        "fireRate": 0.73333335,
+        "name": "Arca Titron",
+        "type": "Hammer"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrineerWhip/GrineerWhip": {
+        "totalDamage": 129,
+        "fireRate": 0.91666669,
+        "name": "Atterax",
+        "type": "Whip"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Staff/Staff": {
+        "totalDamage": 140,
+        "fireRate": 1,
+        "name": "Bo",
+        "type": "Staff"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Staff/PrimeBo/PrimeBoWeapon": {
+        "totalDamage": 176,
+        "fireRate": 1.0833334,
+        "name": "Bo Prime",
+        "type": "Staff"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Tonfa/Boltonfa/Boltonfa": {
+        "totalDamage": 176,
+        "fireRate": 0.91666669,
+        "name": "Boltace",
+        "type": "Tonfa"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrnQueenSceptre/GrnQueenSceptreWeapon": {
+        "totalDamage": 179,
+        "fireRate": 1.2500001,
+        "name": "Broken Scepter",
+        "type": "Staff"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/StalkerTwo/StalkerTwoSmallSword": {
+        "totalDamage": 187,
+        "fireRate": 1,
+        "name": "Broken War",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Polearms/TnHalberdPolearm/TnHalberdPolearmWeapon": {
+        "totalDamage": 188,
+        "fireRate": 1.1666667,
+        "name": "Cassowar",
+        "type": "Polearm"
+    },
+    "/Lotus/Weapons/Infested/Melee/InfEmbolistScythe/InfestedScythe": {
+        "totalDamage": 260,
+        "fireRate": 1,
+        "name": "Caustacyst",
+        "type": "Scythe"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Dagger/CeramicDagger": {
+        "totalDamage": 140,
+        "fireRate": 1,
+        "name": "Ceramic Dagger",
+        "type": "Dagger"
+    },
+    "/Lotus/Weapons/Infested/Melee/Glaives/PunctureGlaive/PunctureGlaiveWeapon": {
+        "totalDamage": 183,
+        "fireRate": 1,
+        "name": "Cerata",
+        "type": "Glaive"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/StalkerMios/OperationsLacera": {
+        "totalDamage": 216,
+        "fireRate": 1.0833334,
+        "name": "Ceti Lacera",
+        "type": "Blade And Whip"
+    },
+    "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/PacifistShieldAndSword/PacifistShieldSword": {
+        "totalDamage": 296,
+        "fireRate": 0.91666669,
+        "name": "Cobra & Crane",
+        "type": "Sword And Shield"
+    },
+    "/Lotus/Weapons/Tenno/Melee/CronusSword/CronusLongSword": {
+        "totalDamage": 106,
+        "fireRate": 0.91666669,
+        "name": "Cronus",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/Tenno/Melee/CronusSword/PrimeCronusLongSword": {
+        "totalDamage": 170,
+        "fireRate": 1,
+        "name": "Dakra Prime",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Dagger/DarkDagger": {
+        "totalDamage": 154,
+        "fireRate": 0.91666669,
+        "name": "Dark Dagger",
+        "type": "Dagger"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/DarkSword/DarkSwordDaggerHybridWeapon": {
+        "totalDamage": 10,
+        "fireRate": 1,
+        "name": "Dark Split-Sword",
+        "type": "Melee"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/DarkSword/DarkLongSword": {
+        "totalDamage": 260,
+        "fireRate": 0.83333337,
+        "name": "Dark Sword",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/TnoRapier/TnoRapier": {
+        "totalDamage": 158,
+        "fireRate": 1,
+        "name": "Destreza",
+        "type": "Rapier"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/PRapier/DestrezaPrime": {
+        "totalDamage": 170,
+        "fireRate": 0.91666669,
+        "name": "Destreza Prime",
+        "type": "Rapier"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/DexTheSecond/DexTheSecond": {
+        "totalDamage": 142,
+        "fireRate": 0.88333338,
+        "name": "Dex Dakra",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/LowKatana": {
+        "totalDamage": 188,
+        "fireRate": 1,
+        "name": "Dragon Nikana",
+        "type": "Nikana"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/DualCleaverWeapon": {
+        "totalDamage": 157,
+        "fireRate": 0.83333337,
+        "name": "Dual Cleavers",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualEtherSword": {
+        "totalDamage": 180,
+        "fireRate": 1,
+        "name": "Dual Ether",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualHeatSwords": {
+        "totalDamage": 147,
+        "fireRate": 0.91666669,
+        "name": "Dual Heat Swords",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Axe/DualInfestedAxesWeapon": {
+        "totalDamage": 122,
+        "fireRate": 1.0833334,
+        "name": "Dual Ichor",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Tenno/Melee/DualKamas/DualKamas": {
+        "totalDamage": 96.000008,
+        "fireRate": 1.1666667,
+        "name": "Dual Kamas",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Tenno/Melee/PrimeDualKamas/PrimeDualKamas": {
+        "totalDamage": 160,
+        "fireRate": 1.1666667,
+        "name": "Dual Kamas Prime",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/QuillSword/QuillDualSwords": {
+        "totalDamage": 115,
+        "fireRate": 1.2500001,
+        "name": "Dual Keres",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Soma/SomaDualKamas": {
+        "totalDamage": 110,
+        "fireRate": 0.91666669,
+        "name": "Dual Raza",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualShortSword": {
+        "totalDamage": 120,
+        "fireRate": 0.83333337,
+        "name": "Dual Skana",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Axe/DualAxeWeapon": {
+        "totalDamage": 70,
+        "fireRate": 1.1666667,
+        "name": "Dual Zoren",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/ThreeLeaf/ThreeLeaf": {
+        "totalDamage": 200,
+        "fireRate": 0.91666669,
+        "name": "Endura",
+        "type": "Rapier"
+    },
+    "/Lotus/Weapons/Tenno/Melee/DualDagger/DualEtherDagger": {
+        "totalDamage": 224,
+        "fireRate": 0.83333337,
+        "name": "Ether Daggers",
+        "type": "Dual Daggers"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Scythe/EtherScytheWeapon": {
+        "totalDamage": 180,
+        "fireRate": 1.0833334,
+        "name": "Ether Reaper",
+        "type": "Scythe"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LongSword/EtherSword": {
+        "totalDamage": 192,
+        "fireRate": 1,
+        "name": "Ether Sword",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGlaive/CrpGlaive": {
+        "totalDamage": 230,
+        "fireRate": 0.83333337,
+        "name": "Falcor",
+        "type": "Glaive"
+    },
+    "/Lotus/Weapons/Tenno/Melee/DualDagger/DualDagger": {
+        "totalDamage": 108,
+        "fireRate": 0.91666669,
+        "name": "Fang",
+        "type": "Dual Daggers"
+    },
+    "/Lotus/Weapons/Tenno/Melee/DualDagger/FangPrimeDagger": {
+        "totalDamage": 178,
+        "fireRate": 1,
+        "name": "Fang Prime",
+        "type": "Dual Daggers"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Hammer/HammerWeapon": {
+        "totalDamage": 200,
+        "fireRate": 0.83333337,
+        "name": "Fragor",
+        "type": "Hammer"
+    },
+    "/Lotus/Weapons/Tenno/Melee/PrimeFragor/PrimeFragor": {
+        "totalDamage": 270,
+        "fireRate": 0.80000007,
+        "name": "Fragor Prime",
+        "type": "Hammer"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Fist/Fist": {
+        "totalDamage": 135,
+        "fireRate": 1,
+        "name": "Furax",
+        "type": "Fist"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Fist/FuraxWraith": {
+        "totalDamage": 138.99998,
+        "fireRate": 1.0833334,
+        "name": "Furax Wraith",
+        "type": "Fist"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/GreatSword/TennoGreatSword": {
+        "totalDamage": 182,
+        "fireRate": 1,
+        "name": "Galatine",
+        "type": "Heavy Blade"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/PrimeGalatine/PrimeGalatine": {
+        "totalDamage": 280,
+        "fireRate": 1,
+        "name": "Galatine Prime",
+        "type": "Heavy Blade"
+    },
+    "/Lotus/Weapons/Corpus/Melee/Whips/CrpShockGrip/CrpShockGripWhipWeapon": {
+        "totalDamage": 210,
+        "fireRate": 0.75000006,
+        "name": "Galvacord",
+        "type": "Whip"
+    },
+    "/Lotus/Weapons/Tenno/Melee/PersianMachete/DjinnMachete": {
+        "totalDamage": 178,
+        "fireRate": 1,
+        "name": "Gazal Machete",
+        "type": "Machete"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Glaives/LightGlaive/LightGlaiveWeapon": {
+        "totalDamage": 105,
+        "fireRate": 1,
+        "name": "Glaive",
+        "type": "Glaive"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Glaives/PrimeGlaive/PrimeGlaiveWeapon": {
+        "totalDamage": 164,
+        "fireRate": 1.2500001,
+        "name": "Glaive Prime",
+        "type": "Glaive"
+    },
+    "/Lotus/Weapons/Tenno/Melee/GreatSword/GreatSword": {
+        "totalDamage": 160,
+        "fireRate": 0.95000005,
+        "name": "Gram",
+        "type": "Heavy Blade"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/PrimeGram/PrimeGram": {
+        "totalDamage": 300,
+        "fireRate": 0.80000007,
+        "name": "Gram Prime",
+        "type": "Heavy Blade"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Polearms/TnGuandaoPolearm/TnGuandaoPolearmWeapon": {
+        "totalDamage": 202,
+        "fireRate": 0.83333337,
+        "name": "Guandao",
+        "type": "Polearm"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Warfan/WarfanWeapon": {
+        "totalDamage": 160,
+        "fireRate": 1.1666667,
+        "name": "Gunsen",
+        "type": "Warfan"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrnBoomerang/GrnBoomerang": {
+        "totalDamage": 149,
+        "fireRate": 1.1666667,
+        "name": "Halikar",
+        "type": "Glaive"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Scythe/StalkerScytheWeapon": {
+        "totalDamage": 230,
+        "fireRate": 0.91666669,
+        "name": "Hate",
+        "type": "Scythe"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Dagger/Dagger": {
+        "totalDamage": 208,
+        "fireRate": 0.75000006,
+        "name": "Heat Dagger",
+        "type": "Dagger"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/HeatSword/HeatLongSword": {
+        "totalDamage": 147,
+        "fireRate": 0.91666669,
+        "name": "Heat Sword",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/Cephalon/Melee/Hammer/CephHammerWeapon": {
+        "totalDamage": 280,
+        "fireRate": 0.83333337,
+        "name": "Heliocor",
+        "type": "Hammer"
+    },
+    "/Lotus/Weapons/Infested/Melee/InfWFAccompanyingSparring/InfestedKogake": {
+        "totalDamage": 130,
+        "fireRate": 1,
+        "name": "Hirudo",
+        "type": "Sparring"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrineerJetPoweredPolearm/GrineerJetPolearm": {
+        "totalDamage": 199.99998,
+        "fireRate": 1,
+        "name": "Jat Kittag",
+        "type": "Hammer"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrnKusarigama/GrnKusarigamaWeapon": {
+        "totalDamage": 218,
+        "fireRate": 0.83333337,
+        "name": "Jat Kusar",
+        "type": "Blade And Whip"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/JawSword/JawLongSword": {
+        "totalDamage": 120,
+        "fireRate": 0.91666669,
+        "name": "Jaw Sword",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/Tenno/Melee/DualKamas/SingleKama": {
+        "totalDamage": 90,
+        "fireRate": 1.1666667,
+        "name": "Kama",
+        "type": "Machete"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/KrisDagger/KrisDagger": {
+        "totalDamage": 273,
+        "fireRate": 0.75000006,
+        "name": "Karyst",
+        "type": "Dagger"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/PrimeKaryst/PrimeKrisDagger": {
+        "totalDamage": 344,
+        "fireRate": 0.66666669,
+        "name": "Karyst Prime",
+        "type": "Dagger"
+    },
+    "/Lotus/Weapons/Infested/Melee/InfTransformClaw/InfTransformClawsWeapon": {
+        "totalDamage": 244,
+        "fireRate": 0.91666669,
+        "name": "Keratinos",
+        "type": "Claws"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrineerHalberd/GrnHalberd": {
+        "totalDamage": 241,
+        "fireRate": 0.83333337,
+        "name": "Kesheg",
+        "type": "Polearm"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Glaives/Boomerang/BoomerangWeapon": {
+        "totalDamage": 84,
+        "fireRate": 1.0833334,
+        "name": "Kestrel",
+        "type": "Glaive"
+    },
+    "/Lotus/Weapons/Tenno/Melee/BrassKnuckles/BrassKnuckles": {
+        "totalDamage": 120,
+        "fireRate": 0.91666669,
+        "name": "Kogake",
+        "type": "Sparring"
+    },
+    "/Lotus/Weapons/Tenno/Melee/PrimeKogake/KogakePrimeKnuckles": {
+        "totalDamage": 242,
+        "fireRate": 0.91666669,
+        "name": "Kogake Prime",
+        "type": "Sparring"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrnSparring/GrnSpiderSparring/GrnSpiderSparring": {
+        "totalDamage": 193,
+        "fireRate": 0.83333337,
+        "name": "Korrudo",
+        "type": "Sparring"
+    },
+    "/Lotus/Weapons/Corpus/Melee/CrpVenusHatchet/CrpVenusHatchet": {
+        "totalDamage": 190,
+        "fireRate": 0.91666669,
+        "name": "Kreska",
+        "type": "Machete"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrnEgyptSwd/GrnEgyptSwdWeapon": {
+        "totalDamage": 217,
+        "fireRate": 0.83333337,
+        "name": "Krohkur",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Tonfa/TonfaContestWinner/TennoTonfa": {
+        "totalDamage": 130,
+        "fireRate": 1.0833334,
+        "name": "Kronen",
+        "type": "Tonfa"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Tonfa/TonfaContestWinnerPrime/TonfaContestWinnerPrimeWeapon": {
+        "totalDamage": 212,
+        "fireRate": 1.1666667,
+        "name": "Kronen Prime",
+        "type": "Tonfa"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrnKuvaLichScythe/GrnKuvaLichScytheWeapon": {
+        "totalDamage": 205,
+        "fireRate": 0.91666669,
+        "name": "Kuva Shildeg",
+        "type": "Hammer"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/StalkerMios/StalkerMios": {
+        "totalDamage": 216,
+        "fireRate": 0.91666669,
+        "name": "Lacera",
+        "type": "Blade And Whip"
+    },
+    "/Lotus/Weapons/Corpus/Melee/Whip/CorpusWhipWeapon": {
+        "totalDamage": 101,
+        "fireRate": 1,
+        "name": "Lecta",
+        "type": "Whip"
+    },
+    "/Lotus/Weapons/Infested/Melee/TipedoStaff/InfTipedoStaff": {
+        "totalDamage": 237,
+        "fireRate": 1,
+        "name": "Lesion",
+        "type": "Polearm"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/Machete": {
+        "totalDamage": 120,
+        "fireRate": 0.91666669,
+        "name": "Machete",
+        "type": "Machete"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon": {
+        "totalDamage": 211,
+        "fireRate": 1.0833334,
+        "name": "Machete Wraith",
+        "type": "Machete"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Maces/PaladinMace/PaladinMaceWeapon": {
+        "totalDamage": 209.99998,
+        "fireRate": 0.83333337,
+        "name": "Magistar",
+        "type": "Hammer"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/TnChiselKanabo/TnChiselKanabo": {
+        "totalDamage": 241,
+        "fireRate": 1,
+        "name": "Masseter",
+        "type": "Heavy Blade"
+    },
+    "/Lotus/Weapons/Infested/Melee/Swords/Mios/Mios": {
+        "totalDamage": 177,
+        "fireRate": 1.0833334,
+        "name": "Mios",
+        "type": "Blade And Whip"
+    },
+    "/Lotus/Weapons/Infested/Melee/Swords/Mire/MireSword": {
+        "totalDamage": 158,
+        "fireRate": 1.0833334,
+        "name": "Mire",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/MK1Series/MK1Bo": {
+        "totalDamage": 90,
+        "fireRate": 1,
+        "name": "Mk1-Bo",
+        "type": "Staff"
+    },
+    "/Lotus/Weapons/MK1Series/MK1Furax": {
+        "totalDamage": 90,
+        "fireRate": 1,
+        "name": "Mk1-Furax",
+        "type": "Fist"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/CutlassPoignardSwords": {
+        "totalDamage": 125,
+        "fireRate": 0.91666669,
+        "name": "Nami Skyla",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/PrimeNamiSkyla/PrimeNamiSkyla": {
+        "totalDamage": 180,
+        "fireRate": 1.3333334,
+        "name": "Nami Skyla Prime",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/TennoCutlass": {
+        "totalDamage": 172,
+        "fireRate": 1,
+        "name": "Nami Solo",
+        "type": "Machete"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/Katana": {
+        "totalDamage": 142,
+        "fireRate": 0.91666669,
+        "name": "Nikana",
+        "type": "Nikana"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/PrimeKatana/PrimeNikana": {
+        "totalDamage": 198,
+        "fireRate": 1.0833334,
+        "name": "Nikana Prime",
+        "type": "Nikana"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Nunchaku/Nunchaku/Nunchaku": {
+        "totalDamage": 190,
+        "fireRate": 1,
+        "name": "Ninkondi",
+        "type": "Nunchaku"
+    },
+    "/Lotus/Weapons/Tenno/Melee/PrimeNinkondi/PrimeNikondi": {
+        "totalDamage": 234,
+        "fireRate": 1,
+        "name": "Ninkondi Prime",
+        "type": "Nunchaku"
+    },
+    "/Lotus/Weapons/Corpus/Melee/KickAndPunch/KickPunchWeapon": {
+        "totalDamage": 120,
+        "fireRate": 1,
+        "name": "Obex",
+        "type": "Sparring"
+    },
+    "/Lotus/Weapons/Corpus/Melee/CrpTonfa/CrpTonfa": {
+        "totalDamage": 224,
+        "fireRate": 0.91666669,
+        "name": "Ohma",
+        "type": "Tonfa"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/TennoSai/TennoSais": {
+        "totalDamage": 140,
+        "fireRate": 1.0833334,
+        "name": "Okina",
+        "type": "Dual Daggers"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Polearms/PolearmWeapon": {
+        "totalDamage": 185,
+        "fireRate": 0.91666669,
+        "name": "Orthos",
+        "type": "Polearm"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Polearms/PrimePolearmWeapon": {
+        "totalDamage": 234,
+        "fireRate": 1.1666667,
+        "name": "Orthos Prime",
+        "type": "Polearm"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Glaives/TeshinGlaive/TnTeshinGlaiveWep": {
+        "totalDamage": 195,
+        "fireRate": 0.75000006,
+        "name": "Orvius",
+        "type": "Glaive"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/PrimePangolinSword/PrimePangolinSword": {
+        "totalDamage": 248.00002,
+        "fireRate": 0.91666669,
+        "name": "Pangolin Prime",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/PangolinSword/PangolinLongSword": {
+        "totalDamage": 150,
+        "fireRate": 0.91666669,
+        "name": "Pangolin Sword",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/Orokin/BallasSword/BallasSwordWeapon": {
+        "totalDamage": 222,
+        "fireRate": 0.91666669,
+        "name": "Paracesis",
+        "type": "Heavy Blade"
+    },
+    "/Lotus/Weapons/Infested/Melee/InfBoomerang/InfBoomerangWeapon": {
+        "totalDamage": 262,
+        "fireRate": 0.66666669,
+        "name": "Pathocyst",
+        "type": "Glaive"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/TnRailjackGreatKatana/TnRailJackGreatKatanaWeapon": {
+        "totalDamage": 200,
+        "fireRate": 0.91666669,
+        "name": "Pennant",
+        "type": "Two-Handed Nikana"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/PlasmaSword/PlasmaLongSword": {
+        "totalDamage": 200,
+        "fireRate": 0.66666669,
+        "name": "Plasma Sword",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/PrismaDualCleavers": {
+        "totalDamage": 133,
+        "fireRate": 1,
+        "name": "Prisma Dual Cleavers",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/PrismaMachete": {
+        "totalDamage": 193,
+        "fireRate": 0.91666669,
+        "name": "Prisma Machete",
+        "type": "Machete"
+    },
+    "/Lotus/Weapons/Corpus/Melee/KickAndPunch/PrismaObex": {
+        "totalDamage": 150,
+        "fireRate": 1.3333334,
+        "name": "Prisma Obex",
+        "type": "Sparring"
+    },
+    "/Lotus/Weapons/VoidTrader/PrismaSkana": {
+        "totalDamage": 170,
+        "fireRate": 1,
+        "name": "Prisma Skana",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/ClanTech/Energy/ElectroProd": {
+        "totalDamage": 128,
+        "fireRate": 1,
+        "name": "Prova",
+        "type": "Machete"
+    },
+    "/Lotus/Weapons/ClanTech/Energy/VandalElectroProd": {
+        "totalDamage": 198,
+        "fireRate": 1,
+        "name": "Prova Vandal",
+        "type": "Machete"
+    },
+    "/Lotus/Weapons/Infested/Melee/Staff/InfStaff/InfStaff": {
+        "totalDamage": 284,
+        "fireRate": 0.83333337,
+        "name": "Pupacyst",
+        "type": "Polearm"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Warfan/TnBrokenFrameWarfan/TnBrokenFrameWarfanWeapon": {
+        "totalDamage": 230,
+        "fireRate": 0.83333337,
+        "name": "Quassus",
+        "type": "Warfan"
+    },
+    "/Lotus/Weapons/Syndicates/RedVeil/Melee/RVDarkDagger": {
+        "totalDamage": 246,
+        "fireRate": 1,
+        "name": "Rakta Dark Dagger",
+        "type": "Dagger"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Scythe/ReaperWeapon": {
+        "totalDamage": 200,
+        "fireRate": 1.0833334,
+        "name": "Reaper Prime",
+        "type": "Scythe"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Gunblade/TnoGunblade": {
+        "totalDamage": 180,
+        "fireRate": 0.83333337,
+        "name": "Redeemer",
+        "type": "Gunblade"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Gunblade/RedeemerPrime/RedeemerPrimeWep": {
+        "totalDamage": 212,
+        "fireRate": 0.91666669,
+        "name": "Redeemer Prime",
+        "type": "Gunblade"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrineerClaws/GrnClaws": {
+        "totalDamage": 173,
+        "fireRate": 0.83333337,
+        "name": "Ripkas",
+        "type": "Claws"
+    },
+    "/Lotus/Weapons/Syndicates/NewLoka/Melee/NLMagistar": {
+        "totalDamage": 239.99998,
+        "fireRate": 1,
+        "name": "Sancti Magistar",
+        "type": "Hammer"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Gunblade/GunbladeAutomatic/TnoGunbladeAutomatic": {
+        "totalDamage": 160,
+        "fireRate": 1,
+        "name": "Sarpa",
+        "type": "Gunblade"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Axe/AxeWeapon": {
+        "totalDamage": 200,
+        "fireRate": 0.91666669,
+        "name": "Scindo",
+        "type": "Heavy Blade"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Axe/PrimeScindo/PrimeScindoWeapon": {
+        "totalDamage": 250,
+        "fireRate": 0.9666667,
+        "name": "Scindo Prime",
+        "type": "Heavy Blade"
+    },
+    "/Lotus/Weapons/Infested/Melee/Whip/InfestedWhip/InfestedWhipWeapon": {
+        "totalDamage": 150,
+        "fireRate": 1.2500001,
+        "name": "Scoliac",
+        "type": "Whip"
+    },
+    "/Lotus/Weapons/Syndicates/PerrinSequence/Melee/PSLecta": {
+        "totalDamage": 176,
+        "fireRate": 1.2500001,
+        "name": "Secura Lecta",
+        "type": "Whip"
+    },
+    "/Lotus/Weapons/Corpus/Melee/Polearm/CorpusPolearm01/CorpusPolearmWeapon": {
+        "totalDamage": 234,
+        "fireRate": 0.91666669,
+        "name": "Serro",
+        "type": "Polearm"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Nunchaku/TnoNunchaku/TnoNunchaku": {
+        "totalDamage": 180,
+        "fireRate": 1.1666667,
+        "name": "Shaku",
+        "type": "Nunchaku"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrineerCombatKnife/GrineerCombatKnife": {
+        "totalDamage": 270,
+        "fireRate": 0.66666669,
+        "name": "Sheev",
+        "type": "Dagger"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Hammer/IceHammer/IceHammer": {
+        "totalDamage": 270,
+        "fireRate": 1,
+        "name": "Sibear",
+        "type": "Hammer"
+    },
+    "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/SundialSwordBoard/SundialBoardSword": {
+        "totalDamage": 174,
+        "fireRate": 1.0833334,
+        "name": "Sigma & Octantis",
+        "type": "Sword And Shield"
+    },
+    "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/MeleeContestWinnerOne/TennoSwordShield": {
+        "totalDamage": 98,
+        "fireRate": 1,
+        "name": "Silva & Aegis",
+        "type": "Sword And Shield"
+    },
+    "/Lotus/Weapons/Tenno/Melee/PrimeSilvaAegis/PrimeSilvaAegis": {
+        "totalDamage": 318,
+        "fireRate": 0.75000006,
+        "name": "Silva & Aegis Prime",
+        "type": "Sword And Shield"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LongSword/LongSword": {
+        "totalDamage": 120,
+        "fireRate": 0.83333337,
+        "name": "Skana",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/Tenno/Melee/LongSword/SkanaPrime": {
+        "totalDamage": 210,
+        "fireRate": 1,
+        "name": "Skana Prime",
+        "type": "Sword"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/UmbraKatana/UmbraKatana": {
+        "totalDamage": 175,
+        "fireRate": 1.1666667,
+        "name": "Skiajati",
+        "type": "Nikana"
+    },
+    "/Lotus/Weapons/Corpus/Melee/Gunblade/CrpGunBlade/CrpGunbladeWeapon": {
+        "totalDamage": 220,
+        "fireRate": 1,
+        "name": "Stropha",
+        "type": "Gunblade"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrnTrident/GrnTridentWeapon": {
+        "totalDamage": 225,
+        "fireRate": 0.91666669,
+        "name": "Sydon",
+        "type": "Polearm"
+    },
+    "/Lotus/Weapons/Syndicates/CephalonSuda/Melee/CSHeliocor": {
+        "totalDamage": 280,
+        "fireRate": 1.0833334,
+        "name": "Synoid Heliocor",
+        "type": "Hammer"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/TnTwoHandedKatana/TnTwoHandedKatana": {
+        "totalDamage": 214,
+        "fireRate": 1,
+        "name": "Tatsu",
+        "type": "Two-Handed Nikana"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Gauntlet/BrawlerKnuckles/BrawlerKnuckles": {
+        "totalDamage": 160,
+        "fireRate": 0.91666669,
+        "name": "Tekko",
+        "type": "Fist"
+    },
+    "/Lotus/Weapons/Tenno/Melee/PrimeTekko/PrimeTekko": {
+        "totalDamage": 180,
+        "fireRate": 1,
+        "name": "Tekko Prime",
+        "type": "Fist"
+    },
+    "/Lotus/Weapons/Syndicates/ArbitersOfHexis/Melee/AHBoltace": {
+        "totalDamage": 209.99998,
+        "fireRate": 1.0833334,
+        "name": "Telos Boltace",
+        "type": "Tonfa"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Staff/MonkSpade/TnoMonkStaff": {
+        "totalDamage": 124.00001,
+        "fireRate": 1.3333334,
+        "name": "Tipedo",
+        "type": "Staff"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Staff/TipedoPrime/TipedoPrimeWeapon": {
+        "totalDamage": 170,
+        "fireRate": 1.1666667,
+        "name": "Tipedo Prime",
+        "type": "Staff"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Polearms/FlowerPowerPolearm/FlowerPowerPolearmWep": {
+        "totalDamage": 184,
+        "fireRate": 1,
+        "name": "Tonbo",
+        "type": "Polearm"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrnDualFireAxe/GrnDualFireAxe": {
+        "totalDamage": 210.00002,
+        "fireRate": 1,
+        "name": "Twin Basolk",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Grineer/Melee/GrnEgyptSwd/DualGrnEgyptSwdWeapon": {
+        "totalDamage": 250,
+        "fireRate": 0.91666669,
+        "name": "Twin Krohkur",
+        "type": "Dual Swords"
+    },
+    "/Lotus/Weapons/Syndicates/SteelMeridian/Melee/SMSydon": {
+        "totalDamage": 212.99998,
+        "fireRate": 1.0833334,
+        "name": "Vaykor Sydon",
+        "type": "Polearm"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Claws/TennoClaws": {
+        "totalDamage": 140,
+        "fireRate": 1,
+        "name": "Venka",
+        "type": "Claws"
+    },
+    "/Lotus/Weapons/Tenno/Melee/PrimeVenKa/PrimeVenkaClaws": {
+        "totalDamage": 188,
+        "fireRate": 1.0500001,
+        "name": "Venka Prime",
+        "type": "Claws"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Hammer/GlassHammer/GlassHammer": {
+        "totalDamage": 220.00002,
+        "fireRate": 1.2,
+        "name": "Volnus",
+        "type": "Hammer"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/StalkerTwo/StalkerTwoGreatSword": {
+        "totalDamage": 250,
+        "fireRate": 0.91666669,
+        "name": "War",
+        "type": "Heavy Blade"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Hammer/ThrowingHammer": {
+        "totalDamage": 259,
+        "fireRate": 1,
+        "name": "Wolf Sledge",
+        "type": "Hammer"
+    },
+    "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGhostCatcherGlaive/CrpGhostCatcherGlaive": {
+        "totalDamage": 120,
+        "fireRate": 1.1666667,
+        "name": "Xoris",
+        "type": "Glaive"
+    },
+    "/Lotus/Weapons/Tenno/Melee/SunDialAxe/SundialAxeWeapon": {
+        "totalDamage": 298,
+        "fireRate": 0.83333337,
+        "name": "Zenistar",
+        "type": "Heavy Blade"
+    }
+}
