@@ -2750,7 +2750,7 @@
     {
       "riventype": "Pistol",
       "text": "Multishot",
-      "value": 119.7‬,
+      "value": 119.7,
       "curse": true,
       "buff": true
     },
@@ -2764,28 +2764,28 @@
     {
       "riventype": "Rifle",
       "text": "Multishot",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Melee",
       "text": "Damage",
-      "value": 164.700009‬,
+      "value": 164.700009,
       "curse": false,
       "buff": true
     },
     {
       "riventype": "Shotgun",
       "text": "Damage",
-      "value": 164.700009‬,
+      "value": 164.700009,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Rifle",
       "text": "Damage",
-      "value": 164.999691‬,
+      "value": 164.999691,
       "curse": true,
       "buff": true
     },
@@ -2806,63 +2806,63 @@
     {
       "riventype": "Melee",
       "text": "Impact",
-      "value": 119.7‬,
+      "value": 119.7,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Melee",
       "text": "Slash",
-      "value": 119.7‬,
+      "value": 119.7,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Melee",
       "text": "Puncture",
-      "value": 119.7‬,
+      "value": 119.7,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Pistol",
       "text": "Impact",
-      "value": 119.97‬,
+      "value": 119.97,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Pistol",
       "text": "Slash",
-      "value": 119.97‬,
+      "value": 119.97,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Pistol",
       "text": "Puncture",
-      "value": 119.97‬,
+      "value": 119.97,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Rifle",
       "text": "Impact",
-      "value": 119.97‬,
+      "value": 119.97,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Rifle",
       "text": "Slash",
-      "value": 119.97‬,
+      "value": 119.97,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Rifle",
       "text": "Puncture",
-      "value": 119.97‬,
+      "value": 119.97,
       "curse": true,
       "buff": true
     },
@@ -2911,21 +2911,21 @@
     {
       "riventype": "Melee",
       "text": "Critical Chance",
-      "value": 180‬,
+      "value": 180,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Rifle",
       "text": "Critical Chance",
-      "value": 149.994009‬,
+      "value": 149.994009,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Pistol",
       "text": "Critical Chance",
-      "value": 149.994009‬,
+      "value": 149.994009,
       "curse": true,
       "buff": true
     },
@@ -2939,28 +2939,28 @@
     {
       "riventype": "Shotgun",
       "text": "Critical Chance",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Melee",
       "text": "Critical Damage",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Rifle",
       "text": "Critical Damage",
-      "value": 119.997‬,
+      "value": 119.997,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Shotgun",
       "text": "Critical Damage",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": true,
       "buff": true
     },
@@ -2981,56 +2981,56 @@
     {
       "riventype": "Rifle",
       "text": "Cold",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": false,
       "buff": true
     },
     {
       "riventype": "Rifle",
       "text": "Electric",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": false,
       "buff": true
     },
     {
       "riventype": "Rifle",
       "text": "Heat",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": false,
       "buff": true
     },
     {
       "riventype": "Rifle",
       "text": "Toxin",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": false,
       "buff": true
     },
     {
       "riventype": "Shotgun",
       "text": "Cold",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": false,
       "buff": true
     },
     {
       "riventype": "Shotgun",
       "text": "Electric",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": false,
       "buff": true
     },
     {
       "riventype": "Shotgun",
       "text": "Heat",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": false,
       "buff": true
     },
     {
       "riventype": "Shotgun",
       "text": "Toxin",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": false,
       "buff": true
     },
@@ -3128,7 +3128,7 @@
     {
       "riventype": "Shotgun",
       "text": "Status Chance",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": true,
       "buff": true
     },
@@ -3142,14 +3142,14 @@
     {
       "riventype": "Melee",
       "text": "Status Chance",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Archgun",
       "text": "Status Chance",
-      "value": 60.2999982‬,
+      "value": 60.2999982,
       "curse": true,
       "buff": true
     },
@@ -3184,7 +3184,7 @@
     {
       "riventype": "Archgun",
       "text": "Status Duration",
-      "value": 99.99‬,
+      "value": 99.99,
       "curse": true,
       "buff": true
     },
@@ -3212,21 +3212,21 @@
     {
       "riventype": "Rifle",
       "text": "Damage to Grineer",
-      "value": 44.9999991‬,
+      "value": 44.9999991,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Rifle",
       "text": "Damage to Corpus",
-      "value": 44.9999991‬,
+      "value": 44.9999991,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Rifle",
       "text": "Damage to Infested",
-      "value": 44.9999991‬,
+      "value": 44.9999991,
       "curse": true,
       "buff": true
     },
@@ -3254,21 +3254,21 @@
     {
       "riventype": "Pistol",
       "text": "Damage to Grineer",
-      "value": 44.9999991‬,
+      "value": 44.9999991,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Pistol",
       "text": "Damage to Corpus",
-      "value": 44.9999991‬,
+      "value": 44.9999991,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Pistol",
       "text": "Damage to Infested",
-      "value": 44.9999991‬,
+      "value": 44.9999991,
       "curse": true,
       "buff": true
     },
@@ -3296,7 +3296,7 @@
     {
       "riventype": "Shotgun",
       "text": "Fire Rate",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": true,
       "buff": true
     },
@@ -3338,7 +3338,7 @@
     {
       "riventype": "Melee",
       "text": "Range",
-      "value": 1.94219991‬,
+      "value": 1.94219991,
       "curse": true,
       "buff": true
     },
@@ -3359,21 +3359,21 @@
     {
       "riventype": "Rifle",
       "text": "Magazine Capacity",
-      "value": 49.9950018‬,
+      "value": 49.9950018,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Archgun",
       "text": "Magazine Capacity",
-      "value": 60.2999982‬,
+      "value": 60.2999982,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Pistol",
       "text": "Ammo Max",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": true,
       "buff": true
     },
@@ -3387,7 +3387,7 @@
     {
       "riventype": "Rifle",
       "text": "Ammo Max",
-      "value": 89.9999982‬‬,
+      "value": 89.9999982,
       "curse": true,
       "buff": true
     },
@@ -3450,7 +3450,7 @@
     {
       "riventype": "Shotgun",
       "text": "Weapon Recoil",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": true,
       "buff": true
     },
@@ -3464,21 +3464,21 @@
     {
       "riventype": "Archgun",
       "text": "Weapon Recoil",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Rifle",
       "text": "Weapon Recoil",
-      "value": 89.9999982‬,
+      "value": 89.9999982,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Archgun",
       "text": "Zoom",
-      "value": 59.994‬,
+      "value": 59.994,
       "curse": true,
       "buff": true
     },
@@ -3506,7 +3506,7 @@
     {
       "riventype": "Shotgun",
       "text": "Punch Through",
-      "value": 2.69999991‬,
+      "value": 2.69999991,
       "curse": false,
       "buff": true
     },
@@ -3520,7 +3520,7 @@
     {
       "riventype": "Pistol",
       "text": "Punch Through",
-      "value": 2.69999991‬,
+      "value": 2.69999991,
       "curse": false,
       "buff": true
     },
@@ -3534,7 +3534,7 @@
     {
       "riventype": "Melee",
       "text": "Combo Duration",
-      "value": 8.10000036‬,
+      "value": 8.10000036,
       "curse": true,
       "buff": true
     },
