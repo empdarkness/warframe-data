@@ -2,6 +2,7 @@
   "Damage": {
     "id": "1",
     "Name": "Damage",
+    "wfm": "base_damage_/_melee_damage",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Damage",
@@ -14,6 +15,7 @@
   "Multi": {
     "id": "2",
     "Name": "Multishot",
+    "wfm": "multishot",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Multishot",
@@ -25,6 +27,7 @@
   "Speed": {
     "id": "3",
     "Name": "Fire Rate / Attack Speed",
+    "wfm": "fire_rate_/_attack_speed",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Fire Rate",
@@ -37,6 +40,7 @@
   "Corpus": {
     "id": "4",
     "Name": "Damage to Corpus",
+    "wfm": "damage_vs_corpus",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Damage to Corpus",
@@ -48,6 +52,7 @@
   "Grineer": {
     "id": "5",
     "Name": "Damage to Grineer",
+    "wfm": "damage_vs_grineer",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Damage to Grineer",
@@ -59,6 +64,7 @@
   "Infested": {
     "id": "6",
     "Name": "Damage to Infested",
+    "wfm": "damage_vs_infested",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Damage to Infested",
@@ -70,6 +76,7 @@
   "Impact": {
     "id": "7",
     "Name": "Impact",
+    "wfm": "impact_damage",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Impact",
@@ -81,6 +88,7 @@
   "Puncture": {
     "id": "8",
     "Name": "Puncture",
+    "wfm": "puncture_damage",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Puncture",
@@ -92,6 +100,7 @@
   "Slash": {
     "id": "9",
     "Name": "Slash",
+    "wfm": "slash_damage",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Slash",
@@ -103,6 +112,7 @@
   "Cold": {
     "id": "10",
     "Name": "Cold",
+    "wfm": "cold_damage",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Cold",
@@ -114,6 +124,7 @@
   "Electric": {
     "id": "11",
     "Name": "Electric",
+    "wfm": "electric_damage",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Electricity",
@@ -125,6 +136,7 @@
   "Heat": {
     "id": "12",
     "Name": "Heat",
+    "wfm": "heat_damage",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Heat",
@@ -136,6 +148,7 @@
   "Toxin": {
     "id": "13",
     "Name": "Toxin",
+    "wfm": "toxin_damage",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Toxin",
@@ -169,6 +182,7 @@
   "Combo": {
     "id": "16",
     "Name": "Combo Duration",
+    "wfm": "combo_duration",
     "Pre": "+",
     "Unit": "s",
     "Desc": "Combo Duration",
@@ -180,6 +194,7 @@
   "CritChance": {
     "id": "17",
     "Name": "Critical Chance",
+    "wfm": "critical_chance",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Critical Chance",
@@ -191,6 +206,7 @@
   "Slide": {
     "id": "18",
     "Name": "Slide Attack Critical Chance",
+    "wfm": "critical_chance_on_slide_attack",
     "Pre": "Slide Attack has +",
     "Unit": "%",
     "Desc": "chance to be a Critical Hit",
@@ -202,6 +218,7 @@
   "CritDmg": {
     "id": "19",
     "Name": "Critical Damage",
+    "wfm": "critical_damage",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Critical Damage",
@@ -213,6 +230,7 @@
   "Finisher": {
     "id": "20",
     "Name": "Finisher Damage",
+    "wfm": "finisher_damage",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Finisher Damage",
@@ -224,6 +242,7 @@
   "Flight": {
     "id": "21",
     "Name": "Flight Speed",
+    "wfm": "projectile_speed",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Projectile Flight Speed",
@@ -235,6 +254,7 @@
   "Ammo": {
     "id": "22",
     "Name": "Ammo Max",
+    "wfm": "ammo_maximum",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Ammo Maximum",
@@ -246,6 +266,7 @@
   "Magazine": {
     "id": "23",
     "Name": "Magazine Capacity",
+    "wfm": "magazine_capacity",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Magazine Size",
@@ -257,6 +278,7 @@
   "Punch": {
     "id": "24",
     "Name": "Punch Through",
+    "wfm": "punch_through",
     "Pre": "+",
     "Unit": "",
     "Desc": "Punch Through",
@@ -268,6 +290,7 @@
   "Reload": {
     "id": "25",
     "Name": "Reload Speed",
+    "wfm": "reload_speed"
     "Pre": "+",
     "Unit": "%",
     "Desc": "Reload Speed",
@@ -279,6 +302,7 @@
   "Range": {
     "id": "26",
     "Name": "Range",
+    "wfm": "range"
     "Pre": "+",
     "Unit": "",
     "Desc": "Range",
@@ -290,6 +314,7 @@
   "StatusC": {
     "id": "27",
     "Name": "Status Chance",
+    "wfm": "status_chance",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Status Chance",
@@ -301,6 +326,7 @@
   "StatusD": {
     "id": "28",
     "Name": "Status Duration",
+    "wfm": "status_duration",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Status Duration",
@@ -312,6 +338,7 @@
   "Recoil": {
     "id": "29",
     "Name": "Weapon Recoil",
+    "wfm": "recoil",
     "Pre": "-",
     "Unit": "%",
     "Desc": "Weapon Recoil",
@@ -323,6 +350,7 @@
   "Zoom": {
     "id": "30",
     "Name": "Zoom",
+    "wfm": "zoom"
     "Pre": "+",
     "Unit": "%",
     "Desc": "Zoom",
@@ -334,6 +362,7 @@
   "InitC": {
     "id": "31",
     "Name": "Initial Combo",
+    "wfm": "channeling_damage"
     "Pre": "+",
     "Unit": "",
     "Desc": "Initial Combo",
@@ -345,6 +374,7 @@
   "ComboEfficiency": {
     "id": "32",
     "Name": "Melee Combo Efficiency",
+    "wfm": "channeling_efficiency",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Melee Combo Efficiency",
@@ -356,6 +386,7 @@
   "ComboGainExtra": {
     "id": "33",
     "Name": "Chance to gain extra Combo count",
+    "wfm": "chance_to_gain_extra_combo_count",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Chance to gain extra Combo count",
