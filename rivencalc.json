@@ -3372,28 +3372,28 @@
     },
     {
       "riventype": "Pistol",
-      "text": "Ammo Maximum",
+      "text": "Ammo Max",
       "value": 90,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Shotgun",
-      "text": "Ammo Maximum",
+      "text": "Ammo Max",
       "value": 90,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Rifle",
-      "text": "Ammo Maximum",
+      "text": "Ammo Max",
       "value": 49.95,
       "curse": true,
       "buff": true
     },
     {
       "riventype": "Archgun",
-      "text": "Ammo Maximum",
+      "text": "Ammo Max",
       "value": 99.9,
       "curse": true,
       "buff": true
