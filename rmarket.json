@@ -290,7 +290,7 @@
   "Reload": {
     "id": "25",
     "Name": "Reload Speed",
-    "wfm": "reload_speed"
+    "wfm": "reload_speed",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Reload Speed",
@@ -302,7 +302,7 @@
   "Range": {
     "id": "26",
     "Name": "Range",
-    "wfm": "range"
+    "wfm": "range",
     "Pre": "+",
     "Unit": "",
     "Desc": "Range",
@@ -350,7 +350,7 @@
   "Zoom": {
     "id": "30",
     "Name": "Zoom",
-    "wfm": "zoom"
+    "wfm": "zoom",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Zoom",
@@ -362,7 +362,7 @@
   "InitC": {
     "id": "31",
     "Name": "Initial Combo",
-    "wfm": "channeling_damage"
+    "wfm": "channeling_damage",
     "Pre": "+",
     "Unit": "",
     "Desc": "Initial Combo",
