@@ -400,6 +400,7 @@
   "ComboGainLost": {
     "id": "34",
     "Name": "Chance to not gain Combo count",
+    "wfm": "",
     "Pre": "-",
     "Unit": "%",
     "Desc": "Chance to not gain Combo count",
