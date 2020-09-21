@@ -160,6 +160,7 @@
   "ChannelDmg": {
     "id": "14",
     "Name": "Channeling Damage",
+    "wfm": "channeling_damage",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Damage while Channeling",
@@ -171,6 +172,7 @@
   "ChannelEff": {
     "id": "15",
     "Name": "Channeling Efficiency",
+    "wfm": "channeling_efficiency",
     "Pre": "+",
     "Unit": "%",
     "Desc": "Efficiency while Channeling",
