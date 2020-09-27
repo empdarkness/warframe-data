@@ -338,6 +338,9 @@
     "Bore": {
         "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponEventPunctureDamageMod"
     },
+    "Botanist": {
+        "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/PlantScannerPrecept"
+    },
     "Bounty Hunter": {
         "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/MarkTargetShotgunMod"
     },

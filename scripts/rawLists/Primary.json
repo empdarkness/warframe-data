@@ -478,7 +478,7 @@
         "imageName": "baza-prime.png",
         "category": "Primary",
         "tradable": true,
-        "ammo": 800,
+        "ammo": 840,
         "damage": "16.0",
         "damageTypes": {
             "impact": 5.8,
