@@ -1,18 +1,18 @@
 {
   "GAMEPLAY_KILL_XP_AMOUNT": {
-	"name": "2x Affinity",
-	"imageName": "AffinityBooster.png"
+    "name": "2x Affinity",
+    "imageName": "AffinityBooster.png"
   },
   "GAMEPLAY_PICKUP_AMOUNT": {
-	"name": "2x Resource Drops",
-	"imageName": "ResourceBoosterOrange.png"
+    "name": "2x Resource Drops",
+    "imageName": "ResourceBoosterOrange.png"
   },
   "GAMEPLAY_MONEY_REWARD_AMOUNT": {
-	"name": "2x Credit Drop Chance"
-	"imageName": "CreditBooster.png"
+    "name": "2x Credit Drop Chance",
+    "imageName": "CreditBooster.png"
   },
   "GAMEPLAY_MONEY_PICKUP_AMOUNT": {
-	"name": "2x Credit Drop Amount",
-	"imageName": "CreditBooster.png"
+    "name": "2x Credit Drop Amount",
+    "imageName": "CreditBooster.png"
   }
 }
