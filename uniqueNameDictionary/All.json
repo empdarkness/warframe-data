@@ -387,9 +387,17 @@
         "name": "[Ph]Old World Salvage",
         "imageName": "phold-world-salvage.png"
     },
+    "/Lotus/Upgrades/Skins/Clan/TwitchNecraloidBadgeItem": {
+        "name": "/Lotus/Language/Cosmetics/Twitchnecraloidbadgeitemname",
+        "imageName": "lotus-language-cosmetics-twitchnecraloidbadgeitemname.png"
+    },
     "/Lotus/Upgrades/Skins/RailJack/FrontTurretA": {
         "name": "/Lotus/Language/Crewship/Frontturreta_name",
         "imageName": "lotus-language-crewship-frontturreta_name.png"
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/TwitchNecraloidGlyph": {
+        "name": "/Lotus/Language/Glyphs/Twitchnecraloidglyphname",
+        "imageName": "lotus-language-glyphs-twitchnecraloidglyphname.png"
     },
     "/Lotus/Types/Items/MiscItems/ClanCreator": {
         "name": "/Lotus/Language/Items/Clancreator",
@@ -438,6 +446,10 @@
     "/Lotus/Upgrades/Skins/Lotus/ThreshconeSkin": {
         "name": "/Lotus/Language/Items/Threshconeskinname",
         "imageName": "lotus-language-items-threshconeskinname.png"
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/TwinSnakesGlyph": {
+        "name": "/Lotus/Language/Items/Twinsnakesglyphname",
+        "imageName": "lotus-language-items-twinsnakesglyphname.png"
     },
     "/Lotus/Types/Items/RelayRebuild/PhaseOneWaterElement": {
         "name": "/Lotus/Language/Relayreconstruction/Relayreconphase1leftitemname",
@@ -4489,6 +4501,10 @@
         "name": "Blaze",
         "imageName": "blaze.jpg"
     },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/SWBlazeOculusEyeAcc": {
+        "name": "Blaze Oculus",
+        "imageName": "blaze-oculus.png"
+    },
     "/Lotus/Powersuits/IronFrame/IronFrameStripAugmentCard": {
         "name": "Blazing Pillage",
         "imageName": "blazing-pillage.jpg"
@@ -6258,6 +6274,14 @@
     "/Lotus/Powersuits/Bard/BardCharmAugmentCard": {
         "name": "Conductor",
         "imageName": "conductor.jpg"
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/ImageConquera": {
+        "name": "Conquera Glyph",
+        "imageName": "conquera-glyph.png"
+    },
+    "/Lotus/Upgrades/Skins/Scarves/TnCharityRibbonSyandana": {
+        "name": "Conquera Syandana",
+        "imageName": "conquera-syandana.png"
     },
     "/Lotus/Types/StoreItems/SuitCustomizations/Nemesis/ColourPickerKuvaLichMag": {
         "name": "Conquest",
@@ -8661,10 +8685,6 @@
         "name": "Eminence",
         "imageName": "eminence.png"
     },
-	"/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerTwitchBItemA": {
-		"name": "Eminence",
-        "imageName": "eminence.png"
-  },
     "/Lotus/Upgrades/Skins/MeleeDangles/ChromaDeluxeMeleeDangle": {
         "name": "Eminence Sugatra",
         "imageName": "eminence-sugatra.png"
@@ -11146,6 +11166,14 @@
         "name": "Gauss Agile Animation Set",
         "imageName": "gauss-agile-animation-set.png"
     },
+    "/Lotus/Upgrades/Skins/Runner/SWGaussAgitoHelmet": {
+        "name": "Gauss Agito Helmet",
+        "imageName": "gauss-agito-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Runner/SWGaussAgitoSkin": {
+        "name": "Gauss Agito Skin",
+        "imageName": "gauss-agito-skin.png"
+    },
     "/Lotus/Types/StoreItems/AvatarImages/ImageGaussBright": {
         "name": "Gauss Glyph",
         "imageName": "gauss-glyph.png"
@@ -11153,6 +11181,14 @@
     "/Lotus/Types/StoreItems/AvatarImages/ImageGaussDark": {
         "name": "Gauss Glyph",
         "imageName": "gauss-glyph.png"
+    },
+    "/Lotus/Upgrades/Skins/Runner/SWGaussGraxxHelmet": {
+        "name": "Gauss Graxx Helmet",
+        "imageName": "gauss-graxx-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Runner/SWGaussGraxxSkin": {
+        "name": "Gauss Graxx Skin",
+        "imageName": "gauss-graxx-skin.png"
     },
     "/Lotus/Upgrades/Skins/Runner/RunnerHelmet": {
         "name": "Gauss Helmet",
@@ -12538,6 +12574,10 @@
         "name": "Heavy Blade Dominion Skin",
         "imageName": "heavy-blade-dominion-skin.png"
     },
+    "/Lotus/Upgrades/Skins/Weapons/GreatSword/SWGrimstoneCleaver": {
+        "name": "Heavy Blade Grimstone Cleaver Skin",
+        "imageName": "heavy-blade-grimstone-cleaver-skin.png"
+    },
     "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/GreatSwords/SWIonGreatswordSkin": {
         "name": "Heavy Blade Ion Skin",
         "imageName": "heavy-blade-ion-skin.png"
@@ -12557,6 +12597,10 @@
     "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/GreatSwords/SWMizarGreatswordSkin": {
         "name": "Heavy Blade Mizar Skin",
         "imageName": "heavy-blade-mizar-skin.png"
+    },
+    "/Lotus/Upgrades/Skins/Weapons/GreatSword/SWObanakk": {
+        "name": "Heavy Blade Obanakk Skin",
+        "imageName": "heavy-blade-obanakk-skin.png"
     },
     "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/GreatSwords/SWSupremaGreatswordSkin": {
         "name": "Heavy Blade Suprema Skin",
@@ -12833,6 +12877,14 @@
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLowPolyHildryn": {
         "name": "Hildryn Poly Glyph",
         "imageName": "hildryn-poly-glyph.png"
+    },
+    "/Lotus/Upgrades/Skins/IronFrame/SWHildrynSigrunHelmet": {
+        "name": "Hildryn Sigrun Helmet",
+        "imageName": "hildryn-sigrun-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/IronFrame/SWHildrynSigrunSkin": {
+        "name": "Hildryn Sigrun Skin",
+        "imageName": "hildryn-sigrun-skin.png"
     },
     "/Lotus/Upgrades/Skins/IronFrame/IronFrameSkin": {
         "name": "Hildryn Skin",
@@ -17738,6 +17790,14 @@
         "name": "Mag Coil Helmet",
         "imageName": "mag-coil-helmet.png"
     },
+    "/Lotus/Upgrades/Skins/Mag/SWCorpraMagHelmet": {
+        "name": "Mag Corpra Helmet",
+        "imageName": "mag-corpra-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Mag/SWCorpraMagSkin": {
+        "name": "Mag Corpra Skin",
+        "imageName": "mag-corpra-skin.png"
+    },
     "/Lotus/Upgrades/Skins/Mag/SWFerroHelmet": {
         "name": "Mag Ferro Helmet",
         "imageName": "mag-ferro-helmet.png"
@@ -18219,6 +18279,10 @@
     "/Lotus/Upgrades/Skins/Liset/LisetInsectSkinGrineerQueens": {
         "name": "Mantis Kuva Skin",
         "imageName": "mantis-kuva-skin.png"
+    },
+    "/Lotus/Upgrades/Skins/Liset/SWLilieaeSkin": {
+        "name": "Mantis Lilieae Skin",
+        "imageName": "mantis-lilieae-skin.png"
     },
     "/Lotus/Upgrades/Skins/Liset/LisetInsectSkinNautilus": {
         "name": "Mantis Oscuro Skin",
@@ -20050,6 +20114,14 @@
     "/Lotus/Upgrades/Skins/Harlequin/SWRFourMirageJolliHelmet": {
         "name": "Mirage Jolli Helmet",
         "imageName": "mirage-jolli-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Harlequin/SWKitsuneHelmet": {
+        "name": "Mirage Kitsune Helmet",
+        "imageName": "mirage-kitsune-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Harlequin/SWKitsuneSkin": {
+        "name": "Mirage Kitsune Skin",
+        "imageName": "mirage-kitsune-skin.png"
     },
     "/Lotus/Upgrades/Skins/Harlequin/SWMirageKuvaelHelmet": {
         "name": "Mirage Kuvael Jester Helmet",
@@ -22440,6 +22512,10 @@
     "/Lotus/Types/Game/CatbrowPet/Colors/CatbrowPetColorBaseNexus": {
         "name": "Nidus White",
         "imageName": "nidus-white.png"
+    },
+    "/Lotus/Upgrades/Skins/Scarves/SWNighthunterSyandana": {
+        "name": "Night Hunter Syandana",
+        "imageName": "night-hunter-syandana.png"
     },
     "/Lotus/Upgrades/Mods/PvPMods/Pistol/MarkTargetPistolMod": {
         "name": "Night Stalker",
@@ -25347,6 +25423,10 @@
         "name": "Polearm Lympharis Skin",
         "imageName": "polearm-lympharis-skin.png"
     },
+    "/Lotus/Upgrades/Skins/Polearm/SWOsirisPolearm": {
+        "name": "Polearm Osiris Skin",
+        "imageName": "polearm-osiris-skin.png"
+    },
     "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Polearms/SWPhorcysPolearmSkin": {
         "name": "Polearm Phorcys Skin",
         "imageName": "polearm-phorcys-skin.png"
@@ -26459,6 +26539,10 @@
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRandomSurge": {
         "name": "Random Surge Glyph",
         "imageName": "random-surge-glyph.png"
+    },
+    "/Lotus/Upgrades/Skins/Scarves/SWRanulystSyandana": {
+        "name": "Ranulyst Syandana",
+        "imageName": "ranulyst-syandana.png"
     },
     "/Lotus/Upgrades/Mods/Warframe/AvatarProcTimeMod": {
         "name": "Rapid Resilience",
@@ -27686,10 +27770,6 @@
         "name": "Sands Of Inaros",
         "imageName": "sands-of-inaros.png"
     },
-	"/Lotus/StoreItems/Types/Keys/MummyQuestKeyBlueprint": {
-		"name": "Sands Of Inaros",
-        "imageName": "sands-of-inaros.png"
-	},
     "/Lotus/Types/Game/CatbrowPet/Colors/CatbrowPetColorBaseXmas": {
         "name": "Sandstorm Brown",
         "imageName": "sandstorm-brown.png"
@@ -32009,6 +32089,10 @@
         "name": "Titania Unseelie Skin",
         "imageName": "titania-unseelie-skin.png"
     },
+    "/Lotus/Upgrades/Skins/Fairy/SWVirajiHelmet": {
+        "name": "Titania Viraji Helmet",
+        "imageName": "titania-viraji-helmet.png"
+    },
     "/Lotus/Powersuits/Brawler/BrawlerSummonAugmentCard": {
         "name": "Titanic Rumbler",
         "imageName": "titanic-rumbler.jpg"
@@ -32469,6 +32553,10 @@
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTrysmj": {
         "name": "Trys_mj Glyph",
         "imageName": "trys_mj-glyph.png"
+    },
+    "/Lotus/Upgrades/Skins/Scarves/SWTsujinasaSyandana": {
+        "name": "Tsujinasa Syandana",
+        "imageName": "tsujinasa-syandana.png"
     },
     "/Lotus/Upgrades/Skins/Clan/GrnSeaLabEventBadgeItem": {
         "name": "Tubemen Of Regor Emblem",
@@ -35022,6 +35110,10 @@
         "name": "Xoris",
         "imageName": "xoris.png"
     },
+    "/Lotus/Upgrades/Skins/Armor/SWXulatuChest/SWXulatuChestArmor": {
+        "name": "Xulatu Chest Armor",
+        "imageName": "xulatu-chest-armor.png"
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageXXSlip": {
         "name": "Xxslip Glyph",
         "imageName": "xxslip-glyph.png"
@@ -35269,6 +35361,14 @@
     "/Lotus/Upgrades/Skins/Tengu/UnlockTenguAgile": {
         "name": "Zephyr Agile Animation Set",
         "imageName": "zephyr-agile-animation-set.png"
+    },
+    "/Lotus/Upgrades/Skins/Tengu/SWZephyrBotLHelmet": {
+        "name": "Zephyr Blade Of The Lotus Helmet",
+        "imageName": "zephyr-blade-of-the-lotus-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Tengu/SWZephyrBotLSkin": {
+        "name": "Zephyr Blade Of The Lotus Skin",
+        "imageName": "zephyr-blade-of-the-lotus-skin.png"
     },
     "/Lotus/Types/StoreItems/AvatarImages/ImageZephyrCierzoBright": {
         "name": "Zephyr Cierzo Glyph",
