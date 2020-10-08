@@ -1,0 +1,82 @@
+{
+  "/Lotus/Types/StoreItems/Boosters/AffinityBoosterStoreItem": {
+    "name": "Affinity Booster",
+    "imageName": "AffinityBooster.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/AffinityBooster3DayStoreItem": {
+    "name": "3 Day Affinity Booster",
+    "imageName": "AffinityBoosterBronze.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/AffinityBooster7DayStoreItem": {
+    "name": "7 Day Affinity Booster",
+    "imageName": "AffinityBoosterSilver.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/AffinityBooster30DayStoreItem": {
+    "name": "30 Day Affinity Booster",
+    "imageName": "AffinityBoosterGold.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/CreditBoosterStoreItem": {
+    "name": "Credit Booster",
+    "imageName": "CreditBooster.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/CreditBooster3DayStoreItem": {
+    "name": "3 Day Credit Booster",
+    "imageName": "CreditBoosterBronze.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/CreditBooster7DayStoreItem": {
+    "name": "7 Day Credit Booster",
+    "imageName": "CreditBoosterSilver.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/CreditBooster30DayStoreItem": {
+    "name": "30 Day Credit Booster",
+    "imageName": "CreditBoosterGold.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/ModDropChanceBoosterStoreItem": {
+    "name": "Mod Drop Chance Booster",
+    "imageName": "ModDropChanceBooster.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/ModDropChanceBooster3DayStoreItem": {
+    "name": "3 Day Mod Drop Chance Booster",
+    "imageName": "ModDropChanceBoosterBronze.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/ModDropChanceBooster7DayStoreItem": {
+    "name": "7 Day Mod Drop Chance Booster",
+    "imageName": "ModDropChanceBoosterSilver.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/ModDropChanceBooster30DayStoreItem": {
+    "name": "30 Day Mod Drop Chance Booster",
+    "imageName": "ModDropChanceBoosterGold.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/ResourceAmountStoreItem": {
+    "name": "Resource Booster",
+    "imageName": "ResourceBoosterOrange.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/ResourceAmount3DayStoreItem": {
+    "name": "3 Day Resource Booster",
+    "imageName": "ResourceBoosterOrangeBronze.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/ResourceAmount7DayStoreItem": {
+    "name": "7 Day Resource Booster",
+    "imageName": "ResourceBoosterOrangeSilver.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/ResourceAmount30DayStoreItem": {
+    "name": "30 Day Resource Booster",
+    "imageName": "ResourceBoosterOrangeGold.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/ResourceDropChanceStoreItem": {
+    "name": "Resource Drop Chance Booster",
+    "imageName": "ResourceBoosterBlue.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/ResourceDropChance3DayStoreItem": {
+    "name": "3 Day Resource Drop Chance Booster",
+    "imageName": "ResourceBoosterBlueBronze.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/ResourceDropChance7DayStoreItem": {
+    "name": "7 Day Resource Drop Chance Booster",
+    "imageName": "ResourceBoosterBlueSilver.png"
+  },
+  "/Lotus/Types/StoreItems/Boosters/ResourceDropChance30DayStoreItem": {
+    "name": "30 Day Resource Drop Chance Booster",
+    "imageName": "ResourceBoosterBlueGold.png"
+  }
+}
