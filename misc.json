@@ -1,4 +1,12 @@
 {
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/Seasonal/Halloween2019GrendelTreat": {
+    "name": "In Mah Belly Glyph",
+    "imageName": "in-mah-belly.png"
+  },
+  "/Lotus/StoreItems/Types/Keys/MummyQuestKeyBlueprint": {
+    "name": "Sands of Inaros",
+    "imageName": "sands-of-inaros.png"
+  },
   "/Lotus/Types/StoreItems/Boosters/AffinityBoosterStoreItem": {
     "name": "Affinity Booster",
     "imageName": "AffinityBooster.png"
