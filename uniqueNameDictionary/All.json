@@ -387,17 +387,9 @@
         "name": "[Ph]Old World Salvage",
         "imageName": "phold-world-salvage.png"
     },
-    "/Lotus/Upgrades/Skins/Clan/TwitchNecraloidBadgeItem": {
-        "name": "/Lotus/Language/Cosmetics/Twitchnecraloidbadgeitemname",
-        "imageName": "lotus-language-cosmetics-twitchnecraloidbadgeitemname.png"
-    },
     "/Lotus/Upgrades/Skins/RailJack/FrontTurretA": {
         "name": "/Lotus/Language/Crewship/Frontturreta_name",
         "imageName": "lotus-language-crewship-frontturreta_name.png"
-    },
-    "/Lotus/Types/StoreItems/AvatarImages/TwitchNecraloidGlyph": {
-        "name": "/Lotus/Language/Glyphs/Twitchnecraloidglyphname",
-        "imageName": "lotus-language-glyphs-twitchnecraloidglyphname.png"
     },
     "/Lotus/Types/Items/MiscItems/ClanCreator": {
         "name": "/Lotus/Language/Items/Clancreator",
@@ -6142,6 +6134,10 @@
     "/Lotus/Upgrades/Mods/Aura/WarframeAuraBloodLetterMod": {
         "name": "Combat Discipline",
         "imageName": "combat-discipline.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary": {
+        "name": "Combo Fury",
+        "imageName": "combo-fury.jpg"
     },
     "/Lotus/Upgrades/Mods/Rifle/WeaponBeamExplodeOnDeath": {
         "name": "Combustion Beam",
@@ -20835,6 +20831,14 @@
         "name": "Nebula Bore",
         "imageName": "nebula-bore.jpg"
     },
+    "/Lotus/Types/StoreItems/AvatarImages/TwitchNecraloidGlyph": {
+        "name": "Necraloid Glyph",
+        "imageName": "necraloid-glyph.png"
+    },
+    "/Lotus/Upgrades/Skins/Sigils/TwitchNecraloidSigil": {
+        "name": "Necraloid Sigil",
+        "imageName": "necraloid-sigil.png"
+    },
     "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityDurationMod": {
         "name": "Necramech Continuity",
         "imageName": "necramech-continuity.jpg"
@@ -20882,6 +20886,10 @@
     "/Lotus/Upgrades/Mods/Necromech/NecromechHealthMaxMod": {
         "name": "Necramech Vitality",
         "imageName": "necramech-vitality.jpg"
+    },
+    "/Lotus/Upgrades/Skins/Clan/TwitchNecraloidBadgeItem": {
+        "name": "Necraseal Emblem",
+        "imageName": "necraseal-emblem.png"
     },
     "/Lotus/Types/Items/Gems/Deimos/DeimosRareGemAItem": {
         "name": "Necrathene",

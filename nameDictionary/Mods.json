@@ -491,6 +491,9 @@
     "Combat Discipline": {
         "uniqueName": "/Lotus/Upgrades/Mods/Aura/WarframeAuraBloodLetterMod"
     },
+    "Combo Fury": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary"
+    },
     "Combustion Beam": {
         "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponBeamExplodeOnDeath"
     },

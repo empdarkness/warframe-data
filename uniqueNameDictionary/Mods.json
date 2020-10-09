@@ -711,6 +711,10 @@
         "name": "Combat Discipline",
         "imageName": "combat-discipline.jpg"
     },
+    "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary": {
+        "name": "Combo Fury",
+        "imageName": "combo-fury.jpg"
+    },
     "/Lotus/Upgrades/Mods/Rifle/WeaponBeamExplodeOnDeath": {
         "name": "Combustion Beam",
         "imageName": "combustion-beam.jpg"
