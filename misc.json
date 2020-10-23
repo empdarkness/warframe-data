@@ -86,5 +86,9 @@
   "/Lotus/Types/StoreItems/Boosters/ResourceDropChance30DayStoreItem": {
     "name": "30 Day Resource Drop Chance Booster",
     "imageName": "ResourceBoosterBlueGold.png"
+  },
+  "/Lotus/StoreItems/Types/Recipes/Components/CorruptedBombardBallBlueprint": {
+    "name": "Corrupted Bombard Specter",
+    "imageName": "corrupted-bombard-specter.png"
   }
 }
