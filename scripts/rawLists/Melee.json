@@ -9,7 +9,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 3,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.35,
         "blockingAngle": 70,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -45,7 +45,7 @@
             "Grineer"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Ack_%26_Brunt",
-        "disposition": 4
+        "disposition": 5
     },
     {
         "name": "Amphis",
@@ -253,7 +253,7 @@
         "fireRate": 0.73333335,
         "masteryReq": 10,
         "slot": 5,
-        "omegaAttenuation": 1.2,
+        "omegaAttenuation": 1.25,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.40000001,
@@ -300,7 +300,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 5,
         "slot": 5,
-        "omegaAttenuation": 0.89999998,
+        "omegaAttenuation": 0.94999999,
         "blockingAngle": 45,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -446,7 +446,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 4,
         "slot": 5,
-        "omegaAttenuation": 1.2,
+        "omegaAttenuation": 1.25,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -494,7 +494,7 @@
         "fireRate": 1.2500001,
         "masteryReq": 7,
         "slot": 5,
-        "omegaAttenuation": 1.35,
+        "omegaAttenuation": 1.4,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -539,7 +539,7 @@
         "fireRate": 1,
         "masteryReq": 10,
         "slot": 5,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 1.1,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -584,7 +584,7 @@
         "fireRate": 1.1666667,
         "masteryReq": 5,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -797,7 +797,7 @@
         "fireRate": 1.0833334,
         "masteryReq": 12,
         "slot": 5,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 1.1,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -845,7 +845,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 10,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "blockingAngle": 70,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -990,7 +990,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 2,
         "slot": 5,
-        "omegaAttenuation": 0.89999998,
+        "omegaAttenuation": 1.1,
         "blockingAngle": 45,
         "comboDuration": 5,
         "followThrough": 0.89999998,
@@ -1205,7 +1205,7 @@
         "fireRate": 0.88333338,
         "masteryReq": 6,
         "slot": 5,
-        "omegaAttenuation": 1.3,
+        "omegaAttenuation": 1.35,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -1235,7 +1235,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Dex_Dakra",
-        "disposition": 4
+        "disposition": 5
     },
     {
         "name": "Dragon Nikana",
@@ -1247,7 +1247,7 @@
         "fireRate": 1,
         "masteryReq": 8,
         "slot": 5,
-        "omegaAttenuation": 1.2,
+        "omegaAttenuation": 1.15,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -1486,7 +1486,7 @@
         "fireRate": 1.1666667,
         "masteryReq": 1,
         "slot": 5,
-        "omegaAttenuation": 1.15,
+        "omegaAttenuation": 1.25,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -1538,7 +1538,7 @@
         "fireRate": 1.1666667,
         "masteryReq": 8,
         "slot": 5,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 1.15,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -1574,7 +1574,7 @@
             "Vaulted"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Dual_Kamas_Prime",
-        "disposition": 3,
+        "disposition": 4,
         "releaseDate": "2015 10 06",
         "vaultDate": "2017 08 29",
         "estimatedVaultDate": "2017 08 29",
@@ -1590,7 +1590,7 @@
         "fireRate": 1.2500001,
         "masteryReq": 7,
         "slot": 5,
-        "omegaAttenuation": 1.2,
+        "omegaAttenuation": 1.1,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -1624,7 +1624,7 @@
         "stancePolarity": "Naramon",
         "tags": [],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Dual_Keres",
-        "disposition": 4
+        "disposition": 3
     },
     {
         "name": "Dual Raza",
@@ -1786,7 +1786,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 7,
         "slot": 5,
-        "omegaAttenuation": 1.3,
+        "omegaAttenuation": 1.4,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -1822,7 +1822,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Endura",
-        "disposition": 4
+        "disposition": 5
     },
     {
         "name": "Ether Daggers",
@@ -1975,7 +1975,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 8,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -2144,7 +2144,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 2,
         "slot": 5,
-        "omegaAttenuation": 1.15,
+        "omegaAttenuation": 1.2,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.40000001,
@@ -2336,7 +2336,7 @@
         "fireRate": 1,
         "masteryReq": 3,
         "slot": 5,
-        "omegaAttenuation": 0.85000002,
+        "omegaAttenuation": 0.94999999,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -2372,7 +2372,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Galatine",
-        "disposition": 2
+        "disposition": 3
     },
     {
         "name": "Galatine Prime",
@@ -2384,7 +2384,7 @@
         "fireRate": 1,
         "masteryReq": 13,
         "slot": 5,
-        "omegaAttenuation": 0.64999998,
+        "omegaAttenuation": 0.69999999,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -2436,7 +2436,7 @@
         "fireRate": 0.75000006,
         "masteryReq": 6,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "blockingAngle": 45,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -2721,7 +2721,7 @@
         "fireRate": 0.80000007,
         "masteryReq": 14,
         "slot": 5,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 0.89999998,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -2811,6 +2811,56 @@
         "disposition": 3
     },
     {
+        "name": "Guandao Prime",
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/Polearms/PrimeGuandao/PrimeGuandaoWeapon",
+        "totalDamage": 240,
+        "criticalChance": 0.31999999,
+        "criticalMultiplier": 2.4000001,
+        "procChance": 0.19999999,
+        "fireRate": 1,
+        "masteryReq": 12,
+        "slot": 5,
+        "omegaAttenuation": 0.5,
+        "blockingAngle": 55,
+        "comboDuration": 6,
+        "followThrough": 0.60000002,
+        "range": 3,
+        "slamAttack": 720,
+        "slamRadialDamage": 240,
+        "slamRadius": 7,
+        "slideAttack": 480,
+        "heavyAttackDamage": 1440,
+        "heavySlamAttack": 1200,
+        "heavySlamRadialDamage": 1200,
+        "heavySlamRadius": 9,
+        "windUp": 0.90000004,
+        "buildPrice": 15000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 50,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Polearm",
+        "imageName": "guandao-prime.png",
+        "category": "Melee",
+        "tradable": true,
+        "channeling": 1.5,
+        "damage": "240.0",
+        "damageTypes": {
+            "impact": 60,
+            "slash": 168,
+            "puncture": 12
+        },
+        "stancePolarity": "Zenurik",
+        "tags": [
+            "Prime"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Guandao_Prime",
+        "disposition": 1,
+        "releaseDate": "2020 10 26",
+        "vaultDate": "n/a",
+        "estimatedVaultDate": "2022 04 25"
+    },
+    {
         "name": "Gunsen",
         "uniqueName": "/Lotus/Weapons/Tenno/Melee/Warfan/WarfanWeapon",
         "totalDamage": 160,
@@ -2820,7 +2870,7 @@
         "fireRate": 1.1666667,
         "masteryReq": 8,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -2937,7 +2987,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 8,
         "slot": 5,
-        "omegaAttenuation": 1.2,
+        "omegaAttenuation": 1.1,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -2970,7 +3020,7 @@
         "stancePolarity": "Naramon",
         "tags": [],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Hate",
-        "disposition": 4
+        "disposition": 3
     },
     {
         "name": "Heat Dagger",
@@ -3078,7 +3128,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 9,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.40000001,
@@ -3126,7 +3176,7 @@
         "fireRate": 1,
         "masteryReq": 7,
         "slot": 5,
-        "omegaAttenuation": 0.94999999,
+        "omegaAttenuation": 1.05,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.89999998,
@@ -3174,7 +3224,7 @@
         "fireRate": 1,
         "masteryReq": 5,
         "slot": 5,
-        "omegaAttenuation": 1.15,
+        "omegaAttenuation": 1.25,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.40000001,
@@ -3415,7 +3465,7 @@
         "fireRate": 0.66666669,
         "masteryReq": 12,
         "slot": 5,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.75,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.89999998,
@@ -3454,7 +3504,7 @@
         "disposition": 1,
         "releaseDate": "2020 07 14",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2021 11 23"
+        "estimatedVaultDate": "2022 02 06"
     },
     {
         "name": "Keratinos",
@@ -3466,7 +3516,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 9,
         "slot": 5,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.69999999,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.80000001,
@@ -3732,7 +3782,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 9,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.89999998,
@@ -3778,7 +3828,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 6,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -3923,7 +3973,7 @@
         "fireRate": 1.1666667,
         "masteryReq": 13,
         "slot": 5,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 0.85000002,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -3959,7 +4009,7 @@
             "Vaulted"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Kronen_Prime",
-        "disposition": 3,
+        "disposition": 2,
         "releaseDate": "2018 03 20",
         "vaultDate": "2019 12 17",
         "estimatedVaultDate": "2019 12 17",
@@ -4070,7 +4120,7 @@
         "fireRate": 1,
         "masteryReq": 0,
         "slot": 5,
-        "omegaAttenuation": 1,
+        "omegaAttenuation": 1.15,
         "blockingAngle": 45,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -4106,7 +4156,7 @@
             "Corpus"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Lecta",
-        "disposition": 3
+        "disposition": 4
     },
     {
         "name": "Lesion",
@@ -4118,7 +4168,7 @@
         "fireRate": 1,
         "masteryReq": 9,
         "slot": 5,
-        "omegaAttenuation": 0.64999998,
+        "omegaAttenuation": 0.69999999,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -4256,7 +4306,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 1,
         "slot": 5,
-        "omegaAttenuation": 1.3,
+        "omegaAttenuation": 1.35,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.40000001,
@@ -4292,7 +4342,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Magistar",
-        "disposition": 4
+        "disposition": 5
     },
     {
         "name": "Masseter",
@@ -4304,7 +4354,7 @@
         "fireRate": 1,
         "masteryReq": 8,
         "slot": 5,
-        "omegaAttenuation": 1.15,
+        "omegaAttenuation": 1.2,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -4679,7 +4729,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 4,
         "slot": 5,
-        "omegaAttenuation": 0.80000001,
+        "omegaAttenuation": 0.89999998,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -4719,7 +4769,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Nikana",
-        "disposition": 2
+        "disposition": 3
     },
     {
         "name": "Nikana Prime",
@@ -4731,7 +4781,7 @@
         "fireRate": 1.0833334,
         "masteryReq": 12,
         "slot": 5,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.60000002,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -4873,7 +4923,7 @@
         "disposition": 3,
         "releaseDate": "2019 07 07",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2020 12 03"
+        "estimatedVaultDate": "2021 01 12"
     },
     {
         "name": "Obex",
@@ -5029,7 +5079,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 2,
         "slot": 5,
-        "omegaAttenuation": 0.85000002,
+        "omegaAttenuation": 0.94999999,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -5065,7 +5115,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Orthos",
-        "disposition": 2
+        "disposition": 3
     },
     {
         "name": "Orthos Prime",
@@ -5129,7 +5179,7 @@
         "fireRate": 0.75000006,
         "masteryReq": 5,
         "slot": 5,
-        "omegaAttenuation": 1.3,
+        "omegaAttenuation": 1.35,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -5183,7 +5233,7 @@
         "stancePolarity": "Naramon",
         "tags": [],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Orvius",
-        "disposition": 4
+        "disposition": 5
     },
     {
         "name": "Pangolin Prime",
@@ -5293,7 +5343,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 10,
         "slot": 5,
-        "omegaAttenuation": 0.69999999,
+        "omegaAttenuation": 0.60000002,
         "maxLevelCap": 40,
         "blockingAngle": 55,
         "comboDuration": 5,
@@ -5341,7 +5391,7 @@
         "fireRate": 0.66666669,
         "masteryReq": 9,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -5588,7 +5638,7 @@
         "fireRate": 1.3333334,
         "masteryReq": 10,
         "slot": 5,
-        "omegaAttenuation": 1.2,
+        "omegaAttenuation": 1.25,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.89999998,
@@ -5762,7 +5812,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 7,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -5809,7 +5859,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 8,
         "slot": 5,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.75,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -5857,7 +5907,7 @@
         "fireRate": 1,
         "masteryReq": 8,
         "slot": 5,
-        "omegaAttenuation": 0.80000001,
+        "omegaAttenuation": 0.94999999,
         "blockingAngle": 45,
         "comboDuration": 5,
         "followThrough": 0.89999998,
@@ -5888,7 +5938,7 @@
             "Red Veil"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Rakta_Dark_Dagger",
-        "disposition": 2
+        "disposition": 3
     },
     {
         "name": "Reaper Prime",
@@ -5900,7 +5950,7 @@
         "fireRate": 1.0833334,
         "masteryReq": 10,
         "slot": 5,
-        "omegaAttenuation": 1,
+        "omegaAttenuation": 0.85000002,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -5936,7 +5986,7 @@
             "Vaulted"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Reaper_Prime",
-        "disposition": 3,
+        "disposition": 2,
         "releaseDate": "2013 05 03",
         "vaultDate": "2015 04 01",
         "estimatedVaultDate": "2015 04 01",
@@ -5952,7 +6002,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 4,
         "slot": 5,
-        "omegaAttenuation": 1.17,
+        "omegaAttenuation": 1.1,
         "blockingAngle": 45,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -5989,7 +6039,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Redeemer",
-        "disposition": 4
+        "disposition": 3
     },
     {
         "name": "Redeemer Prime",
@@ -6001,7 +6051,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 10,
         "slot": 5,
-        "omegaAttenuation": 0.80000001,
+        "omegaAttenuation": 0.64999998,
         "blockingAngle": 45,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -6034,10 +6084,11 @@
         "stancePolarity": "Madurai",
         "statusChance": 9,
         "tags": [
-            "Prime"
+            "Prime",
+            "Vaulted"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Redeemer_Prime",
-        "disposition": 2,
+        "disposition": 1,
         "releaseDate": "2018 12 12",
         "vaultDate": "2020 07 14",
         "estimatedVaultDate": "2020 07 14",
@@ -6101,7 +6152,7 @@
         "fireRate": 1,
         "masteryReq": 8,
         "slot": 5,
-        "omegaAttenuation": 1.2,
+        "omegaAttenuation": 1.25,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.40000001,
@@ -6193,7 +6244,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 2,
         "slot": 5,
-        "omegaAttenuation": 1.3,
+        "omegaAttenuation": 1.35,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -6229,7 +6280,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Scindo",
-        "disposition": 4
+        "disposition": 5
     },
     {
         "name": "Scindo Prime",
@@ -6340,7 +6391,7 @@
         "fireRate": 1.2500001,
         "masteryReq": 8,
         "slot": 5,
-        "omegaAttenuation": 0.89999998,
+        "omegaAttenuation": 1,
         "blockingAngle": 45,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -6903,7 +6954,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 5,
         "slot": 5,
-        "omegaAttenuation": 1.15,
+        "omegaAttenuation": 1.25,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -6950,7 +7001,7 @@
         "fireRate": 1.0833334,
         "masteryReq": 11,
         "slot": 5,
-        "omegaAttenuation": 1.2,
+        "omegaAttenuation": 1.25,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.40000001,
@@ -7128,7 +7179,7 @@
         "disposition": 4,
         "releaseDate": "2019 10 01",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2021 02 12"
+        "estimatedVaultDate": "2021 03 31"
     },
     {
         "name": "Telos Boltace",
@@ -7140,7 +7191,7 @@
         "fireRate": 1.0833334,
         "masteryReq": 11,
         "slot": 5,
-        "omegaAttenuation": 1,
+        "omegaAttenuation": 1.05,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -7268,8 +7319,9 @@
         "wikiaUrl": "http://warframe.fandom.com/wiki/Tipedo_Prime",
         "disposition": 4,
         "releaseDate": "2019 03 27",
-        "vaultDate": "n/a",
-        "estimatedVaultDate": "2020 09 23"
+        "vaultDate": "2020 10 26",
+        "estimatedVaultDate": "2020 10 26",
+        "vaulted": true
     },
     {
         "name": "Tonbo",
@@ -7378,7 +7430,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 10,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.2,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -7426,7 +7478,7 @@
         "fireRate": 1.0833334,
         "masteryReq": 11,
         "slot": 5,
-        "omegaAttenuation": 1.1,
+        "omegaAttenuation": 1.2,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -7456,7 +7508,7 @@
             "Steel Meridian"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Vaykor_Sydon",
-        "disposition": 3
+        "disposition": 4
     },
     {
         "name": "Venka",
@@ -7468,7 +7520,7 @@
         "fireRate": 1,
         "masteryReq": 4,
         "slot": 5,
-        "omegaAttenuation": 0.89999998,
+        "omegaAttenuation": 1,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.80000001,
@@ -7559,6 +7611,67 @@
         "vaulted": true
     },
     {
+        "name": "Vitrica",
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/NWIIIOrokinSword/NWOrokinSword",
+        "totalDamage": 333,
+        "criticalChance": 0.23,
+        "criticalMultiplier": 2.3,
+        "procChance": 0.33000004,
+        "fireRate": 0.83333337,
+        "masteryReq": 13,
+        "slot": 5,
+        "omegaAttenuation": 0.5,
+        "blockingAngle": 60,
+        "comboDuration": 10,
+        "followThrough": 0.60000002,
+        "range": 2.9000001,
+        "slamAttack": 999,
+        "slamRadialDamage": 333,
+        "slamRadius": 4,
+        "slideAttack": 666,
+        "heavyAttackDamage": 1998,
+        "heavySlamAttack": 1665,
+        "heavySlamRadialDamage": 1665,
+        "heavySlamRadius": 4,
+        "windUp": 1.1,
+        "buildPrice": 20000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 25,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Heavy Blade",
+        "imageName": "vitrica.png",
+        "category": "Melee",
+        "tradable": false,
+        "areaAttack": {
+            "name": "Glass Explosion",
+            "crit_chance": 23,
+            "crit_mult": 2.3,
+            "status_chance": 0.3,
+            "falloff": {
+                "start": 0,
+                "end": 6,
+                "reduction": 0.9
+            },
+            "impact": 299.7,
+            "slash": 399.6,
+            "puncture": 299.7
+        },
+        "channeling": 1.5,
+        "damage": "333.0",
+        "damageTypes": {
+            "impact": 99.9,
+            "slash": 133.2,
+            "puncture": 99.9
+        },
+        "stancePolarity": "Vazarin",
+        "tags": [
+            "Orokin"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Vitrica",
+        "disposition": 1
+    },
+    {
         "name": "Volnus",
         "uniqueName": "/Lotus/Weapons/Tenno/Melee/Hammer/GlassHammer/GlassHammer",
         "totalDamage": 220.00002,
@@ -7616,7 +7729,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 10,
         "slot": 5,
-        "omegaAttenuation": 0.89999998,
+        "omegaAttenuation": 0.94999999,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -7661,7 +7774,7 @@
         "fireRate": 1,
         "masteryReq": 7,
         "slot": 5,
-        "omegaAttenuation": 1.2,
+        "omegaAttenuation": 1.25,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.80000001,
@@ -7711,7 +7824,7 @@
         "fireRate": 1.1666667,
         "masteryReq": 4,
         "slot": 5,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.64999998,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -7778,7 +7891,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 6,
         "slot": 5,
-        "omegaAttenuation": 0.94999999,
+        "omegaAttenuation": 1.05,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,

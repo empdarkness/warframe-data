@@ -391,6 +391,10 @@
         "name": "Berserker",
         "imageName": "berserker.jpg"
     },
+    "/Lotus/Upgrades/Mods/Rifle/Event/ParisHealOnStatusMod": {
+        "name": "Bhisaj-Bal",
+        "imageName": "bhisaj-bal.jpg"
+    },
     "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowCritMod": {
         "name": "Bite",
         "imageName": "bite.jpg"
@@ -715,6 +719,10 @@
         "name": "Combo Fury",
         "imageName": "combo-fury.jpg"
     },
+    "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveSecondaryHeadshotKillMod": {
+        "name": "Combo Killer",
+        "imageName": "combo-killer.jpg"
+    },
     "/Lotus/Upgrades/Mods/Rifle/WeaponBeamExplodeOnDeath": {
         "name": "Combustion Beam",
         "imageName": "combustion-beam.jpg"
@@ -918,6 +926,10 @@
     "/Lotus/Weapons/Tenno/Melee/MeleeTrees/MacheteCmbTwoMeleeTree": {
         "name": "Cyclone Kraken",
         "imageName": "cyclone-kraken.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Pistol/Event/AkbroncoViralDamageMod": {
+        "name": "Damzav-Vati",
+        "imageName": "damzav-vati.jpg"
     },
     "/Lotus/Upgrades/Mods/Aura/PlayerSniperDamageAuraMod": {
         "name": "Dead Eye",
@@ -1654,6 +1666,10 @@
     "/Lotus/Upgrades/Mods/PvPMods/Warframe/FasterSprintLessShield": {
         "name": "Hastened Steps",
         "imageName": "hastened-steps.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Rifle/Event/SomaCritChanceOnHitMod": {
+        "name": "Hata-Satya",
+        "imageName": "hata-satya.jpg"
     },
     "/Lotus/Upgrades/Mods/Pistol/WeaponPistolZoomFovMod": {
         "name": "Hawk Eye",
@@ -4630,6 +4646,10 @@
     "/Lotus/Upgrades/Mods/Randomized/LotusModularMeleeRandomModRare": {
         "name": "Zaw Riven Mod",
         "imageName": "zaw-riven-mod.png"
+    },
+    "/Lotus/Upgrades/Mods/Pistol/Event/AkstilettoEfficiencyWhileAirborneMod": {
+        "name": "Zazvat-Kar",
+        "imageName": "zazvat-kar.jpg"
     },
     "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingDualStatSlashStatusMod": {
         "name": "Zodiac Shred",

@@ -341,6 +341,12 @@
         "name": "Guandao",
         "type": "Polearm"
     },
+    "/Lotus/Weapons/Tenno/Melee/Polearms/PrimeGuandao/PrimeGuandaoWeapon": {
+        "totalDamage": 240,
+        "fireRate": 1,
+        "name": "Guandao Prime",
+        "type": "Polearm"
+    },
     "/Lotus/Weapons/Tenno/Melee/Warfan/WarfanWeapon": {
         "totalDamage": 160,
         "fireRate": 1.1666667,
@@ -928,6 +934,12 @@
         "fireRate": 1.0500001,
         "name": "Venka Prime",
         "type": "Claws"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Swords/NWIIIOrokinSword/NWOrokinSword": {
+        "totalDamage": 333,
+        "fireRate": 0.83333337,
+        "name": "Vitrica",
+        "type": "Heavy Blade"
     },
     "/Lotus/Weapons/Tenno/Melee/Hammer/GlassHammer/GlassHammer": {
         "totalDamage": 220.00002,

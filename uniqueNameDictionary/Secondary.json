@@ -659,6 +659,12 @@
         "name": "Zakti",
         "type": "Pistol"
     },
+    "/Lotus/Weapons/Tenno/Pistols/PrimeZakti/PrimeZaktiPistol": {
+        "totalDamage": 30,
+        "fireRate": 5.0000005,
+        "name": "Zakti Prime",
+        "type": "Pistol"
+    },
     "/Lotus/Weapons/Tenno/Pistols/ConclaveLeverPistol/ConclaveLeverPistol": {
         "totalDamage": 140,
         "fireRate": 1.5000001,

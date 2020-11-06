@@ -307,6 +307,13 @@
         "imageName": "nezha.png",
         "uniqueName": "/Lotus/Powersuits/Nezha/Nezha"
     },
+    "Nezha Prime": {
+        "health": 125,
+        "shield": 50,
+        "armor": 250,
+        "imageName": "nezha-prime.png",
+        "uniqueName": "/Lotus/Powersuits/Nezha/NezhaPrime"
+    },
     "Nidus": {
         "health": 150,
         "shield": 0,

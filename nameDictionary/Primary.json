@@ -5,7 +5,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/SapientPrimary/SapientPrimaryWeapon",
         "type": "Rifle",
         "multishot": 1,
-        "rivenStatMulti": 0.64999998
+        "rivenStatMulti": 0.60000002
     },
     "Amprex": {
         "totalDamage": 22,
@@ -13,7 +13,7 @@
         "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/ChainLightningGun/ChainLightningRifle",
         "type": "Rifle",
         "multishot": 1,
-        "rivenStatMulti": 0.69999999
+        "rivenStatMulti": 0.75
     },
     "Arca Plasmor": {
         "totalDamage": 600,
@@ -21,7 +21,7 @@
         "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpShotgun/CrpShotgun",
         "type": "Shotgun",
         "multishot": 1,
-        "rivenStatMulti": 0.64999998
+        "rivenStatMulti": 0.69999999
     },
     "Argonak": {
         "totalDamage": 57,
@@ -205,7 +205,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnHeavyShotgun/TnHeavyShotgunGun",
         "type": "Shotgun",
         "multishot": 6,
-        "rivenStatMulti": 1.05
+        "rivenStatMulti": 1.1
     },
     "Corinth Prime": {
         "totalDamage": 90,
@@ -221,7 +221,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchGun/ThanoTechArchGun",
         "type": "",
         "multishot": 1,
-        "rivenStatMulti": 0.5
+        "rivenStatMulti": 0.69999999
     },
     "Corvas": {
         "totalDamage": 880,
@@ -229,7 +229,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon",
         "type": "",
         "multishot": 1,
-        "rivenStatMulti": 1.05
+        "rivenStatMulti": 1.1
     },
     "Cryotra": {
         "totalDamage": 10,
@@ -331,7 +331,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/ArchHeavyPistols",
         "type": "",
         "multishot": 1,
-        "rivenStatMulti": 1.25
+        "rivenStatMulti": 1.3
     },
     "Exergis": {
         "totalDamage": 540,
@@ -355,7 +355,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow",
         "type": "",
         "multishot": 1,
-        "rivenStatMulti": 0.89999998
+        "rivenStatMulti": 1
     },
     "Flux Rifle": {
         "totalDamage": 22,
@@ -419,7 +419,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/RepurposedGrineerAntiAircraftGun/ArchGRNAAGun",
         "type": "",
         "multishot": 1,
-        "rivenStatMulti": 0.94999999
+        "rivenStatMulti": 1
     },
     "Grinlok": {
         "totalDamage": 187,
@@ -491,7 +491,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGun",
         "type": "",
         "multishot": 1,
-        "rivenStatMulti": 0.85000002
+        "rivenStatMulti": 1
     },
     "Imperator Vandal": {
         "totalDamage": 50,
@@ -555,7 +555,7 @@
         "uniqueName": "/Lotus/Weapons/Grineer/Bows/GrnBow/GrnBowWeapon",
         "type": "Bow",
         "multishot": 1,
-        "rivenStatMulti": 0.64999998
+        "rivenStatMulti": 0.60000002
     },
     "Kuva Chakkhurr": {
         "totalDamage": 366,
@@ -571,7 +571,7 @@
         "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/LongGuns/Drakgoon/KuvaDrakgoon",
         "type": "Shotgun",
         "multishot": 10,
-        "rivenStatMulti": 1.05
+        "rivenStatMulti": 1.1
     },
     "Kuva Hind": {
         "totalDamage": 30,
@@ -635,7 +635,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/TnShieldframeArchGun/TnShieldFrameArchGun",
         "type": "",
         "multishot": 1,
-        "rivenStatMulti": 0.80000001
+        "rivenStatMulti": 0.85000002
     },
     "Laser Rifle": {
         "totalDamage": 8,
@@ -787,7 +787,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimePanthera/PrimePanthera",
         "type": "Rifle",
         "multishot": 1,
-        "rivenStatMulti": 0.5
+        "rivenStatMulti": 0.85000002
     },
     "Paracyst": {
         "totalDamage": 33,
@@ -827,7 +827,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle",
         "type": "",
         "multishot": 1,
-        "rivenStatMulti": 1.15
+        "rivenStatMulti": 1.2
     },
     "Phage": {
         "totalDamage": 5,
@@ -955,7 +955,7 @@
         "uniqueName": "/Lotus/Weapons/Syndicates/NewLoka/LongGuns/NLTigris",
         "type": "Shotgun",
         "multishot": 6,
-        "rivenStatMulti": 0.85000002
+        "rivenStatMulti": 0.89999998
     },
     "Scourge": {
         "totalDamage": 125,
@@ -979,7 +979,7 @@
         "uniqueName": "/Lotus/Weapons/Sentients/Shedu/SheduHeavyWeapon",
         "type": "Arm-Cannon",
         "multishot": 1,
-        "rivenStatMulti": 0.85000002
+        "rivenStatMulti": 0.80000001
     },
     "Simulor": {
         "totalDamage": 200,
@@ -1035,7 +1035,7 @@
         "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpRubanRifle/CrpRubanRifle",
         "type": "Rifle",
         "multishot": 1,
-        "rivenStatMulti": 0.69999999
+        "rivenStatMulti": 0.80000001
     },
     "Stinger": {
         "totalDamage": 15,
@@ -1195,7 +1195,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/DoubleBarrelShotgun/TennoDoubleBarrelShotgun",
         "type": "Shotgun",
         "multishot": 5,
-        "rivenStatMulti": 1
+        "rivenStatMulti": 1.1
     },
     "Tigris Prime": {
         "totalDamage": 195,
@@ -1227,7 +1227,7 @@
         "uniqueName": "/Lotus/Weapons/Thanotech/ThanoRifle/ThanotechRifle",
         "type": "Rifle",
         "multishot": 1,
-        "rivenStatMulti": 0.5
+        "rivenStatMulti": 0.55000001
     },
     "Vaykor Hek": {
         "totalDamage": 75,
@@ -1267,7 +1267,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun",
         "type": "",
         "multishot": 1,
-        "rivenStatMulti": 1.05
+        "rivenStatMulti": 1.1
     },
     "Vulcax": {
         "totalDamage": 35,

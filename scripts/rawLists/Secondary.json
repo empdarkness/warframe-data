@@ -137,7 +137,7 @@
         "fireRate": 10.000001,
         "masteryReq": 9,
         "slot": 0,
-        "omegaAttenuation": 1.2,
+        "omegaAttenuation": 1.25,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 30,
@@ -181,7 +181,7 @@
         "fireRate": 7.0000005,
         "masteryReq": 13,
         "slot": 0,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 1.1,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 40,
@@ -309,7 +309,7 @@
         "fireRate": 16.666668,
         "masteryReq": 8,
         "slot": 0,
-        "omegaAttenuation": 0.94999999,
+        "omegaAttenuation": 1,
         "noise": "Alarming",
         "trigger": "Burst",
         "magazineSize": 36,
@@ -373,7 +373,8 @@
         },
         "projectile": "Hitscan",
         "tags": [
-            "Prime"
+            "Prime",
+            "Vaulted"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Akjagara_Prime",
         "disposition": 2,
@@ -617,7 +618,7 @@
         "disposition": 3,
         "releaseDate": "2019 12 17",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2021 04 24"
+        "estimatedVaultDate": "2021 06 17"
     },
     {
         "name": "Akstiletto",
@@ -629,7 +630,7 @@
         "fireRate": 10.000001,
         "masteryReq": 8,
         "slot": 0,
-        "omegaAttenuation": 0.80000001,
+        "omegaAttenuation": 0.89999998,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 28,
@@ -657,7 +658,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Akstiletto",
-        "disposition": 2
+        "disposition": 3
     },
     {
         "name": "Akstiletto Prime",
@@ -2394,7 +2395,7 @@
         "fireRate": 10.000001,
         "masteryReq": 13,
         "slot": 0,
-        "omegaAttenuation": 0.64999998,
+        "omegaAttenuation": 0.5,
         "maxLevelCap": 40,
         "noise": "Alarming",
         "trigger": "Held",
@@ -3207,7 +3208,7 @@
         "fireRate": 4.166667,
         "masteryReq": 12,
         "slot": 0,
-        "omegaAttenuation": 0.80000001,
+        "omegaAttenuation": 0.89999998,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 10,
@@ -3235,7 +3236,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Pyrana",
-        "disposition": 2
+        "disposition": 3
     },
     {
         "name": "Pyrana Prime",
@@ -3498,7 +3499,7 @@
         "fireRate": 3.6666665,
         "masteryReq": 14,
         "slot": 0,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.75,
         "noise": "Alarming",
         "trigger": "Burst",
         "magazineSize": 90,
@@ -3846,7 +3847,7 @@
         "fireRate": 3.5000002,
         "masteryReq": 10,
         "slot": 0,
-        "omegaAttenuation": 0.52999997,
+        "omegaAttenuation": 0.60000002,
         "noise": "Alarming",
         "trigger": "Charge",
         "reloadTime": 1.5,
@@ -4061,7 +4062,7 @@
         "fireRate": 10.000001,
         "masteryReq": 11,
         "slot": 0,
-        "omegaAttenuation": 1.15,
+        "omegaAttenuation": 1.2,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 30,
@@ -4498,7 +4499,7 @@
         "fireRate": 15.000001,
         "masteryReq": 8,
         "slot": 0,
-        "omegaAttenuation": 0.80000001,
+        "omegaAttenuation": 1,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 62,
@@ -4526,7 +4527,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Velox",
-        "disposition": 2
+        "disposition": 3
     },
     {
         "name": "Viper",
@@ -4655,6 +4656,53 @@
         "disposition": 4
     },
     {
+        "name": "Zakti Prime",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeZakti/PrimeZaktiPistol",
+        "totalDamage": 30,
+        "criticalChance": 0.079999998,
+        "criticalMultiplier": 1.8,
+        "procChance": 0.41999996,
+        "fireRate": 5.0000005,
+        "masteryReq": 14,
+        "slot": 0,
+        "omegaAttenuation": 0.5,
+        "noise": "Alarming",
+        "trigger": "Semi",
+        "magazineSize": 8,
+        "reloadTime": 1,
+        "multishot": 1,
+        "buildPrice": 15000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 50,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Pistol",
+        "imageName": "zakti-prime.png",
+        "category": "Secondary",
+        "tradable": true,
+        "ammo": 210,
+        "areaAttack": {
+            "name": "Gas Cloud",
+            "gas": 100,
+            "damage": "100.0 gas"
+        },
+        "damage": "30.0",
+        "damageTypes": {
+            "impact": 12,
+            "puncture": 18
+        },
+        "flight": "???",
+        "projectile": "Projectile",
+        "tags": [
+            "Prime"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Zakti_Prime",
+        "disposition": 1,
+        "releaseDate": "2020 10 26",
+        "vaultDate": "n/a",
+        "estimatedVaultDate": "2022 04 25"
+    },
+    {
         "name": "Zylok",
         "uniqueName": "/Lotus/Weapons/Tenno/Pistols/ConclaveLeverPistol/ConclaveLeverPistol",
         "totalDamage": 140,
@@ -4697,7 +4745,7 @@
         "fireRate": 1.3333334,
         "masteryReq": 11,
         "slot": 0,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.75,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 17,

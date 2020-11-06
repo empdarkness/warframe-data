@@ -269,6 +269,9 @@
     "Berserker": {
         "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponCritFireRateBonusMod"
     },
+    "Bhisaj-Bal": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/ParisHealOnStatusMod"
+    },
     "Bite": {
         "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowCritMod"
     },
@@ -494,6 +497,9 @@
     "Combo Fury": {
         "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary"
     },
+    "Combo Killer": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveSecondaryHeadshotKillMod"
+    },
     "Combustion Beam": {
         "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponBeamExplodeOnDeath"
     },
@@ -631,6 +637,9 @@
     },
     "Cyclone Kraken": {
         "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/MacheteCmbTwoMeleeTree"
+    },
+    "Damzav-Vati": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Event/AkbroncoViralDamageMod"
     },
     "Dead Eye": {
         "uniqueName": "/Lotus/Upgrades/Mods/Aura/PlayerSniperDamageAuraMod"
@@ -1141,6 +1150,9 @@
     },
     "Hastened Steps": {
         "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Warframe/FasterSprintLessShield"
+    },
+    "Hata-Satya": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Event/SomaCritChanceOnHitMod"
     },
     "Hawk Eye": {
         "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolZoomFovMod"
@@ -3139,6 +3151,9 @@
     },
     "Zaw Riven Mod": {
         "uniqueName": "/Lotus/Upgrades/Mods/Randomized/LotusModularMeleeRandomModRare"
+    },
+    "Zazvat-Kar": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Event/AkstilettoEfficiencyWhileAirborneMod"
     },
     "Zodiac Shred": {
         "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingDualStatSlashStatusMod"

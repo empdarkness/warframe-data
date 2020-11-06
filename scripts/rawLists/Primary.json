@@ -9,7 +9,7 @@
         "fireRate": 12.000001,
         "masteryReq": 8,
         "slot": 1,
-        "omegaAttenuation": 0.64999998,
+        "omegaAttenuation": 0.60000002,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 48,
@@ -58,7 +58,7 @@
         "fireRate": 12.000001,
         "masteryReq": 10,
         "slot": 1,
-        "omegaAttenuation": 0.69999999,
+        "omegaAttenuation": 0.75,
         "noise": "Alarming",
         "trigger": "Held",
         "magazineSize": 100,
@@ -96,7 +96,7 @@
         "fireRate": 1.1,
         "masteryReq": 10,
         "slot": 1,
-        "omegaAttenuation": 0.64999998,
+        "omegaAttenuation": 0.69999999,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 10,
@@ -493,7 +493,7 @@
         "disposition": 3,
         "releaseDate": "2019 12 17",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2021 04 24"
+        "estimatedVaultDate": "2021 06 17"
     },
     {
         "name": "Boar",
@@ -1100,7 +1100,7 @@
         "fireRate": 1.1666667,
         "masteryReq": 8,
         "slot": 1,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 1.1,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 5,
@@ -1197,13 +1197,13 @@
             "damage": "2200.0 blast"
         },
         "tags": [
-            "Tenno"
+            "Prime"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Corinth_Prime",
         "disposition": 3,
         "releaseDate": "2020 03 31",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2021 07 04"
+        "estimatedVaultDate": "2021 09 03"
     },
     {
         "name": "Cortege",
@@ -1215,7 +1215,7 @@
         "fireRate": 12.000001,
         "masteryReq": 14,
         "slot": 1,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.69999999,
         "noise": "Alarming",
         "trigger": "Held",
         "magazineSize": 100,
@@ -1270,7 +1270,7 @@
         "fireRate": 2,
         "masteryReq": 1,
         "slot": 1,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 1.1,
         "noise": "Alarming",
         "trigger": "Charge",
         "magazineSize": 25,
@@ -1749,7 +1749,7 @@
         "fireRate": 8.333334,
         "masteryReq": 1,
         "slot": 1,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 32,
@@ -1901,7 +1901,7 @@
         "fireRate": 5.0000005,
         "masteryReq": 2,
         "slot": 1,
-        "omegaAttenuation": 0.89999998,
+        "omegaAttenuation": 1,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 40,
@@ -2219,7 +2219,7 @@
         "fireRate": 6.2500005,
         "masteryReq": 4,
         "slot": 1,
-        "omegaAttenuation": 0.94999999,
+        "omegaAttenuation": 1,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 30,
@@ -2608,7 +2608,7 @@
         "fireRate": 16.666668,
         "masteryReq": 0,
         "slot": 1,
-        "omegaAttenuation": 0.85000002,
+        "omegaAttenuation": 1,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 200,
@@ -2634,7 +2634,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Imperator",
-        "disposition": 2
+        "disposition": 3
     },
     {
         "name": "Imperator Vandal",
@@ -2984,7 +2984,7 @@
         "fireRate": 0.66666669,
         "masteryReq": 15,
         "slot": 1,
-        "omegaAttenuation": 0.64999998,
+        "omegaAttenuation": 0.60000002,
         "maxLevelCap": 40,
         "noise": "Alarming",
         "trigger": "Charge",
@@ -3110,7 +3110,7 @@
         "fireRate": 3.3333335,
         "masteryReq": 13,
         "slot": 1,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 1.1,
         "maxLevelCap": 40,
         "noise": "Alarming",
         "trigger": "Charge",
@@ -3319,10 +3319,10 @@
                 "end": 7.9,
                 "reduction": 0.8
             },
-            "slash": 275,
-            "puncture": 159,
-            "blast": 253,
-            "damage": "253.0 blast"
+            "slash": 155,
+            "puncture": 183,
+            "blast": 349,
+            "damage": "349.0 blast"
         },
         "damage": "27.0",
         "damageTypes": {
@@ -3490,7 +3490,7 @@
         "fireRate": 12.000001,
         "masteryReq": 8,
         "slot": 1,
-        "omegaAttenuation": 0.80000001,
+        "omegaAttenuation": 0.85000002,
         "noise": "Alarming",
         "trigger": "Held",
         "magazineSize": 100,
@@ -4387,7 +4387,7 @@
         "fireRate": 3.6666667,
         "masteryReq": 14,
         "slot": 1,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.85000002,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 40,
@@ -4432,10 +4432,10 @@
             "Prime"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Panthera_Prime",
-        "disposition": 1,
+        "disposition": 2,
         "releaseDate": "2020 07 14",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2021 11 23"
+        "estimatedVaultDate": "2022 02 06"
     },
     {
         "name": "Paracyst",
@@ -4633,7 +4633,7 @@
         "fireRate": 18.750002,
         "masteryReq": 3,
         "slot": 1,
-        "omegaAttenuation": 1.15,
+        "omegaAttenuation": 1.2,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 240,
@@ -5316,7 +5316,7 @@
         "fireRate": 2,
         "masteryReq": 12,
         "slot": 1,
-        "omegaAttenuation": 0.85000002,
+        "omegaAttenuation": 0.89999998,
         "noise": "Alarming",
         "trigger": "Duplex",
         "magazineSize": 2,
@@ -5338,7 +5338,7 @@
             "New Loka"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Sancti_Tigris",
-        "disposition": 2
+        "disposition": 3
     },
     {
         "name": "Scourge",
@@ -5468,7 +5468,7 @@
         "fireRate": 2.5000002,
         "masteryReq": 13,
         "slot": 1,
-        "omegaAttenuation": 0.85000002,
+        "omegaAttenuation": 0.80000001,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 7,
@@ -5770,7 +5770,7 @@
         "fireRate": 6.0000005,
         "masteryReq": 10,
         "slot": 1,
-        "omegaAttenuation": 0.69999999,
+        "omegaAttenuation": 0.80000001,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 40,
@@ -5813,7 +5813,7 @@
             "Corpus"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Stahlta",
-        "disposition": 1
+        "disposition": 2
     },
     {
         "name": "Stinger",
@@ -5948,8 +5948,9 @@
         "wikiaUrl": "http://warframe.fandom.com/wiki/Stradavar_Prime",
         "disposition": 3,
         "releaseDate": "2019 03 27",
-        "vaultDate": "n/a",
-        "estimatedVaultDate": "2020 09 23"
+        "vaultDate": "2020 10 26",
+        "estimatedVaultDate": "2020 10 26",
+        "vaulted": true
     },
     {
         "name": "Strun",
@@ -6620,7 +6621,7 @@
         "fireRate": 2,
         "masteryReq": 7,
         "slot": 1,
-        "omegaAttenuation": 1,
+        "omegaAttenuation": 1.1,
         "noise": "Alarming",
         "trigger": "Duplex",
         "magazineSize": 2,
@@ -6798,7 +6799,7 @@
         "fireRate": 4.666667,
         "masteryReq": 13,
         "slot": 1,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.55000001,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 200,
@@ -7016,7 +7017,7 @@
         "fireRate": 5.0000005,
         "masteryReq": 4,
         "slot": 1,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 1.1,
         "noise": "Alarming",
         "trigger": "Charge",
         "magazineSize": 10,
@@ -7409,6 +7410,6 @@
         "disposition": 4,
         "releaseDate": "2019 07 07",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2020 12 03"
+        "estimatedVaultDate": "2021 01 12"
     }
 ]

@@ -29,7 +29,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboBolto",
         "type": "Dual Pistols",
         "multishot": 1,
-        "rivenStatMulti": 1.2
+        "rivenStatMulti": 1.25
     },
     "Akbolto Prime": {
         "totalDamage": 32,
@@ -37,7 +37,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAkbolto/PrimeAkBoltoWeapon",
         "type": "Dual Pistols",
         "multishot": 1,
-        "rivenStatMulti": 1.05
+        "rivenStatMulti": 1.1
     },
     "Akbronco": {
         "totalDamage": 40,
@@ -61,7 +61,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TigrisRedeemerSetPistol/TnoBladedPistols",
         "type": "Dual Pistols",
         "multishot": 1,
-        "rivenStatMulti": 0.94999999
+        "rivenStatMulti": 1
     },
     "Akjagara Prime": {
         "totalDamage": 36,
@@ -125,7 +125,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TennoUzi/TennoUzi",
         "type": "Dual Pistols",
         "multishot": 1,
-        "rivenStatMulti": 0.80000001
+        "rivenStatMulti": 0.89999998
     },
     "Akstiletto Prime": {
         "totalDamage": 36,
@@ -445,7 +445,7 @@
         "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Nukor/KuvaNukor",
         "type": "Pistol",
         "multishot": 1,
-        "rivenStatMulti": 0.64999998
+        "rivenStatMulti": 0.5
     },
     "Kuva Seer": {
         "totalDamage": 200,
@@ -605,7 +605,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun",
         "type": "Shotgun Sidearm",
         "multishot": 12,
-        "rivenStatMulti": 0.80000001
+        "rivenStatMulti": 0.89999998
     },
     "Pyrana Prime": {
         "totalDamage": 24,
@@ -661,7 +661,7 @@
         "uniqueName": "/Lotus/Weapons/Thanotech/ThanoPistol/ThanotechPistol",
         "type": "Pistol",
         "multishot": 1,
-        "rivenStatMulti": 0.5
+        "rivenStatMulti": 0.75
     },
     "Sicarus": {
         "totalDamage": 30,
@@ -725,7 +725,7 @@
         "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpElectroMag/CrpElectroMag",
         "type": "Dual Pistols",
         "multishot": 1,
-        "rivenStatMulti": 0.52999997
+        "rivenStatMulti": 0.60000002
     },
     "Stubba": {
         "totalDamage": 33,
@@ -765,7 +765,7 @@
         "uniqueName": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/Pistols/AHAkbolto",
         "type": "Dual Pistols",
         "multishot": 1,
-        "rivenStatMulti": 1.15
+        "rivenStatMulti": 1.2
     },
     "Twin Grakatas": {
         "totalDamage": 10,
@@ -853,7 +853,7 @@
         "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnOdaliskSmg/TnOdaliskSmgPistol",
         "type": "Pistol",
         "multishot": 1,
-        "rivenStatMulti": 0.80000001
+        "rivenStatMulti": 1
     },
     "Viper": {
         "totalDamage": 17,
@@ -879,6 +879,14 @@
         "multishot": 1,
         "rivenStatMulti": 1.25
     },
+    "Zakti Prime": {
+        "totalDamage": 30,
+        "fireRate": 5.0000005,
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeZakti/PrimeZaktiPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 0.5
+    },
     "Zylok": {
         "totalDamage": 140,
         "fireRate": 1.5000001,
@@ -893,6 +901,6 @@
         "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfUzi/InfUziWeapon",
         "type": "Pistol",
         "multishot": 1,
-        "rivenStatMulti": 0.5
+        "rivenStatMulti": 0.75
     }
 }

@@ -307,6 +307,13 @@
         "armor": 190,
         "imageName": "nezha.png"
     },
+    "/Lotus/Powersuits/Nezha/NezhaPrime": {
+        "name": "Nezha Prime",
+        "health": 125,
+        "shield": 50,
+        "armor": 250,
+        "imageName": "nezha-prime.png"
+    },
     "/Lotus/Powersuits/Infestation/Infestation": {
         "name": "Nidus",
         "health": 150,

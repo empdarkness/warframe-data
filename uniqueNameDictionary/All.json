@@ -2075,6 +2075,14 @@
         "name": "Ash Helmet",
         "imageName": "ash-helmet.png"
     },
+    "/Lotus/Upgrades/Skins/Ninja/SWIchneumonHelmet": {
+        "name": "Ash Ichneumon Helmet",
+        "imageName": "ash-ichneumon-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Ninja/SWIchneumonSkin": {
+        "name": "Ash Ichneumon Skin",
+        "imageName": "ash-ichneumon-skin.png"
+    },
     "/Lotus/Upgrades/Skins/Ninja/AshAlternateSkin": {
         "name": "Ash Immortal Skin",
         "imageName": "ash-immortal-skin.png"
@@ -3900,6 +3908,22 @@
         "name": "Axi W1 Radiant",
         "imageName": "axi-radiant.png"
     },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionNezhaPrimeASilver": {
+        "name": "Axi Z1 Exceptional",
+        "imageName": "axi-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionNezhaPrimeAGold": {
+        "name": "Axi Z1 Flawless",
+        "imageName": "axi-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionNezhaPrimeABronze": {
+        "name": "Axi Z1 Intact",
+        "imageName": "axi-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionNezhaPrimeAPlatinum": {
+        "name": "Axi Z1 Radiant",
+        "imageName": "axi-radiant.png"
+    },
     "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBItem": {
         "name": "Axidite",
         "imageName": "axidite.png"
@@ -4315,6 +4339,10 @@
         "name": "Basmu",
         "imageName": "basmu.png"
     },
+    "/Lotus/Upgrades/Skins/Halloween/HalloweenBasmu": {
+        "name": "Basmu Day Of The Dead Skin",
+        "imageName": "basmu-day-of-the-dead-skin.png"
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBast": {
         "name": "Bast 50 Glyph",
         "imageName": "bast-50-glyph.png"
@@ -4338,6 +4366,10 @@
     "/Lotus/Types/Items/Eidolon/AnimalTagVampireKavatUncommon": {
         "name": "Bau Vasca Kavat Tag",
         "imageName": "bau-vasca-kavat-tag.png"
+    },
+    "/Lotus/Upgrades/Skins/Effects/EphemeraNezhaPrime": {
+        "name": "Baurahn Prime Ephemera",
+        "imageName": "baurahn-prime-ephemera.png"
     },
     "/Lotus/Weapons/Tenno/LongGuns/TnSMG/TnSMGWeapon": {
         "name": "Baza",
@@ -4412,6 +4444,10 @@
     "/Lotus/Types/Restoratives/Consumable/BetaCorruptor": {
         "name": "Beta Corruptor",
         "imageName": "beta-corruptor.png"
+    },
+    "/Lotus/Upgrades/Mods/Rifle/Event/ParisHealOnStatusMod": {
+        "name": "Bhisaj-Bal",
+        "imageName": "bhisaj-bal.jpg"
     },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBigJimID": {
         "name": "Bigjimid Glyph",
@@ -6139,6 +6175,10 @@
         "name": "Combo Fury",
         "imageName": "combo-fury.jpg"
     },
+    "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveSecondaryHeadshotKillMod": {
+        "name": "Combo Killer",
+        "imageName": "combo-killer.jpg"
+    },
     "/Lotus/Upgrades/Mods/Rifle/WeaponBeamExplodeOnDeath": {
         "name": "Combustion Beam",
         "imageName": "combustion-beam.jpg"
@@ -6274,6 +6314,10 @@
     "/Lotus/Types/StoreItems/AvatarImages/ImageConquera": {
         "name": "Conquera Glyph",
         "imageName": "conquera-glyph.png"
+    },
+    "/Lotus/Upgrades/Skins/Sigils/ConqueraSigil": {
+        "name": "Conquera Sigil",
+        "imageName": "conquera-sigil.png"
     },
     "/Lotus/Upgrades/Skins/Scarves/TnCharityRibbonSyandana": {
         "name": "Conquera Syandana",
@@ -6986,6 +7030,10 @@
         "name": "Daman Sugatra",
         "imageName": "daman-sugatra.png"
     },
+    "/Lotus/Upgrades/Mods/Pistol/Event/AkbroncoViralDamageMod": {
+        "name": "Damzav-Vati",
+        "imageName": "damzav-vati.jpg"
+    },
     "/Lotus/Upgrades/Skins/Scarves/NovaDeluxeScarf": {
         "name": "Danavi Syandana",
         "imageName": "danavi-syandana.png"
@@ -7109,6 +7157,10 @@
     "/Lotus/Upgrades/Skins/Sigils/DotD2016Sigil": {
         "name": "Day Of The Dead Sigil",
         "imageName": "day-of-the-dead-sigil.png"
+    },
+    "/Lotus/Upgrades/Skins/Necramech/VoidrigDOTDSkin": {
+        "name": "Day Of The Dead Voidrig Skin",
+        "imageName": "day-of-the-dead-voidrig-skin.png"
     },
     "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerDaybreakItemA": {
         "name": "Daybreak",
@@ -8415,6 +8467,10 @@
         "name": "Eject Magazine",
         "imageName": "eject-magazine.jpg"
     },
+    "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Staff/SWEklypsaStaffSkin": {
+        "name": "Eklypsa Staff Skin",
+        "imageName": "eklypsa-staff-skin.png"
+    },
     "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceSpeedIStatusII": {
         "name": "Ekwana Ii Jai",
         "imageName": "ekwana-ii-jai.png"
@@ -8783,10 +8839,6 @@
     "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorSpitParasitePrecept": {
         "name": "Endoparasitic Vector",
         "imageName": "endoparasitic-vector.jpg"
-    },
-    "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageEndotti": {
-        "name": "Endotti Glyph",
-        "imageName": "endotti-glyph.png"
     },
     "/Lotus/Weapons/Tenno/Melee/Swords/ThreeLeaf/ThreeLeaf": {
         "name": "Endura",
@@ -9296,6 +9348,14 @@
     "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAltStatless": {
         "name": "Excalibur Avalon Helmet",
         "imageName": "excalibur-avalon-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Excalibur/SWExcaliburBotLHelmet": {
+        "name": "Excalibur Blade Of The Lotus Helmet",
+        "imageName": "excalibur-blade-of-the-lotus-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Excalibur/SWExcaliburBotLSkin": {
+        "name": "Excalibur Blade Of The Lotus Skin",
+        "imageName": "excalibur-blade-of-the-lotus-skin.png"
     },
     "/Lotus/Upgrades/Skins/Excalibur/SWRFourExcaliburCadutoHelmet": {
         "name": "Excalibur Caduto Helmet",
@@ -11083,6 +11143,14 @@
         "name": "Garuda Successor Skin",
         "imageName": "garuda-successor-skin.png"
     },
+    "/Lotus/Upgrades/Skins/Garuda/SWGarudaTengushinHelmet": {
+        "name": "Garuda Tengushin Helmet",
+        "imageName": "garuda-tengushin-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Garuda/SWGarudaTengushinSkin": {
+        "name": "Garuda Tengushin Skin",
+        "imageName": "garuda-tengushin-skin.png"
+    },
     "/Lotus/Upgrades/Skins/Garuda/SWTiamatHelmet": {
         "name": "Garuda Tiamat Helmet",
         "imageName": "garuda-tiamat-helmet.png"
@@ -11657,6 +11725,10 @@
         "name": "Gram",
         "imageName": "gram.png"
     },
+    "/Lotus/Upgrades/Skins/Halloween/HalloweenGram": {
+        "name": "Gram Day Of The Dead Skin",
+        "imageName": "gram-day-of-the-dead-skin.png"
+    },
     "/Lotus/Weapons/Tenno/Melee/Swords/PrimeGram/PrimeGram": {
         "name": "Gram Prime",
         "imageName": "gram-prime.png"
@@ -11696,6 +11768,10 @@
     "/Lotus/Types/Items/MiscItems/PhotoboothTilePurgatory": {
         "name": "Granum Void Scene",
         "imageName": "granum-void-scene.png"
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHalloween2020C": {
+        "name": "Grapeskull Naberus Glyph",
+        "imageName": "grapeskull-naberus-glyph.png"
     },
     "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisG": {
         "name": "Grasp Sigil",
@@ -11853,6 +11929,10 @@
         "name": "Grim Fury",
         "imageName": "grim-fury.jpg"
     },
+    "/Lotus/Upgrades/Skins/Sigils/Halloween2020Sigil": {
+        "name": "Grim Grin Naberus Sigil",
+        "imageName": "grim-grin-naberus-sigil.png"
+    },
     "SolNode301": {
         "name": "Grimaldi"
     },
@@ -12007,6 +12087,10 @@
     "/Lotus/Upgrades/Skins/Guandao/NintendoGaundaoSkin": {
         "name": "Guandao Opal Skin",
         "imageName": "guandao-opal-skin.png"
+    },
+    "/Lotus/Weapons/Tenno/Melee/Polearms/PrimeGuandao/PrimeGuandaoWeapon": {
+        "name": "Guandao Prime",
+        "imageName": "guandao-prime.png"
     },
     "/Lotus/Upgrades/Skins/WinterSolstice/SolsticeGaundaoSkin": {
         "name": "Guandao Solstice Skin",
@@ -12262,6 +12346,10 @@
         "name": "Hall Of Malevolence",
         "imageName": "hall-of-malevolence.jpg"
     },
+    "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerHalloweenItemB": {
+        "name": "Hallow'S Eve",
+        "imageName": "hallow's-eve.png"
+    },
     "/Lotus/Powersuits/Paladin/StairwayToHeavenAugmentCard": {
         "name": "Hallowed Eruption",
         "imageName": "hallowed-eruption.jpg"
@@ -12445,6 +12533,10 @@
     "/Lotus/Upgrades/Mods/PvPMods/Warframe/FasterSprintLessShield": {
         "name": "Hastened Steps",
         "imageName": "hastened-steps.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Rifle/Event/SomaCritChanceOnHitMod": {
+        "name": "Hata-Satya",
+        "imageName": "hata-satya.jpg"
     },
     "/Lotus/Weapons/Tenno/Melee/Scythe/StalkerScytheWeapon": {
         "name": "Hate",
@@ -13832,6 +13924,10 @@
         "name": "Irradiating Disarm",
         "imageName": "irradiating-disarm.jpg"
     },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/SWIryaEyeAcc": {
+        "name": "Irya Oculus",
+        "imageName": "irya-oculus.png"
+    },
     "/Lotus/Upgrades/Skins/Scarves/PrimeCapeEquinox": {
         "name": "Isabeau Prime Syandana",
         "imageName": "isabeau-prime-syandana.png"
@@ -14545,6 +14641,14 @@
     "/Lotus/Upgrades/Skins/Khora/SWKhoraMithraSkin": {
         "name": "Khora Mithra Skin",
         "imageName": "khora-mithra-skin.png"
+    },
+    "/Lotus/Upgrades/Skins/Khora/SWKhoraOiranHelmet": {
+        "name": "Khora Miyabi Helmet",
+        "imageName": "khora-miyabi-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Khora/SWKhoraOiranSkin": {
+        "name": "Khora Miyabi Skin",
+        "imageName": "khora-miyabi-skin.png"
     },
     "/Lotus/Upgrades/Skins/Khora/KhoraNobleAnims": {
         "name": "Khora Noble Animation Set",
@@ -15329,6 +15433,10 @@
         "name": "Kyroptera Syandana",
         "imageName": "kyroptera-syandana.png"
     },
+    "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageEndotti": {
+        "name": "Kyungboki Glyph",
+        "imageName": "kyungboki-glyph.png"
+    },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphLaborAward": {
         "name": "Labor Of Love Glyph",
         "imageName": "labor-of-love-glyph.png"
@@ -15580,6 +15688,10 @@
     "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Barrel/CorpAmpSet1BarrelPartB": {
         "name": "Lega Prism",
         "imageName": "lega-prism.png"
+    },
+    "/Lotus/Upgrades/Skins/Sigils/MasterySigil": {
+        "name": "Legacy Mastery Sigil",
+        "imageName": "legacy-mastery-sigil.png"
     },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphKiradien": {
         "name": "Legendary Kiradien Glyph",
@@ -15930,6 +16042,10 @@
         "name": "Liset Maltzur Oculus Skin",
         "imageName": "liset-maltzur-oculus-skin.png"
     },
+    "/Lotus/Upgrades/Skins/Liset/SWMithraLisetSkin": {
+        "name": "Liset Mithra Skin",
+        "imageName": "liset-mithra-skin.png"
+    },
     "/Lotus/Upgrades/Skins/Liset/LisetSkinKaboom": {
         "name": "Liset Pahta Skin",
         "imageName": "liset-pahta-skin.png"
@@ -16101,6 +16217,22 @@
         "name": "Lith B6 Radiant",
         "imageName": "lith-radiant.png"
     },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeESilver": {
+        "name": "Lith B7 Exceptional",
+        "imageName": "lith-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeEGold": {
+        "name": "Lith B7 Flawless",
+        "imageName": "lith-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeEBronze": {
+        "name": "Lith B7 Intact",
+        "imageName": "lith-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeEPlatinum": {
+        "name": "Lith B7 Radiant",
+        "imageName": "lith-radiant.png"
+    },
     "/Lotus/Types/Game/Projections/T1VoidProjectionJSilver": {
         "name": "Lith C1 Exceptional",
         "imageName": "lith-exceptional.png"
@@ -16227,6 +16359,22 @@
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionInarosPrimeBPlatinum": {
         "name": "Lith D2 Radiant",
+        "imageName": "lith-radiant.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeCSilver": {
+        "name": "Lith D3 Exceptional",
+        "imageName": "lith-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeCGold": {
+        "name": "Lith D3 Flawless",
+        "imageName": "lith-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeCBronze": {
+        "name": "Lith D3 Intact",
+        "imageName": "lith-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeCPlatinum": {
+        "name": "Lith D3 Radiant",
         "imageName": "lith-radiant.png"
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCSilver": {
@@ -16581,6 +16729,38 @@
         "name": "Lith N4 Radiant",
         "imageName": "lith-radiant.png"
     },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeBSilver": {
+        "name": "Lith N5 Exceptional",
+        "imageName": "lith-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeBGold": {
+        "name": "Lith N5 Flawless",
+        "imageName": "lith-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeBBronze": {
+        "name": "Lith N5 Intact",
+        "imageName": "lith-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeBPlatinum": {
+        "name": "Lith N5 Radiant",
+        "imageName": "lith-radiant.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeFSilver": {
+        "name": "Lith N6 Exceptional",
+        "imageName": "lith-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeFGold": {
+        "name": "Lith N6 Flawless",
+        "imageName": "lith-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeFBronze": {
+        "name": "Lith N6 Intact",
+        "imageName": "lith-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeFPlatinum": {
+        "name": "Lith N6 Radiant",
+        "imageName": "lith-radiant.png"
+    },
     "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeASilver": {
         "name": "Lith O1 Exceptional",
         "imageName": "lith-exceptional.png"
@@ -16659,6 +16839,38 @@
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionInarosPrimeCPlatinum": {
         "name": "Lith P3 Radiant",
+        "imageName": "lith-radiant.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeASilver": {
+        "name": "Lith P4 Exceptional",
+        "imageName": "lith-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeAGold": {
+        "name": "Lith P4 Flawless",
+        "imageName": "lith-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeABronze": {
+        "name": "Lith P4 Intact",
+        "imageName": "lith-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeAPlatinum": {
+        "name": "Lith P4 Radiant",
+        "imageName": "lith-radiant.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeDSilver": {
+        "name": "Lith P5 Exceptional",
+        "imageName": "lith-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeDGold": {
+        "name": "Lith P5 Flawless",
+        "imageName": "lith-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeDBronze": {
+        "name": "Lith P5 Intact",
+        "imageName": "lith-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeDPlatinum": {
+        "name": "Lith P5 Radiant",
         "imageName": "lith-radiant.png"
     },
     "/Lotus/Types/Game/Projections/T1VoidProjection": {
@@ -16871,6 +17083,22 @@
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionOberonNekrosVaultBPlatinum": {
         "name": "Lith T3 Radiant",
+        "imageName": "lith-radiant.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeGSilver": {
+        "name": "Lith T4 Exceptional",
+        "imageName": "lith-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeGGold": {
+        "name": "Lith T4 Flawless",
+        "imageName": "lith-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeGBronze": {
+        "name": "Lith T4 Intact",
+        "imageName": "lith-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeGPlatinum": {
+        "name": "Lith T4 Radiant",
         "imageName": "lith-radiant.png"
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionDSilver": {
@@ -18443,7 +18671,7 @@
         "name": "Master'S Emblem",
         "imageName": "master's-emblem.png"
     },
-    "/Lotus/Upgrades/Skins/Sigils/MasterySigil": {
+    "/Lotus/Upgrades/Skins/Sigils/MasteryStoneSigil": {
         "name": "Mastery Sigil",
         "imageName": "mastery-sigil.png"
     },
@@ -18953,6 +19181,22 @@
         "name": "Meso C5 Radiant",
         "imageName": "meso-radiant.png"
     },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionNezhaPrimeASilver": {
+        "name": "Meso C6 Exceptional",
+        "imageName": "meso-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionNezhaPrimeAGold": {
+        "name": "Meso C6 Flawless",
+        "imageName": "meso-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionNezhaPrimeABronze": {
+        "name": "Meso C6 Intact",
+        "imageName": "meso-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionNezhaPrimeAPlatinum": {
+        "name": "Meso C6 Radiant",
+        "imageName": "meso-radiant.png"
+    },
     "/Lotus/Types/Game/Projections/T2VoidProjectionASilver": {
         "name": "Meso D1 Exceptional",
         "imageName": "meso-exceptional.png"
@@ -19159,6 +19403,22 @@
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionHydroidPrimeCPlatinum": {
         "name": "Meso G1 Radiant",
+        "imageName": "meso-radiant.png"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionNezhaPrimeBSilver": {
+        "name": "Meso G2 Exceptional",
+        "imageName": "meso-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionNezhaPrimeBGold": {
+        "name": "Meso G2 Flawless",
+        "imageName": "meso-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionNezhaPrimeBBronze": {
+        "name": "Meso G2 Intact",
+        "imageName": "meso-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionNezhaPrimeBPlatinum": {
+        "name": "Meso G2 Radiant",
         "imageName": "meso-radiant.png"
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionMiragePrimeASilver": {
@@ -21267,6 +21527,22 @@
         "name": "Neo D1 Radiant",
         "imageName": "neo-radiant.png"
     },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeASilver": {
+        "name": "Neo D2 Exceptional",
+        "imageName": "neo-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeAGold": {
+        "name": "Neo D2 Flawless",
+        "imageName": "neo-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeABronze": {
+        "name": "Neo D2 Intact",
+        "imageName": "neo-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeAPlatinum": {
+        "name": "Neo D2 Radiant",
+        "imageName": "neo-radiant.png"
+    },
     "/Lotus/Types/Game/Projections/T3VoidProjectionELFVaultBSilver": {
         "name": "Neo E1 Exceptional",
         "imageName": "neo-exceptional.png"
@@ -21281,6 +21557,22 @@
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionELFVaultBPlatinum": {
         "name": "Neo E1 Radiant",
+        "imageName": "neo-radiant.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeESilver": {
+        "name": "Neo E2 Exceptional",
+        "imageName": "neo-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeEGold": {
+        "name": "Neo E2 Flawless",
+        "imageName": "neo-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeEBronze": {
+        "name": "Neo E2 Intact",
+        "imageName": "neo-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeEPlatinum": {
+        "name": "Neo E2 Radiant",
         "imageName": "neo-radiant.png"
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionELFVaultASilver": {
@@ -21569,6 +21861,22 @@
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionNovaTrinityVaultAPlatinum": {
         "name": "Neo N12 Radiant",
+        "imageName": "neo-radiant.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeBSilver": {
+        "name": "Neo N13 Exceptional",
+        "imageName": "neo-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeBGold": {
+        "name": "Neo N13 Flawless",
+        "imageName": "neo-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeBBronze": {
+        "name": "Neo N13 Intact",
+        "imageName": "neo-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeBPlatinum": {
+        "name": "Neo N13 Radiant",
         "imageName": "neo-radiant.png"
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionDSilver": {
@@ -21877,6 +22185,22 @@
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionSarynValkyrVaultAPlatinum": {
         "name": "Neo S13 Radiant",
+        "imageName": "neo-radiant.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeCSilver": {
+        "name": "Neo S14 Exceptional",
+        "imageName": "neo-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeCGold": {
+        "name": "Neo S14 Flawless",
+        "imageName": "neo-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeCBronze": {
+        "name": "Neo S14 Intact",
+        "imageName": "neo-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeCPlatinum": {
+        "name": "Neo S14 Radiant",
         "imageName": "neo-radiant.png"
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionBSilver": {
@@ -22247,6 +22571,22 @@
         "name": "Neo Z5 Radiant",
         "imageName": "neo-radiant.png"
     },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeDSilver": {
+        "name": "Neo Z6 Exceptional",
+        "imageName": "neo-exceptional.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeDGold": {
+        "name": "Neo Z6 Flawless",
+        "imageName": "neo-flawless.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeDBronze": {
+        "name": "Neo Z6 Intact",
+        "imageName": "neo-intact.png"
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeDPlatinum": {
+        "name": "Neo Z6 Radiant",
+        "imageName": "neo-radiant.png"
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageNeoNess": {
         "name": "Neoness007 Glyph",
         "imageName": "neoness007-glyph.png"
@@ -22421,6 +22761,30 @@
         "name": "Nezha Noble Animation Set",
         "imageName": "nezha-noble-animation-set.png"
     },
+    "/Lotus/Types/Items/ShipDecos/TarotCardNezha": {
+        "name": "Nezha Prex",
+        "imageName": "nezha-prex.png"
+    },
+    "/Lotus/Powersuits/Nezha/NezhaPrime": {
+        "name": "Nezha Prime",
+        "imageName": "nezha-prime.png"
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/ImageNezhaPrimeBright": {
+        "name": "Nezha Prime Glyph",
+        "imageName": "nezha-prime-glyph.png"
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/ImageNezhaPrimeDark": {
+        "name": "Nezha Prime Glyph",
+        "imageName": "nezha-prime-glyph.png"
+    },
+    "/Lotus/Upgrades/Skins/Nezha/NezhaPrimeHelmet": {
+        "name": "Nezha Prime Helmet",
+        "imageName": "nezha-prime-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Nezha/NezhaPrimeSkin": {
+        "name": "Nezha Prime Skin",
+        "imageName": "nezha-prime-skin.png"
+    },
     "/Lotus/Upgrades/Skins/Nezha/NezhaSkin": {
         "name": "Nezha Skin",
         "imageName": "nezha-skin.png"
@@ -22561,6 +22925,10 @@
         "name": "Nightwave Sigil",
         "imageName": "nightwave-sigil.png"
     },
+    "/Lotus/Types/Items/ShipDecos/Nightwave/GlassmakerShipDeco": {
+        "name": "Nihil'S Oubliette",
+        "imageName": "nihil's-oubliette.png"
+    },
     "/Lotus/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/Katana": {
         "name": "Nikana",
         "imageName": "nikana.png"
@@ -22628,6 +22996,10 @@
     "/Lotus/Upgrades/Skins/Ornate/TekeluNikanaSkin": {
         "name": "Nikana Tekelu Skin",
         "imageName": "nikana-tekelu-skin.png"
+    },
+    "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Katana/SWUndercutterKatanaSkin": {
+        "name": "Nikana Undercutter Skin",
+        "imageName": "nikana-undercutter-skin.png"
     },
     "/Lotus/Upgrades/Skins/Katana/UngulataKatana": {
         "name": "Nikana Ungulata Skin",
@@ -23471,6 +23843,14 @@
     "/Lotus/Upgrades/Skins/AntiMatter/SWRThreeLamiaSkin": {
         "name": "Nova Lamia Skin",
         "imageName": "nova-lamia-skin.png"
+    },
+    "/Lotus/Upgrades/Skins/AntiMatter/SWNovaMithraHelmet": {
+        "name": "Nova Mithra Helmet",
+        "imageName": "nova-mithra-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/AntiMatter/SWNovaMithraSkin": {
+        "name": "Nova Mithra Skin",
+        "imageName": "nova-mithra-skin.png"
     },
     "/Lotus/Upgrades/Skins/AntiMatter/AntiMatterNobleAnims": {
         "name": "Nova Noble Animation Set",
@@ -26548,6 +26928,18 @@
         "name": "Random Surge Glyph",
         "imageName": "random-surge-glyph.png"
     },
+    "/Lotus/Upgrades/Skins/Armor/PrimeNezhaArmor/PrimeNezhaArmorC": {
+        "name": "Ransha Prime Chest Plates",
+        "imageName": "ransha-prime-chest-plates.png"
+    },
+    "/Lotus/Upgrades/Skins/Armor/PrimeNezhaArmor/PrimeNezhaArmorL": {
+        "name": "Ransha Prime Leg Plates",
+        "imageName": "ransha-prime-leg-plates.png"
+    },
+    "/Lotus/Upgrades/Skins/Armor/PrimeNezhaArmor/PrimeNezhaArmorA": {
+        "name": "Ransha Prime Shoulder Plates",
+        "imageName": "ransha-prime-shoulder-plates.png"
+    },
     "/Lotus/Upgrades/Skins/Scarves/SWRanulystSyandana": {
         "name": "Ranulyst Syandana",
         "imageName": "ranulyst-syandana.png"
@@ -26555,6 +26947,10 @@
     "/Lotus/Upgrades/Mods/Warframe/AvatarProcTimeMod": {
         "name": "Rapid Resilience",
         "imageName": "rapid-resilience.jpg"
+    },
+    "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Rapier/SWArashiRapierSkin": {
+        "name": "Rapier Arashi Skin",
+        "imageName": "rapier-arashi-skin.png"
     },
     "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Rapier/SWFeritaRapierSkin": {
         "name": "Rapier Ferita Skin",
@@ -27533,6 +27929,10 @@
         "name": "Rota Syandana",
         "imageName": "rota-syandana.png"
     },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHalloween2020B": {
+        "name": "Rotting Naberus Glyph",
+        "imageName": "rotting-naberus-glyph.png"
+    },
     "SolNode743": {
         "name": "Rotuma"
     },
@@ -27972,6 +28372,14 @@
         "name": "Saryn Napellus Skin",
         "imageName": "saryn-napellus-skin.png"
     },
+    "/Lotus/Upgrades/Skins/Saryn/SWSarynNighthunterHelmet": {
+        "name": "Saryn Night Hunter Helmet",
+        "imageName": "saryn-night-hunter-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Saryn/SWSarynNighthunterSkin": {
+        "name": "Saryn Night Hunter Skin",
+        "imageName": "saryn-night-hunter-skin.png"
+    },
     "/Lotus/Upgrades/Skins/Saryn/SWNitasModaHelmet": {
         "name": "Saryn Nita'S Moda Helmet",
         "imageName": "saryn-nita's-moda-helmet.png"
@@ -28382,6 +28790,10 @@
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAlthani": {
         "name": "Scrubbpupp Glyph",
         "imageName": "scrubbpupp-glyph.png"
+    },
+    "/Lotus/Upgrades/Skins/Scarves/SWScyllaScarf": {
+        "name": "Scylla Syandana",
+        "imageName": "scylla-syandana.png"
     },
     "/Lotus/Upgrades/Skins/Sentinels/Skins/TnHydroidDlxSentSkin": {
         "name": "Scyph Diriga Skin",
@@ -29873,6 +30285,10 @@
         "name": "Spinal Core Section",
         "imageName": "spinal-core-section.png"
     },
+    "/Lotus/Upgrades/Skins/Effects/WebEphemera": {
+        "name": "Spinneret Ephemera",
+        "imageName": "spinneret-ephemera.png"
+    },
     "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbThreeMeleeTree": {
         "name": "Spinning Needle",
         "imageName": "spinning-needle.jpg"
@@ -30270,6 +30686,10 @@
     "/Lotus/Upgrades/Mods/Syndicate/ViperMod": {
         "name": "Stinging Truth",
         "imageName": "stinging-truth.jpg"
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageHalloween2020A": {
+        "name": "Stinkeye Naberus Glyph",
+        "imageName": "stinkeye-naberus-glyph.png"
     },
     "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Clip/SUModularCritICapIIClipPart": {
         "name": "Stitch",
@@ -31325,6 +31745,10 @@
     "/Lotus/Upgrades/Skins/Sigils/TennoGenSigil": {
         "name": "Tennogen Sigil",
         "imageName": "tennogen-sigil.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/TarotCardTennotober": {
+        "name": "Tennotober Prex",
+        "imageName": "tennotober-prex.png"
     },
     "/Lotus/Types/StoreItems/AvatarImages/TennoCon2020SimarisGlyph": {
         "name": "Tennotrivia 2020 Glyph",
@@ -32534,6 +32958,14 @@
         "name": "Tropical Roller Floof",
         "imageName": "tropical-roller-floof.png"
     },
+    "/Lotus/Types/Items/Emotes/Rank30Emote": {
+        "name": "True Master",
+        "imageName": "true-master.png"
+    },
+    "/Lotus/Upgrades/Skins/Liset/MasteryHoodOrnament": {
+        "name": "True Master Sumdali",
+        "imageName": "true-master-sumdali.png"
+    },
     "/Lotus/Upgrades/Mods/Melee/Channel/ChannelCritsMod": {
         "name": "True Punishment",
         "imageName": "true-punishment.jpg"
@@ -32979,6 +33411,10 @@
     "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerValItemA": {
         "name": "Valentine",
         "imageName": "valentine.png"
+    },
+    "/Lotus/Upgrades/Skins/Scarves/SWValestiScarf": {
+        "name": "Valesti Syandana",
+        "imageName": "valesti-syandana.png"
     },
     "/Lotus/Upgrades/Skins/Kubrows/Armor/KubrowArmorBJade": {
         "name": "Valinn Jade Kubrow Armor",
@@ -33998,6 +34434,10 @@
         "name": "Vitreospina Trophy",
         "imageName": "vitreospina-trophy.png"
     },
+    "/Lotus/Weapons/Tenno/Melee/Swords/NWIIIOrokinSword/NWOrokinSword": {
+        "name": "Vitrica",
+        "imageName": "vitrica.png"
+    },
     "/Lotus/Upgrades/Skins/Clan/EliteAlertBadgeItem": {
         "name": "Vitus Emblem",
         "imageName": "vitus-emblem.png"
@@ -34554,6 +34994,10 @@
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageWhiskeyCat": {
         "name": "Whiskey Cat Glyph",
         "imageName": "whiskey-cat-glyph.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/Deimos/DeimosHalloweenShipDeco": {
+        "name": "Whispering Naberus Mobile",
+        "imageName": "whispering-naberus-mobile.png"
     },
     "/Lotus/Types/Items/ShipDecos/Plushies/Deimos/PlushyInfestedKdriveRare": {
         "name": "White Velocipod Floof",
@@ -35215,6 +35659,10 @@
         "name": "Zakti",
         "imageName": "zakti.png"
     },
+    "/Lotus/Weapons/Tenno/Pistols/PrimeZakti/PrimeZaktiPistol": {
+        "name": "Zakti Prime",
+        "imageName": "zakti-prime.png"
+    },
     "/Lotus/Upgrades/Skins/Scarves/SWZamariuSyandana": {
         "name": "Zamariu Syandana",
         "imageName": "zamariu-syandana.png"
@@ -35314,6 +35762,10 @@
     "/Lotus/Upgrades/Mods/Randomized/LotusModularMeleeRandomModRare": {
         "name": "Zaw Riven Mod",
         "imageName": "zaw-riven-mod.png"
+    },
+    "/Lotus/Upgrades/Mods/Pistol/Event/AkstilettoEfficiencyWhileAirborneMod": {
+        "name": "Zazvat-Kar",
+        "imageName": "zazvat-kar.jpg"
     },
     "/Lotus/Types/Items/MiscItems/AntiSerumInjector": {
         "name": "Zealot Derelict Code",
