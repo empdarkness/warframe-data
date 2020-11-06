@@ -90,5 +90,9 @@
   "/Lotus/StoreItems/Types/Recipes/Components/CorruptedBombardBallBlueprint": {
     "name": "Corrupted Bombard Specter",
     "imageName": "corrupted-bombard-specter.png"
+  },
+  "/Lotus/Types/StoreItems/Packages/VTEosArmourBundle": {
+	"name": "Eos Prime Armor Set",
+	"imageName": "eos-prime-armor-set.jpg"
   }
 }
