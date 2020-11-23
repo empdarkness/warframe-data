@@ -94,5 +94,9 @@
   "/Lotus/Types/StoreItems/Packages/VTEosArmourBundle": {
 	"name": "Eos Prime Armor Set",
 	"imageName": "eos-prime-armor-set.jpg"
+  },
+  "/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBaroKiteer": {
+  "name": "Baro Ki'teer Glyph",
+  "imageName": "baro-ki'teer-glyph.png"
   }
 }

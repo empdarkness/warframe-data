@@ -42,7 +42,7 @@
         "type": "Rifle"
     },
     "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon": {
-        "totalDamage": 16,
+        "totalDamage": 13.999998,
         "fireRate": 0.90909088,
         "name": "Helstrum",
         "type": "Rifle"

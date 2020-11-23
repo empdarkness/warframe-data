@@ -435,6 +435,10 @@
         "name": "Bleeding Willow",
         "imageName": "bleeding-willow.jpg"
     },
+    "/Lotus/Powersuits/Garuda/GarudaUnstoppableAugmentCard": {
+        "name": "Blending Talons",
+        "imageName": "blending-talons.jpg"
+    },
     "/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbThreeMeleeTree": {
         "name": "Blind Justice",
         "imageName": "blind-justice.jpg"
@@ -715,10 +719,6 @@
         "name": "Combat Discipline",
         "imageName": "combat-discipline.jpg"
     },
-    "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary": {
-        "name": "Combo Fury",
-        "imageName": "combo-fury.jpg"
-    },
     "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveSecondaryHeadshotKillMod": {
         "name": "Combo Killer",
         "imageName": "combo-killer.jpg"
@@ -882,6 +882,10 @@
     "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritChanceDamageAimingMod": {
         "name": "Critical Focus",
         "imageName": "critical-focus.jpg"
+    },
+    "/Lotus/Powersuits/Wisp/WispHarnessAugmentCard": {
+        "name": "Critical Surge",
+        "imageName": "critical-surge.jpg"
     },
     "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbTwoMeleeTree": {
         "name": "Crossing Snakes",
@@ -1248,6 +1252,10 @@
         "imageName": "exothermic.jpg"
     },
     "/Lotus/Upgrades/Mods/Pistol/Beginner/WeaponPistolFactionDamageCorpusBeginner": {
+        "name": "Expel Corpus",
+        "imageName": "expel-corpus.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageCorpus": {
         "name": "Expel Corpus",
         "imageName": "expel-corpus.jpg"
     },
@@ -2167,6 +2175,10 @@
         "name": "Lucky Shot",
         "imageName": "lucky-shot.jpg"
     },
+    "/Lotus/Powersuits/Runner/RunnerRushAugmentCard": {
+        "name": "Mach Crash",
+        "imageName": "mach-crash.jpg"
+    },
     "/Lotus/Upgrades/Mods/Hoverboard/HBFallVelocityMod": {
         "name": "Mad Stack",
         "imageName": "mad-stack.jpg"
@@ -2238,6 +2250,10 @@
     "/Lotus/Upgrades/Mods/PvPMods/Melee/MeleeAutoTargetBonus": {
         "name": "Martial Fury",
         "imageName": "martial-fury.jpg"
+    },
+    "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedCatbrowVampireShieldPrecept": {
+        "name": "Martyr Symbiosis",
+        "imageName": "martyr-symbiosis.jpg"
     },
     "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnHackLockersMod": {
         "name": "Master Key",
@@ -2423,9 +2439,37 @@
         "name": "Nebula Bore",
         "imageName": "nebula-bore.jpg"
     },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechSlideDamageMod": {
+        "name": "Necramech Blitz",
+        "imageName": "necramech-blitz.jpg"
+    },
     "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityDurationMod": {
         "name": "Necramech Continuity",
         "imageName": "necramech-continuity.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechHoverEfficiencyMod": {
+        "name": "Necramech Drift",
+        "imageName": "necramech-drift.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechBoostEfficiencyMod": {
+        "name": "Necramech Efficiency",
+        "imageName": "necramech-efficiency.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechPowerMaxMod": {
+        "name": "Necramech Flow",
+        "imageName": "necramech-flow.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechSlideEfficiencyMod": {
+        "name": "Necramech Friction",
+        "imageName": "necramech-friction.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechMeleeSpeedMod": {
+        "name": "Necramech Fury",
+        "imageName": "necramech-fury.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechJumpHeightMod": {
+        "name": "Necramech Hydraulics",
+        "imageName": "necramech-hydraulics.jpg"
     },
     "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityStrengthMod": {
         "name": "Necramech Intensify",
@@ -2458,6 +2502,14 @@
     "/Lotus/Upgrades/Mods/Necromech/NecromechArmourMaxMod": {
         "name": "Necramech Steel Fiber",
         "imageName": "necramech-steel-fiber.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityEfficiencyMod": {
+        "name": "Necramech Streamline",
+        "imageName": "necramech-streamline.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityRangeMod": {
+        "name": "Necramech Stretch",
+        "imageName": "necramech-stretch.jpg"
     },
     "/Lotus/Upgrades/Mods/Necromech/NecromechBoostMaxMod": {
         "name": "Necramech Thrusters",
@@ -4259,6 +4311,10 @@
         "name": "Thief'S Wit",
         "imageName": "thief's-wit.jpg"
     },
+    "/Lotus/Powersuits/Revenant/RevenantMarkAugmentCard": {
+        "name": "Thrall Pact",
+        "imageName": "thrall-pact.jpg"
+    },
     "/Lotus/Upgrades/Mods/Hoverboard/HBTrickExplosionMod": {
         "name": "Thrash Landing",
         "imageName": "thrash-landing.jpg"
@@ -4566,6 +4622,18 @@
     "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarHealthMaxModBeginner": {
         "name": "Vitality",
         "imageName": "vitality.jpg"
+    },
+    "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorMaggotSummonerPrecept": {
+        "name": "Volatile Parasite",
+        "imageName": "volatile-parasite.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveExplodingReflectionDecreaseMod": {
+        "name": "Volatile Quick Return",
+        "imageName": "volatile-quick-return.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveExplodingReflectionIncreaseMod": {
+        "name": "Volatile Rebound",
+        "imageName": "volatile-rebound.jpg"
     },
     "/Lotus/Upgrades/Mods/Melee/DualStat/FireEventMeleeMod": {
         "name": "Volcanic Edge",

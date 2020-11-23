@@ -1371,6 +1371,66 @@
         "disposition": 5
     },
     {
+        "name": "Catabolyst",
+        "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfBeamPistol/InfBeamPistol",
+        "totalDamage": 53,
+        "criticalChance": 0.11,
+        "criticalMultiplier": 2.9000001,
+        "procChance": 0.43000001,
+        "fireRate": 12.000001,
+        "masteryReq": 11,
+        "slot": 0,
+        "omegaAttenuation": 0.5,
+        "noise": "Alarming",
+        "magazineSize": 31,
+        "reloadTime": 1.7,
+        "multishot": 1,
+        "buildPrice": 30000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 35,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Pistol",
+        "imageName": "catabolyst.png",
+        "category": "Secondary",
+        "tradable": false,
+        "ammo": 540,
+        "areaAttack": {
+            "name": "Partial Reload Explosion",
+            "falloff": {
+                "start": 0,
+                "end": 5,
+                "reduction": 0.5
+            },
+            "corrosive": 203,
+            "damage": "203.0 corrosive"
+        },
+        "damage": "53.0 corrosive",
+        "damageTypes": {
+            "corrosive": 53
+        },
+        "flight": "???",
+        "marketCost": 190,
+        "projectile": "Projectile",
+        "secondary": {
+            "name": "Reload From Empty Impact",
+            "crit_chance": 31,
+            "crit_mult": 2.9,
+            "status_chance": 0.6,
+            "impact": 11
+        },
+        "secondaryArea": {
+            "name": "Reload From Empty Explosion",
+            "corrosive": 1997,
+            "damage": "1997.0 corrosive"
+        },
+        "tags": [
+            "Infested"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Catabolyst",
+        "disposition": 1
+    },
+    {
         "name": "Cestra",
         "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun",
         "totalDamage": 26.000002,
@@ -2467,6 +2527,7 @@
             "slash": 36.7,
             "puncture": 68.1
         },
+        "flight": 200,
         "projectile": "Projectile",
         "tags": [
             "Grineer",
@@ -2947,10 +3008,10 @@
         "category": "Secondary",
         "tradable": false,
         "ammo": 300,
-        "damage": "20.0 radiation",
+        "damage": "10.0 radiation",
         "damageTypes": {
-            "puncture": 2,
-            "radiation": 20
+            "puncture": 1,
+            "radiation": 10
         },
         "marketCost": 175,
         "projectile": "Discharge",

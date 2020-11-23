@@ -230,7 +230,7 @@
     {
         "name": "Helstrum",
         "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon",
-        "totalDamage": 16,
+        "totalDamage": 13.999998,
         "criticalChance": 0.050000001,
         "criticalMultiplier": 1.5,
         "procChance": 0.30000001,

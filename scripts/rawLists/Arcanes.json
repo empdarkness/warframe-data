@@ -1,5 +1,15 @@
 [
     {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Deimos/FirePuddleOnKill",
+        "name": "[Hc] Fire Puddle Death",
+        "excludeFromCodex": true,
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "hc-fire-puddle-death.png",
+        "category": "Arcanes",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RegenerateOnHeadshot",
         "name": "[Ph] Regenerate On Headshot",
         "excludeFromCodex": true,
@@ -697,6 +707,69 @@
         "consumeOnBuild": true,
         "type": "Arcane",
         "imageName": "pax-soar.png",
+        "category": "Arcanes",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/BurningCystOnKill",
+        "name": "Residual Boils",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "residual-boils.png",
+        "category": "Arcanes",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/IceMistOnKill",
+        "name": "Residual Malodor",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "residual-malodor.png",
+        "category": "Arcanes",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/LightningStrikeOnKill",
+        "name": "Residual Shock",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "residual-shock.png",
+        "category": "Arcanes",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/ToxicBloodOnKill",
+        "name": "Residual Viremia",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "residual-viremia.png",
+        "category": "Arcanes",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OrbsOnResidualContact",
+        "name": "Theorem Contagion",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "theorem-contagion.png",
+        "category": "Arcanes",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/WeaponDamageOnResidualContact",
+        "name": "Theorem Demulcent",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "theorem-demulcent.png",
+        "category": "Arcanes",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CompanionDamageOnResidualContact",
+        "name": "Theorem Infection",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "theorem-infection.png",
         "category": "Arcanes",
         "tradable": true
     },

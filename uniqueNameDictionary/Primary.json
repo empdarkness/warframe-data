@@ -107,6 +107,12 @@
         "name": "Braton Vandal",
         "type": "Rifle"
     },
+    "/Lotus/Weapons/Infested/LongGuns/InfArmCannon/InfArmCannon": {
+        "totalDamage": 41,
+        "fireRate": 3.8333335,
+        "name": "Bubonico",
+        "type": "Arm Cannon"
+    },
     "/Lotus/Types/Sentinels/SentinelWeapons/BurstLaserPistol": {
         "totalDamage": 7,
         "fireRate": 1.6071428,
@@ -336,7 +342,7 @@
         "type": "Shotgun"
     },
     "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon": {
-        "totalDamage": 16,
+        "totalDamage": 13.999998,
         "fireRate": 0.90909088,
         "name": "Helstrum",
         "type": "Rifle"
@@ -539,6 +545,12 @@
         "name": "Mk1-Strun",
         "type": "Shotgun"
     },
+    "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechGrenadeLaunch/ThanoTechGrenadeLauncher": {
+        "totalDamage": 196,
+        "fireRate": 6.0000005,
+        "name": "Morgha",
+        "type": ""
+    },
     "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/HextraWeapon": {
         "totalDamage": 5,
         "fireRate": 3.3333335,
@@ -671,6 +683,12 @@
         "name": "Prisma Tetra",
         "type": "Rifle"
     },
+    "/Lotus/Weapons/Tenno/Bows/PrimeDerelictCernos/DerelictCernos": {
+        "totalDamage": 279,
+        "fireRate": 1,
+        "name": "Proboscis Cernos",
+        "type": "Misc"
+    },
     "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/CrpShockRifle": {
         "totalDamage": 10,
         "fireRate": 12.000001,
@@ -772,6 +790,12 @@
         "fireRate": 15.000001,
         "name": "Soma Prime",
         "type": "Rifle"
+    },
+    "/Lotus/Weapons/Infested/LongGuns/InfSniperRifle/InfSniperRifle": {
+        "totalDamage": 371,
+        "fireRate": 1.8333334,
+        "name": "Sporothrix",
+        "type": "Sniper Rifle"
     },
     "/Lotus/Weapons/Corpus/LongGuns/CrpRubanRifle/CrpRubanRifle": {
         "totalDamage": 52,

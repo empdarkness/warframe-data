@@ -1,4 +1,7 @@
 {
+    "/Lotus/Upgrades/CosmeticEnhancers/Deimos/FirePuddleOnKill": {
+        "name": "[Hc] Fire Puddle Death"
+    },
     "/Lotus/Upgrades/CosmeticEnhancers/Utility/RegenerateOnHeadshot": {
         "name": "[Ph] Regenerate On Headshot"
     },
@@ -232,6 +235,27 @@
     },
     "/Lotus/Upgrades/CosmeticEnhancers/Offensive/EyeInTheSky": {
         "name": "Pax Soar"
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Utility/BurningCystOnKill": {
+        "name": "Residual Boils"
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Utility/IceMistOnKill": {
+        "name": "Residual Malodor"
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Utility/LightningStrikeOnKill": {
+        "name": "Residual Shock"
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Utility/ToxicBloodOnKill": {
+        "name": "Residual Viremia"
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OrbsOnResidualContact": {
+        "name": "Theorem Contagion"
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Offensive/WeaponDamageOnResidualContact": {
+        "name": "Theorem Demulcent"
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CompanionDamageOnResidualContact": {
+        "name": "Theorem Infection"
     },
     "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToHeatDamage": {
         "name": "Virtuos Forge"

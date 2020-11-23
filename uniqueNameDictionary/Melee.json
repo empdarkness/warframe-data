@@ -35,6 +35,12 @@
         "name": "Arca Titron",
         "type": "Hammer"
     },
+    "/Lotus/Weapons/Infested/Melee/InfWarfan/InfWarfanWeapon": {
+        "totalDamage": 297,
+        "fireRate": 1.0833334,
+        "name": "Arum Spinosa",
+        "type": "Warfan"
+    },
     "/Lotus/Weapons/Grineer/Melee/GrineerWhip/GrineerWhip": {
         "totalDamage": 129,
         "fireRate": 0.91666669,
@@ -706,6 +712,12 @@
         "fireRate": 1,
         "name": "Prova Vandal",
         "type": "Machete"
+    },
+    "/Lotus/Weapons/Infested/Melee/Nunchaku/InfNunchuck/InfNunchuck": {
+        "totalDamage": 290,
+        "fireRate": 0.91666669,
+        "name": "Pulmonars",
+        "type": "Nunchaku"
     },
     "/Lotus/Weapons/Infested/Melee/Staff/InfStaff/InfStaff": {
         "totalDamage": 284,

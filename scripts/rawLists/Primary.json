@@ -782,6 +782,61 @@
         "disposition": 4
     },
     {
+        "name": "Bubonico",
+        "uniqueName": "/Lotus/Weapons/Infested/LongGuns/InfArmCannon/InfArmCannon",
+        "totalDamage": 41,
+        "criticalChance": 0.25,
+        "criticalMultiplier": 2.3,
+        "procChance": 0.092857122,
+        "fireRate": 3.8333335,
+        "masteryReq": 13,
+        "slot": 1,
+        "omegaAttenuation": 0.5,
+        "noise": "Alarming",
+        "trigger": "Auto",
+        "magazineSize": 27,
+        "reloadTime": 2.0999999,
+        "multishot": 7,
+        "buildPrice": 30000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 35,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Arm Cannon",
+        "imageName": "bubonico.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "49.0 toxin",
+        "damageTypes": {
+            "impact": 14,
+            "slash": 133,
+            "puncture": 91,
+            "toxin": 49
+        },
+        "marketCost": 265,
+        "projectile": "Hitscan",
+        "secondary": {
+            "name": "Burst",
+            "speed": 3.37,
+            "crit_chance": 3,
+            "crit_mult": 3.5,
+            "status_chance": 0.6,
+            "shot_type": "Projectile",
+            "impact": 9
+        },
+        "secondaryArea": {
+            "name": "Radial Attack",
+            "radius": 700,
+            "viral": 143,
+            "damage": "143.0 viral"
+        },
+        "tags": [
+            "Infested"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Bubonico",
+        "disposition": 1
+    },
+    {
         "name": "Burst Laser",
         "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/BurstLaserPistol",
         "totalDamage": 7,
@@ -2330,7 +2385,7 @@
             "slash": 7.5,
             "puncture": 37.5
         },
-        "flight": "???",
+        "flight": 60,
         "marketCost": 225,
         "projectile": "Projectile",
         "secondary": {
@@ -2339,7 +2394,7 @@
             "crit_chance": 25,
             "crit_mult": 2.3,
             "status_chance": 0.1,
-            "shot_type": "Projectile",
+            "shot_type": 50,
             "shot_speed": null,
             "impact": 40,
             "slash": 10,
@@ -2394,7 +2449,7 @@
     {
         "name": "Helstrum",
         "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon",
-        "totalDamage": 16,
+        "totalDamage": 13.999998,
         "criticalChance": 0.050000001,
         "criticalMultiplier": 1.5,
         "procChance": 0.30000001,
@@ -2922,7 +2977,9 @@
             "slash": 83.6,
             "puncture": 73
         },
-        "tags": [],
+        "tags": [
+            "Sentient"
+        ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Komorex",
         "disposition": 3
     },
@@ -3958,6 +4015,68 @@
         "disposition": 5
     },
     {
+        "name": "Morgha",
+        "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechGrenadeLaunch/ThanoTechGrenadeLauncher",
+        "totalDamage": 196,
+        "criticalChance": 0.30000001,
+        "criticalMultiplier": 2.2,
+        "procChance": 0.13999999,
+        "fireRate": 6.0000005,
+        "masteryReq": 15,
+        "slot": 1,
+        "omegaAttenuation": 0.5,
+        "noise": "Alarming",
+        "trigger": "Auto Burst",
+        "magazineSize": 50,
+        "reloadTime": 3,
+        "multishot": 2,
+        "buildPrice": 20000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 25,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "",
+        "imageName": "morgha.png",
+        "category": "Primary",
+        "tradable": false,
+        "areaAttack": {
+            "name": "Radial Attack",
+            "falloff": {
+                "start": 0,
+                "end": 3,
+                "reduction": 0.3
+            },
+            "blast": 164,
+            "damage": "164.0 blast"
+        },
+        "damage": "32.0",
+        "damageTypes": {
+            "impact": 32
+        },
+        "projectile": "Projectile",
+        "secondary": {
+            "name": "Charged Shot",
+            "speed": 0.833,
+            "crit_chance": 40,
+            "crit_mult": 3,
+            "status_chance": 0.5,
+            "impact": 100
+        },
+        "secondaryArea": {
+            "name": "Charged Shot Explosion",
+            "impact": 600,
+            "slash": 1000,
+            "puncture": 800,
+            "blast": 1200,
+            "damage": "1200.0 blast"
+        },
+        "tags": [
+            "Entrati"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Morgha",
+        "disposition": 1
+    },
+    {
         "name": "Multron",
         "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/HextraWeapon",
         "totalDamage": 5,
@@ -4006,6 +4125,10 @@
         "magazineSize": 1,
         "reloadTime": 0.60000002,
         "multishot": 1,
+        "itemCount": 1,
+        "parents": [
+            "Proboscis Cernos"
+        ],
         "buildPrice": 15000,
         "buildTime": 43200,
         "skipBuildTimePrice": 45,
@@ -4970,6 +5093,32 @@
         "disposition": 5
     },
     {
+        "name": "Proboscis Cernos",
+        "uniqueName": "/Lotus/Weapons/Tenno/Bows/PrimeDerelictCernos/DerelictCernos",
+        "totalDamage": 279,
+        "criticalChance": 0.07,
+        "criticalMultiplier": 1.9,
+        "procChance": 0.43000001,
+        "fireRate": 1,
+        "masteryReq": 15,
+        "slot": 1,
+        "omegaAttenuation": 0.5,
+        "noise": "Silent",
+        "trigger": "Charge",
+        "magazineSize": 1,
+        "reloadTime": 0.60000002,
+        "multishot": 1,
+        "buildPrice": 15000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 45,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Misc",
+        "imageName": "proboscis-cernos.png",
+        "category": "Primary",
+        "tradable": true
+    },
+    {
         "name": "Quanta",
         "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/CrpShockRifle",
         "totalDamage": 10,
@@ -5167,14 +5316,14 @@
             "cold": 16
         },
         "marketCost": 240,
-        "projectile": "?",
+        "projectile": "Hitscan",
         "secondary": {
             "speed": 1,
             "crit_chance": 40,
             "crit_mult": 2.2,
             "status_chance": 0.1,
             "charge_time": 1.2,
-            "shot_type": "?",
+            "shot_type": "Projectile",
             "shot_speed": null,
             "impact": 600,
             "cold": 800,
@@ -5383,8 +5532,9 @@
         "damageTypes": {
             "corrosive": 70
         },
+        "flight": 35,
         "marketCost": 240,
-        "projectile": "Hitscan",
+        "projectile": "Projectile",
         "secondary": {
             "name": "Spear Explosion Quick Shot",
             "crit_chance": 4,
@@ -5759,6 +5909,54 @@
         "vaultDate": "2016 11 22",
         "estimatedVaultDate": "2016 11 22",
         "vaulted": true
+    },
+    {
+        "name": "Sporothrix",
+        "uniqueName": "/Lotus/Weapons/Infested/LongGuns/InfSniperRifle/InfSniperRifle",
+        "totalDamage": 371,
+        "criticalChance": 0.0099999998,
+        "criticalMultiplier": 3,
+        "procChance": 0.52999997,
+        "fireRate": 1.8333334,
+        "masteryReq": 13,
+        "slot": 1,
+        "omegaAttenuation": 0.5,
+        "noise": "Alarming",
+        "trigger": "Semi",
+        "magazineSize": 9,
+        "reloadTime": 2.7,
+        "multishot": 1,
+        "buildPrice": 20000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 50,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Sniper Rifle",
+        "imageName": "sporothrix.png",
+        "category": "Primary",
+        "tradable": false,
+        "ammo": 40,
+        "areaAttack": {
+            "falloff": {
+                "start": 0,
+                "end": 1.7,
+                "reduction": 0.1
+            },
+            "slash": 22,
+            "viral": 19,
+            "damage": "19.0 viral"
+        },
+        "damage": "256.0",
+        "damageTypes": {
+            "impact": 100.2,
+            "puncture": 155.8
+        },
+        "projectile": "Hitscan",
+        "tags": [
+            "Infested"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Sporothrix",
+        "disposition": 1
     },
     {
         "name": "Stahlta",

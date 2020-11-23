@@ -54,7 +54,7 @@
         "rivenStatMulti": 1.455
     },
     "Helstrum": {
-        "totalDamage": 16,
+        "totalDamage": 13.999998,
         "fireRate": 0.90909088,
         "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon",
         "type": "Rifle",

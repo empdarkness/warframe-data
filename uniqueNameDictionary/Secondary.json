@@ -191,6 +191,12 @@
         "name": "Castanas",
         "type": "Thrown"
     },
+    "/Lotus/Weapons/Infested/Pistols/InfBeamPistol/InfBeamPistol": {
+        "totalDamage": 53,
+        "fireRate": 12.000001,
+        "name": "Catabolyst",
+        "type": "Pistol"
+    },
     "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun": {
         "totalDamage": 26.000002,
         "fireRate": 8.333334,

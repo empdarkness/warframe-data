@@ -302,6 +302,9 @@
     "Bleeding Willow": {
         "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbTwoMeleeTree"
     },
+    "Blending Talons": {
+        "uniqueName": "/Lotus/Powersuits/Garuda/GarudaUnstoppableAugmentCard"
+    },
     "Blind Justice": {
         "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbThreeMeleeTree"
     },
@@ -494,9 +497,6 @@
     "Combat Discipline": {
         "uniqueName": "/Lotus/Upgrades/Mods/Aura/WarframeAuraBloodLetterMod"
     },
-    "Combo Fury": {
-        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary"
-    },
     "Combo Killer": {
         "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveSecondaryHeadshotKillMod"
     },
@@ -607,6 +607,9 @@
     },
     "Critical Focus": {
         "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritChanceDamageAimingMod"
+    },
+    "Critical Surge": {
+        "uniqueName": "/Lotus/Powersuits/Wisp/WispHarnessAugmentCard"
     },
     "Crossing Snakes": {
         "uniqueName": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbTwoMeleeTree"
@@ -867,7 +870,7 @@
         "uniqueName": "/Lotus/Powersuits/Ember/WorldOnFireAugmentCard"
     },
     "Expel Corpus": {
-        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Beginner/WeaponPistolFactionDamageCorpusBeginner"
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageCorpus"
     },
     "Expel Corrupted": {
         "uniqueName": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageCorrupted"
@@ -1487,6 +1490,9 @@
     "Lucky Shot": {
         "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherVelocityLessAccurateRifleMod"
     },
+    "Mach Crash": {
+        "uniqueName": "/Lotus/Powersuits/Runner/RunnerRushAugmentCard"
+    },
     "Mad Stack": {
         "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBFallVelocityMod"
     },
@@ -1534,6 +1540,9 @@
     },
     "Martial Fury": {
         "uniqueName": "/Lotus/Upgrades/Mods/PvPMods/Melee/MeleeAutoTargetBonus"
+    },
+    "Martyr Symbiosis": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedCatbrowVampireShieldPrecept"
     },
     "Master Key": {
         "uniqueName": "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnHackLockersMod"
@@ -1664,8 +1673,29 @@
     "Nebula Bore": {
         "uniqueName": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingDualStatPunctureStatusMeleeMod"
     },
+    "Necramech Blitz": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechSlideDamageMod"
+    },
     "Necramech Continuity": {
         "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityDurationMod"
+    },
+    "Necramech Drift": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechHoverEfficiencyMod"
+    },
+    "Necramech Efficiency": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechBoostEfficiencyMod"
+    },
+    "Necramech Flow": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechPowerMaxMod"
+    },
+    "Necramech Friction": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechSlideEfficiencyMod"
+    },
+    "Necramech Fury": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechMeleeSpeedMod"
+    },
+    "Necramech Hydraulics": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechJumpHeightMod"
     },
     "Necramech Intensify": {
         "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityStrengthMod"
@@ -1690,6 +1720,12 @@
     },
     "Necramech Steel Fiber": {
         "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechArmourMaxMod"
+    },
+    "Necramech Streamline": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityEfficiencyMod"
+    },
+    "Necramech Stretch": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityRangeMod"
     },
     "Necramech Thrusters": {
         "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechBoostMaxMod"
@@ -2897,6 +2933,9 @@
     "Thief'S Wit": {
         "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarLootRadarModBeginner"
     },
+    "Thrall Pact": {
+        "uniqueName": "/Lotus/Powersuits/Revenant/RevenantMarkAugmentCard"
+    },
     "Thrash Landing": {
         "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBTrickExplosionMod"
     },
@@ -3094,6 +3133,15 @@
     },
     "Vitality": {
         "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Beginner/AvatarHealthMaxModBeginner"
+    },
+    "Volatile Parasite": {
+        "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorMaggotSummonerPrecept"
+    },
+    "Volatile Quick Return": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveExplodingReflectionDecreaseMod"
+    },
+    "Volatile Rebound": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveExplodingReflectionIncreaseMod"
     },
     "Volcanic Edge": {
         "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/FireEventMeleeMod"

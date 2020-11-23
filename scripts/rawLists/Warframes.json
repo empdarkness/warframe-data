@@ -1953,7 +1953,6 @@
         "stamina": 200,
         "power": 150,
         "masteryReq": 0,
-        "excludeFromCodex": true,
         "sprintSpeed": 1,
         "exalted": [
             "/Lotus/Types/Enemies/Orokin/Entrati/EntratiTech/NechroTech/ExaltedArtilleryWeapon"

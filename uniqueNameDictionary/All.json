@@ -3,6 +3,10 @@
         "name": "-Chroma- Prime Partner Glyph",
         "imageName": "-chroma--prime-partner-glyph.png"
     },
+    "/Lotus/Types/Restoratives/Consumable/HuntingBait": {
+        "name": "[Hc] Animal Bait",
+        "imageName": "hc-animal-bait.png"
+    },
     "/Lotus/Types/Restoratives/Consumable/DemolystBall": {
         "name": "[Hc] Demolyst Spectre",
         "imageName": "hc-demolyst-spectre.png"
@@ -10,6 +14,14 @@
     "/Lotus/Types/Keys/TutorialEndoQuest/EndoQuestKeyChain": {
         "name": "[Hc] Endo Tutorial Quest",
         "imageName": "hc-endo-tutorial-quest.png"
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Deimos/FirePuddleOnKill": {
+        "name": "[Hc] Fire Puddle Death",
+        "imageName": "hc-fire-puddle-death.png"
+    },
+    "/Lotus/Types/Restoratives/Quests/ProteaPolarizerDeployGearItem": {
+        "name": "[Hc] Polarlizer",
+        "imageName": "hc-polarlizer.png"
     },
     "/Lotus/Upgrades/Skins/Clan/CorpusRaidBadgeItem": {
         "name": "[Ph]",
@@ -39,10 +51,6 @@
         "name": "[Ph] Ceres Trophy - Silver",
         "imageName": "ph-ceres-trophy---silver.png"
     },
-    "/Lotus/Types/Items/ShipDecos/LisetPropGrineerCutter": {
-        "name": "[Ph] Cutter Decoration",
-        "imageName": "ph-cutter-decoration.png"
-    },
     "/Lotus/Upgrades/Skins/Clan/DarkSectorEventEmblemItem": {
         "name": "[Ph] Dark Sector Event Emblem",
         "imageName": "ph-dark-sector-event-emblem.png"
@@ -51,13 +59,9 @@
         "name": "[Ph] Dark Sector Event Sigil",
         "imageName": "ph-dark-sector-event-sigil.png"
     },
-    "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishFPartItem": {
-        "name": "[Ph] Deimos Fish F",
-        "imageName": "ph-deimos-fish-f.png"
-    },
-    "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishGPartItem": {
-        "name": "[Ph] Deimos Fish G",
-        "imageName": "ph-deimos-fish-g.png"
+    "/Lotus/Types/Items/ShipDecos/Plushies/PlushyPobbersUncommonDirty": {
+        "name": "[Ph] Delicate Pobber Floof",
+        "imageName": "ph-delicate-pobber-floof.png"
     },
     "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyDerelictGold": {
         "name": "[Ph] Derelict Trophy - Gold",
@@ -135,13 +139,17 @@
         "name": "[Ph] Europa Trophy - Silver",
         "imageName": "ph-europa-trophy---silver.png"
     },
-    "/Lotus/Types/Items/ShipDecos/LisetPropGrineerFlak": {
-        "name": "[Ph] Flak Decoration",
-        "imageName": "ph-flak-decoration.png"
+    "/Lotus/Types/Restoratives/Consumable/ExtendedInfestedSyringe": {
+        "name": "[Ph] Extended Infested Syringe",
+        "imageName": "ph-extended-infested-syringe.png"
     },
     "/Lotus/Upgrades/Skins/Sigils/AllianceSigilTwoTone": {
         "name": "[Ph] Glyphed Alliance Sigil",
         "imageName": "ph-glyphed-alliance-sigil.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank33Trophy": {
+        "name": "[Ph] Gold Mastery Slate",
+        "imageName": "ph-gold-mastery-slate.png"
     },
     "/Lotus/Types/Gameplay/Venus/Resources/HeistKeycardItem": {
         "name": "[Ph] Heist Keycard",
@@ -166,6 +174,10 @@
     "/Lotus/Types/Items/ShipDecos/Venus/VentKidBooster": {
         "name": "[Ph] K-Drive Booster Deco",
         "imageName": "ph-k-drive-booster-deco.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/Plushies/PlushyKubrodonRareDirty": {
+        "name": "[Ph] Kubrodon Incarnadine Floof",
+        "imageName": "ph-kubrodon-incarnadine-floof.png"
     },
     "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyKuvaFortressGold": {
         "name": "[Ph] Kuva Fortress Trophy - Gold",
@@ -203,6 +215,78 @@
         "name": "[Ph] Mars Trophy - Silver",
         "imageName": "ph-mars-trophy---silver.png"
     },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank34Trophy": {
+        "name": "[Ph] Mastery Rank 34 Trophy",
+        "imageName": "ph-mastery-rank-34-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank35Trophy": {
+        "name": "[Ph] Mastery Rank 35 Trophy",
+        "imageName": "ph-mastery-rank-35-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank36Trophy": {
+        "name": "[Ph] Mastery Rank 36 Trophy",
+        "imageName": "ph-mastery-rank-36-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank37Trophy": {
+        "name": "[Ph] Mastery Rank 37 Trophy",
+        "imageName": "ph-mastery-rank-37-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank38Trophy": {
+        "name": "[Ph] Mastery Rank 38 Trophy",
+        "imageName": "ph-mastery-rank-38-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank39Trophy": {
+        "name": "[Ph] Mastery Rank 39 Trophy",
+        "imageName": "ph-mastery-rank-39-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank40Trophy": {
+        "name": "[Ph] Mastery Rank 40 Trophy",
+        "imageName": "ph-mastery-rank-40-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank41Trophy": {
+        "name": "[Ph] Mastery Rank 41 Trophy",
+        "imageName": "ph-mastery-rank-41-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank42Trophy": {
+        "name": "[Ph] Mastery Rank 42 Trophy",
+        "imageName": "ph-mastery-rank-42-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank43Trophy": {
+        "name": "[Ph] Mastery Rank 43 Trophy",
+        "imageName": "ph-mastery-rank-43-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank44Trophy": {
+        "name": "[Ph] Mastery Rank 44 Trophy",
+        "imageName": "ph-mastery-rank-44-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank45Trophy": {
+        "name": "[Ph] Mastery Rank 45 Trophy",
+        "imageName": "ph-mastery-rank-45-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank46Trophy": {
+        "name": "[Ph] Mastery Rank 46 Trophy",
+        "imageName": "ph-mastery-rank-46-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank47Trophy": {
+        "name": "[Ph] Mastery Rank 47 Trophy",
+        "imageName": "ph-mastery-rank-47-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank48Trophy": {
+        "name": "[Ph] Mastery Rank 48 Trophy",
+        "imageName": "ph-mastery-rank-48-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank49Trophy": {
+        "name": "[Ph] Mastery Rank 49 Trophy",
+        "imageName": "ph-mastery-rank-49-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank50Trophy": {
+        "name": "[Ph] Mastery Rank 50 Trophy",
+        "imageName": "ph-mastery-rank-50-trophy.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank51Trophy": {
+        "name": "[Ph] Mastery Rank 51 Trophy",
+        "imageName": "ph-mastery-rank-51-trophy.png"
+    },
     "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyMercuryGold": {
         "name": "[Ph] Mercury Trophy - Gold",
         "imageName": "ph-mercury-trophy---gold.png"
@@ -214,6 +298,14 @@
     "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyMercurySilver": {
         "name": "[Ph] Mercury Trophy - Silver",
         "imageName": "ph-mercury-trophy---silver.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/MiningAutoComplete": {
+        "name": "[Ph] Mining Auto Laser",
+        "imageName": "ph-mining-auto-laser.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/Vignettes/Warframes/MechAFItem": {
+        "name": "[Ph] Necramech Articula",
+        "imageName": "ph-necramech-articula.png"
     },
     "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyNeptuneGold": {
         "name": "[Ph] Neptune Trophy - Gold",
@@ -254,6 +346,10 @@
     "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyPlutoSilver": {
         "name": "[Ph] Pluto Trophy - Silver",
         "imageName": "ph-pluto-trophy---silver.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/RobofishSpearA": {
+        "name": "[Ph] Pulse Spear",
+        "imageName": "ph-pulse-spear.png"
     },
     "/Lotus/Upgrades/Skins/Weapons/Redeemer/RedeemerRelayFireSkin": {
         "name": "[Ph] Redeemer Fire Skin",
@@ -299,6 +395,18 @@
         "name": "[Ph] Sedna Trophy - Silver",
         "imageName": "ph-sedna-trophy---silver.png"
     },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank32Trophy": {
+        "name": "[Ph] Silver Legendary Mastery Slate",
+        "imageName": "ph-silver-legendary-mastery-slate.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/MiningLaserSolarisB": {
+        "name": "[Ph] Solaris Mining Laser B",
+        "imageName": "ph-solaris-mining-laser-b.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/MiningLaserSolarisC": {
+        "name": "[Ph] Solaris Mining Laser C",
+        "imageName": "ph-solaris-mining-laser-c.png"
+    },
     "/Lotus/Upgrades/Skins/RailJack/TurretA": {
         "name": "[Ph] Solo-Duo Turret",
         "imageName": "ph-solo-duo-turret.png"
@@ -307,13 +415,13 @@
         "name": "[Ph] Stocking",
         "imageName": "ph-stocking.png"
     },
-    "/Lotus/Types/Items/ShipDecos/LisetPropGrineerTaktis": {
-        "name": "[Ph] Taktis Decoration",
-        "imageName": "ph-taktis-decoration.png"
-    },
     "/Lotus/Upgrades/Skins/RailJack/TurretC": {
         "name": "[Ph] Tridentia",
         "imageName": "ph-tridentia.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/Plushies/PlushyThumperMediumDirty": {
+        "name": "[Ph] Tusk Thumper Bull Floof",
+        "imageName": "ph-tusk-thumper-bull-floof.png"
     },
     "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyUranusGold": {
         "name": "[Ph] Uranus Trophy - Gold",
@@ -351,10 +459,6 @@
         "name": "[Ph] Void Trophy - Silver",
         "imageName": "ph-void-trophy---silver.png"
     },
-    "/Lotus/Upgrades/Skins/Weapons/GreatSword/XB1BallasSword": {
-        "name": "[Ph] Xb1 Paracesis Skin",
-        "imageName": "ph-xb1-paracesis-skin.png"
-    },
     "/Lotus/Types/Items/MiscItems/SeismicData": {
         "name": "[Ph]Fragmented Seismic Data",
         "imageName": "phfragmented-seismic-data.png"
@@ -386,6 +490,22 @@
     "/Lotus/Types/Items/MiscItems/OldWorldSalvage": {
         "name": "[Ph]Old World Salvage",
         "imageName": "phold-world-salvage.png"
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/XMas20DaughterGlyph": {
+        "name": "/Lotus/Language//Lotus/Language/Cosmetics/Xmas20daughterglyphname",
+        "imageName": "lotus-language--lotus-language-cosmetics-xmas20daughterglyphname.png"
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/XMas20FatherGlyph": {
+        "name": "/Lotus/Language//Lotus/Language/Cosmetics/Xmas20fatherglyphname",
+        "imageName": "lotus-language--lotus-language-cosmetics-xmas20fatherglyphname.png"
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/XMas20MotherGlyph": {
+        "name": "/Lotus/Language//Lotus/Language/Cosmetics/Xmas20motherglyphname",
+        "imageName": "lotus-language--lotus-language-cosmetics-xmas20motherglyphname.png"
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/XMas20OtakGlyph": {
+        "name": "/Lotus/Language//Lotus/Language/Cosmetics/Xmas20otakglyphname",
+        "imageName": "lotus-language--lotus-language-cosmetics-xmas20otakglyphname.png"
     },
     "/Lotus/Upgrades/Skins/RailJack/FrontTurretA": {
         "name": "/Lotus/Language/Crewship/Frontturreta_name",
@@ -431,6 +551,10 @@
         "name": "/Lotus/Language/Items/Relayreconstructionitemcname",
         "imageName": "lotus-language-items-relayreconstructionitemcname.png"
     },
+    "/Lotus/Types/Restoratives/Consumable/SummonSnowmanBall": {
+        "name": "/Lotus/Language/Items/Summonsnowmanball",
+        "imageName": "lotus-language-items-summonsnowmanball.png"
+    },
     "/Lotus/Upgrades/Skins/Lotus/ThreshconeHelmet": {
         "name": "/Lotus/Language/Items/Threshconedefaulthelmet",
         "imageName": "lotus-language-items-threshconedefaulthelmet.png"
@@ -439,9 +563,9 @@
         "name": "/Lotus/Language/Items/Threshconeskinname",
         "imageName": "lotus-language-items-threshconeskinname.png"
     },
-    "/Lotus/Types/StoreItems/AvatarImages/TwinSnakesGlyph": {
-        "name": "/Lotus/Language/Items/Twinsnakesglyphname",
-        "imageName": "lotus-language-items-twinsnakesglyphname.png"
+    "/Lotus/Types/Restoratives/Quests/GlassQuestElectronKey": {
+        "name": "/Lotus/Language/Quests/Glassquestelectronkey",
+        "imageName": "lotus-language-quests-glassquestelectronkey.png"
     },
     "/Lotus/Types/Items/RelayRebuild/PhaseOneWaterElement": {
         "name": "/Lotus/Language/Relayreconstruction/Relayreconphase1leftitemname",
@@ -543,6 +667,10 @@
         "name": "17173 Emblem",
         "imageName": "17173-emblem.png"
     },
+    "/Lotus/Types/Restoratives/Consumable/BaseSpearFishingSpear": {
+        "name": "A Fishing Spear",
+        "imageName": "a-fishing-spear.png"
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAHR": {
         "name": "A H R Glyph",
         "imageName": "a-h-r-glyph.png"
@@ -613,6 +741,10 @@
     "/Lotus/Weapons/Tenno/LongGuns/SapientPrimary/SapientPrimaryWeapon": {
         "name": "Acceltra",
         "imageName": "acceltra.png"
+    },
+    "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerAccessibilityItemA": {
+        "name": "Accessibility",
+        "imageName": "accessibility.png"
     },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAccessibleGamer": {
         "name": "Accessiblegamer Glyph",
@@ -1193,6 +1325,14 @@
     "/Lotus/Types/Restoratives/Consumable/Toxins/NightCommonAntitoxin": {
         "name": "Amethyst Antitoxin",
         "imageName": "amethyst-antitoxin.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/Plushies/Deimos/PlushyInfestedNexiferaCommon": {
+        "name": "Amethyst Nexifera Floof",
+        "imageName": "amethyst-nexifera-floof.png"
+    },
+    "/Lotus/Types/Items/Deimos/AnimalTagInfestedNexiferaCommon": {
+        "name": "Amethyst Nexifera Tag",
+        "imageName": "amethyst-nexifera-tag.png"
     },
     "/Lotus/Types/Sentinels/SentinelPrecepts/ItemVacum": {
         "name": "Ammo Case",
@@ -1855,9 +1995,17 @@
         "name": "Archgun Ace",
         "imageName": "archgun-ace.jpg"
     },
+    "/Lotus/Types/Restoratives/HeavyWeaponSummon": {
+        "name": "Archgun Deployer",
+        "imageName": "archgun-deployer.png"
+    },
     "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare": {
         "name": "Archgun Riven Mod",
         "imageName": "archgun-riven-mod.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/Vignettes/Warframes/ArchwingAFItem": {
+        "name": "Archwing Articula",
+        "imageName": "archwing-articula.png"
     },
     "/Lotus/Types/Restoratives/OpenArchwingSummon": {
         "name": "Archwing Launcher",
@@ -1866,6 +2014,10 @@
     "/Lotus/Types/Items/ShipFeatureItems/EidolonArchwingFoundryUpgradeFeatureItem": {
         "name": "Archwing Launcher Segment",
         "imageName": "archwing-launcher-segment.png"
+    },
+    "/Lotus/Weapons/Infested/Pistols/InfKitGun/Clips/InfSmallClip/InfModularClipSmallCritStatPart": {
+        "name": "Arcroid",
+        "imageName": "arcroid.png"
     },
     "/Lotus/Upgrades/Skins/Scarves/SWArcturusScarf": {
         "name": "Arcturus Syandana",
@@ -2015,6 +2167,10 @@
     "/Lotus/Types/Items/MiscItems/PhotoboothTileCorpusShipMedCargoRoom": {
         "name": "Artillery Battery Scene",
         "imageName": "artillery-battery-scene.png"
+    },
+    "/Lotus/Weapons/Infested/Melee/InfWarfan/InfWarfanWeapon": {
+        "name": "Arum Spinosa",
+        "imageName": "arum-spinosa.png"
     },
     "SolNode41": {
         "name": "Arval"
@@ -2591,6 +2747,14 @@
     "/Lotus/Upgrades/Mods/Warframe/AvatarDamageReductionInAir": {
         "name": "Aviator",
         "imageName": "aviator.jpg"
+    },
+    "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMergooLureGearItem": {
+        "name": "Avichaea Echo-Lure",
+        "imageName": "avichaea-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMergooRarityBoost": {
+        "name": "Avichaea Pheromone Gland",
+        "imageName": "avichaea-pheromone-gland.png"
     },
     "/Lotus/Upgrades/Skins/Sigils/LoginSigilB": {
         "name": "Awakened Luna Sigil",
@@ -3948,6 +4112,10 @@
         "name": "Ayatan Cyan Star",
         "imageName": "ayatan-cyan-star.png"
     },
+    "/Lotus/Types/Items/FusionTreasures/OroFusexEntrati": {
+        "name": "Ayatan Kitha Sculpture",
+        "imageName": "ayatan-kitha-sculpture.png"
+    },
     "/Lotus/Types/Items/FusionTreasures/OroFusexC": {
         "name": "Ayatan Orta Sculpture",
         "imageName": "ayatan-orta-sculpture.png"
@@ -4395,6 +4563,10 @@
         "name": "Bear Glyph",
         "imageName": "bear-glyph.png"
     },
+    "/Lotus/Types/Restoratives/Consumable/Eidolon/LandscapeTrapLightGear": {
+        "name": "Beckonsnare",
+        "imageName": "beckonsnare.png"
+    },
     "/Lotus/Powersuits/Fairy/FairyLightAugmentCard": {
         "name": "Beguiling Lantern",
         "imageName": "beguiling-lantern.jpg"
@@ -4561,6 +4733,10 @@
         "name": "Bleeding Willow",
         "imageName": "bleeding-willow.jpg"
     },
+    "/Lotus/Powersuits/Garuda/GarudaUnstoppableAugmentCard": {
+        "name": "Blending Talons",
+        "imageName": "blending-talons.jpg"
+    },
     "/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbThreeMeleeTree": {
         "name": "Blind Justice",
         "imageName": "blind-justice.jpg"
@@ -4691,6 +4867,14 @@
         "name": "Boiler Red",
         "imageName": "boiler-red.png"
     },
+    "/Lotus/Types/Restoratives/Conservation/SnowArmadilloLureGearItem": {
+        "name": "Bolarola Echo-Lure",
+        "imageName": "bolarola-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowArmadilloRarityBoost": {
+        "name": "Bolarola Pheromone Synthesizer",
+        "imageName": "bolarola-pheromone-synthesizer.png"
+    },
     "/Lotus/Upgrades/Skins/MeleeDangles/ESGrnSugatraMeleeDangle": {
         "name": "Boloket Sugatra",
         "imageName": "boloket-sugatra.png"
@@ -4750,6 +4934,26 @@
     "/Lotus/Upgrades/Skins/Scarves/TennoAngleCapeScarf": {
         "name": "Bombyx Syandana",
         "imageName": "bombyx-syandana.png"
+    },
+    "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem": {
+        "name": "Bonewidow Capsule",
+        "imageName": "bonewidow-capsule.png"
+    },
+    "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartChassisItem": {
+        "name": "Bonewidow Casing",
+        "imageName": "bonewidow-casing.png"
+    },
+    "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartEngineItem": {
+        "name": "Bonewidow Engine",
+        "imageName": "bonewidow-engine.png"
+    },
+    "/Lotus/Upgrades/Skins/Necramech/ThanomechVoidRigDefaultSkin": {
+        "name": "Bonewidow Necramech Skin",
+        "imageName": "bonewidow-necramech-skin.png"
+    },
+    "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartWeaponPodItem": {
+        "name": "Bonewidow Weapon Pod",
+        "imageName": "bonewidow-weapon-pod.png"
     },
     "/Lotus/Types/StoreItems/AvatarImages/Seasonal/Halloween2019GhostChibiWisp": {
         "name": "Boo Glyph",
@@ -5017,6 +5221,10 @@
     "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PunchKickCmbTwoMeleeTree": {
         "name": "Brutal Tide",
         "imageName": "brutal-tide.jpg"
+    },
+    "/Lotus/Weapons/Infested/LongGuns/InfArmCannon/InfArmCannon": {
+        "name": "Bubonico",
+        "imageName": "bubonico.png"
     },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBuff00n": {
         "name": "Buff00n Glyph",
@@ -5360,6 +5568,10 @@
     "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowCatsEyePrecept": {
         "name": "Cat'S Eye",
         "imageName": "cat's-eye.jpg"
+    },
+    "/Lotus/Weapons/Infested/Pistols/InfBeamPistol/InfBeamPistol": {
+        "name": "Catabolyst",
+        "imageName": "catabolyst.png"
     },
     "/Lotus/Powersuits/Magician/TearInSpaceAugmentCard": {
         "name": "Cataclysmic Continuum",
@@ -6171,10 +6383,6 @@
         "name": "Combat Discipline",
         "imageName": "combat-discipline.jpg"
     },
-    "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary": {
-        "name": "Combo Fury",
-        "imageName": "combo-fury.jpg"
-    },
     "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveSecondaryHeadshotKillMod": {
         "name": "Combo Killer",
         "imageName": "combo-killer.jpg"
@@ -6302,6 +6510,14 @@
     "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidContest": {
         "name": "Condroc Brown",
         "imageName": "condroc-brown.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/BirdOfPreyLureGearItem": {
+        "name": "Condroc Echo-Lure",
+        "imageName": "condroc-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/RarityBoosts/CondrocRarityBoost": {
+        "name": "Condroc Pheromone Oota",
+        "imageName": "condroc-pheromone-oota.png"
     },
     "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem": {
         "name": "Condroc Wing",
@@ -6469,6 +6685,10 @@
     "/Lotus/Weapons/Tenno/LongGuns/TnHeavyShotgun/TnHeavyShotgunGun": {
         "name": "Corinth",
         "imageName": "corinth.png"
+    },
+    "/Lotus/Upgrades/Skins/Sony/ObsidianCorinth": {
+        "name": "Corinth Obsidian Skin",
+        "imageName": "corinth-obsidian-skin.png"
     },
     "/Lotus/Upgrades/Skins/TnHeavyShotgun/NintendoTnHeavyShotgunSkin": {
         "name": "Corinth Opal Skin",
@@ -6701,6 +6921,10 @@
         "name": "Crewman Grey",
         "imageName": "crewman-grey.png"
     },
+    "/Lotus/Types/Items/Fish/Deimos/OrokinBootItem": {
+        "name": "Crewman\u2019S Boot",
+        "imageName": "crewman\u2019s-boot.png"
+    },
     "/Lotus/Types/Items/Fish/Solaris/CorpusBootItem": {
         "name": "Crewman\u2019S Boot",
         "imageName": "crewman\u2019s-boot.png"
@@ -6732,6 +6956,10 @@
     "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritChanceDamageAimingMod": {
         "name": "Critical Focus",
         "imageName": "critical-focus.jpg"
+    },
+    "/Lotus/Powersuits/Wisp/WispHarnessAugmentCard": {
+        "name": "Critical Surge",
+        "imageName": "critical-surge.jpg"
     },
     "/Lotus/Weapons/Tenno/Melee/CronusSword/CronusLongSword": {
         "name": "Cronus",
@@ -6788,6 +7016,14 @@
     "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/CryoxionWeapon": {
         "name": "Cryotra",
         "imageName": "cryotra.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMaggotLureGearItem": {
+        "name": "Cryptilex Echo-Lure",
+        "imageName": "cryptilex-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMaggotRarityBoost": {
+        "name": "Cryptilex Pheromone Gland",
+        "imageName": "cryptilex-pheromone-gland.png"
     },
     "/Lotus/Types/Items/MiscItems/RazorbackCipherPart": {
         "name": "Cryptographic Alu",
@@ -7190,6 +7426,10 @@
         "name": "Deaeira Kavat Fur Pattern",
         "imageName": "deaeira-kavat-fur-pattern.png"
     },
+    "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDebbysheen": {
+        "name": "Debbysheen Glyph",
+        "imageName": "debbysheen-glyph.png"
+    },
     "/Lotus/Types/Restoratives/Upgraded/ShieldDebuffKey": {
         "name": "Decaying Dragon Key",
         "imageName": "decaying-dragon-key.png"
@@ -7436,6 +7676,10 @@
     "/Lotus/Types/Items/ShipDecos/Plushies/PlushyDesertSkate": {
         "name": "Desert Skate Floof",
         "imageName": "desert-skate-floof.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/SkateBall": {
+        "name": "Desert Skate Specter",
+        "imageName": "desert-skate-specter.png"
     },
     "/Lotus/Powersuits/Pacifist/PacifistFist": {
         "name": "Desert Wind",
@@ -7750,6 +7994,10 @@
         "name": "Discharge Strike",
         "imageName": "discharge-strike.jpg"
     },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank07Trophy": {
+        "name": "Disciple Mastery Slate",
+        "imageName": "disciple-mastery-slate.png"
+    },
     "/Lotus/Upgrades/Skins/Sigils/FounderSigilDisciple": {
         "name": "Disciple Sigil",
         "imageName": "disciple-sigil.png"
@@ -8057,6 +8305,10 @@
         "name": "Draga Blue",
         "imageName": "draga-blue.png"
     },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank22Trophy": {
+        "name": "Dragon Mastery Slate",
+        "imageName": "dragon-mastery-slate.png"
+    },
     "/Lotus/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/LowKatana": {
         "name": "Dragon Nikana",
         "imageName": "dragon-nikana.png"
@@ -8331,6 +8583,10 @@
         "name": "Eagle Eye",
         "imageName": "eagle-eye.jpg"
     },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank16Trophy": {
+        "name": "Eagle Mastery Slate",
+        "imageName": "eagle-mastery-slate.png"
+    },
     "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneB": {
         "name": "Earth Brown",
         "imageName": "earth-brown.png"
@@ -8346,6 +8602,14 @@
     "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerEasterItemA": {
         "name": "Easter",
         "imageName": "easter.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/InfestedFishingSpearB": {
+        "name": "Ebisu Spear",
+        "imageName": "ebisu-spear.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/UpgradedAnimalLureGearItem": {
+        "name": "Echo-Lure",
+        "imageName": "echo-lure.png"
     },
     "/Lotus/Types/Items/MiscItems/UmbraEchoes": {
         "name": "Echoes Of Umbra",
@@ -9521,6 +9785,10 @@
         "name": "Excalibur Onyx Skin",
         "imageName": "excalibur-onyx-skin.png"
     },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageExcaliburActionNintendo": {
+        "name": "Excalibur Opal Glyph",
+        "imageName": "excalibur-opal-glyph.png"
+    },
     "/Lotus/Upgrades/Skins/Excalibur/NintendoExcaliburHelmet": {
         "name": "Excalibur Opal Helmet",
         "imageName": "excalibur-opal-helmet.png"
@@ -9820,6 +10088,10 @@
         "name": "Expel Corpus",
         "imageName": "expel-corpus.jpg"
     },
+    "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageCorpus": {
+        "name": "Expel Corpus",
+        "imageName": "expel-corpus.jpg"
+    },
     "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageCorrupted": {
         "name": "Expel Corrupted",
         "imageName": "expel-corrupted.jpg"
@@ -9967,9 +10239,17 @@
         "name": "Fass",
         "imageName": "fass.png"
     },
+    "/Lotus/Types/Items/ShipDecos/Plushies/Deimos/PlushySunMonsterCommon": {
+        "name": "Fass Floof",
+        "imageName": "fass-floof.png"
+    },
     "/Lotus/Types/StoreItems/AvatarImages/RequiemFassGlyph": {
         "name": "Fass Glyph",
         "imageName": "fass-glyph.png"
+    },
+    "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA": {
+        "name": "Fass Residue",
+        "imageName": "fass-residue.png"
     },
     "/Lotus/Types/Items/Deimos/InfestedWyrmBlood": {
         "name": "Fass Residue",
@@ -10155,6 +10435,10 @@
         "name": "Fever Strike",
         "imageName": "fever-strike.jpg"
     },
+    "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardInfestedB/HoverboardInfestedBDeck": {
+        "name": "Feverspine",
+        "imageName": "feverspine.png"
+    },
     "/Lotus/Upgrades/Skins/Armor/SWFhanEpakArmor/SWFhanEpakArmourC": {
         "name": "Fhan'Epak Chest Plate",
         "imageName": "fhan'epak-chest-plate.png"
@@ -10230,6 +10514,22 @@
     "/Lotus/Upgrades/Skins/HolsterCustomizations/GauntletsInPlace": {
         "name": "Fists Standard Holster",
         "imageName": "fists-standard-holster.png"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/InfestedRareAFishItem": {
+        "name": "Flagellocanth",
+        "imageName": "flagellocanth.png"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/InfestedRareAFishItemLarge": {
+        "name": "Flagellocanth",
+        "imageName": "flagellocanth.png"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/InfestedRareAFishItemMedium": {
+        "name": "Flagellocanth",
+        "imageName": "flagellocanth.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyInfestedRareA": {
+        "name": "Flagellocanth Trophy",
+        "imageName": "flagellocanth-trophy.png"
     },
     "/Lotus/Weapons/Tenno/Melee/MeleeTrees/StaffCmbTwoMeleeTree": {
         "name": "Flailing Branch",
@@ -10359,6 +10659,10 @@
         "name": "Focused Defense",
         "imageName": "focused-defense.jpg"
     },
+    "/Lotus/Types/Restoratives/Consumable/MiningLaserB": {
+        "name": "Focused Nosam Cutter",
+        "imageName": "focused-nosam-cutter.png"
+    },
     "/Lotus/Types/Items/Emotes/FollowEmote": {
         "name": "Follow",
         "imageName": "follow.png"
@@ -10420,6 +10724,10 @@
     "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareBlue": {
         "name": "Fosfor Blau",
         "imageName": "fosfor-blau.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareDemo": {
+        "name": "Fosfor Rahd",
+        "imageName": "fosfor-rahd.png"
     },
     "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareRed": {
         "name": "Fosfor Rahd",
@@ -10776,6 +11084,10 @@
         "name": "Frostcap",
         "imageName": "frostcap.png"
     },
+    "/Lotus/Upgrades/Skins/Effects/SnowEphemera": {
+        "name": "Frostfall Ephemera",
+        "imageName": "frostfall-ephemera.png"
+    },
     "/Lotus/Types/Items/Plants/MiscItems/WildGingerBPlantItem": {
         "name": "Frostleaf",
         "imageName": "frostleaf.png"
@@ -11026,6 +11338,18 @@
     "/Lotus/Upgrades/Skins/Glass/GlassHelmet": {
         "name": "Gara Helmet",
         "imageName": "gara-helmet.png"
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/ImageGaraDeluxe": {
+        "name": "Gara Kaleida Glyph",
+        "imageName": "gara-kaleida-glyph.png"
+    },
+    "/Lotus/Upgrades/Skins/Glass/GlassDeluxeHelmet": {
+        "name": "Gara Kaleida Helmet",
+        "imageName": "gara-kaleida-helmet.png"
+    },
+    "/Lotus/Upgrades/Skins/Glass/GlassDeluxeSkin": {
+        "name": "Gara Kaleida Skin",
+        "imageName": "gara-kaleida-skin.png"
     },
     "/Lotus/Upgrades/Skins/Glass/GlassNobleAnims": {
         "name": "Gara Noble Animation Set",
@@ -11554,6 +11878,10 @@
         "name": "Glissade Narta",
         "imageName": "glissade-narta.png"
     },
+    "/Lotus/Upgrades/Skins/Scarves/GlassDeluxeSyandana": {
+        "name": "Glistor Syandana",
+        "imageName": "glistor-syandana.png"
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageGlitchyGirl": {
         "name": "Glitchygirl Glyph",
         "imageName": "glitchygirl-glyph.png"
@@ -11581,6 +11909,14 @@
     "/Lotus/Types/Items/ShipDecos/Deimos/LisetPropInfestedCystC": {
         "name": "Glynort",
         "imageName": "glynort.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/GlyphConsumable": {
+        "name": "Glyph Prism",
+        "imageName": "glyph-prism.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/GlyphConsumableNoCharges": {
+        "name": "Glyph Prism",
+        "imageName": "glyph-prism.png"
     },
     "/Lotus/Upgrades/Skins/Sigils/ClanSigilTwoTone": {
         "name": "Glyphed Clan Sigil",
@@ -11614,9 +11950,45 @@
         "name": "Goku707 Glyph",
         "imageName": "goku707-glyph.png"
     },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank09Trophy": {
+        "name": "Gold Disciple Mastery Slate",
+        "imageName": "gold-disciple-mastery-slate.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank24Trophy": {
+        "name": "Gold Dragon Mastery Slate",
+        "imageName": "gold-dragon-mastery-slate.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank18Trophy": {
+        "name": "Gold Eagle Mastery Slate",
+        "imageName": "gold-eagle-mastery-slate.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank15Trophy": {
+        "name": "Gold Hunter Mastery Slate",
+        "imageName": "gold-hunter-mastery-slate.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank03Trophy": {
+        "name": "Gold Initiate Mastery Slate",
+        "imageName": "gold-initiate-mastery-slate.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank06Trophy": {
+        "name": "Gold Novice Mastery Slate",
+        "imageName": "gold-novice-mastery-slate.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank27Trophy": {
+        "name": "Gold Sage Mastery Slate",
+        "imageName": "gold-sage-mastery-slate.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank12Trophy": {
+        "name": "Gold Seeker Mastery Slate",
+        "imageName": "gold-seeker-mastery-slate.png"
+    },
     "/Lotus/Upgrades/Skins/Clan/SkullBadgeGoldItem": {
         "name": "Gold Skull Emblem",
         "imageName": "gold-skull-emblem.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank21Trophy": {
+        "name": "Gold Tiger Mastery Slate",
+        "imageName": "gold-tiger-mastery-slate.png"
     },
     "/Lotus/Types/Items/ShipDecos/CorpusShip/LisetPropHandShrine": {
         "name": "Golden Hand Decoration",
@@ -12051,6 +12423,10 @@
     "/Lotus/Types/Items/Trapping/VenusTrappingItemF": {
         "name": "Griplimpet",
         "imageName": "griplimpet.png"
+    },
+    "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardInfestedB/HoverboardInfestedBEngine": {
+        "name": "Gristlebuck",
+        "imageName": "gristlebuck.png"
     },
     "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem": {
         "name": "Grokdrul",
@@ -13041,6 +13417,14 @@
         "name": "Hornet Strike",
         "imageName": "hornet-strike.jpg"
     },
+    "/Lotus/Types/Restoratives/Conservation/SnowPredatorLureGearItem": {
+        "name": "Horrasque Echo-Lure",
+        "imageName": "horrasque-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowPredatorRarityBoost": {
+        "name": "Horrasque Pheromone Synthesizer",
+        "imageName": "horrasque-pheromone-synthesizer.png"
+    },
     "/Lotus/Types/Items/Solaris/AnimalTagHorrasqueRare": {
         "name": "Horrasque Stormer Tag",
         "imageName": "horrasque-stormer-tag.png"
@@ -13072,6 +13456,14 @@
     "/Lotus/Types/Keys/KubrowQuest/KubrowQuestKeyChain": {
         "name": "Howl Of The Kubrow",
         "imageName": "howl-of-the-kubrow.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/Plushies/Deimos/PlushyInfestedZongroRare": {
+        "name": "Howler Undazoa Floof",
+        "imageName": "howler-undazoa-floof.png"
+    },
+    "/Lotus/Types/Items/Deimos/AnimalTagInfestedZongroRare": {
+        "name": "Howler Undazoa Tag",
+        "imageName": "howler-undazoa-tag.png"
     },
     "/Lotus/Upgrades/Skins/Armor/LokiDeluxeArmour/LokiDeluxeAArmor": {
         "name": "Hulta Arm Guards",
@@ -13120,6 +13512,10 @@
     "/Lotus/Upgrades/Mods/Sets/Hunter/CompanionHunterCommandMod": {
         "name": "Hunter Command",
         "imageName": "hunter-command.jpg"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank13Trophy": {
+        "name": "Hunter Mastery Slate",
+        "imageName": "hunter-mastery-slate.png"
     },
     "/Lotus/Upgrades/Mods/Sets/Hunter/PrimaryHunterMunitionsMod": {
         "name": "Hunter Munitions",
@@ -13797,6 +14193,10 @@
         "name": "Infraredmike Glyph",
         "imageName": "infraredmike-glyph.png"
     },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank01Trophy": {
+        "name": "Initiate Mastery Slate",
+        "imageName": "initiate-mastery-slate.png"
+    },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInktober": {
         "name": "Inktober Glyph",
         "imageName": "inktober-glyph.png"
@@ -14194,6 +14594,10 @@
         "name": "Jade Daedalus Shoulder Plates",
         "imageName": "jade-daedalus-shoulder-plates.png"
     },
+    "/Lotus/Upgrades/Skins/MeleeDangles/XBoxSugatra2MeleeDangle": {
+        "name": "Jade Follox Sugatra",
+        "imageName": "jade-follox-sugatra.png"
+    },
     "/Lotus/Upgrades/Skins/MeleeDangles/JadePatikaMeleeDangle": {
         "name": "Jade Patika Sugatra",
         "imageName": "jade-patika-sugatra.png"
@@ -14397,6 +14801,10 @@
     "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Grip/SentAmpSet1GripPartB": {
         "name": "Juttni Brace",
         "imageName": "juttni-brace.png"
+    },
+    "/Lotus/Types/Restoratives/HoverboardSummon": {
+        "name": "K-Drive Launcher",
+        "imageName": "k-drive-launcher.png"
     },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageK0yi": {
         "name": "K0yi Glyph",
@@ -15138,9 +15546,21 @@
         "name": "Kroostra",
         "imageName": "kroostra.png"
     },
+    "/Lotus/Types/Restoratives/Conservation/ForestRodentLureGearItem": {
+        "name": "Kuaka Echo-Lure",
+        "imageName": "kuaka-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/RarityBoosts/KuakaRarityBoost": {
+        "name": "Kuaka Pheromone Oota",
+        "imageName": "kuaka-pheromone-oota.png"
+    },
     "/Lotus/Types/Gameplay/Eidolon/Resources/ForestRodentPartItem": {
         "name": "Kuaka Spinal Claw",
         "imageName": "kuaka-spinal-claw.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/LegendaryKubrowLureGearItem": {
+        "name": "Kubrodon Echo-Lure",
+        "imageName": "kubrodon-echo-lure.png"
     },
     "/Lotus/Types/Items/ShipDecos/Plushies/PlushyKubrodonRare": {
         "name": "Kubrodon Incarnadine Floof",
@@ -15149,6 +15569,10 @@
     "/Lotus/Types/Items/Solaris/AnimalTagKubrodonRare": {
         "name": "Kubrodon Incarnadine Tag",
         "imageName": "kubrodon-incarnadine-tag.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/RarityBoosts/LegendaryKubrowRarityBoost": {
+        "name": "Kubrodon Pheromone Synthesizer",
+        "imageName": "kubrodon-pheromone-synthesizer.png"
     },
     "/Lotus/Upgrades/Skins/Operator/Skirts/SkirtO": {
         "name": "Kubrodon Ventkid Apparel",
@@ -15477,6 +15901,10 @@
         "name": "Lanka Shock-Camo Skin",
         "imageName": "lanka-shock-camo-skin.png"
     },
+    "/Lotus/Types/Restoratives/Consumable/SpearFishingSpear": {
+        "name": "Lanzo Fishing Spear",
+        "imageName": "lanzo-fishing-spear.png"
+    },
     "SolNode118": {
         "name": "Laomedeia"
     },
@@ -15700,6 +16128,10 @@
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphLocoCrazy": {
         "name": "Legendary Lococrazy_ Glyph",
         "imageName": "legendary-lococrazy_-glyph.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank31Trophy": {
+        "name": "Legendary Mastery Slate",
+        "imageName": "legendary-mastery-slate.png"
     },
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphMattaus": {
         "name": "Legendary Mattaus Glyph",
@@ -17313,6 +17745,22 @@
         "name": "Loaded Capacity",
         "imageName": "loaded-capacity.jpg"
     },
+    "/Lotus/Types/Items/Fish/Deimos/InfestedCommonEFishItem": {
+        "name": "Lobotriscid",
+        "imageName": "lobotriscid.png"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/InfestedCommonEFishItemLarge": {
+        "name": "Lobotriscid",
+        "imageName": "lobotriscid.png"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/InfestedCommonEFishItemMedium": {
+        "name": "Lobotriscid",
+        "imageName": "lobotriscid.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyInfestedCommonE": {
+        "name": "Lobotriscid Trophy",
+        "imageName": "lobotriscid-trophy.png"
+    },
     "/Lotus/Types/Restoratives/Consumable/MapMarker": {
         "name": "Loc-Pin",
         "imageName": "loc-pin.png"
@@ -17356,6 +17804,22 @@
     "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Grip/SentAmpSet1GripPartC": {
         "name": "Lohrin Brace",
         "imageName": "lohrin-brace.png"
+    },
+    "/Lotus/Upgrades/Skins/Sentinels/Masks/ThanoTechMask": {
+        "name": "Loid Sentinel Mask",
+        "imageName": "loid-sentinel-mask.png"
+    },
+    "/Lotus/Upgrades/Skins/Sentinels/Skins/ThanotechSentinelSkin": {
+        "name": "Loid Sentinel Skin",
+        "imageName": "loid-sentinel-skin.png"
+    },
+    "/Lotus/Upgrades/Skins/Sentinels/Tails/ThanoTechTail": {
+        "name": "Loid Sentinel Tail",
+        "imageName": "loid-sentinel-tail.png"
+    },
+    "/Lotus/Upgrades/Skins/Sentinels/Wings/ThanoTechWings": {
+        "name": "Loid Sentinel Wing",
+        "imageName": "loid-sentinel-wing.png"
     },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLokKingMacho": {
         "name": "Lok King Macho Glyph",
@@ -17914,6 +18378,10 @@
     "SolNode103": {
         "name": "M Prime"
     },
+    "/Lotus/Powersuits/Runner/RunnerRushAugmentCard": {
+        "name": "Mach Crash",
+        "imageName": "mach-crash.jpg"
+    },
     "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/Machete": {
         "name": "Machete",
         "imageName": "machete.png"
@@ -17929,6 +18397,14 @@
     "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon": {
         "name": "Machete Wraith",
         "imageName": "machete-wraith.png"
+    },
+    "/Lotus/Weapons/Infested/Pistols/InfKitGun/Clips/InfClipBig/InfModularClipBigPart": {
+        "name": "Macro Arcroid",
+        "imageName": "macro-arcroid.png"
+    },
+    "/Lotus/Weapons/Infested/Pistols/InfKitGun/Clips/InfClipBig/InfModularClipBigCritStatPart": {
+        "name": "Macro Thymoid",
+        "imageName": "macro-thymoid.png"
     },
     "/Lotus/Upgrades/Skins/Khora/KhoraDeluxeKavatSkin": {
         "name": "Maculatia Kavat Skin",
@@ -18213,6 +18689,10 @@
     "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorFeralMid": {
         "name": "Maggot Pink",
         "imageName": "maggot-pink.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/DebugMagicLureGearItem": {
+        "name": "Magic Debug Lure",
+        "imageName": "magic-debug-lure.png"
     },
     "/Lotus/Weapons/Tenno/Melee/Maces/PaladinMace/PaladinMaceWeapon": {
         "name": "Magistar",
@@ -18631,6 +19111,10 @@
     "SolNode36": {
         "name": "Martialis"
     },
+    "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedCatbrowVampireShieldPrecept": {
+        "name": "Martyr Symbiosis",
+        "imageName": "martyr-symbiosis.jpg"
+    },
     "/Lotus/Upgrades/Skins/Mag/MagDeluxeTonfaSkin": {
         "name": "Maruta Tonfa Skin",
         "imageName": "maruta-tonfa-skin.png"
@@ -18658,6 +19142,10 @@
     "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnHackLockersMod": {
         "name": "Master Key",
         "imageName": "master-key.jpg"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank28Trophy": {
+        "name": "Master Mastery Slate",
+        "imageName": "master-mastery-slate.png"
     },
     "/Lotus/Upgrades/Skins/Sigils/FounderSigilMaster": {
         "name": "Master Sigil",
@@ -18833,6 +19321,14 @@
     "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidH": {
         "name": "Mercury Brown",
         "imageName": "mercury-brown.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/OstronSeaBirdLureGearItem": {
+        "name": "Mergoo Echo-Lure",
+        "imageName": "mergoo-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/RarityBoosts/MergooRarityBoost": {
+        "name": "Mergoo Pheromone Oota",
+        "imageName": "mergoo-pheromone-oota.png"
     },
     "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternE": {
         "name": "Merle Fur Pattern",
@@ -20296,6 +20792,10 @@
         "name": "Michel Postma Glyph",
         "imageName": "michel-postma-glyph.png"
     },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank29Trophy": {
+        "name": "Middle Master Mastery Slate",
+        "imageName": "middle-master-mastery-slate.png"
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTVSBOH": {
         "name": "Mikethebard Glyph",
         "imageName": "mikethebard-glyph.png"
@@ -20677,6 +21177,22 @@
     },
     "SolNode209": {
         "name": "Morax"
+    },
+    "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechGrenadeLaunch/ThanoTechGrenadeLauncher": {
+        "name": "Morgha",
+        "imageName": "morgha.png"
+    },
+    "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem": {
+        "name": "Morgha Barrel",
+        "imageName": "morgha-barrel.png"
+    },
+    "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherReceiverItem": {
+        "name": "Morgha Receiver",
+        "imageName": "morgha-receiver.png"
+    },
+    "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherStockItem": {
+        "name": "Morgha Stock",
+        "imageName": "morgha-stock.png"
     },
     "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityStrengthMod": {
         "name": "Morphic Transformer",
@@ -21099,9 +21615,37 @@
         "name": "Necraloid Sigil",
         "imageName": "necraloid-sigil.png"
     },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechSlideDamageMod": {
+        "name": "Necramech Blitz",
+        "imageName": "necramech-blitz.jpg"
+    },
     "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityDurationMod": {
         "name": "Necramech Continuity",
         "imageName": "necramech-continuity.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechHoverEfficiencyMod": {
+        "name": "Necramech Drift",
+        "imageName": "necramech-drift.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechBoostEfficiencyMod": {
+        "name": "Necramech Efficiency",
+        "imageName": "necramech-efficiency.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechPowerMaxMod": {
+        "name": "Necramech Flow",
+        "imageName": "necramech-flow.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechSlideEfficiencyMod": {
+        "name": "Necramech Friction",
+        "imageName": "necramech-friction.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechMeleeSpeedMod": {
+        "name": "Necramech Fury",
+        "imageName": "necramech-fury.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechJumpHeightMod": {
+        "name": "Necramech Hydraulics",
+        "imageName": "necramech-hydraulics.jpg"
     },
     "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityStrengthMod": {
         "name": "Necramech Intensify",
@@ -21138,6 +21682,18 @@
     "/Lotus/Upgrades/Mods/Necromech/NecromechArmourMaxMod": {
         "name": "Necramech Steel Fiber",
         "imageName": "necramech-steel-fiber.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityEfficiencyMod": {
+        "name": "Necramech Streamline",
+        "imageName": "necramech-streamline.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityRangeMod": {
+        "name": "Necramech Stretch",
+        "imageName": "necramech-stretch.jpg"
+    },
+    "/Lotus/Types/Restoratives/LoadoutTechSummon": {
+        "name": "Necramech Summon",
+        "imageName": "necramech-summon.png"
     },
     "/Lotus/Upgrades/Mods/Necromech/NecromechBoostMaxMod": {
         "name": "Necramech Thrusters",
@@ -22677,6 +23233,14 @@
         "name": "New Loka Stencil",
         "imageName": "new-loka-stencil.png"
     },
+    "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedNexiferaLureGearItem": {
+        "name": "Nexifera Echo-Lure",
+        "imageName": "nexifera-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedNexiferaRarityBoost": {
+        "name": "Nexifera Pheromone Gland",
+        "imageName": "nexifera-pheromone-gland.png"
+    },
     "/Lotus/Types/Game/KubrowPet/Patterns/KubrowPetPatternPrimeTraderA": {
         "name": "Nexus Fur Pattern",
         "imageName": "nexus-fur-pattern.png"
@@ -23064,6 +23628,10 @@
         "name": "Noctrul",
         "imageName": "noctrul.png"
     },
+    "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardInfestedB/HoverboardInfestedBFront": {
+        "name": "Nodulite",
+        "imageName": "nodulite.png"
+    },
     "/Lotus/Types/Items/ShipDecos/CCTeamDOspreyBobbleHead": {
         "name": "Noggle Statue - 002-Er",
         "imageName": "noggle-statue---002-er.png"
@@ -23248,6 +23816,14 @@
         "name": "Noggle Statue - Excalibur Dex",
         "imageName": "noggle-statue---excalibur-dex.png"
     },
+    "/Lotus/Types/Items/ShipDecos/ExcaliburObsidianBobbleHead": {
+        "name": "Noggle Statue - Excalibur Obsidian",
+        "imageName": "noggle-statue---excalibur-obsidian.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/ExcaliburObsidianAzuraBobbleHead": {
+        "name": "Noggle Statue - Excalibur Obsidian Azura",
+        "imageName": "noggle-statue---excalibur-obsidian-azura.png"
+    },
     "/Lotus/Types/Items/ShipDecos/ExcaliburPrimeBobbleHead": {
         "name": "Noggle Statue - Excalibur Prime",
         "imageName": "noggle-statue---excalibur-prime.png"
@@ -23352,6 +23928,10 @@
         "name": "Noggle Statue - Inaros",
         "imageName": "noggle-statue---inaros.png"
     },
+    "/Lotus/Types/Items/ShipDecos/InarosPrimeBobbleHead": {
+        "name": "Noggle Statue - Inaros Prime",
+        "imageName": "noggle-statue---inaros-prime.png"
+    },
     "/Lotus/Types/Items/ShipDecos/InarosSarcophagusBobbleHead": {
         "name": "Noggle Statue - Inaros Sarcophagus",
         "imageName": "noggle-statue---inaros-sarcophagus.png"
@@ -23359,6 +23939,10 @@
     "/Lotus/Types/Items/ShipDecos/IvaraBobbleHead": {
         "name": "Noggle Statue - Ivara",
         "imageName": "noggle-statue---ivara.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/IvaraObsidianBobbleHead": {
+        "name": "Noggle Statue - Ivara Obsidian",
+        "imageName": "noggle-statue---ivara-obsidian.png"
     },
     "/Lotus/Types/Items/ShipDecos/IvaraPrimeBobbleHead": {
         "name": "Noggle Statue - Ivara Prime",
@@ -23480,6 +24064,10 @@
         "name": "Noggle Statue - Nezha",
         "imageName": "noggle-statue---nezha.png"
     },
+    "/Lotus/Types/Items/ShipDecos/NezhaPrimeBobbleHead": {
+        "name": "Noggle Statue - Nezha Prime",
+        "imageName": "noggle-statue---nezha-prime.png"
+    },
     "/Lotus/Types/Items/ShipDecos/NidusBobbleHead": {
         "name": "Noggle Statue - Nidus",
         "imageName": "noggle-statue---nidus.png"
@@ -23507,18 +24095,6 @@
     "/Lotus/Types/Items/ShipDecos/OberonPrimeBobbleHead": {
         "name": "Noggle Statue - Oberon Prime",
         "imageName": "noggle-statue---oberon-prime.png"
-    },
-    "/Lotus/Types/Items/ShipDecos/ExcaliburObsidianAzuraBobbleHead": {
-        "name": "Noggle Statue - Obsidian Azura Excalibur",
-        "imageName": "noggle-statue---obsidian-azura-excalibur.png"
-    },
-    "/Lotus/Types/Items/ShipDecos/ExcaliburObsidianBobbleHead": {
-        "name": "Noggle Statue - Obsidian Excalibur",
-        "imageName": "noggle-statue---obsidian-excalibur.png"
-    },
-    "/Lotus/Types/Items/ShipDecos/IvaraObsidianBobbleHead": {
-        "name": "Noggle Statue - Obsidian Ivara",
-        "imageName": "noggle-statue---obsidian-ivara.png"
     },
     "/Lotus/Types/Items/ShipDecos/OctaviaBobbleHead": {
         "name": "Noggle Statue - Octavia",
@@ -23591,6 +24167,10 @@
     "/Lotus/Types/Items/ShipDecos/TitaniaBobbleHead": {
         "name": "Noggle Statue - Titania",
         "imageName": "noggle-statue---titania.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/TitaniaPrimeBobbleHead": {
+        "name": "Noggle Statue - Titania Prime",
+        "imageName": "noggle-statue---titania-prime.png"
     },
     "/Lotus/Types/Items/ShipDecos/AcolyteControlBobbleHead": {
         "name": "Noggle Statue - Torment",
@@ -23707,6 +24287,10 @@
     "/Lotus/Upgrades/Skins/Scarves/NoruPrimeScarf": {
         "name": "Noru Prime Syandana",
         "imageName": "noru-prime-syandana.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/MiningLaser": {
+        "name": "Nosam Cutter",
+        "imageName": "nosam-cutter.png"
     },
     "/Lotus/Upgrades/Skins/Scarves/NidusDeluxeScarf": {
         "name": "Nosos Syandana",
@@ -23935,6 +24519,10 @@
     "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorXmasMundaneB": {
         "name": "Nova White",
         "imageName": "nova-white.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank04Trophy": {
+        "name": "Novice Mastery Slate",
+        "imageName": "novice-mastery-slate.png"
     },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageNRDabears": {
         "name": "Nrdabears Glyph",
@@ -24398,6 +24986,18 @@
         "name": "Obsidian Corvus Syandana",
         "imageName": "obsidian-corvus-syandana.png"
     },
+    "/Lotus/Upgrades/Skins/Armor/PS5Armor/PS5ArmorC": {
+        "name": "Obsidian Deko Chest Plate",
+        "imageName": "obsidian-deko-chest-plate.png"
+    },
+    "/Lotus/Upgrades/Skins/Armor/PS5Armor/PS5ArmorL": {
+        "name": "Obsidian Deko Knee Plates",
+        "imageName": "obsidian-deko-knee-plates.png"
+    },
+    "/Lotus/Upgrades/Skins/Armor/PS5Armor/PS5ArmorA": {
+        "name": "Obsidian Deko Shoulder Plates",
+        "imageName": "obsidian-deko-shoulder-plates.png"
+    },
     "/Lotus/Upgrades/Skins/Effects/ObsidianEphemeraA": {
         "name": "Obsidian Ephemera",
         "imageName": "obsidian-ephemera.png"
@@ -24410,9 +25010,17 @@
         "name": "Obsidian Kyroptera Syandana",
         "imageName": "obsidian-kyroptera-syandana.png"
     },
+    "/Lotus/Upgrades/Skins/MeleeDangles/Obsidian2SugatraMeleeDangle": {
+        "name": "Obsidian Monast Sugatra",
+        "imageName": "obsidian-monast-sugatra.png"
+    },
     "/Lotus/Upgrades/Skins/Scarves/ObsidianSamiaScarf": {
         "name": "Obsidian Samia Syandana",
         "imageName": "obsidian-samia-syandana.png"
+    },
+    "/Lotus/Upgrades/Skins/Scarves/PS5Syandana": {
+        "name": "Obsidian Sedai Syandana",
+        "imageName": "obsidian-sedai-syandana.png"
     },
     "/Lotus/Upgrades/Skins/Sigils/PS4RenownXSigil": {
         "name": "Obsidian Sigil",
@@ -24496,6 +25104,14 @@
     "/Lotus/Upgrades/Skins/Operator/Accessories/EyepieceC": {
         "name": "Ocular Sensors",
         "imageName": "ocular-sensors.png"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishFPartItem": {
+        "name": "Ocular Stem-Root",
+        "imageName": "ocular-stem-root.png"
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageOddieowl": {
+        "name": "Oddieowl Glyph",
+        "imageName": "oddieowl-glyph.png"
     },
     "SolNode224": {
         "name": "Odin"
@@ -24590,6 +25206,10 @@
         "name": "Omega Isotope",
         "imageName": "omega-isotope.png"
     },
+    "/Lotus/Types/Restoratives/Consumable/RepairTool": {
+        "name": "Omni",
+        "imageName": "omni.png"
+    },
     "/Lotus/Types/Restoratives/SelfOmniAmmo": {
         "name": "Omni Ammo Box",
         "imageName": "omni-ammo-box.png"
@@ -24630,6 +25250,10 @@
         "name": "Opal Imperator Syandana",
         "imageName": "opal-imperator-syandana.png"
     },
+    "/Lotus/Upgrades/Skins/MeleeDangles/SugatraNintendo": {
+        "name": "Opal Marteddu Sugatra",
+        "imageName": "opal-marteddu-sugatra.png"
+    },
     "/Lotus/Upgrades/Skins/Operator/AnimationSets/BaseOperatorAnims": {
         "name": "Operatorcustomization",
         "imageName": "operatorcustomization.png"
@@ -24640,6 +25264,10 @@
     },
     "SolNode69": {
         "name": "Ophelia"
+    },
+    "/Lotus/Types/Restoratives/ScenarioBeacon": {
+        "name": "Oplink",
+        "imageName": "oplink.png"
     },
     "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceC": {
         "name": "Opportunity Sigil",
@@ -25120,6 +25748,10 @@
     "SolNode131": {
         "name": "Pallas"
     },
+    "/Lotus/Weapons/Infested/Pistols/InfKitGun/Handles/InfPrimaryHandle/InfModularPrimaryHandlePart": {
+        "name": "Palmaris",
+        "imageName": "palmaris.png"
+    },
     "SolNode81": {
         "name": "Palus"
     },
@@ -25209,6 +25841,18 @@
         "name": "Paracesis Elixis Skin",
         "imageName": "paracesis-elixis-skin.png"
     },
+    "/Lotus/Upgrades/Skins/Weapons/GreatSword/XB1BallasSword": {
+        "name": "Paracesis Jade Skin",
+        "imageName": "paracesis-jade-skin.png"
+    },
+    "/Lotus/Upgrades/Skins/Weapons/GreatSword/PS4BallasSword": {
+        "name": "Paracesis Obsidian Skin",
+        "imageName": "paracesis-obsidian-skin.png"
+    },
+    "/Lotus/Upgrades/Skins/Weapons/GreatSword/SWIBallasSword": {
+        "name": "Paracesis Opal Skin",
+        "imageName": "paracesis-opal-skin.png"
+    },
     "/Lotus/Weapons/Infested/LongGuns/QuantaFullyInfested/InfQuantaRifle": {
         "name": "Paracyst",
         "imageName": "paracyst.png"
@@ -25236,6 +25880,10 @@
     "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorFinisherSporesPrecept": {
         "name": "Paralytic Spores",
         "imageName": "paralytic-spores.jpg"
+    },
+    "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishGPartItem": {
+        "name": "Parasitic Tethermaw",
+        "imageName": "parasitic-tethermaw.png"
     },
     "/Lotus/Types/Items/Emotes/ParazonEmote": {
         "name": "Parazon",
@@ -25396,6 +26044,10 @@
         "name": "Pennant",
         "imageName": "pennant.png"
     },
+    "/Lotus/Upgrades/Skins/Sony/ObsidianPennant": {
+        "name": "Pennant Obsidian Skin",
+        "imageName": "pennant-obsidian-skin.png"
+    },
     "/Lotus/Weapons/Corpus/LongGuns/GrenadeLauncher/GrenadeLauncher": {
         "name": "Penta",
         "imageName": "penta.png"
@@ -25407,6 +26059,10 @@
     "/Lotus/Types/Game/FishBait/GenericFishBait": {
         "name": "Peppered Bait",
         "imageName": "peppered-bait.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearC": {
+        "name": "Peram Fishing Spear",
+        "imageName": "peram-fishing-spear.png"
     },
     "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveC": {
         "name": "Perception Sigil",
@@ -25751,6 +26407,14 @@
         "name": "Pluto Nav Segment",
         "imageName": "pluto-nav-segment.png"
     },
+    "/Lotus/Types/Restoratives/Conservation/SnowRodentLureGearItem": {
+        "name": "Pobbers Echo-Lure",
+        "imageName": "pobbers-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowRodentRarityBoost": {
+        "name": "Pobbers Pheromone Synthesizer",
+        "imageName": "pobbers-pheromone-synthesizer.png"
+    },
     "/Lotus/Upgrades/Mods/Shotgun/Beginner/WeaponDamageAmountModBeginner": {
         "name": "Point Blank",
         "imageName": "point-blank.jpg"
@@ -25978,6 +26642,10 @@
     "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedPredatorLureGearItem": {
         "name": "Predasite Echo-Lure",
         "imageName": "predasite-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedPredatorRarityBoost": {
+        "name": "Predasite Pheromone Gland",
+        "imageName": "predasite-pheromone-gland.png"
     },
     "/Lotus/Types/Game/InfestedPredatorPet/Colors/InfestedPredatorColorRareAccent": {
         "name": "Predasite Rare Accent",
@@ -26391,6 +27059,18 @@
         "name": "Proboscis",
         "imageName": "proboscis.jpg"
     },
+    "/Lotus/Weapons/Tenno/Bows/PrimeDerelictCernos/DerelictCernos": {
+        "name": "Proboscis Cernos",
+        "imageName": "proboscis-cernos.png"
+    },
+    "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitB": {
+        "name": "Processed Fass Residue",
+        "imageName": "processed-fass-residue.png"
+    },
+    "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitB": {
+        "name": "Processed Vome Residue",
+        "imageName": "processed-vome-residue.png"
+    },
     "/Lotus/Types/Items/ShipDecos/IndexAutograph": {
         "name": "Prodman Autograph",
         "imageName": "prodman-autograph.png"
@@ -26571,6 +27251,10 @@
     "/Lotus/Upgrades/Skins/Scarves/TnKorahSyandanaDeluxe": {
         "name": "Pulchranopsis Syandana",
         "imageName": "pulchranopsis-syandana.png"
+    },
+    "/Lotus/Weapons/Infested/Melee/Nunchaku/InfNunchuck/InfNunchuck": {
+        "name": "Pulmonars",
+        "imageName": "pulmonars.png"
     },
     "/Lotus/Types/Items/MiscItems/JuggernautPartA": {
         "name": "Pulsating Tubercles",
@@ -26887,6 +27571,10 @@
     "/Lotus/Types/StoreItems/AvatarImages/ImageRailjackInAction": {
         "name": "Railjack In Action Glyph",
         "imageName": "railjack-in-action-glyph.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/RecallToRailjack": {
+        "name": "Railjack Recall",
+        "imageName": "railjack-recall.png"
     },
     "/Lotus/Upgrades/Skins/RailJack/RailjackDefaultSkin": {
         "name": "Railjack Skin",
@@ -27274,6 +27962,10 @@
         "name": "Relentless Combination",
         "imageName": "relentless-combination.jpg"
     },
+    "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRelentlessZen": {
+        "name": "Relentless Zen Glyph",
+        "imageName": "relentless-zen-glyph.png"
+    },
     "/Lotus/Types/Items/ShipFeatureItems/RailjackKeyShipFeatureItem": {
         "name": "Reliquary Key",
         "imageName": "reliquary-key.png"
@@ -27285,6 +27977,10 @@
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRelli": {
         "name": "Relli5000 Glyph",
         "imageName": "relli5000-glyph.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/CameraConsumable": {
+        "name": "Remote Observer",
+        "imageName": "remote-observer.png"
     },
     "/Lotus/Weapons/Tenno/Melee/MeleeTrees/AxeCmbOneMeleeTree": {
         "name": "Rending Crane",
@@ -27325,6 +28021,10 @@
     "/Lotus/Powersuits/Trapper/LevTrapAugmentCard": {
         "name": "Repelling Bastille",
         "imageName": "repelling-bastille.jpg"
+    },
+    "/Lotus/Upgrades/Skins/Glass/GaraDeluxeSword": {
+        "name": "Rephrax Longsword Skin",
+        "imageName": "rephrax-longsword-skin.png"
     },
     "/Lotus/Types/Game/Projections/T5VoidProjectionImmortalASilver": {
         "name": "Requiem I Exceptional",
@@ -27397,6 +28097,22 @@
     "/Lotus/Upgrades/Skins/Infestation/NidusDeluxeHipCloth": {
         "name": "Reshef Vipaza",
         "imageName": "reshef-vipaza.png"
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Utility/BurningCystOnKill": {
+        "name": "Residual Boils",
+        "imageName": "residual-boils.png"
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Utility/IceMistOnKill": {
+        "name": "Residual Malodor",
+        "imageName": "residual-malodor.png"
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Utility/LightningStrikeOnKill": {
+        "name": "Residual Shock",
+        "imageName": "residual-shock.png"
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Utility/ToxicBloodOnKill": {
+        "name": "Residual Viremia",
+        "imageName": "residual-viremia.png"
     },
     "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingCCImmunityIfAimingMod": {
         "name": "Resolute Focus",
@@ -28039,6 +28755,10 @@
         "name": "Rush Repair Drone",
         "imageName": "rush-repair-drone.png"
     },
+    "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRustyFin": {
+        "name": "Rustyfin Glyph",
+        "imageName": "rustyfin-glyph.png"
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageS0lstep": {
         "name": "S0lstep Glyph",
         "imageName": "s0lstep-glyph.png"
@@ -28056,6 +28776,10 @@
         "imageName": "sabuuchi-glyph.png"
     },
     "/Lotus/Types/Items/ShipDecos/MummyQuestVessel": {
+        "name": "Sacred Vessel",
+        "imageName": "sacred-vessel.png"
+    },
+    "/Lotus/Types/Keys/MummyQuest/MummyArtifact01GearItem": {
         "name": "Sacred Vessel",
         "imageName": "sacred-vessel.png"
     },
@@ -28082,6 +28806,10 @@
     "/Lotus/Powersuits/Loki/SwitchAugmentCard": {
         "name": "Safeguard Switch",
         "imageName": "safeguard-switch.jpg"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank25Trophy": {
+        "name": "Sage Mastery Slate",
+        "imageName": "sage-mastery-slate.png"
     },
     "/Lotus/Types/Game/KubrowPet/AdventurerKubrowPetPowerSuit": {
         "name": "Sahasa Kubrow",
@@ -28170,7 +28898,7 @@
         "name": "Sanctuary Conduit Scene",
         "imageName": "sanctuary-conduit-scene.png"
     },
-    "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyOrokinRareSandal": {
+    "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyOrokinRareBoot": {
         "name": "Sandal Trophy",
         "imageName": "sandal-trophy.png"
     },
@@ -28512,6 +29240,14 @@
         "name": "Savior Decoy",
         "imageName": "savior-decoy.jpg"
     },
+    "/Lotus/Types/Restoratives/Conservation/SnowBirdLureGearItem": {
+        "name": "Sawgaw Echo-Lure",
+        "imageName": "sawgaw-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowBirdRarityBoost": {
+        "name": "Sawgaw Pheromone Synthesizer",
+        "imageName": "sawgaw-pheromone-synthesizer.png"
+    },
     "/Lotus/Upgrades/Mods/Rifle/Beginner/WeaponSlashDamageModBeginner": {
         "name": "Sawtooth Clip",
         "imageName": "sawtooth-clip.jpg"
@@ -28566,6 +29302,14 @@
     "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPClawStanceOne": {
         "name": "Scarlet Hurricane",
         "imageName": "scarlet-hurricane.jpg"
+    },
+    "/Lotus/Types/Items/ShipDecos/Plushies/Deimos/PlushyInfestedNexiferaRare": {
+        "name": "Scarlet Nexifera Floof",
+        "imageName": "scarlet-nexifera-floof.png"
+    },
+    "/Lotus/Types/Items/Deimos/AnimalTagInfestedNexiferaRare": {
+        "name": "Scarlet Nexifera Tag",
+        "imageName": "scarlet-nexifera-tag.png"
     },
     "/Lotus/Upgrades/Skins/Clan/ScarletSpear/ScarletSpearGroundIEmblem": {
         "name": "Scarlet Spear Condrix I Emblem",
@@ -28909,6 +29653,10 @@
     "/Lotus/Upgrades/Mods/Pistol/WeaponPunctureDepthMod": {
         "name": "Seeker",
         "imageName": "seeker.jpg"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank10Trophy": {
+        "name": "Seeker Mastery Slate",
+        "imageName": "seeker-mastery-slate.png"
     },
     "/Lotus/Upgrades/Mods/Shotgun/Beginner/WeaponPunctureDepthModBeginner": {
         "name": "Seeking Force",
@@ -29314,6 +30062,10 @@
         "name": "Shocking Touch",
         "imageName": "shocking-touch.jpg"
     },
+    "/Lotus/Types/Restoratives/Consumable/RobofishSpearB": {
+        "name": "Shockprod Fishing Spear",
+        "imageName": "shockprod-fishing-spear.png"
+    },
     "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaShockwavePrecept": {
         "name": "Shockwave Actuators",
         "imageName": "shockwave-actuators.jpg"
@@ -29546,13 +30298,49 @@
         "name": "Silva & Aegis Prime",
         "imageName": "silva-&-aegis-prime.png"
     },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank08Trophy": {
+        "name": "Silver Disciple Mastery Slate",
+        "imageName": "silver-disciple-mastery-slate.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank23Trophy": {
+        "name": "Silver Dragon Mastery Slate",
+        "imageName": "silver-dragon-mastery-slate.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank17Trophy": {
+        "name": "Silver Eagle Mastery Slate",
+        "imageName": "silver-eagle-mastery-slate.png"
+    },
     "/Lotus/Types/Items/MiscItems/PhotoboothTileSyndicateNewLokaSilverGrove": {
         "name": "Silver Grove Shrine Scene",
         "imageName": "silver-grove-shrine-scene.png"
     },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank14Trophy": {
+        "name": "Silver Hunter Mastery Slate",
+        "imageName": "silver-hunter-mastery-slate.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank02Trophy": {
+        "name": "Silver Initiate Mastery Slate",
+        "imageName": "silver-initiate-mastery-slate.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank05Trophy": {
+        "name": "Silver Novice Mastery Slate",
+        "imageName": "silver-novice-mastery-slate.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank26Trophy": {
+        "name": "Silver Sage Mastery Slate",
+        "imageName": "silver-sage-mastery-slate.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank11Trophy": {
+        "name": "Silver Seeker Mastery Slate",
+        "imageName": "silver-seeker-mastery-slate.png"
+    },
     "/Lotus/Upgrades/Skins/Clan/SkullBadgeSilverItem": {
         "name": "Silver Skull Emblem",
         "imageName": "silver-skull-emblem.png"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank20Trophy": {
+        "name": "Silver Tiger Mastery Slate",
+        "imageName": "silver-tiger-mastery-slate.png"
     },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageWarframeFR": {
         "name": "Silvershadowfr Glyph",
@@ -30190,6 +30978,10 @@
         "name": "Spare Parts",
         "imageName": "spare-parts.jpg"
     },
+    "/Lotus/Types/Restoratives/Consumable/InfestedFishingSpearA": {
+        "name": "Spari Spear",
+        "imageName": "spari-spear.png"
+    },
     "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Clip/SUModularStatICapIClipPart": {
         "name": "Sparkfire",
         "imageName": "sparkfire.png"
@@ -30344,6 +31136,14 @@
     "/Lotus/Upgrades/Skins/Effects/InfestedEphemeraA": {
         "name": "Spore Ephemera",
         "imageName": "spore-ephemera.png"
+    },
+    "/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelEgg/InfModularBarrelEggPart": {
+        "name": "Sporelacer",
+        "imageName": "sporelacer.png"
+    },
+    "/Lotus/Weapons/Infested/LongGuns/InfSniperRifle/InfSniperRifle": {
+        "name": "Sporothrix",
+        "imageName": "sporothrix.png"
     },
     "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishEPartItem": {
         "name": "Sporulate Sac",
@@ -30585,6 +31385,10 @@
         "name": "Starburst",
         "imageName": "starburst.png"
     },
+    "/Lotus/Upgrades/Skins/Glass/GlassDeluxeWings": {
+        "name": "Starglaze Shards",
+        "imageName": "starglaze-shards.png"
+    },
     "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaStasisFieldPrecept": {
         "name": "Stasis Field",
         "imageName": "stasis-field.jpg"
@@ -30632,6 +31436,10 @@
     "/Lotus/Upgrades/Mods/OrokinChallenge/OrokinChallengeModStealth": {
         "name": "Stealth Drift",
         "imageName": "stealth-drift.jpg"
+    },
+    "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardInfestedB/HoverboardInfestedBJet": {
+        "name": "Steeba",
+        "imageName": "steeba.png"
     },
     "/Lotus/Upgrades/Mods/Aura/PlayerMeleeAuraMod": {
         "name": "Steel Charge",
@@ -30733,6 +31541,14 @@
     "/Lotus/Types/Items/ShipDecos/Plushies/PlushyHorrasqueRare": {
         "name": "Stormer Horrasque Floof",
         "imageName": "stormer-horrasque-floof.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/OrokinKubrowLureGearItem": {
+        "name": "Stover Echo-Lure",
+        "imageName": "stover-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/RarityBoosts/OrokinKubrowRarityBoost": {
+        "name": "Stover Pheromone Synthesizer",
+        "imageName": "stover-pheromone-synthesizer.png"
     },
     "/Lotus/Weapons/Tenno/LongGuns/TennoTommyGun/TennoTommyGunRifle": {
         "name": "Stradavar",
@@ -30856,6 +31672,10 @@
     "/Lotus/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun": {
         "name": "Stug",
         "imageName": "stug.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/RobofishSpearC": {
+        "name": "Stunna Fishing Spear",
+        "imageName": "stunna-fishing-spear.png"
     },
     "/Lotus/Upgrades/Mods/Pistol/DualStat/StunningSpeedMod": {
         "name": "Stunning Speed",
@@ -32193,6 +33013,18 @@
     "SolNode53": {
         "name": "Themisto"
     },
+    "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OrbsOnResidualContact": {
+        "name": "Theorem Contagion",
+        "imageName": "theorem-contagion.png"
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Offensive/WeaponDamageOnResidualContact": {
+        "name": "Theorem Demulcent",
+        "imageName": "theorem-demulcent.png"
+    },
+    "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CompanionDamageOnResidualContact": {
+        "name": "Theorem Infection",
+        "imageName": "theorem-infection.png"
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTheReaperHunter": {
         "name": "Thereaperhunter Glyph",
         "imageName": "thereaperhunter-glyph.png"
@@ -32252,6 +33084,10 @@
         "name": "Thousand-Year Fish Statuette",
         "imageName": "thousand-year-fish-statuette.png"
     },
+    "/Lotus/Powersuits/Revenant/RevenantMarkAugmentCard": {
+        "name": "Thrall Pact",
+        "imageName": "thrall-pact.jpg"
+    },
     "/Lotus/Upgrades/Mods/Hoverboard/HBTrickExplosionMod": {
         "name": "Thrash Landing",
         "imageName": "thrash-landing.jpg"
@@ -32283,6 +33119,10 @@
     "/Lotus/Upgrades/Mods/PvPMods/Rifle/ExplodingMiterBlades": {
         "name": "Thundermiter",
         "imageName": "thundermiter.jpg"
+    },
+    "/Lotus/Weapons/Infested/Pistols/InfKitGun/Clips/InfSmallClip/InfModularClipSmallPart": {
+        "name": "Thymoid",
+        "imageName": "thymoid.png"
     },
     "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemBItem": {
         "name": "Thyst",
@@ -32327,6 +33167,10 @@
     "/Lotus/Powersuits/Pirate/TidalWaveAugmentCard": {
         "name": "Tidal Impunity",
         "imageName": "tidal-impunity.jpg"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank19Trophy": {
+        "name": "Tiger Mastery Slate",
+        "imageName": "tiger-mastery-slate.png"
     },
     "/Lotus/Weapons/Tenno/LongGuns/DoubleBarrelShotgun/TennoDoubleBarrelShotgun": {
         "name": "Tigris",
@@ -32711,6 +33555,10 @@
         "name": "Trample",
         "imageName": "trample.jpg"
     },
+    "/Lotus/Types/Restoratives/Conservation/TranqRifleGearItem": {
+        "name": "Tranq Rifle",
+        "imageName": "tranq-rifle.png"
+    },
     "/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbOneMeleeTree": {
         "name": "Tranquil Cleave",
         "imageName": "tranquil-cleave.jpg"
@@ -32738,6 +33586,10 @@
     "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemACutItem": {
         "name": "Trapezium Xenorhast",
         "imageName": "trapezium-xenorhast.png"
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTrashFrame": {
+        "name": "Trash Frame Glyph",
+        "imageName": "trash-frame-glyph.png"
     },
     "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem": {
         "name": "Travocyte Alloy",
@@ -32962,6 +33814,10 @@
         "name": "True Master",
         "imageName": "true-master.png"
     },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank30Trophy": {
+        "name": "True Master Mastery Slate",
+        "imageName": "true-master-mastery-slate.png"
+    },
     "/Lotus/Upgrades/Skins/Liset/MasteryHoodOrnament": {
         "name": "True Master Sumdali",
         "imageName": "true-master-sumdali.png"
@@ -33005,6 +33861,10 @@
     "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem": {
         "name": "Tubercular Gill System",
         "imageName": "tubercular-gill-system.png"
+    },
+    "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearB": {
+        "name": "Tulok Fishing Spear",
+        "imageName": "tulok-fishing-spear.png"
     },
     "/Lotus/Types/Items/ShipDecos/Plushies/PlushyThumperMedium": {
         "name": "Tusk Thumper Bull Floof",
@@ -33168,8 +34028,20 @@
     "SolNode406": {
         "name": "Ukko"
     },
+    "/Lotus/Weapons/Infested/Pistols/InfKitGun/Handles/InfSecondaryHandle/InfModularSecondaryHandlePart": {
+        "name": "Ulnaris",
+        "imageName": "ulnaris.png"
+    },
     "SolNode14": {
         "name": "Ultor"
+    },
+    "/Lotus/Types/Items/ShipDecos/Plushies/Deimos/PlushyInfestedZongroCommon": {
+        "name": "Umber Undazoa Floof",
+        "imageName": "umber-undazoa-floof.png"
+    },
+    "/Lotus/Types/Items/Deimos/AnimalTagInfestedZongroCommon": {
+        "name": "Umber Undazoa Tag",
+        "imageName": "umber-undazoa-tag.png"
     },
     "/Lotus/Upgrades/Skins/Armor/UmbraArmour/UmbraAArmor": {
         "name": "Umbra Arm Armor",
@@ -33269,6 +34141,14 @@
         "name": "Unda Prime Sentinel Wings",
         "imageName": "unda-prime-sentinel-wings.png"
     },
+    "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedZongroLureGearItem": {
+        "name": "Undazoa Echo-Lure",
+        "imageName": "undazoa-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedZongroRarityBoost": {
+        "name": "Undazoa Pheromone Gland",
+        "imageName": "undazoa-pheromone-gland.png"
+    },
     "/Lotus/Types/Game/KubrowPet/Patterns/FeralKubrowPattern": {
         "name": "Underbrush Kubrow Pattern",
         "imageName": "underbrush-kubrow-pattern.png"
@@ -33332,6 +34212,10 @@
     "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowVipChasePrecept": {
         "name": "Unleashed",
         "imageName": "unleashed.jpg"
+    },
+    "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank00Trophy": {
+        "name": "Unranked Mastery Slate",
+        "imageName": "unranked-mastery-slate.png"
     },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageUnrealYuki": {
         "name": "Unrealyuki Glyph",
@@ -33647,6 +34531,14 @@
         "name": "Vaporize",
         "imageName": "vaporize.jpg"
     },
+    "/Lotus/Types/Items/ShipDecos/Plushies/Deimos/PlushyInfestedZongroUncommon": {
+        "name": "Vaporous Undazoa Floof",
+        "imageName": "vaporous-undazoa-floof.png"
+    },
+    "/Lotus/Types/Items/Deimos/AnimalTagInfestedZongroUncommon": {
+        "name": "Vaporous Undazoa Tag",
+        "imageName": "vaporous-undazoa-tag.png"
+    },
     "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceSpeedICritII": {
         "name": "Vargeet Ii Jai",
         "imageName": "vargeet-ii-jai.png"
@@ -33699,9 +34591,17 @@
         "name": "Vasca Kavat",
         "imageName": "vasca-kavat.png"
     },
+    "/Lotus/Types/Restoratives/Conservation/VampireKavatLureGearItem": {
+        "name": "Vasca Kavat Echo-Lure",
+        "imageName": "vasca-kavat-echo-lure.png"
+    },
     "/Lotus/Types/Game/CatbrowPet/Patterns/CatbrowPetPatternVampire": {
         "name": "Vasca Kavat Fur Pattern",
         "imageName": "vasca-kavat-fur-pattern.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/RarityBoosts/VampireKavatRarityBoost": {
+        "name": "Vasca Kavat Pheromone Oota",
+        "imageName": "vasca-kavat-pheromone-oota.png"
     },
     "/Lotus/Types/Game/CatbrowPet/Colors/CatbrowPetColorBaseVampire": {
         "name": "Vasca Purple",
@@ -33882,6 +34782,18 @@
     "/Lotus/Upgrades/Skins/Sigils/BossSigilVayHek": {
         "name": "Vay Hek Sigil",
         "imageName": "vay-hek-sigil.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/VayasPrimeDiadem": {
+        "name": "Vayas Prime Diadem",
+        "imageName": "vayas-prime-diadem.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/VayasPrimeEarpiece": {
+        "name": "Vayas Prime Earpiece",
+        "imageName": "vayas-prime-earpiece.png"
+    },
+    "/Lotus/Upgrades/Skins/Operator/Accessories/VayasPrimeMask": {
+        "name": "Vayas Prime Mask",
+        "imageName": "vayas-prime-mask.png"
     },
     "/Lotus/Weapons/Syndicates/SteelMeridian/LongGuns/SMHek": {
         "name": "Vaykor Hek",
@@ -34170,6 +35082,10 @@
         "name": "Vermillion Storm",
         "imageName": "vermillion-storm.jpg"
     },
+    "/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelBeam/InfModularBarrelBeamPart": {
+        "name": "Vermisplicer",
+        "imageName": "vermisplicer.png"
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageVernoc": {
         "name": "Vernoc Glyph",
         "imageName": "vernoc-glyph.png"
@@ -34329,6 +35245,22 @@
     "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedKavatViralQuillsPrecept": {
         "name": "Viral Quills",
         "imageName": "viral-quills.jpg"
+    },
+    "/Lotus/Types/Items/ShipDecos/Plushies/Deimos/PlushyInfestedNexiferaUncommon": {
+        "name": "Viridian Nexifera Floof",
+        "imageName": "viridian-nexifera-floof.png"
+    },
+    "/Lotus/Types/Items/Deimos/AnimalTagInfestedNexiferaUncommon": {
+        "name": "Viridian Nexifera Tag",
+        "imageName": "viridian-nexifera-tag.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/SnowCritterLureGearItem": {
+        "name": "Virmink Echo-Lure",
+        "imageName": "virmink-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowCritterRarityBoost": {
+        "name": "Virmink Pheromone Synthesizer",
+        "imageName": "virmink-pheromone-synthesizer.png"
     },
     "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenA": {
         "name": "Virox Antigen",
@@ -34532,6 +35464,18 @@
     "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartWeaponPodItem": {
         "name": "Voidrig Weapon Pod",
         "imageName": "voidrig-weapon-pod.png"
+    },
+    "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorMaggotSummonerPrecept": {
+        "name": "Volatile Parasite",
+        "imageName": "volatile-parasite.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveExplodingReflectionDecreaseMod": {
+        "name": "Volatile Quick Return",
+        "imageName": "volatile-quick-return.jpg"
+    },
+    "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveExplodingReflectionIncreaseMod": {
+        "name": "Volatile Rebound",
+        "imageName": "volatile-rebound.jpg"
     },
     "/Lotus/Upgrades/Mods/Melee/DualStat/FireEventMeleeMod": {
         "name": "Volcanic Edge",
@@ -34765,9 +35709,17 @@
         "name": "Vome",
         "imageName": "vome.png"
     },
+    "/Lotus/Types/Items/ShipDecos/Plushies/Deimos/PlushyMoonMonsterCommon": {
+        "name": "Vome Floof",
+        "imageName": "vome-floof.png"
+    },
     "/Lotus/Types/StoreItems/AvatarImages/RequiemVomeGlyph": {
         "name": "Vome Glyph",
         "imageName": "vome-glyph.png"
+    },
+    "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA": {
+        "name": "Vome Residue",
+        "imageName": "vome-residue.png"
     },
     "/Lotus/Upgrades/Skins/Sigils/BossSigilCaptainVor": {
         "name": "Vor Sigil",
@@ -34844,6 +35796,14 @@
     "/Lotus/Types/Game/InfestedKavatPet/Colors/InfestedKavatColorCommonTertiary": {
         "name": "Vulpaphyla Common Tertiary",
         "imageName": "vulpaphyla-common-tertiary.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedCritterLureGearItem": {
+        "name": "Vulpaphyla Echo-Lure",
+        "imageName": "vulpaphyla-echo-lure.png"
+    },
+    "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedCritterRarityBoost": {
+        "name": "Vulpaphyla Pheromone Gland",
+        "imageName": "vulpaphyla-pheromone-gland.png"
     },
     "/Lotus/Types/Game/InfestedKavatPet/Colors/InfestedKavatColorRareSecondary": {
         "name": "Vulpaphyla Rare Secondary",
@@ -35118,6 +36078,10 @@
     "/Lotus/Types/StoreItems/AvatarImages/AvatarImageWinter2018E": {
         "name": "Winter Glyph Xviii",
         "imageName": "winter-glyph-xviii.png"
+    },
+    "/Lotus/Upgrades/Skins/Scarves/SolsticeNelumboCape": {
+        "name": "Wintercress Syandana",
+        "imageName": "wintercress-syandana.png"
     },
     "/Lotus/Weapons/Tenno/Melee/MeleeTrees/LongKatanaCmbOneMeleeTree": {
         "name": "Wise Razor",
@@ -35419,10 +36383,6 @@
         "name": "Xaku",
         "imageName": "xaku.png"
     },
-    "/Lotus/Upgrades/Skins/BrokenFrame/BrokenFrameSkin": {
-        "name": "Xaku",
-        "imageName": "xaku.png"
-    },
     "/Lotus/Upgrades/Skins/BrokenFrame/BrokenFrameAgileAnims": {
         "name": "Xaku Agile Animation Set",
         "imageName": "xaku-agile-animation-set.png"
@@ -35462,6 +36422,10 @@
     "/Lotus/Types/Items/ShipDecos/TarotCardTennoConI": {
         "name": "Xaku Prex",
         "imageName": "xaku-prex.png"
+    },
+    "/Lotus/Upgrades/Skins/BrokenFrame/BrokenFrameSkin": {
+        "name": "Xaku Skin",
+        "imageName": "xaku-skin.png"
     },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageXandyPants": {
         "name": "Xandypants Glyph",

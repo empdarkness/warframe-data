@@ -255,6 +255,14 @@
         "multishot": 1,
         "rivenStatMulti": 1.4
     },
+    "Catabolyst": {
+        "totalDamage": 53,
+        "fireRate": 12.000001,
+        "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfBeamPistol/InfBeamPistol",
+        "type": "Pistol",
+        "multishot": 1,
+        "rivenStatMulti": 0.5
+    },
     "Cestra": {
         "totalDamage": 26.000002,
         "fireRate": 8.333334,
