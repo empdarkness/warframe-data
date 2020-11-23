@@ -826,7 +826,9 @@
         },
         "secondaryArea": {
             "name": "Radial Attack",
+            "status_chance": 57,
             "radius": 700,
+            "speed": 3.37,
             "viral": 143,
             "damage": "143.0 viral"
         },
@@ -5113,10 +5115,30 @@
         "skipBuildTimePrice": 45,
         "buildQuantity": 1,
         "consumeOnBuild": true,
-        "type": "Misc",
+        "type": "Bow",
         "imageName": "proboscis-cernos.png",
         "category": "Primary",
-        "tradable": true
+        "tradable": true,
+        "ammo": 9,
+        "areaAttack": {
+            "name": "Charged Shot Explosion",
+            "viral": 1003,
+            "damage": "1003.0 viral"
+        },
+        "damage": "279.0",
+        "damageTypes": {
+            "impact": 103.2,
+            "slash": 145.1,
+            "puncture": 30.7
+        },
+        "flight": "???",
+        "marketCost": 245,
+        "projectile": "Projectile",
+        "tags": [
+            "Infested"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Proboscis_Cernos",
+        "disposition": 1
     },
     {
         "name": "Quanta",
@@ -5536,24 +5558,22 @@
         "marketCost": 240,
         "projectile": "Projectile",
         "secondary": {
-            "name": "Spear Explosion Quick Shot",
+            "name": "Spear Throw Charged",
+            "speed": 1,
             "crit_chance": 4,
             "crit_mult": 2,
             "status_chance": 0.3,
-            "falloff": {
-                "start": 0,
-                "end": 7,
-                "reduction": 0.6
-            },
-            "corrosive": 55,
-            "damage": "55.0 corrosive"
-        },
-        "secondaryArea": {
-            "name": "Spear Throw Quick Shot",
-            "status_chance": 30,
+            "charge_time": 0.5,
             "impact": 105,
             "slash": 22.5,
             "puncture": 22.5
+        },
+        "secondaryArea": {
+            "name": "Spear Explosion Charged",
+            "status_chance": 30,
+            "radius": 700,
+            "corrosive": 55,
+            "damage": "55.0 corrosive"
         },
         "tags": [
             "Tenno"
@@ -5935,7 +5955,7 @@
         "imageName": "sporothrix.png",
         "category": "Primary",
         "tradable": false,
-        "ammo": 40,
+        "ammo": 45,
         "areaAttack": {
             "falloff": {
                 "start": 0,
@@ -5946,10 +5966,11 @@
             "viral": 19,
             "damage": "19.0 viral"
         },
-        "damage": "256.0",
+        "damage": "371.0",
         "damageTypes": {
             "impact": 100.2,
-            "puncture": 155.8
+            "slash": 155.8,
+            "puncture": 115
         },
         "projectile": "Hitscan",
         "tags": [

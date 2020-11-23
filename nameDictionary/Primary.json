@@ -913,7 +913,7 @@
         "totalDamage": 279,
         "fireRate": 1,
         "uniqueName": "/Lotus/Weapons/Tenno/Bows/PrimeDerelictCernos/DerelictCernos",
-        "type": "Misc",
+        "type": "Bow",
         "multishot": 1,
         "rivenStatMulti": 0.5
     },

@@ -719,6 +719,10 @@
         "name": "Combat Discipline",
         "imageName": "combat-discipline.jpg"
     },
+    "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary": {
+        "name": "Combo Fury",
+        "imageName": "combo-fury.jpg"
+    },
     "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveSecondaryHeadshotKillMod": {
         "name": "Combo Killer",
         "imageName": "combo-killer.jpg"

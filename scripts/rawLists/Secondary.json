@@ -1394,17 +1394,7 @@
         "imageName": "catabolyst.png",
         "category": "Secondary",
         "tradable": false,
-        "ammo": 540,
-        "areaAttack": {
-            "name": "Partial Reload Explosion",
-            "falloff": {
-                "start": 0,
-                "end": 5,
-                "reduction": 0.5
-            },
-            "corrosive": 203,
-            "damage": "203.0 corrosive"
-        },
+        "ammo": 155,
         "damage": "53.0 corrosive",
         "damageTypes": {
             "corrosive": 53
@@ -1421,9 +1411,11 @@
         },
         "secondaryArea": {
             "name": "Reload From Empty Explosion",
+            "status_chance": 59,
             "corrosive": 1997,
             "damage": "1997.0 corrosive"
         },
+        "statusChance": 43,
         "tags": [
             "Infested"
         ],

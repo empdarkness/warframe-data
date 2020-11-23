@@ -798,17 +798,17 @@
         "category": "Melee",
         "tradable": false,
         "areaAttack": {
-            "name": "Throw Area",
+            "name": "Throw Explosion",
             "crit_chance": 19,
             "crit_mult": 2.1,
             "status_chance": 0.3,
             "falloff": {
                 "start": 0,
                 "end": 4.8,
-                "reduction": 0.5
+                "reduction": 0
             },
-            "toxin": 549,
-            "damage": "549.0 toxin"
+            "toxin": 1098,
+            "damage": "1098.0 toxin"
         },
         "channeling": 1.5,
         "damage": "76.0 toxin",
@@ -821,11 +821,11 @@
         "marketCost": 150,
         "projectile": "Thrown",
         "secondaryArea": {
-            "name": "Charged Throw Area",
+            "name": "Charged Throw Explosion",
             "status_chance": 34,
             "radius": 480,
-            "toxin": 659,
-            "damage": "659.0 toxin"
+            "toxin": 1318,
+            "damage": "1318.0 toxin"
         },
         "stancePolarity": "Naramon",
         "tags": [
@@ -2046,14 +2046,14 @@
         "category": "Melee",
         "tradable": false,
         "areaAttack": {
-            "name": "Throw Area",
+            "name": "Throw Explosion",
             "crit_chance": 14,
             "crit_mult": 1.8,
             "status_chance": 0.4,
             "falloff": {
                 "start": 0,
                 "end": 6,
-                "reduction": 0.5
+                "reduction": 0
             },
             "electricity": 690,
             "damage": "690.0 electricity"
@@ -2069,11 +2069,11 @@
         "marketCost": 200,
         "projectile": "Thrown",
         "secondaryArea": {
-            "name": "Charged Throw Area",
+            "name": "Charged Throw Explosion",
             "status_chance": 38,
             "radius": 600,
-            "electricity": 690,
-            "damage": "690.0 electricity"
+            "electricity": 1380,
+            "damage": "1380.0 electricity"
         },
         "stancePolarity": "Naramon",
         "tags": [
@@ -2602,17 +2602,17 @@
         "category": "Melee",
         "tradable": false,
         "areaAttack": {
-            "name": "Throw Area",
+            "name": "Throw Explosion",
             "crit_chance": 14,
             "crit_mult": 2.1,
             "status_chance": 0.1,
             "falloff": {
                 "start": 0,
                 "end": 4.8,
-                "reduction": 0.5
+                "reduction": 0
             },
-            "blast": 315,
-            "damage": "315.0 blast"
+            "blast": 630,
+            "damage": "630.0 blast"
         },
         "channeling": 1.5,
         "damage": "105.0",
@@ -2624,11 +2624,11 @@
         "marketCost": 150,
         "projectile": "Thrown",
         "secondaryArea": {
-            "name": "Charged Throw Area",
+            "name": "Charged Throw Explosion",
             "status_chance": 16,
             "radius": 480,
-            "blast": 378,
-            "damage": "378.0 blast"
+            "blast": 756,
+            "damage": "756.0 blast"
         },
         "stancePolarity": "Naramon",
         "tags": [
@@ -2671,17 +2671,17 @@
         "category": "Melee",
         "tradable": true,
         "areaAttack": {
-            "name": "Throw Area",
+            "name": "Throw Explosion",
             "crit_chance": 24,
             "crit_mult": 2.2,
             "status_chance": 0.3,
             "falloff": {
                 "start": 0,
                 "end": 4.8,
-                "reduction": 0.5
+                "reduction": 0
             },
-            "blast": 492,
-            "damage": "492.0 blast"
+            "blast": 984,
+            "damage": "984.0 blast"
         },
         "channeling": 1.5,
         "damage": "164.0",
@@ -2692,11 +2692,11 @@
         },
         "projectile": "Thrown",
         "secondaryArea": {
-            "name": "Charged Throw Area",
-            "status_chance": 33,
+            "name": "Charged Throw Explosion",
+            "status_chance": 34,
             "radius": 480,
-            "blast": 592,
-            "damage": "592.0 blast"
+            "blast": 1184,
+            "damage": "1184.0 blast"
         },
         "stancePolarity": "Naramon",
         "tags": [
@@ -2989,17 +2989,17 @@
         "category": "Melee",
         "tradable": false,
         "areaAttack": {
-            "name": "Throw Area",
+            "name": "Throw Explosion",
             "crit_chance": 19,
             "crit_mult": 2.1,
             "status_chance": 0.3,
             "falloff": {
                 "start": 0,
                 "end": 4.9,
-                "reduction": 0.5
+                "reduction": 0
             },
-            "blast": 447,
-            "damage": "447.0 blast"
+            "blast": 894,
+            "damage": "894.0 blast"
         },
         "channeling": 1.5,
         "damage": "149.0",
@@ -3011,11 +3011,11 @@
         "marketCost": 150,
         "projectile": "Thrown",
         "secondaryArea": {
-            "name": "Charged Throw Area",
+            "name": "Charged Throw Explosion",
             "status_chance": 33,
             "radius": 490,
-            "blast": 447,
-            "damage": "447.0 blast"
+            "blast": 894,
+            "damage": "894.0 blast"
         },
         "stancePolarity": "Naramon",
         "tags": [
@@ -3684,17 +3684,17 @@
         "category": "Melee",
         "tradable": false,
         "areaAttack": {
-            "name": "Throw Area",
+            "name": "Throw Explosion",
             "crit_chance": 12,
             "crit_mult": 2.1,
             "status_chance": 0.1,
             "falloff": {
                 "start": 0,
                 "end": 3.6,
-                "reduction": 0.5
+                "reduction": 0
             },
-            "blast": 252,
-            "damage": "252.0 blast"
+            "blast": 504,
+            "damage": "504.0 blast"
         },
         "channeling": 1.5,
         "damage": "84.0",
@@ -3706,11 +3706,11 @@
         "marketCost": 150,
         "projectile": "Thrown",
         "secondaryArea": {
-            "name": "Charged Throw Area",
+            "name": "Charged Throw Explosion",
             "status_chance": 14,
             "radius": 400,
-            "blast": 252,
-            "damage": "252.0 blast"
+            "blast": 504,
+            "damage": "504.0 blast"
         },
         "stancePolarity": "Naramon",
         "tags": [
@@ -5250,17 +5250,17 @@
         "category": "Melee",
         "tradable": false,
         "areaAttack": {
-            "name": "Throw Area",
+            "name": "Throw Explosion",
             "crit_chance": 20,
             "crit_mult": 2.2,
             "status_chance": 0.2,
             "falloff": {
                 "start": 0,
-                "end": 4.8,
-                "reduction": 0.5
+                "end": 4,
+                "reduction": 0
             },
-            "cold": 585,
-            "damage": "585.0 cold"
+            "cold": 1770,
+            "damage": "1770.0 cold"
         },
         "channeling": 1.5,
         "damage": "195.0",
@@ -5271,11 +5271,11 @@
         },
         "projectile": "Thrown",
         "secondaryArea": {
-            "name": "Charged Throw Area",
+            "name": "Charged Throw Explosion",
             "status_chance": 22,
-            "radius": 480,
-            "cold": 585,
-            "damage": "585.0 cold"
+            "radius": 400,
+            "cold": 1170,
+            "damage": "1170.0 cold"
         },
         "stancePolarity": "Naramon",
         "tags": [],
@@ -5462,17 +5462,17 @@
         "category": "Melee",
         "tradable": false,
         "areaAttack": {
-            "name": "Throw Area",
+            "name": "Throw Explosion",
             "crit_chance": 17,
             "crit_mult": 2.3,
             "status_chance": 0.3,
             "falloff": {
                 "start": 0,
                 "end": 4.9,
-                "reduction": 0.5
+                "reduction": 0
             },
-            "viral": 786,
-            "damage": "786.0 viral"
+            "viral": 1572,
+            "damage": "1572.0 viral"
         },
         "channeling": 1.5,
         "damage": "89.0 viral",
@@ -5483,11 +5483,11 @@
             "viral": 89
         },
         "secondaryArea": {
-            "name": "Charged Throw Area",
+            "name": "Charged Throw Explosion",
             "status_chance": 35,
             "radius": 490,
-            "viral": 786,
-            "damage": "786.0 viral"
+            "viral": 1572,
+            "damage": "1572.0 viral"
         },
         "stancePolarity": "Naramon",
         "tags": [
@@ -7949,10 +7949,10 @@
             "falloff": {
                 "start": 0,
                 "end": 8,
-                "reduction": 0.7
+                "reduction": 0
             },
-            "electricity": 480,
-            "damage": "480.0 electricity"
+            "electricity": 960,
+            "damage": "960.0 electricity"
         },
         "channeling": 1.5,
         "damage": "120.0",

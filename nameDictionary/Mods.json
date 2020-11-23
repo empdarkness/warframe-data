@@ -497,6 +497,9 @@
     "Combat Discipline": {
         "uniqueName": "/Lotus/Upgrades/Mods/Aura/WarframeAuraBloodLetterMod"
     },
+    "Combo Fury": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary"
+    },
     "Combo Killer": {
         "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveSecondaryHeadshotKillMod"
     },

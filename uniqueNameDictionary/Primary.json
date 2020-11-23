@@ -687,7 +687,7 @@
         "totalDamage": 279,
         "fireRate": 1,
         "name": "Proboscis Cernos",
-        "type": "Misc"
+        "type": "Bow"
     },
     "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/CrpShockRifle": {
         "totalDamage": 10,
