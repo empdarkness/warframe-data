@@ -1,5 +1,5 @@
 {
-  "Damage": {
+  "damage": {
     "id": "1",
     "Name": "Damage",
     "wfm": "base_damage_/_melee_damage",
@@ -12,7 +12,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Multi": {
+  "multi": {
     "id": "2",
     "Name": "Multishot",
     "wfm": "multishot",
@@ -24,7 +24,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Speed": {
+  "speed": {
     "id": "3",
     "Name": "Fire Rate / Attack Speed",
     "wfm": "fire_rate_/_attack_speed",
@@ -37,7 +37,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Corpus": {
+  "corpus": {
     "id": "4",
     "Name": "Damage to Corpus",
     "wfm": "damage_vs_corpus",
@@ -49,7 +49,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Grineer": {
+  "grineer": {
     "id": "5",
     "Name": "Damage to Grineer",
     "wfm": "damage_vs_grineer",
@@ -61,7 +61,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Infested": {
+  "infested": {
     "id": "6",
     "Name": "Damage to Infested",
     "wfm": "damage_vs_infested",
@@ -73,7 +73,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Impact": {
+  "impact": {
     "id": "7",
     "Name": "Impact",
     "wfm": "impact_damage",
@@ -85,7 +85,7 @@
     "MeleeOnly": false,
     "IconURL": "impact_c.png"
   },
-  "Puncture": {
+  "puncture": {
     "id": "8",
     "Name": "Puncture",
     "wfm": "puncture_damage",
@@ -97,7 +97,7 @@
     "MeleeOnly": false,
     "IconURL": "puncture_c.png"
   },
-  "Slash": {
+  "slash": {
     "id": "9",
     "Name": "Slash",
     "wfm": "slash_damage",
@@ -109,7 +109,7 @@
     "MeleeOnly": false,
     "IconURL": "slash_c.png"
   },
-  "Cold": {
+  "cold": {
     "id": "10",
     "Name": "Cold",
     "wfm": "cold_damage",
@@ -121,7 +121,7 @@
     "MeleeOnly": false,
     "IconURL": "cold_c.png"
   },
-  "Electric": {
+  "electric": {
     "id": "11",
     "Name": "Electric",
     "wfm": "electric_damage",
@@ -133,7 +133,7 @@
     "MeleeOnly": false,
     "IconURL": "electric_c.png"
   },
-  "Heat": {
+  "heat": {
     "id": "12",
     "Name": "Heat",
     "wfm": "heat_damage",
@@ -145,7 +145,7 @@
     "MeleeOnly": false,
     "IconURL": "fire_c.png"
   },
-  "Toxin": {
+  "toxin": {
     "id": "13",
     "Name": "Toxin",
     "wfm": "toxin_damage",
@@ -157,7 +157,7 @@
     "MeleeOnly": false,
     "IconURL": "poison_c.png"
   },
-  "ChannelDmg": {
+  "channeldmg": {
     "id": "14",
     "Name": "Channeling Damage",
     "wfm": "",
@@ -169,7 +169,7 @@
     "MeleeOnly": true,
     "IconURL": ""
   },
-  "ChannelEff": {
+  "channeleff": {
     "id": "15",
     "Name": "Channeling Efficiency",
     "wfm": "",
@@ -181,7 +181,7 @@
     "MeleeOnly": true,
     "IconURL": ""
   },
-  "Combo": {
+  "combo": {
     "id": "16",
     "Name": "Combo Duration",
     "wfm": "combo_duration",
@@ -193,7 +193,7 @@
     "MeleeOnly": true,
     "IconURL": ""
   },
-  "CritChance": {
+  "critchance": {
     "id": "17",
     "Name": "Critical Chance",
     "wfm": "critical_chance",
@@ -205,7 +205,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Slide": {
+  "slide": {
     "id": "18",
     "Name": "Slide Attack Critical Chance",
     "wfm": "critical_chance_on_slide_attack",
@@ -217,7 +217,7 @@
     "MeleeOnly": true,
     "IconURL": ""
   },
-  "CritDmg": {
+  "critdmg": {
     "id": "19",
     "Name": "Critical Damage",
     "wfm": "critical_damage",
@@ -229,7 +229,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Finisher": {
+  "finisher": {
     "id": "20",
     "Name": "Finisher Damage",
     "wfm": "finisher_damage",
@@ -241,7 +241,7 @@
     "MeleeOnly": true,
     "IconURL": ""
   },
-  "Flight": {
+  "flight": {
     "id": "21",
     "Name": "Flight Speed",
     "wfm": "projectile_speed",
@@ -253,7 +253,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Ammo": {
+  "fmmo": {
     "id": "22",
     "Name": "Ammo Max",
     "wfm": "ammo_maximum",
@@ -265,7 +265,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Magazine": {
+  "magazine": {
     "id": "23",
     "Name": "Magazine Capacity",
     "wfm": "magazine_capacity",
@@ -277,7 +277,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Punch": {
+  "punch": {
     "id": "24",
     "Name": "Punch Through",
     "wfm": "punch_through",
@@ -289,7 +289,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Reload": {
+  "reload": {
     "id": "25",
     "Name": "Reload Speed",
     "wfm": "reload_speed",
@@ -301,7 +301,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Range": {
+  "range": {
     "id": "26",
     "Name": "Range",
     "wfm": "range",
@@ -313,7 +313,7 @@
     "MeleeOnly": true,
     "IconURL": ""
   },
-  "StatusC": {
+  "statusc": {
     "id": "27",
     "Name": "Status Chance",
     "wfm": "status_chance",
@@ -325,7 +325,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "StatusD": {
+  "statusd": {
     "id": "28",
     "Name": "Status Duration",
     "wfm": "status_duration",
@@ -337,7 +337,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Recoil": {
+  "recoil": {
     "id": "29",
     "Name": "Weapon Recoil",
     "wfm": "recoil",
@@ -349,7 +349,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "Zoom": {
+  "zoom": {
     "id": "30",
     "Name": "Zoom",
     "wfm": "zoom",
@@ -361,7 +361,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "InitC": {
+  "initc": {
     "id": "31",
     "Name": "Initial Combo",
     "wfm": "channeling_damage",
@@ -373,7 +373,7 @@
     "MeleeOnly": true,
     "IconURL": ""
   },
-  "ComboEfficiency": {
+  "comboefficiency": {
     "id": "32",
     "Name": "Melee Combo Efficiency",
     "wfm": "channeling_efficiency",
@@ -385,7 +385,7 @@
     "MeleeOnly": true,
     "IconURL": ""
   },
-  "ComboGainExtra": {
+  "combogainextra": {
     "id": "33",
     "Name": "Chance to gain extra Combo count",
     "wfm": "chance_to_gain_extra_combo_count",
@@ -397,7 +397,7 @@
     "MeleeOnly": true,
     "IconURL": ""
   },
-  "ComboGainLost": {
+  "combogainlost": {
     "id": "34",
     "Name": "Chance to not gain Combo count",
     "wfm": "",

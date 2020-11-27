@@ -1326,6 +1326,9 @@
       "variants": {
         "Halikar": {
           "disposition": 1.44
+        },
+        "Halikar Wraith": {
+          "disposition": 0.5
         }
       }
     },
