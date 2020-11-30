@@ -255,6 +255,15 @@
         }
       }
     },
+    "Arum Spinosa": {
+      "texture": "_Lotus_Interface_Icons_Store_InfWarfan.png",
+      "riventype": "Melee",
+      "variants": {
+        "Arum Spinosa": {
+          "disposition": 0.5
+        }
+      }
+    },
     "Astilla": {
       "texture": "_Lotus_Interface_Icons_Store_GlassShotgun.png",
       "riventype": "Shotgun",
@@ -486,6 +495,15 @@
         }
       }
     },
+    "Bubonico": {
+      "texture": "_Lotus_Interface_Icons_Store_InfArmCannon.png",
+      "riventype": "Shotgun",
+      "variants": {
+        "Bubonico": {
+          "disposition": 0.5
+        }
+      }
+    },
     "Burst Laser": {
       "texture": "_Lotus_Interface_Icons_Store_SentinelBurstLaser.png",
       "riventype": "Pistol",
@@ -537,6 +555,15 @@
         },
         "Sancti Castanas": {
           "disposition": 1.35
+        }
+      }
+    },
+    "Catabolyst": {
+      "texture": "_Lotus_Interface_Icons_Store_InfBeamPistol.png",
+      "riventype": "Pistol",
+      "variants": {
+        "Catabolyst": {
+          "disposition": 0.5
         }
       }
     },
@@ -1968,6 +1995,15 @@
         }
       }
     },
+    "Morgha": {
+      "texture": "_Lotus_Interface_Icons_Store_Mech_ThanoTechGrenadeLauncher.png",
+      "riventype": "Archgun",
+      "variants": {
+        "Morgha": {
+          "disposition": 0.5
+        }
+      }
+    },
     "Multron": {
       "texture": "_Lotus_Interface_Icons_Store_SentinelHextraWeapon.png",
       "riventype": "Rifle",
@@ -2322,6 +2358,15 @@
         }
       }
     },
+    "Proboscis Cernos": {
+      "texture": "_Lotus_Interface_Icons_Store_DerelictCernos.png",
+      "riventype": "Rifle",
+      "variants": {
+        "Proboscis Cernos": {
+          "disposition": 0.5
+        }
+      }
+    },
     "Prova": {
       "texture": "_Lotus_Interface_Icons_Store_CorpusElectroProd.png",
       "riventype": "Melee",
@@ -2331,6 +2376,15 @@
         },
         "Prova Vandal": {
           "disposition": 1.35
+        }
+      }
+    },
+    "Pulmonars": {
+      "texture": "_Lotus_Interface_Icons_Store_InfNunchuck.png",
+      "riventype": "Melee",
+      "variants": {
+        "Pulmonars": {
+          "disposition": 0.5
         }
       }
     },
@@ -2712,6 +2766,24 @@
         },
         "Spira Prime": {
           "disposition": 1.2
+        }
+      }
+    },
+    "Sporelacer": {
+      "texture": "_Lotus_Interface_Icons_Store_Weapons_Modular_InfModular_InfBarrelEgg.png",
+      "riventype": "Pistol",
+      "variants": {
+        "Sporelacer": {
+          "disposition": 0.5
+        }
+      }
+    },
+    "Sporothrix": {
+      "texture": "_Lotus_Interface_Icons_Store_InfSniperRifle.png",
+      "riventype": "Rifle",
+      "variants": {
+        "Sporothrix": {
+          "disposition": 0.5
         }
       }
     },
@@ -3141,6 +3213,15 @@
         },
         "Venka Prime": {
           "disposition": 0.8
+        }
+      }
+    },
+    "Vermisplicer": {
+      "texture": "_Lotus_Interface_Icons_Store_Weapons_Modular_InfModular_InfBarrelBeam.png",
+      "riventype": "Pistol",
+      "variants": {
+        "Vermisplicer": {
+          "disposition": 0.5
         }
       }
     },
