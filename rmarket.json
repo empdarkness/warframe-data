@@ -253,7 +253,7 @@
     "MeleeOnly": false,
     "IconURL": ""
   },
-  "fmmo": {
+  "ammo": {
     "id": "22",
     "Name": "Ammo Max",
     "wfm": "ammo_maximum",
