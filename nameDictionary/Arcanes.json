@@ -1,278 +1,734 @@
 {
     "[Hc] Fire Puddle Death": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Deimos/FirePuddleOnKill"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Deimos/FirePuddleOnKill",
+        "excludeFromCodex": true,
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "hc-fire-puddle-death.png",
+        "category": "Arcanes",
+        "tradable": false
     },
     "[Ph] Regenerate On Headshot": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RegenerateOnHeadshot"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RegenerateOnHeadshot",
+        "excludeFromCodex": true,
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "ph-regenerate-on-headshot.png",
+        "category": "Arcanes",
+        "tradable": false
     },
     "Arcane": {
-        "uniqueName": "/Lotus/Types/Game/WarframeCosmeticEnhancer"
+        "uniqueName": "/Lotus/Types/Game/WarframeCosmeticEnhancer",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "arcane.png",
+        "category": "Arcanes",
+        "tradable": false
     },
     "Arcane Acceleration": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunSpeedOnCrit"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunSpeedOnCrit",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "arcane-acceleration.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Aegis": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/GolemArcaneShieldRegenOnDamage"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/GolemArcaneShieldRegenOnDamage",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "arcane-aegis.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Agility": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnDamage"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnDamage",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "arcane-agility.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Arachne": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneBonusDamageOnWallLatch"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneBonusDamageOnWallLatch",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "arcane-arachne.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Avenger": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/CritChanceOnDamage"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/CritChanceOnDamage",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "arcane-avenger.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Awakening": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/PistolDamageOnReload"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/PistolDamageOnReload",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "arcane-awakening.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Barrier": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/InstantShieldOnDamage"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/InstantShieldOnDamage",
+        "rarity": "Legendary",
+        "type": "Arcane",
+        "imageName": "arcane-barrier.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Blade Charger": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDmgOnRifleKill"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDmgOnRifleKill",
+        "rarity": "Rare",
+        "type": "Melee",
+        "imageName": "arcane-blade-charger.png",
+        "category": "Arcanes",
+        "tradable": false
     },
     "Arcane Bodyguard": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealCompanionOnSixMeleeKills"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealCompanionOnSixMeleeKills",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "arcane-bodyguard.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Consequence": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneAimGlideOnHeadshot"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneAimGlideOnHeadshot",
+        "type": "Arcane",
+        "imageName": "arcane-consequence.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Defense": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/PunctureProcResist"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/PunctureProcResist",
+        "type": "Arcane",
+        "imageName": "arcane-defense.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Deflection": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SlashProcResist"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SlashProcResist",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "arcane-deflection.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Detoxifier": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/PoisonProcResist"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/PoisonProcResist",
+        "type": "Arcane",
+        "imageName": "arcane-detoxifier.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Energize": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneRadialEnergyOnEnergyPickup"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneRadialEnergyOnEnergyPickup",
+        "rarity": "Legendary",
+        "type": "Arcane",
+        "imageName": "arcane-energize.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Eruption": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialKnockdownOnEnergyPickup"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialKnockdownOnEnergyPickup",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "arcane-eruption.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Fury": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDamageOnCrit"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDamageOnCrit",
+        "excludeFromCodex": true,
+        "type": "Melee",
+        "imageName": "arcane-fury.png",
+        "category": "Arcanes",
+        "tradable": false
     },
     "Arcane Grace": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/HealthRegenOnDamage"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/HealthRegenOnDamage",
+        "rarity": "Legendary",
+        "type": "Arcane",
+        "imageName": "arcane-grace.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Guardian": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ArmourOnDamage"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ArmourOnDamage",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "arcane-guardian.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Healing": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadiationProcResist"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadiationProcResist",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "arcane-healing.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Ice": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FireProcResist"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FireProcResist",
+        "type": "Arcane",
+        "imageName": "arcane-ice.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Liquid": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/GasProcResist"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/GasProcResist",
+        "type": "Arcane",
+        "imageName": "arcane-liquid.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Momentum": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneSniperSpeedOnCrit"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneSniperSpeedOnCrit",
+        "type": "Arcane",
+        "imageName": "arcane-momentum.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Nullifier": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/MagneticProcResist"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/MagneticProcResist",
+        "type": "Arcane",
+        "imageName": "arcane-nullifier.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Phantasm": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnParry"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnParry",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "arcane-phantasm.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Pistoleer": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AmmoEfficiencyOnPistolHeadshot"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AmmoEfficiencyOnPistolHeadshot",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "arcane-pistoleer.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Precision": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolDamageOnHeadshot"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolDamageOnHeadshot",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "arcane-precision.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Primary Charger": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDmgOnMeleeKill"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDmgOnMeleeKill",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "arcane-primary-charger.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Protection": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/CorrosiveProcResist"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/CorrosiveProcResist",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "arcane-protection.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Pulse": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialHealOnHealthPickup"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialHealOnHealthPickup",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "arcane-pulse.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Rage": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunDamageOnHeadshot"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunDamageOnHeadshot",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "arcane-rage.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Resistance": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ElectricityProcResist"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ElectricityProcResist",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "arcane-resistance.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Shield": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ImpactProcResist"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ImpactProcResist",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "arcane-shield.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Strike": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeSpeedOnHit"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeSpeedOnHit",
+        "rarity": "Uncommon",
+        "type": "Melee",
+        "imageName": "arcane-strike.png",
+        "category": "Arcanes",
+        "tradable": false
     },
     "Arcane Survival": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/SlowerBleedOutOnPredeath"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/SlowerBleedOutOnPredeath",
+        "type": "Arcane",
+        "imageName": "arcane-survival.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Tanker": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ArmorOnHeavyGunEquipped"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ArmorOnHeavyGunEquipped",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "arcane-tanker.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Temperance": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/DamageReductionDuringRevive"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/DamageReductionDuringRevive",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "arcane-temperance.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Tempo": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneShotgunSpeedOnCrit"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneShotgunSpeedOnCrit",
+        "type": "Arcane",
+        "imageName": "arcane-tempo.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Trickery": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/InvisibilityOnFinisher"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/InvisibilityOnFinisher",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "arcane-trickery.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Ultimatum": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneArmorOnFinisher"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneArmorOnFinisher",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "arcane-ultimatum.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Velocity": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolSpeedOnCrit"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolSpeedOnCrit",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "arcane-velocity.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Victory": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealthRegenOnHeadshot"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealthRegenOnHeadshot",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "arcane-victory.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Arcane Warmth": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FreezeProcResist"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FreezeProcResist",
+        "type": "Arcane",
+        "imageName": "arcane-warmth.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Exodia Brave": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ChannelKillEnergyRate"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ChannelKillEnergyRate",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "exodia-brave.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Exodia Contagion": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneProjectileOnJump"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneProjectileOnJump",
+        "rarity": "Legendary",
+        "type": "Melee",
+        "imageName": "exodia-contagion.png",
+        "category": "Arcanes",
+        "tradable": false
     },
     "Exodia Epidemic": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneShockwaveOnJump"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneShockwaveOnJump",
+        "rarity": "Legendary",
+        "type": "Melee",
+        "imageName": "exodia-epidemic.png",
+        "category": "Arcanes",
+        "tradable": false
     },
     "Exodia Force": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusTriggerRadialDamage"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusTriggerRadialDamage",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "exodia-force.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Exodia Hunt": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GroundSlamPull"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GroundSlamPull",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "exodia-hunt.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Exodia Might": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/FinisherLifesteal"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/FinisherLifesteal",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "exodia-might.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Exodia Triumph": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusChannelingDamage"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusChannelingDamage",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "exodia-triumph.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Exodia Valor": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritChannelingDamage"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritChannelingDamage",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "exodia-valor.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Accelerant": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HeatResistOnBlast"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HeatResistOnBlast",
+        "type": "Arcane",
+        "imageName": "magus-accelerant.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Anomaly": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/PullOnTransferenceIn"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/PullOnTransferenceIn",
+        "type": "Arcane",
+        "imageName": "magus-anomaly.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Cadence": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/SpeedOnVoidDash"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/SpeedOnVoidDash",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "magus-cadence.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Cloud": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ImmunityFallDamageOnVoidDash"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ImmunityFallDamageOnVoidDash",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "magus-cloud.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Destruct": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ProcResistOnBlast"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ProcResistOnBlast",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "magus-destruct.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Drive": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HoverboardSpeedOnTransferenceIn"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HoverboardSpeedOnTransferenceIn",
+        "type": "Arcane",
+        "imageName": "magus-drive.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Elevate": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnTransferenceIn"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnTransferenceIn",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "magus-elevate.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Firewall": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/DamageReductionOnVoidMode"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/DamageReductionOnVoidMode",
+        "type": "Arcane",
+        "imageName": "magus-firewall.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Glitch": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/NoPenaltyOnDeath"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/NoPenaltyOnDeath",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "magus-glitch.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Husk": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ArmourOnOperatorMode"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ArmourOnOperatorMode",
+        "type": "Arcane",
+        "imageName": "magus-husk.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Lockdown": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/TetherMineOnDash"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/TetherMineOnDash",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "magus-lockdown.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Melt": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HeatDamageOnDash"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HeatDamageOnDash",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "magus-melt.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Nourish": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnTransferenceOut"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnTransferenceOut",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "magus-nourish.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Overload": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/RobotStunOnBlast"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/RobotStunOnBlast",
+        "type": "Arcane",
+        "imageName": "magus-overload.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Repair": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnVoidMode"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnVoidMode",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "magus-repair.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Replenish": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnVoidDash"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnVoidDash",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "magus-replenish.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Revert": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ReverseOnDash"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ReverseOnDash",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "magus-revert.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Magus Vigor": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealthOnOperatorMode"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealthOnOperatorMode",
+        "type": "Arcane",
+        "imageName": "magus-vigor.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Pax Bolt": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/EnergyEfficiencyOnHeadshot"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/EnergyEfficiencyOnHeadshot",
+        "rarity": "Rare",
+        "buildPrice": 7500,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Arcane",
+        "imageName": "pax-bolt.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Pax Charge": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/BulletToBattery"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/BulletToBattery",
+        "rarity": "Rare",
+        "buildPrice": 7500,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Arcane",
+        "imageName": "pax-charge.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Pax Seeker": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SeekerProjOnHeadshotKill"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SeekerProjOnHeadshotKill",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "pax-seeker.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Pax Soar": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/EyeInTheSky"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/EyeInTheSky",
+        "rarity": "Rare",
+        "buildPrice": 7500,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Arcane",
+        "imageName": "pax-soar.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Residual Boils": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/BurningCystOnKill"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/BurningCystOnKill",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "residual-boils.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Residual Malodor": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/IceMistOnKill"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/IceMistOnKill",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "residual-malodor.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Residual Shock": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/LightningStrikeOnKill"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/LightningStrikeOnKill",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "residual-shock.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Residual Viremia": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/ToxicBloodOnKill"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/ToxicBloodOnKill",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "residual-viremia.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Theorem Contagion": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OrbsOnResidualContact"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OrbsOnResidualContact",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "theorem-contagion.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Theorem Demulcent": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/WeaponDamageOnResidualContact"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/WeaponDamageOnResidualContact",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "theorem-demulcent.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Theorem Infection": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CompanionDamageOnResidualContact"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CompanionDamageOnResidualContact",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "theorem-infection.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Virtuos Forge": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToHeatDamage"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToHeatDamage",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "virtuos-forge.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Virtuos Fury": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedDamageOnStatusProc"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedDamageOnStatusProc",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "virtuos-fury.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Virtuos Ghost": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/StatusChanceOnHeadshot"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/StatusChanceOnHeadshot",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "virtuos-ghost.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Virtuos Null": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/OperatorAmmoRegenOnKill"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/OperatorAmmoRegenOnKill",
+        "type": "Arcane",
+        "imageName": "virtuos-null.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Virtuos Shadow": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/CriticalChanceOnHeadshot"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/CriticalChanceOnHeadshot",
+        "rarity": "Rare",
+        "type": "Arcane",
+        "imageName": "virtuos-shadow.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Virtuos Spike": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToPunctureDamage"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToPunctureDamage",
+        "type": "Arcane",
+        "imageName": "virtuos-spike.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Virtuos Strike": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedCriticalDamageOnCriticalStrike"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedCriticalDamageOnCriticalStrike",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "virtuos-strike.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Virtuos Surge": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToElectricDamage"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToElectricDamage",
+        "type": "Arcane",
+        "imageName": "virtuos-surge.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Virtuos Tempo": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/AttackSpeedOnKill"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/AttackSpeedOnKill",
+        "type": "Arcane",
+        "imageName": "virtuos-tempo.png",
+        "category": "Arcanes",
+        "tradable": true
     },
     "Virtuos Trojan": {
-        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToViralDamage"
+        "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToViralDamage",
+        "rarity": "Uncommon",
+        "type": "Arcane",
+        "imageName": "virtuos-trojan.png",
+        "category": "Arcanes",
+        "tradable": true
     }
 }

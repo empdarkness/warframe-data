@@ -1,110 +1,601 @@
 {
     "/Lotus/Types/Sentinels/SentinelWeapons/Gremlin": {
-        "totalDamage": 5,
-        "fireRate": 1,
         "name": "Artax",
-        "type": "Rifle"
+        "totalDamage": 5,
+        "criticalChance": 0.02,
+        "criticalMultiplier": 1.5,
+        "procChance": 0.029999971,
+        "fireRate": 1,
+        "masteryReq": 0,
+        "slot": 1,
+        "omegaAttenuation": 1,
+        "noise": "Alarming",
+        "trigger": "Held",
+        "magazineSize": 100,
+        "reloadTime": 1.5,
+        "sentinel": true,
+        "multishot": 1,
+        "type": "Rifle",
+        "imageName": "artax.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "5.0 cold",
+        "damageTypes": {
+            "cold": 5
+        },
+        "projectile": "Discharge",
+        "tags": [
+            "Tenno"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Artax",
+        "disposition": 3
     },
     "/Lotus/Types/Sentinels/SentinelWeapons/BurstLaserPistol": {
-        "totalDamage": 7,
-        "fireRate": 1.6071428,
         "name": "Burst Laser",
-        "type": "Pistol"
+        "totalDamage": 7,
+        "criticalChance": 0.025,
+        "criticalMultiplier": 1.25,
+        "procChance": 0.019999981,
+        "fireRate": 1.6071428,
+        "masteryReq": 0,
+        "slot": 1,
+        "omegaAttenuation": 1.45,
+        "noise": "Alarming",
+        "trigger": "Burst",
+        "magazineSize": 15,
+        "reloadTime": 0.0099999998,
+        "sentinel": true,
+        "multishot": 1,
+        "type": "Pistol",
+        "imageName": "burst-laser.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "7.0",
+        "damageTypes": {
+            "impact": 0.7,
+            "slash": 0.3,
+            "puncture": 6
+        },
+        "projectile": "Projectile",
+        "tags": [
+            "Tenno"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Burst_Laser",
+        "disposition": 5
     },
     "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/CryoxionWeapon": {
-        "totalDamage": 10,
-        "fireRate": 1,
         "name": "Cryotra",
-        "type": "Rifle"
+        "totalDamage": 10,
+        "criticalChance": 0.050000001,
+        "criticalMultiplier": 2,
+        "procChance": 0.35000002,
+        "fireRate": 1,
+        "masteryReq": 0,
+        "slot": 1,
+        "omegaAttenuation": 1,
+        "noise": "Alarming",
+        "trigger": "Held",
+        "magazineSize": 80,
+        "reloadTime": 4,
+        "sentinel": true,
+        "multishot": 1,
+        "buildPrice": 50000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 25,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Rifle",
+        "imageName": "cryotra.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "10.0 cold",
+        "damageTypes": {
+            "cold": 10
+        },
+        "projectile": "Discharge",
+        "tags": [
+            "Corpus"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Cryotra",
+        "disposition": 3
     },
     "/Lotus/Types/Sentinels/SentinelWeapons/SentGlaiveWeapon": {
-        "totalDamage": 50,
-        "fireRate": 1.3333334,
         "name": "Deconstructor",
-        "type": "Glaive"
+        "totalDamage": 50,
+        "criticalChance": 0,
+        "criticalMultiplier": 1,
+        "procChance": 0.25,
+        "fireRate": 1.3333334,
+        "masteryReq": 0,
+        "slot": 1,
+        "omegaAttenuation": 1.25,
+        "noise": "Alarming",
+        "sentinel": true,
+        "type": "Glaive",
+        "imageName": "deconstructor.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "50.0",
+        "damageTypes": {
+            "impact": 50
+        },
+        "projectile": "Projectile",
+        "tags": [
+            "Tenno"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Deconstructor",
+        "disposition": 4
     },
     "/Lotus/Types/Sentinels/SentinelWeapons/DeconstructorPrime/PrimeHeliosGlaiveWeapon": {
-        "totalDamage": 75,
-        "fireRate": 1.3333334,
         "name": "Deconstructor Prime",
-        "type": "Glaive"
+        "totalDamage": 75,
+        "criticalChance": 0,
+        "criticalMultiplier": 1,
+        "procChance": 0.25,
+        "fireRate": 1.3333334,
+        "masteryReq": 8,
+        "slot": 1,
+        "omegaAttenuation": 1.25,
+        "noise": "Alarming",
+        "sentinel": true,
+        "type": "Glaive",
+        "imageName": "deconstructor-prime.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "75.0",
+        "damageTypes": {
+            "impact": 75
+        },
+        "projectile": "Projectile",
+        "tags": [
+            "Prime",
+            "Vaulted"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Deconstructor_Prime",
+        "disposition": 4
     },
     "/Lotus/Types/Sentinels/SentinelWeapons/DethMachineRifle": {
-        "totalDamage": 5,
-        "fireRate": 8.333334,
         "name": "Deth Machine Rifle",
-        "type": "Rifle"
+        "totalDamage": 5,
+        "criticalChance": 0.050000001,
+        "criticalMultiplier": 2,
+        "procChance": 0.0099999905,
+        "fireRate": 8.333334,
+        "masteryReq": 0,
+        "slot": 1,
+        "omegaAttenuation": 1.455,
+        "noise": "Alarming",
+        "trigger": "Auto",
+        "magazineSize": 100,
+        "reloadTime": 2,
+        "sentinel": true,
+        "multishot": 1,
+        "type": "Rifle",
+        "imageName": "deth-machine-rifle.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "5.0",
+        "damageTypes": {
+            "impact": 0.5,
+            "slash": 4.25,
+            "puncture": 0.25
+        },
+        "projectile": "Hitscan",
+        "tags": [
+            "Tenno"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Deth_Machine_Rifle",
+        "disposition": 5
     },
     "/Lotus/Types/Sentinels/SentinelWeapons/PrimeDethMachineRifle": {
-        "totalDamage": 7,
-        "fireRate": 10.000001,
         "name": "Deth Machine Rifle Prime",
-        "type": "Rifle"
+        "totalDamage": 7,
+        "criticalChance": 0.1,
+        "criticalMultiplier": 2,
+        "procChance": 0.040000021,
+        "fireRate": 10.000001,
+        "masteryReq": 0,
+        "slot": 1,
+        "omegaAttenuation": 1.455,
+        "noise": "Alarming",
+        "trigger": "Auto",
+        "magazineSize": 100,
+        "reloadTime": 2,
+        "sentinel": true,
+        "multishot": 1,
+        "type": "Rifle",
+        "imageName": "deth-machine-rifle-prime.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "7.0",
+        "damageTypes": {
+            "impact": 0.7,
+            "slash": 5.95,
+            "puncture": 0.35
+        },
+        "projectile": "Hitscan",
+        "tags": [
+            "Prime"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Deth_Machine_Rifle_Prime",
+        "disposition": 5
     },
     "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon": {
-        "totalDamage": 13.999998,
-        "fireRate": 0.90909088,
         "name": "Helstrum",
-        "type": "Rifle"
+        "totalDamage": 13.999998,
+        "criticalChance": 0.050000001,
+        "criticalMultiplier": 1.5,
+        "procChance": 0.30000001,
+        "fireRate": 0.90909088,
+        "masteryReq": 1,
+        "slot": 1,
+        "omegaAttenuation": 1,
+        "noise": "Alarming",
+        "trigger": "Burst",
+        "reloadTime": 2,
+        "sentinel": true,
+        "multishot": 1,
+        "buildPrice": 50000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 25,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Rifle",
+        "imageName": "helstrum.png",
+        "category": "Primary",
+        "tradable": false,
+        "areaAttack": {
+            "name": "Explosion",
+            "impact": 3,
+            "heat": 3.5,
+            "damage": "3.5 heat"
+        },
+        "damage": "9.5",
+        "damageTypes": {
+            "impact": 5,
+            "puncture": 4.5
+        },
+        "projectile": "Projectile",
+        "tags": [
+            "Corpus"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Helstrum",
+        "disposition": 3
     },
     "/Lotus/Types/Sentinels/SentinelWeapons/LaserRifle": {
-        "totalDamage": 8,
-        "fireRate": 1.6666667,
         "name": "Laser Rifle",
-        "type": "Rifle"
+        "totalDamage": 8,
+        "criticalChance": 0.025,
+        "criticalMultiplier": 1.25,
+        "procChance": 0.019999981,
+        "fireRate": 1.6666667,
+        "masteryReq": 0,
+        "slot": 1,
+        "omegaAttenuation": 1.21,
+        "noise": "Alarming",
+        "trigger": "Auto",
+        "magazineSize": 5,
+        "reloadTime": 1.2,
+        "sentinel": true,
+        "multishot": 1,
+        "type": "Rifle",
+        "imageName": "laser-rifle.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "8.0",
+        "damageTypes": {
+            "impact": 0.8,
+            "slash": 0.8,
+            "puncture": 6.4
+        },
+        "projectile": "Projectile",
+        "tags": [
+            "Tenno"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Laser_Rifle",
+        "disposition": 4
     },
     "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/HextraWeapon": {
-        "totalDamage": 5,
-        "fireRate": 3.3333335,
         "name": "Multron",
-        "type": "Rifle"
+        "totalDamage": 5,
+        "criticalChance": 0.125,
+        "criticalMultiplier": 1.75,
+        "procChance": 0.050000012,
+        "fireRate": 3.3333335,
+        "masteryReq": 3,
+        "slot": 1,
+        "omegaAttenuation": 1,
+        "noise": "Alarming",
+        "trigger": "Auto",
+        "magazineSize": 6,
+        "reloadTime": 3,
+        "sentinel": true,
+        "multishot": 1,
+        "type": "Rifle",
+        "imageName": "multron.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "5.0",
+        "damageTypes": {
+            "impact": 1.25,
+            "puncture": 3.75
+        },
+        "projectile": "Projectile",
+        "tags": [
+            "Corpus"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Multron",
+        "disposition": 3
     },
     "/Lotus/Types/Sentinels/SentinelWeapons/PrimeLaserRifle": {
-        "totalDamage": 11.999999,
-        "fireRate": 10.000001,
         "name": "Prime Laser Rifle",
-        "type": "Rifle"
+        "totalDamage": 11.999999,
+        "criticalChance": 0.15000001,
+        "criticalMultiplier": 1.5,
+        "procChance": 0.050000012,
+        "fireRate": 10.000001,
+        "masteryReq": 0,
+        "slot": 1,
+        "omegaAttenuation": 1.21,
+        "noise": "Alarming",
+        "trigger": "Auto",
+        "magazineSize": 5,
+        "reloadTime": 1.2,
+        "sentinel": true,
+        "multishot": 1,
+        "type": "Rifle",
+        "imageName": "prime-laser-rifle.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "12.0",
+        "damageTypes": {
+            "impact": 1.2,
+            "slash": 2.4,
+            "puncture": 8.4
+        },
+        "projectile": "Projectile",
+        "tags": [
+            "Prime",
+            "Vaulted"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Prime_Laser_Rifle",
+        "disposition": 4
     },
     "/Lotus/Types/Sentinels/SentinelWeapons/PrismaBurstLaserPistol": {
-        "totalDamage": 10,
-        "fireRate": 1.6071428,
         "name": "Prisma Burst Laser",
-        "type": "Pistol"
+        "totalDamage": 10,
+        "criticalChance": 0.050000001,
+        "criticalMultiplier": 2,
+        "procChance": 0.10000002,
+        "fireRate": 1.6071428,
+        "masteryReq": 0,
+        "slot": 1,
+        "omegaAttenuation": 1.45,
+        "noise": "Alarming",
+        "trigger": "Burst",
+        "magazineSize": 15,
+        "reloadTime": 0.0099999998,
+        "sentinel": true,
+        "multishot": 1,
+        "type": "Pistol",
+        "imageName": "prisma-burst-laser.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "10.0",
+        "damageTypes": {
+            "impact": 1,
+            "slash": 0.5,
+            "puncture": 8.5
+        },
+        "projectile": "Projectile",
+        "tags": [
+            "Tenno",
+            "Prisma"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Prisma_Burst_Laser",
+        "disposition": 5
     },
     "/Lotus/Types/Sentinels/SentinelWeapons/SentBioWeapon": {
-        "totalDamage": 15,
-        "fireRate": 3.3333335,
         "name": "Stinger",
-        "type": "Rifle"
+        "totalDamage": 15,
+        "criticalChance": 0.025,
+        "criticalMultiplier": 1.5,
+        "procChance": 0.050000012,
+        "fireRate": 3.3333335,
+        "masteryReq": 0,
+        "slot": 1,
+        "omegaAttenuation": 1.3150001,
+        "noise": "Alarming",
+        "trigger": "Semi",
+        "magazineSize": 4,
+        "reloadTime": 1.2,
+        "sentinel": true,
+        "multishot": 1,
+        "type": "Rifle",
+        "imageName": "stinger.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "15.0 toxin",
+        "damageTypes": {
+            "toxin": 15
+        },
+        "projectile": "Projectile",
+        "tags": [
+            "Infested"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Stinger",
+        "disposition": 5
     },
     "/Lotus/Types/Sentinels/SentinelWeapons/SentShotgun": {
-        "totalDamage": 7,
-        "fireRate": 1,
         "name": "Sweeper",
-        "type": "Shotgun"
+        "totalDamage": 7,
+        "criticalChance": 0.050000001,
+        "criticalMultiplier": 1.5,
+        "procChance": 0.023333311,
+        "fireRate": 1,
+        "masteryReq": 0,
+        "slot": 1,
+        "omegaAttenuation": 1,
+        "noise": "Alarming",
+        "trigger": "Auto",
+        "magazineSize": 10,
+        "reloadTime": 2.3,
+        "sentinel": true,
+        "multishot": 6,
+        "type": "Shotgun",
+        "imageName": "sweeper.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "42.0",
+        "damageTypes": {
+            "impact": 35.7,
+            "slash": 4.2,
+            "puncture": 2.1
+        },
+        "projectile": "Hitscan",
+        "tags": [
+            "Tenno"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Sweeper",
+        "disposition": 3
     },
     "/Lotus/Types/Sentinels/SentinelWeapons/PrimeSentShotgun": {
-        "totalDamage": 10,
-        "fireRate": 1,
         "name": "Sweeper Prime",
-        "type": "Shotgun"
+        "totalDamage": 10,
+        "criticalChance": 0.050000001,
+        "criticalMultiplier": 2,
+        "procChance": 0.024999976,
+        "fireRate": 1,
+        "masteryReq": 0,
+        "slot": 1,
+        "omegaAttenuation": 1,
+        "noise": "Alarming",
+        "trigger": "Auto",
+        "magazineSize": 20,
+        "reloadTime": 2,
+        "sentinel": true,
+        "multishot": 6,
+        "type": "Shotgun",
+        "imageName": "sweeper-prime.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "60.0",
+        "damageTypes": {
+            "impact": 51,
+            "slash": 6,
+            "puncture": 3
+        },
+        "projectile": "Hitscan",
+        "tags": [
+            "Prime",
+            "Vaulted"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Sweeper_Prime",
+        "disposition": 3
     },
     "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/TazronWeapon": {
-        "totalDamage": 6,
-        "fireRate": 8.333334,
         "name": "Tazicor",
-        "type": "Rifle"
+        "totalDamage": 6,
+        "criticalChance": 0.02,
+        "criticalMultiplier": 1.5,
+        "procChance": 0.14999998,
+        "fireRate": 8.333334,
+        "masteryReq": 3,
+        "slot": 1,
+        "omegaAttenuation": 1,
+        "noise": "Alarming",
+        "trigger": "Auto",
+        "magazineSize": 4,
+        "reloadTime": 2.5,
+        "sentinel": true,
+        "multishot": 1,
+        "buildPrice": 50000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 25,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Rifle",
+        "imageName": "tazicor.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "6.0 electricity",
+        "damageTypes": {
+            "electricity": 6
+        },
+        "projectile": "Discharge",
+        "tags": [
+            "Corpus"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Tazicor",
+        "disposition": 3
     },
     "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/ThermocorMoaWeapon": {
-        "totalDamage": 35,
-        "fireRate": 1,
         "name": "Vulcax",
-        "type": "Rifle"
+        "totalDamage": 35,
+        "criticalChance": 0.2,
+        "criticalMultiplier": 2.5,
+        "procChance": 0.10000002,
+        "fireRate": 1,
+        "masteryReq": 14,
+        "slot": 1,
+        "omegaAttenuation": 1,
+        "noise": "Alarming",
+        "trigger": "Charge",
+        "magazineSize": 1,
+        "reloadTime": 6,
+        "sentinel": true,
+        "multishot": 1,
+        "buildPrice": 50000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 25,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Rifle",
+        "imageName": "vulcax.png",
+        "category": "Primary",
+        "tradable": false,
+        "chargeTime": 1,
+        "damage": 35,
+        "damageTypes": {
+            "heat": 35
+        },
+        "projectile": "Discharge",
+        "statusChance": 10,
+        "tags": [
+            "Corpus"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Vulcax",
+        "disposition": 3
     },
     "/Lotus/Types/Sentinels/SentinelWeapons/SentElecRailgun": {
-        "totalDamage": 85,
-        "fireRate": 0.15000001,
         "name": "Vulklok",
-        "type": "Sniper Rifle"
+        "totalDamage": 85,
+        "criticalChance": 0.34999999,
+        "criticalMultiplier": 2.5,
+        "procChance": 0.25,
+        "fireRate": 0.15000001,
+        "masteryReq": 0,
+        "slot": 1,
+        "omegaAttenuation": 1.245,
+        "noise": "Alarming",
+        "trigger": "Auto",
+        "magazineSize": 10,
+        "reloadTime": 2,
+        "sentinel": true,
+        "multishot": 1,
+        "type": "Sniper Rifle",
+        "imageName": "vulklok.png",
+        "category": "Primary",
+        "tradable": false,
+        "damage": "85.0 electricity",
+        "damageTypes": {
+            "electricity": 85
+        },
+        "projectile": "Projectile",
+        "tags": [
+            "Grineer"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Vulklok",
+        "disposition": 4
     }
 }

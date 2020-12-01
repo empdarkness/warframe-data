@@ -2136,6 +2136,7 @@
         "damageTypes": {
             "cold": 29
         },
+        "projectile": "Discharge",
         "tags": [
             "Corpus",
             "Vandal"
@@ -4022,16 +4023,16 @@
         "totalDamage": 196,
         "criticalChance": 0.30000001,
         "criticalMultiplier": 2.2,
-        "procChance": 0.13999999,
+        "procChance": 0.27999997,
         "fireRate": 6.0000005,
         "masteryReq": 15,
         "slot": 1,
         "omegaAttenuation": 0.5,
         "noise": "Alarming",
         "trigger": "Auto Burst",
-        "magazineSize": 50,
+        "magazineSize": 100,
         "reloadTime": 3,
-        "multishot": 2,
+        "multishot": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -4867,7 +4868,7 @@
             "radiation": 60
         },
         "marketCost": 180,
-        "projectile": "Hitscan",
+        "projectile": "Projectile",
         "secondaryArea": {
             "name": "Cluster Bombs",
             "status_chance": 37,
@@ -5122,6 +5123,11 @@
         "ammo": 9,
         "areaAttack": {
             "name": "Charged Shot Explosion",
+            "falloff": {
+                "start": 0,
+                "end": 7,
+                "reduction": 0.5
+            },
             "viral": 1003,
             "damage": "1003.0 viral"
         },
