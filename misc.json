@@ -98,5 +98,13 @@
   "/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBaroKiteer": {
   "name": "Baro Ki'teer Glyph",
   "imageName": "baro-ki'teer-glyph.png"
+  },
+  "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponIncreaseRadialExplosionModExpert": {
+  "name": "Primed Firestorm",
+  "imageName": "primed-firestorm.png"
+  },
+  "/Lotus/StoreItems/Upgrades/Mods/Pistol/Event/AmbulasEvent/Expert/SecondaryExplosionRadiusModExpert": {
+    "name": "Primed Fulmination",
+    "imageName": "primed-fulmination.png"
   }
 }
