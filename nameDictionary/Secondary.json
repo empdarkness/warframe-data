@@ -3825,6 +3825,16 @@
         "category": "Secondary",
         "tradable": false,
         "ammo": 288,
+        "areaAttack": {
+            "name": "Fully Charged Explosion",
+            "falloff": {
+                "start": 0,
+                "end": 9.6,
+                "reduction": 0.9
+            },
+            "radiation": 106,
+            "damage": "106.0 radiation"
+        },
         "damage": "44.0 radiation",
         "damageTypes": {
             "radiation": 44

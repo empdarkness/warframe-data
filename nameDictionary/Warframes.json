@@ -195,6 +195,25 @@
         "sprint": 1.2,
         "wikiaUrl": "http://warframe.fandom.com/wiki/Baruuk"
     },
+    "Bonewidow": {
+        "uniqueName": "/Lotus/Powersuits/EntratiMech/ThanoTech",
+        "health": 1800,
+        "shield": 300,
+        "armor": 500,
+        "stamina": 200,
+        "power": 150,
+        "masteryReq": 0,
+        "sprintSpeed": 1.1,
+        "buildPrice": 25000,
+        "buildTime": 259200,
+        "skipBuildTimePrice": 50,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Warframe",
+        "imageName": "bonewidow.png",
+        "category": "Warframes",
+        "tradable": false
+    },
     "Chroma": {
         "uniqueName": "/Lotus/Powersuits/Dragon/Dragon",
         "health": 100,

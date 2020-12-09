@@ -859,6 +859,14 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "Cpt_kim Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageCptKim",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "cpt_kim-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "Creepy Clem Glyph": {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/Halloween2019CreepyClem",
         "excludeFromCodex": true,
@@ -934,6 +942,14 @@
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDarkSlayer",
         "type": "Glyph",
         "imageName": "darkslayer313-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Daughter Tennobaum Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/XMas20DaughterGlyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "daughter-tennobaum-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },
@@ -1567,6 +1583,14 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "Faceless Beanie Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageFacelessBeanie",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "faceless-beanie-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "Fass Glyph": {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/RequiemFassGlyph",
         "excludeFromCodex": true,
@@ -1579,6 +1603,14 @@
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageFatefulYT",
         "type": "Glyph",
         "imageName": "fateful-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Father Tennobaum Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/XMas20FatherGlyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "father-tennobaum-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },
@@ -1880,6 +1912,14 @@
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageGorillaWolfGaming",
         "type": "Glyph",
         "imageName": "gorillawolfgaming-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Grandmother Tennobaum Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/XMas20GrandmaGlyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "grandmother-tennobaum-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },
@@ -3063,6 +3103,14 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "Mother Tennobaum Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/XMas20MotherGlyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "mother-tennobaum-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "Mozetas Glyph": {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMozetas",
         "type": "Glyph",
@@ -3124,6 +3172,14 @@
         "excludeFromCodex": true,
         "type": "Glyph",
         "imageName": "necraloid-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Necraloid Tennobaum Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/XMas20OtakGlyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "necraloid-tennobaum-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },
@@ -3707,6 +3763,14 @@
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImagePunchL1ne",
         "type": "Glyph",
         "imageName": "punch_l1ne-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Pyrah Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImagePyrah",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "pyrah-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },
@@ -4348,6 +4412,14 @@
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphMuckneyB",
         "type": "Glyph",
         "imageName": "solunar-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Son Tennobaum Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/XMas20SonGlyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "son-tennobaum-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },

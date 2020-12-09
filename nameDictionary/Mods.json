@@ -42630,6 +42630,20 @@
         "wikiaUrl": "http://warframe.fandom.com/wiki/Primed_Fever_Strike",
         "transmutable": false
     },
+    "Primed Firestorm": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponIncreaseRadialExplosionModExpert",
+        "polarity": "Madurai",
+        "rarity": "Legendary",
+        "baseDrain": 6,
+        "fusionLimit": 10,
+        "compatName": "RIFLE",
+        "type": "Rifle",
+        "imageName": "primed-firestorm.jpg",
+        "category": "Mods",
+        "tradable": true,
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Primed_Firestorm",
+        "transmutable": false
+    },
     "Primed Flow": {
         "uniqueName": "/Lotus/Upgrades/Mods/Warframe/Expert/AvatarPowerMaxModExpert",
         "polarity": "Naramon",
@@ -42642,6 +42656,20 @@
         "category": "Mods",
         "tradable": true,
         "wikiaUrl": "http://warframe.fandom.com/wiki/Primed_Flow",
+        "transmutable": false
+    },
+    "Primed Fulmination": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Event/AmbulasEvent/Expert/SecondaryExplosionRadiusModExpert",
+        "polarity": "Madurai",
+        "rarity": "Legendary",
+        "baseDrain": 6,
+        "fusionLimit": 10,
+        "compatName": "PISTOL",
+        "type": "Secondary Mod",
+        "imageName": "primed-fulmination.jpg",
+        "category": "Mods",
+        "tradable": true,
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Primed_Fulmination",
         "transmutable": false
     },
     "Primed Fury": {
@@ -69329,7 +69357,7 @@
         "category": "Mods",
         "tradable": true,
         "wikiaUrl": "http://warframe.fandom.com/wiki/Volatile_Quick_Return",
-        "transmutable": false
+        "transmutable": true
     },
     "Volatile Rebound": {
         "uniqueName": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveExplodingReflectionIncreaseMod",
@@ -69343,7 +69371,7 @@
         "category": "Mods",
         "tradable": true,
         "wikiaUrl": "http://warframe.fandom.com/wiki/Volatile_Rebound",
-        "transmutable": false
+        "transmutable": true
     },
     "Volcanic Edge": {
         "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/FireEventMeleeMod",
