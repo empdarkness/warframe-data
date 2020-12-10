@@ -1515,9 +1515,6 @@
         "heavySlamRadius": 9,
         "windUp": 0.69999999,
         "itemCount": 1,
-        "parents": [
-            "Dual Raza"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1709,11 +1706,6 @@
         "heavySlamRadius": 9,
         "windUp": 0.69999999,
         "itemCount": 1,
-        "parents": [
-            "Akjagara",
-            "Dark Split-Sword",
-            "Redeemer"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 30,
@@ -4693,9 +4685,6 @@
         "heavySlamRadius": 7,
         "windUp": 0.5,
         "itemCount": 1,
-        "parents": [
-            "Dragon Nikana"
-        ],
         "buildPrice": 5000,
         "buildTime": 43200,
         "skipBuildTimePrice": 35,
@@ -4795,9 +4784,6 @@
         "heavySlamRadius": 7,
         "windUp": 0.5,
         "itemCount": 1,
-        "parents": [
-            "Shaku"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 35,

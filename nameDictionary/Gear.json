@@ -91,9 +91,6 @@
     "Advanced Nosam Cutter": {
         "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaserC",
         "itemCount": 1,
-        "parents": [
-            "Sunpoint Plasma Drill"
-        ],
         "buildPrice": 3500,
         "buildTime": 3600,
         "skipBuildTimePrice": 10,
@@ -1047,9 +1044,6 @@
     "Pherliac Pods": {
         "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedBaitBall",
         "itemCount": 1,
-        "parents": [
-            "Potent Pherliac Pods"
-        ],
         "buildPrice": 7500,
         "buildTime": 28800,
         "skipBuildTimePrice": 10,

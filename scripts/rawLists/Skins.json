@@ -1649,9 +1649,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAlt",
         "name": "Arcane Aura Helmet",
         "itemCount": 1,
-        "parents": [
-            "Trinity Aura Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1666,9 +1663,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAlt",
         "name": "Arcane Aurora Helmet",
         "itemCount": 1,
-        "parents": [
-            "Frost Aurora Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1683,9 +1677,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAlt",
         "name": "Arcane Avalon Helmet",
         "itemCount": 1,
-        "parents": [
-            "Excalibur Avalon Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1700,9 +1691,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberHelmetAltB",
         "name": "Arcane Backdraft Helmet",
         "itemCount": 1,
-        "parents": [
-            "Ember Backdraft Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1717,9 +1705,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Asp/AspAltHelmetB",
         "name": "Arcane Chlora Helmet",
         "itemCount": 1,
-        "parents": [
-            "Saryn Chlora Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1734,9 +1719,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmetB",
         "name": "Arcane Chorus Helmet",
         "itemCount": 1,
-        "parents": [
-            "Banshee Chorus Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1751,9 +1733,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagHelmetAlt",
         "name": "Arcane Coil Helmet",
         "itemCount": 1,
-        "parents": [
-            "Mag Coil Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1768,9 +1747,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetAlt",
         "name": "Arcane Esprit Helmet",
         "itemCount": 1,
-        "parents": [
-            "Vauban Esprit Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1785,9 +1761,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiHelmetAlt",
         "name": "Arcane Essence Helmet",
         "itemCount": 1,
-        "parents": [
-            "Loki Essence Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1802,9 +1775,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/AntiAltHelmet",
         "name": "Arcane Flux Helmet",
         "itemCount": 1,
-        "parents": [
-            "Nova Flux Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1819,9 +1789,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetAltB",
         "name": "Arcane Gambit Helmet",
         "itemCount": 1,
-        "parents": [
-            "Vauban Gambit Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1836,9 +1803,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Asp/AspAltHelmet",
         "name": "Arcane Hemlock Helmet",
         "itemCount": 1,
-        "parents": [
-            "Saryn Hemlock Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1853,9 +1817,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Ninja/NinjaHelmetAltB",
         "name": "Arcane Locust Helmet",
         "itemCount": 1,
-        "parents": [
-            "Ash Locust Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1870,9 +1831,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagHelmetAltB",
         "name": "Arcane Mag Gauss Helmet",
         "itemCount": 1,
-        "parents": [
-            "Mag Gauss Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1887,9 +1845,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAlt",
         "name": "Arcane Menticide Helmet",
         "itemCount": 1,
-        "parents": [
-            "Nyx Menticide Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1904,9 +1859,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAltB",
         "name": "Arcane Meridian Helmet",
         "itemCount": 1,
-        "parents": [
-            "Trinity Meridian Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1921,9 +1873,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAltB",
         "name": "Arcane Pendragon Helmet",
         "itemCount": 1,
-        "parents": [
-            "Excalibur Pendragon Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1938,9 +1887,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberHelmetAlt",
         "name": "Arcane Phoenix Helmet",
         "itemCount": 1,
-        "parents": [
-            "Ember Phoenix Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1955,9 +1901,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltHelmetAltB",
         "name": "Arcane Pulse Helmet",
         "itemCount": 1,
-        "parents": [
-            "Volt Pulse Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1972,9 +1915,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmet",
         "name": "Arcane Reverb Helmet",
         "itemCount": 1,
-        "parents": [
-            "Banshee Reverb Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1989,9 +1929,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Ninja/NinjaHelmetAlt",
         "name": "Arcane Scorpion Helmet",
         "itemCount": 1,
-        "parents": [
-            "Ash Scorpion Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -2006,9 +1943,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAltB",
         "name": "Arcane Squall Helmet",
         "itemCount": 1,
-        "parents": [
-            "Frost Squall Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -2023,9 +1957,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltHelmetAlt",
         "name": "Arcane Storm Helmet",
         "itemCount": 1,
-        "parents": [
-            "Volt Storm Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -2040,9 +1971,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiHelmetAltB",
         "name": "Arcane Swindle Helmet",
         "itemCount": 1,
-        "parents": [
-            "Loki Swindle Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -2057,9 +1985,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoHelmetAlt",
         "name": "Arcane Thrak Helmet",
         "itemCount": 1,
-        "parents": [
-            "Rhino Thrak Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -2074,9 +1999,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoHelmetAltB",
         "name": "Arcane Vanguard Helmet",
         "itemCount": 1,
-        "parents": [
-            "Rhino Vanguard Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -2091,9 +2013,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAltB",
         "name": "Arcane Vespa Helmet",
         "itemCount": 1,
-        "parents": [
-            "Nyx Vespa Helmet"
-        ],
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,

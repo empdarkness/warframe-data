@@ -1729,9 +1729,6 @@
         "reloadTime": 2.3,
         "multishot": 10,
         "itemCount": 1,
-        "parents": [
-            "Zarr"
-        ],
         "buildPrice": 30000,
         "buildTime": 86400,
         "skipBuildTimePrice": 40,
@@ -2240,9 +2237,6 @@
         "reloadTime": 2.4000001,
         "multishot": 1,
         "itemCount": 1,
-        "parents": [
-            "Twin Grakatas"
-        ],
         "buildPrice": 25000,
         "buildTime": 86400,
         "skipBuildTimePrice": 30,
@@ -3884,9 +3878,6 @@
         "reloadTime": 2,
         "multishot": 1,
         "itemCount": 1,
-        "parents": [
-            "Panthera"
-        ],
         "buildPrice": 15000,
         "buildTime": 43200,
         "skipBuildTimePrice": 50,
@@ -4136,9 +4127,6 @@
         "reloadTime": 0.60000002,
         "multishot": 1,
         "itemCount": 1,
-        "parents": [
-            "Proboscis Cernos"
-        ],
         "buildPrice": 15000,
         "buildTime": 43200,
         "skipBuildTimePrice": 45,

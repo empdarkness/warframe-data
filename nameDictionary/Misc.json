@@ -221,104 +221,6 @@
     "Alloy Plate": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
         "itemCount": 10,
-        "parents": [
-            "Adrenal Stim",
-            "Akvasto Forest-Camo Skin",
-            "Arcane Aura Helmet",
-            "Arcane Aurora Helmet",
-            "Arcane Avalon Helmet",
-            "Arcane Backdraft Helmet",
-            "Arcane Chlora Helmet",
-            "Arcane Chorus Helmet",
-            "Arcane Coil Helmet",
-            "Arcane Esprit Helmet",
-            "Arcane Essence Helmet",
-            "Arcane Flux Helmet",
-            "Arcane Gambit Helmet",
-            "Arcane Hemlock Helmet",
-            "Arcane Locust Helmet",
-            "Arcane Mag Gauss Helmet",
-            "Arcane Menticide Helmet",
-            "Arcane Meridian Helmet",
-            "Arcane Pendragon Helmet",
-            "Arcane Phoenix Helmet",
-            "Arcane Pulse Helmet",
-            "Arcane Reverb Helmet",
-            "Arcane Scorpion Helmet",
-            "Arcane Squall Helmet",
-            "Arcane Storm Helmet",
-            "Arcane Swindle Helmet",
-            "Arcane Thrak Helmet",
-            "Arcane Vanguard Helmet",
-            "Arcane Vespa Helmet",
-            "Asa Syandana",
-            "Baruuk Meroe Helmet",
-            "Calcifin Stim",
-            "Chroma Amaru Helmet",
-            "Chroma Drac Helmet",
-            "Daedalus Chest Plate",
-            "Daedalus Shoulder Plates",
-            "Daedalus Spurs",
-            "Daman Sugatra",
-            "Detron Shock-Camo Skin",
-            "Edo Chest Plate",
-            "Edo Shin Plates",
-            "Edo Shoulder Plates",
-            "Eos Chest Plate",
-            "Eos Shoulder Plates",
-            "Eos Spurs",
-            "Excalibur Mordred Helmet",
-            "Force Specter",
-            "Fragor Brokk Skin",
-            "Gara Virago Helmet",
-            "Gauss Mag Helmet",
-            "Grendel Glutt Helmet",
-            "Harrow Suffragan Helmet",
-            "Hildryn Asuron Helmet",
-            "Hydroid Ketos Helmet",
-            "Hydroid Triton Helmet",
-            "Inaros Canopic Helmet",
-            "Ivara Zirastra Helmet",
-            "Khora Delphi Helmet",
-            "Loki Enigma Helmet",
-            "Mesa Longhorn Helmet",
-            "Mesa Ovis Helmet",
-            "Mirage Harlequin Helmet",
-            "Nekros Raknis Helmet",
-            "Nekros Shroud Helmet",
-            "Nezha Circa Helmet",
-            "Nezha Jinza Helmet",
-            "Nidus Myxini Helmet",
-            "Nidus Prion Helmet",
-            "Nova Quantum Helmet",
-            "Nova Slipstream Helmet",
-            "Oberon Markhor Helmet",
-            "Oberon Oryx Helmet",
-            "Octavia Cadenza Helmet",
-            "Pazza Sugatra",
-            "Penta Shock-Camo Skin",
-            "Pharoma",
-            "Phase Specter",
-            "Protea Telema Helmet",
-            "Prova Shock-Camo Skin",
-            "Scindo Dagger-Axe Skin",
-            "Scindo Forest-Camo Skin",
-            "Scindo Manticore Skin",
-            "Soma Forest-Camo Skin",
-            "Squad Energy Restore (Medium)",
-            "Squad Shield Restore (Large)",
-            "Squad Shield Restore (Medium)",
-            "Tantu Sugatra",
-            "Titan Extractor Prime",
-            "Titania Aurai Helmet",
-            "Titania Mab Helmet",
-            "Valkyr Bastet Helmet",
-            "Valkyr Kara Helmet",
-            "Vauban Armistice Helmet",
-            "Wisp Gaoth Helmet",
-            "Wukong Macak Helmet",
-            "Yomo Syandana"
-        ],
         "type": "Misc",
         "imageName": "alloy-plate.png",
         "category": "Misc",
@@ -383,9 +285,6 @@
     "Antiserum Injector Fragment": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/SyringeComponent",
         "itemCount": 500,
-        "parents": [
-            "Antiserum Injector"
-        ],
         "type": "Misc",
         "imageName": "antiserum-injector-fragment.png",
         "category": "Misc",
@@ -459,19 +358,6 @@
     "Argon Crystal": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
         "itemCount": 1,
-        "parents": [
-            "Bishamo Cuirass",
-            "Hidden Messages",
-            "Hydroid Ketos Helmet",
-            "Incubator Power Core",
-            "Loki Enigma Helmet",
-            "Nova Slipstream Helmet",
-            "Potent Pherliac Pods",
-            "The Jordas Precept",
-            "The Limbo Theorem",
-            "Uru Syandana",
-            "Xaku Kintsu Helmet"
-        ],
         "type": "Misc",
         "imageName": "argon-crystal.png",
         "category": "Misc",
@@ -854,11 +740,6 @@
     "Biotic Filter": {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
         "itemCount": 20,
-        "parents": [
-            "Bonewidow Capsule",
-            "Voidrig Engine",
-            "Voidrig Weapon Pod"
-        ],
         "type": "Fish Part",
         "imageName": "biotic-filter.png",
         "category": "Misc",
@@ -908,23 +789,6 @@
     "Breath Of The Eidolon": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Eidolonium",
         "itemCount": 30,
-        "parents": [
-            "Ceno Apparel",
-            "Ceno Cuirass",
-            "Ceno Greaves",
-            "Ceno Helmet",
-            "Ceno Pauldrons",
-            "Vahd Apparel",
-            "Vahd Cuirass",
-            "Vahd Greaves",
-            "Vahd Mask",
-            "Vahd Pauldrons",
-            "Zauba Apparel",
-            "Zauba Cuirass",
-            "Zauba Greaves",
-            "Zauba Mask",
-            "Zauba Pauldrons"
-        ],
         "type": "Misc",
         "imageName": "breath-of-the-eidolon.png",
         "category": "Misc",
@@ -940,9 +804,6 @@
     "Brilliant Eidolon Shard": {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardBrilliantItem",
         "itemCount": 10,
-        "parents": [
-            "Eidolon Ephemera"
-        ],
         "type": "Eidolon Shard",
         "imageName": "brilliant-eidolon-shard.png",
         "category": "Misc",
@@ -1052,18 +913,6 @@
     "Charamote Sagan Module": {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishSaganModuleItem",
         "itemCount": 15,
-        "parents": [
-            "Haztech Apparel",
-            "Haztech Cuirass",
-            "Kubrodon Ventkid Apparel",
-            "Kubrodon Ventkid Cuirass",
-            "Outrider Cuirass",
-            "Smelter Apparel",
-            "Smelter Cuirass",
-            "Vent Pobber Ventkid Apparel",
-            "Vent Pobber Ventkid Cuirass",
-            "Vent Rat Cuirass"
-        ],
         "type": "Fish Part",
         "imageName": "charamote-sagan-module.png",
         "category": "Misc",
@@ -1072,10 +921,6 @@
     "Charc Electroplax": {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishAPartItem",
         "itemCount": 45,
-        "parents": [
-            "Fosfor Rahd",
-            "Voidrig Weapon Pod"
-        ],
         "type": "Fish Part",
         "imageName": "charc-electroplax.png",
         "category": "Misc",
@@ -1084,9 +929,6 @@
     "Chitinous Husk": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/JuggernautPartC",
         "itemCount": 1,
-        "parents": [
-            "Pherliac Pods"
-        ],
         "type": "Misc",
         "imageName": "chitinous-husk.png",
         "category": "Misc",
@@ -1095,29 +937,6 @@
     "Circuits": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
         "itemCount": 300,
-        "parents": [
-            "Advanced Nosam Cutter",
-            "Archwing Launcher",
-            "Clotra Stim",
-            "Cosmic Specter",
-            "Dual Zoren Dagger-Axe Skin",
-            "Exergis Shock-Camo Skin",
-            "Faithful Void Offering",
-            "Falcor Shock-Camo Skin",
-            "Focused Nosam Cutter",
-            "Force Specter",
-            "Genetic Code Template",
-            "Humble Void Offering",
-            "Loc-Pin",
-            "Nosam Cutter",
-            "Passionate Void Offering",
-            "Plinx Shock-Camo Skin",
-            "Refract Stim",
-            "Scindo Dagger-Axe Skin",
-            "Shocking Step Ephemera",
-            "Squad Health Restore (Large)",
-            "Sunpoint Plasma Drill"
-        ],
         "type": "Misc",
         "imageName": "circuits.png",
         "category": "Misc",
@@ -1220,16 +1039,6 @@
     "Control Module": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
         "itemCount": 2,
-        "parents": [
-            "Bishamo Helmet",
-            "Ember Immortal Skin",
-            "Excalibur Immortal Skin",
-            "Frost Immortal Skin",
-            "Genetic Code Template",
-            "Incubator Power Core",
-            "Ivara Zirastra Helmet",
-            "Mirage Trivelin Helmet"
-        ],
         "buildPrice": 15000,
         "buildTime": 3600,
         "skipBuildTimePrice": 2,
@@ -1288,9 +1097,6 @@
     "Cranial Foremount": {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
         "itemCount": 2,
-        "parents": [
-            "Bonewidow Engine"
-        ],
         "type": "Fish Part",
         "imageName": "cranial-foremount.png",
         "category": "Misc",
@@ -1335,20 +1141,6 @@
     "Cryotic": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
         "itemCount": 200,
-        "parents": [
-            "Clotra Stim",
-            "Equinox Clisthert Helm",
-            "Equinox Solstice Helmet",
-            "Fomorian Disruptor",
-            "Freezing Step Ephemera",
-            "Garuda Bathory Helmet",
-            "Inaros Anubis Helmet",
-            "Pyrotic Alloy",
-            "Refract Stim",
-            "Revenant Vania Helmet",
-            "Uru Syandana",
-            "Wukong Dasheng Helmet"
-        ],
         "type": "Misc",
         "imageName": "cryotic.png",
         "category": "Misc",
@@ -1357,9 +1149,6 @@
     "Cryptographic Alu": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/RazorbackCipherPart",
         "itemCount": 4,
-        "parents": [
-            "Razorback Cipher"
-        ],
         "type": "Misc",
         "imageName": "cryptographic-alu.png",
         "category": "Misc",
@@ -1376,9 +1165,6 @@
     "Cuthol Tendrils": {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishBPartItem",
         "itemCount": 5,
-        "parents": [
-            "Glappid Bait"
-        ],
         "type": "Fish Part",
         "imageName": "cuthol-tendrils.png",
         "category": "Misc",
@@ -1917,9 +1703,6 @@
     "Eidolon Lens": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/FocusLensOstron",
         "itemCount": 1,
-        "parents": [
-            "Lua Lens"
-        ],
         "buildPrice": 25000,
         "buildTime": 86400,
         "skipBuildTimePrice": 10,
@@ -1933,9 +1716,6 @@
     "Eidolon Madurai Lens": {
         "uniqueName": "/Lotus/Upgrades/Focus/AttackLensOstron",
         "itemCount": 1,
-        "parents": [
-            "Lua Madurai Lens"
-        ],
         "buildPrice": 25000,
         "buildTime": 86400,
         "skipBuildTimePrice": 10,
@@ -1949,9 +1729,6 @@
     "Eidolon Naramon Lens": {
         "uniqueName": "/Lotus/Upgrades/Focus/TacticLensOstron",
         "itemCount": 1,
-        "parents": [
-            "Lua Naramon Lens"
-        ],
         "buildPrice": 25000,
         "buildTime": 86400,
         "skipBuildTimePrice": 10,
@@ -1972,9 +1749,6 @@
     "Eidolon Unairu Lens": {
         "uniqueName": "/Lotus/Upgrades/Focus/WardLensOstron",
         "itemCount": 1,
-        "parents": [
-            "Lua Unairu Lens"
-        ],
         "buildPrice": 25000,
         "buildTime": 86400,
         "skipBuildTimePrice": 10,
@@ -1988,9 +1762,6 @@
     "Eidolon Vazarin Lens": {
         "uniqueName": "/Lotus/Upgrades/Focus/DefenseLensOstron",
         "itemCount": 1,
-        "parents": [
-            "Lua Vazarin Lens"
-        ],
         "buildPrice": 25000,
         "buildTime": 86400,
         "skipBuildTimePrice": 10,
@@ -2004,9 +1775,6 @@
     "Eidolon Zenurik Lens": {
         "uniqueName": "/Lotus/Upgrades/Focus/PowerLensOstron",
         "itemCount": 1,
-        "parents": [
-            "Lua Zenurik Lens"
-        ],
         "buildPrice": 25000,
         "buildTime": 86400,
         "skipBuildTimePrice": 10,
@@ -2396,9 +2164,6 @@
     "Eye-Eye Rotoblade": {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishRotobladeItem",
         "itemCount": 10,
-        "parents": [
-            "Pax Bolt"
-        ],
         "type": "Fish Part",
         "imageName": "eye-eye-rotoblade.png",
         "category": "Misc",
@@ -2441,72 +2206,6 @@
     "Ferrite": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
         "itemCount": 10000,
-        "parents": [
-            "Air Support Charges",
-            "Ancient Healer Specter",
-            "Atterax Desert-Camo Skin",
-            "Axidrol Alloy",
-            "Bishamo Pauldrons",
-            "Bleeding Dragon Key",
-            "Burston Solstice Skin",
-            "Charger Specter",
-            "Cipher",
-            "Clan Key",
-            "Clem Clone",
-            "Control Module",
-            "Coprite Alloy",
-            "Corinth Solstice Skin",
-            "Corrupted Bombard Specter",
-            "Corrupted Lancer Specter",
-            "Decaying Dragon Key",
-            "Diriga Desert-Camo Skin",
-            "Dual Zoren Dagger-Axe Skin",
-            "Ember Immortal Skin",
-            "Excalibur Immortal Skin",
-            "Excalibur Mordred Helmet",
-            "Exergis Shock-Camo Skin",
-            "Extinguished Dragon Key",
-            "Falcor Shock-Camo Skin",
-            "Frost Immortal Skin",
-            "Galatine Solstice Skin",
-            "Grinlok Desert-Camo Skin",
-            "Guandao Solstice Skin",
-            "Guandao Synoid Skin",
-            "Hek Desert-Camo Skin",
-            "Hobbled Dragon Key",
-            "Ignis Solstice Skin",
-            "Infested Catalyst",
-            "Karak Desert-Camo Skin",
-            "Lanzo Fishing Spear",
-            "Lenz Solstice Skin",
-            "Limbo Magrite Helmet",
-            "Luminous Dye",
-            "Marelok Desert-Camo Skin",
-            "Moa Specter",
-            "Mutalist Alad V Assassinate",
-            "Nosam Cutter",
-            "Plinx Shock-Camo Skin",
-            "Pyrana Synoid Skin",
-            "Roller Specter",
-            "Rubico Synoid Skin",
-            "Scindo Solstice Skin",
-            "Shield Osprey Specter",
-            "Shockprod Fishing Spear",
-            "Squad Ammo Restore (Medium)",
-            "Squad Energy Restore (Medium)",
-            "Squad Health Restore (Medium)",
-            "Squad Shield Restore (Large)",
-            "Squad Shield Restore (Medium)",
-            "Stunna Fishing Spear",
-            "Tatsu Solstice Skin",
-            "Titan Extractor",
-            "Tonkor Desert-Camo Skin",
-            "Tulok Fishing Spear",
-            "Uru Syandana",
-            "Vapor Specter",
-            "Vauban Armistice Helmet",
-            "Xaku Kintsu Helmet"
-        ],
         "type": "Misc",
         "imageName": "ferrite.png",
         "category": "Misc",
@@ -2551,14 +2250,6 @@
     "Fish Meat": {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
         "itemCount": 20,
-        "parents": [
-            "Cuthol Bait",
-            "Glappid Bait",
-            "Murkray Bait",
-            "Norg Bait",
-            "Peppered Bait",
-            "Twilight Bait"
-        ],
         "type": "Fish Part",
         "imageName": "fish-meat.png",
         "category": "Misc",
@@ -2567,10 +2258,6 @@
     "Fish Oil": {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
         "itemCount": 10,
-        "parents": [
-            "Archwing Launcher",
-            "Twilight Bait"
-        ],
         "type": "Fish Part",
         "imageName": "fish-oil.png",
         "category": "Misc",
@@ -2579,15 +2266,6 @@
     "Fish Scales": {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem",
         "itemCount": 30,
-        "parents": [
-            "Ceno Apparel",
-            "Vahd Apparel",
-            "Zauba Apparel",
-            "Zauba Cuirass",
-            "Zauba Greaves",
-            "Zauba Mask",
-            "Zauba Pauldrons"
-        ],
         "type": "Fish Part",
         "imageName": "fish-scales.png",
         "category": "Misc",
@@ -2732,18 +2410,6 @@
     "Gallium": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
         "itemCount": 1,
-        "parents": [
-            "Chroma Amaru Helmet",
-            "Cosmic Specter",
-            "Fragor Brokk Skin",
-            "Nova Slipstream Helmet",
-            "Razorback Cipher",
-            "Scindo Manticore Skin",
-            "Synthula",
-            "Thaumic Distillate",
-            "Venerdo Alloy",
-            "Wukong Macak Helmet"
-        ],
         "buildPrice": 15000,
         "buildTime": 3600,
         "skipBuildTimePrice": 2,
@@ -2964,11 +2630,6 @@
     "Goopolla Spleen": {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishBPartItem",
         "itemCount": 10,
-        "parents": [
-            "Cuthol Bait",
-            "Fosfor Blau",
-            "Murkray Bait"
-        ],
         "type": "Fish Part",
         "imageName": "goopolla-spleen.png",
         "category": "Misc",
@@ -3221,11 +2882,6 @@
     "Hexenon": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/ConcentratedGas",
         "itemCount": 250,
-        "parents": [
-            "Bishamo Helmet",
-            "Cortege Stock",
-            "Morgha Stock"
-        ],
         "type": "Misc",
         "imageName": "hexenon.png",
         "category": "Misc",
@@ -3343,9 +2999,6 @@
     "Infected Palpators": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/JuggernautPartB",
         "itemCount": 1,
-        "parents": [
-            "Pherliac Pods"
-        ],
         "type": "Misc",
         "imageName": "infected-palpators.png",
         "category": "Misc",
@@ -3571,12 +3224,6 @@
     "Karkina Antenna": {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem",
         "itemCount": 5,
-        "parents": [
-            "Fosfor Blau",
-            "Norg Bait",
-            "Vahd Greaves",
-            "Vasca Curative"
-        ],
         "type": "Fish Part",
         "imageName": "karkina-antenna.png",
         "category": "Misc",
@@ -3688,9 +3335,6 @@
     "Kriller Thermal Laser": {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishThermalLaserItem",
         "itemCount": 10,
-        "parents": [
-            "Pax Soar"
-        ],
         "type": "Fish Part",
         "imageName": "kriller-thermal-laser.png",
         "category": "Misc",
@@ -3752,12 +3396,6 @@
     "Kuva": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Kuva",
         "itemCount": 500,
-        "parents": [
-            "Bishamo Cuirass",
-            "Bleeding Body Ephemera",
-            "Naberus Ephemera",
-            "Umbra Forma"
-        ],
         "type": "Misc",
         "imageName": "kuva.png",
         "category": "Misc",
@@ -3983,15 +3621,6 @@
     "Longwinder Lathe Coagulant": {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishLatheCoogulantItem",
         "itemCount": 5,
-        "parents": [
-            "Haztech Pauldrons",
-            "Kubrodon Ventkid Pauldrons",
-            "Outrider Pauldrons",
-            "Pax Charge",
-            "Smelter Pauldrons",
-            "Vent Pobber Ventkid Pauldrons",
-            "Vent Rat Pauldrons"
-        ],
         "type": "Fish Part",
         "imageName": "longwinder-lathe-coagulant.png",
         "category": "Misc",
@@ -4232,9 +3861,6 @@
         "uniqueName": "/Lotus/Types/Keys/BardQuest/BardQuestSequencerPartA",
         "excludeFromCodex": true,
         "itemCount": 1,
-        "parents": [
-            "Mandachord"
-        ],
         "type": "Key",
         "imageName": "mandachord-body.png",
         "category": "Misc",
@@ -4244,9 +3870,6 @@
         "uniqueName": "/Lotus/Types/Keys/BardQuest/BardQuestSequencerPartC",
         "excludeFromCodex": true,
         "itemCount": 1,
-        "parents": [
-            "Mandachord"
-        ],
         "type": "Key",
         "imageName": "mandachord-bridge.png",
         "category": "Misc",
@@ -4256,9 +3879,6 @@
         "uniqueName": "/Lotus/Types/Keys/BardQuest/BardQuestSequencerPartB",
         "excludeFromCodex": true,
         "itemCount": 1,
-        "parents": [
-            "Mandachord"
-        ],
         "type": "Key",
         "imageName": "mandachord-fret.png",
         "category": "Misc",
@@ -4407,9 +4027,6 @@
     "Mirewinder Parallel Biode": {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishParralelBiodeItem",
         "itemCount": 10,
-        "parents": [
-            "Pax Charge"
-        ],
         "type": "Fish Part",
         "imageName": "mirewinder-parallel-biode.png",
         "category": "Misc",
@@ -4454,45 +4071,6 @@
     "Morphics": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
         "itemCount": 1,
-        "parents": [
-            "Air Support Charges",
-            "Asa Syandana",
-            "Atterax Desert-Camo Skin",
-            "Auroxium Alloy",
-            "Bishamo Pauldrons",
-            "Blazing Step Ephemera",
-            "Burston Solstice Skin",
-            "Clan Key",
-            "Corinth Solstice Skin",
-            "Diriga Desert-Camo Skin",
-            "Dual Zoren Dagger-Axe Skin",
-            "Excalibur Mordred Helmet",
-            "Exergis Shock-Camo Skin",
-            "Falcor Shock-Camo Skin",
-            "Forma",
-            "Galatine Solstice Skin",
-            "Grinlok Desert-Camo Skin",
-            "Guandao Solstice Skin",
-            "Guandao Synoid Skin",
-            "Hek Desert-Camo Skin",
-            "Hespazym Alloy",
-            "Hydroid Ketos Helmet",
-            "Ignis Solstice Skin",
-            "Karak Desert-Camo Skin",
-            "Lenz Solstice Skin",
-            "Marelok Desert-Camo Skin",
-            "Nightfall Apothic",
-            "Plinx Shock-Camo Skin",
-            "Pyrana Synoid Skin",
-            "Rubico Synoid Skin",
-            "Scindo Dagger-Axe Skin",
-            "Scindo Solstice Skin",
-            "Sunrise Apothic",
-            "Synthula",
-            "Tatsu Solstice Skin",
-            "Tonkor Desert-Camo Skin",
-            "Twilight Apothic"
-        ],
         "buildPrice": 15000,
         "buildTime": 3600,
         "skipBuildTimePrice": 2,
@@ -4506,10 +4084,6 @@
     "Mortus Horn": {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishBPartItem",
         "itemCount": 5,
-        "parents": [
-            "Ceno Greaves",
-            "Murkray Bait"
-        ],
         "type": "Fish Part",
         "imageName": "mortus-horn.png",
         "category": "Misc",
@@ -4570,9 +4144,6 @@
     "Murkray Liver": {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothRareFishAPartItem",
         "itemCount": 5,
-        "parents": [
-            "Cuthol Bait"
-        ],
         "type": "Fish Part",
         "imageName": "murkray-liver.png",
         "category": "Misc",
@@ -4590,9 +4161,6 @@
     "Mutalist Alad V Nav Coordinate": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/InfestedAladCoordinate",
         "itemCount": 1,
-        "parents": [
-            "Mutalist Alad V Assassinate"
-        ],
         "type": "Misc",
         "imageName": "mutalist-alad-v-nav-coordinate.png",
         "category": "Misc",
@@ -4622,47 +4190,6 @@
     "Nano Spores": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
         "itemCount": 25000,
-        "parents": [
-            "Ancient Healer Specter",
-            "Charger Specter",
-            "Clem Clone",
-            "Clotra Stim",
-            "Control Module",
-            "Corrupted Bombard Specter",
-            "Corrupted Lancer Specter",
-            "Cosmic Specter",
-            "Fomorian Disruptor",
-            "Gallium",
-            "Genetic Code Template",
-            "Incubator Power Core",
-            "Infested Catalyst",
-            "Ivara Loxley Helmet",
-            "Mesa Longhorn Helmet",
-            "Moa Specter",
-            "Morphics",
-            "Mutalist Alad V Assassinate",
-            "Nezha Circa Helmet",
-            "Nezha Jinza Helmet",
-            "Patient Zero",
-            "Phase Specter",
-            "Refract Stim",
-            "Roller Specter",
-            "Sands Of Inaros",
-            "Shield Osprey Specter",
-            "Squad Ammo Restore (Large)",
-            "Squad Ammo Restore (Small)",
-            "Squad Energy Restore (Large)",
-            "Squad Energy Restore (Small)",
-            "Squad Health Restore (Large)",
-            "Squad Health Restore (Medium)",
-            "Squad Health Restore (Small)",
-            "Squad Shield Restore (Small)",
-            "Tempered Bapholite",
-            "Titan Extractor Prime",
-            "Umbra Forma",
-            "Zephyr Cierzo Helmet",
-            "Zephyr Tengu Helmet"
-        ],
         "type": "Misc",
         "imageName": "nano-spores.png",
         "category": "Misc",
@@ -4678,9 +4205,6 @@
     "Nav Coordinate": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NavCode",
         "itemCount": 6,
-        "parents": [
-            "Mutalist Alad V Assassinate"
-        ],
         "type": "Misc",
         "imageName": "nav-coordinate.png",
         "category": "Misc",
@@ -4732,19 +4256,6 @@
     "Neural Sensors": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/NeuralSensor",
         "itemCount": 1,
-        "parents": [
-            "Asa Syandana",
-            "Forma",
-            "Inaros Canopic Helmet",
-            "Limbo Aristeas Helmet",
-            "Mirage Harlequin Helmet",
-            "Nekros Raknis Helmet",
-            "Nekros Shroud Helmet",
-            "The Jordas Precept",
-            "The Limbo Theorem",
-            "Uru Syandana",
-            "Vauban Armistice Helmet"
-        ],
         "buildPrice": 15000,
         "buildTime": 3600,
         "skipBuildTimePrice": 2,
@@ -4758,81 +4269,6 @@
     "Neurodes": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
         "itemCount": 1,
-        "parents": [
-            "Akvasto Forest-Camo Skin",
-            "Arcane Aura Helmet",
-            "Arcane Aurora Helmet",
-            "Arcane Avalon Helmet",
-            "Arcane Backdraft Helmet",
-            "Arcane Chlora Helmet",
-            "Arcane Chorus Helmet",
-            "Arcane Coil Helmet",
-            "Arcane Esprit Helmet",
-            "Arcane Essence Helmet",
-            "Arcane Flux Helmet",
-            "Arcane Gambit Helmet",
-            "Arcane Hemlock Helmet",
-            "Arcane Locust Helmet",
-            "Arcane Mag Gauss Helmet",
-            "Arcane Menticide Helmet",
-            "Arcane Meridian Helmet",
-            "Arcane Pendragon Helmet",
-            "Arcane Phoenix Helmet",
-            "Arcane Pulse Helmet",
-            "Arcane Reverb Helmet",
-            "Arcane Scorpion Helmet",
-            "Arcane Squall Helmet",
-            "Arcane Storm Helmet",
-            "Arcane Swindle Helmet",
-            "Arcane Thrak Helmet",
-            "Arcane Vanguard Helmet",
-            "Arcane Vespa Helmet",
-            "Atlas Tartarus Helmet",
-            "Baruuk Meroe Helmet",
-            "Bishamo Helmet",
-            "Bishamo Pauldrons",
-            "Chroma Drac Helmet",
-            "Daedalus Chest Plate",
-            "Daedalus Shoulder Plates",
-            "Daedalus Spurs",
-            "Daman Sugatra",
-            "Detron Shock-Camo Skin",
-            "Edo Chest Plate",
-            "Edo Shin Plates",
-            "Edo Shoulder Plates",
-            "Eos Chest Plate",
-            "Eos Shoulder Plates",
-            "Eos Spurs",
-            "Forma",
-            "Gara Virago Helmet",
-            "Gauss Mag Helmet",
-            "Grendel Glutt Helmet",
-            "Harrow Suffragan Helmet",
-            "Hildryn Asuron Helmet",
-            "Hydroid Triton Helmet",
-            "Limbo Magrite Helmet",
-            "Loki Enigma Helmet",
-            "Mesa Longhorn Helmet",
-            "Mesa Ovis Helmet",
-            "Nova Quantum Helmet",
-            "Oberon Markhor Helmet",
-            "Oberon Oryx Helmet",
-            "Octavia Cadenza Helmet",
-            "Patient Zero",
-            "Pazza Sugatra",
-            "Penta Shock-Camo Skin",
-            "Prova Shock-Camo Skin",
-            "Scindo Forest-Camo Skin",
-            "Soma Forest-Camo Skin",
-            "Synthula",
-            "Tantu Sugatra",
-            "Umbra Forma",
-            "Valkyr Bastet Helmet",
-            "Valkyr Kara Helmet",
-            "Wisp Gaoth Helmet",
-            "Yomo Syandana",
-            "Zephyr Tengu Helmet"
-        ],
         "buildPrice": 15000,
         "buildTime": 3600,
         "skipBuildTimePrice": 2,
@@ -4871,24 +4307,6 @@
     "Nitain Extract": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
         "itemCount": 1,
-        "parents": [
-            "Atlas Shikoro Helmet",
-            "Bishamo Cuirass",
-            "Inaros Anubis Helmet",
-            "Inaros Canopic Helmet",
-            "Ivara Loxley Helmet",
-            "Ivara Zirastra Helmet",
-            "Khora Delphi Helmet",
-            "Nezha Circa Helmet",
-            "Nezha Jinza Helmet",
-            "Nidus Myxini Helmet",
-            "Nidus Prion Helmet",
-            "Sands Of Inaros",
-            "The Silver Grove",
-            "Titania Aurai Helmet",
-            "Titania Mab Helmet",
-            "Wukong Dasheng Helmet"
-        ],
         "type": "Misc",
         "imageName": "nitain-extract.png",
         "category": "Misc",
@@ -4925,10 +4343,6 @@
     "Norg Brain": {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishAPartItem",
         "itemCount": 5,
-        "parents": [
-            "Glappid Bait",
-            "Vasca Curative"
-        ],
         "type": "Fish Part",
         "imageName": "norg-brain.png",
         "category": "Misc",
@@ -4979,9 +4393,6 @@
     "Omega Isotope": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OmegaIsotope",
         "itemCount": 4,
-        "parents": [
-            "Fomorian Disruptor"
-        ],
         "type": "Misc",
         "imageName": "omega-isotope.png",
         "category": "Misc",
@@ -5060,106 +4471,6 @@
     "Orokin Cell": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
         "itemCount": 1,
-        "parents": [
-            "Akvasto Forest-Camo Skin",
-            "Arcane Aura Helmet",
-            "Arcane Aurora Helmet",
-            "Arcane Avalon Helmet",
-            "Arcane Backdraft Helmet",
-            "Arcane Chlora Helmet",
-            "Arcane Chorus Helmet",
-            "Arcane Coil Helmet",
-            "Arcane Esprit Helmet",
-            "Arcane Essence Helmet",
-            "Arcane Flux Helmet",
-            "Arcane Gambit Helmet",
-            "Arcane Hemlock Helmet",
-            "Arcane Locust Helmet",
-            "Arcane Mag Gauss Helmet",
-            "Arcane Menticide Helmet",
-            "Arcane Meridian Helmet",
-            "Arcane Pendragon Helmet",
-            "Arcane Phoenix Helmet",
-            "Arcane Pulse Helmet",
-            "Arcane Reverb Helmet",
-            "Arcane Scorpion Helmet",
-            "Arcane Squall Helmet",
-            "Arcane Storm Helmet",
-            "Arcane Swindle Helmet",
-            "Arcane Thrak Helmet",
-            "Arcane Vanguard Helmet",
-            "Arcane Vespa Helmet",
-            "Atlas Shikoro Helmet",
-            "Atlas Tartarus Helmet",
-            "Baruuk Meroe Helmet",
-            "Bishamo Cuirass",
-            "Bishamo Greaves",
-            "Bishamo Helmet",
-            "Bishamo Pauldrons",
-            "Daedalus Chest Plate",
-            "Daedalus Shoulder Plates",
-            "Daedalus Spurs",
-            "Daman Sugatra",
-            "Detron Shock-Camo Skin",
-            "Edo Chest Plate",
-            "Edo Shin Plates",
-            "Edo Shoulder Plates",
-            "Eos Chest Plate",
-            "Eos Shoulder Plates",
-            "Eos Spurs",
-            "Equinox Clisthert Helm",
-            "Equinox Solstice Helmet",
-            "Excalibur Mordred Helmet",
-            "Forma",
-            "Gara Virago Helmet",
-            "Garuda Bathory Helmet",
-            "Gauss Mag Helmet",
-            "Grendel Glutt Helmet",
-            "Harrow Suffragan Helmet",
-            "Hildryn Asuron Helmet",
-            "Hydroid Triton Helmet",
-            "Inaros Anubis Helmet",
-            "Khora Delphi Helmet",
-            "Limbo Aristeas Helmet",
-            "Limbo Magrite Helmet",
-            "Mesa Longhorn Helmet",
-            "Mesa Ovis Helmet",
-            "Mirage Harlequin Helmet",
-            "Mirage Trivelin Helmet",
-            "Nekros Raknis Helmet",
-            "Nekros Shroud Helmet",
-            "Nezha Circa Helmet",
-            "Nezha Jinza Helmet",
-            "Nidus Myxini Helmet",
-            "Nidus Prion Helmet",
-            "Nova Quantum Helmet",
-            "Oberon Markhor Helmet",
-            "Oberon Oryx Helmet",
-            "Octavia Cadenza Helmet",
-            "Orokin Catalyst",
-            "Pazza Sugatra",
-            "Penta Shock-Camo Skin",
-            "Protea Mavv Helmet",
-            "Protea Telema Helmet",
-            "Prova Shock-Camo Skin",
-            "Revenant Vania Helmet",
-            "Scindo Forest-Camo Skin",
-            "Smoking Body Ephemera",
-            "Soma Forest-Camo Skin",
-            "Tantu Sugatra",
-            "The Jordas Precept",
-            "The Limbo Theorem",
-            "Titania Aurai Helmet",
-            "Titania Mab Helmet",
-            "Valkyr Bastet Helmet",
-            "Valkyr Kara Helmet",
-            "Vauban Armistice Helmet",
-            "Wisp Gaoth Helmet",
-            "Wukong Dasheng Helmet",
-            "Yomo Syandana",
-            "Zephyr Cierzo Helmet",
-            "Zephyr Tengu Helmet"
-        ],
         "buildPrice": 15000,
         "buildTime": 3600,
         "skipBuildTimePrice": 2,
@@ -5173,9 +4484,6 @@
     "Orokin Cipher": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/MirageCode",
         "itemCount": 5,
-        "parents": [
-            "Hidden Messages"
-        ],
         "type": "Misc",
         "imageName": "orokin-cipher.png",
         "category": "Misc",
@@ -5247,25 +4555,6 @@
     "Oxium": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
         "itemCount": 600,
-        "parents": [
-            "Asa Syandana",
-            "Atlas Shikoro Helmet",
-            "Atlas Tartarus Helmet",
-            "Auroxium Alloy",
-            "Chroma Amaru Helmet",
-            "Chroma Drac Helmet",
-            "Distilling Extractor",
-            "Distilling Extractor Prime",
-            "Equinox Clisthert Helm",
-            "Equinox Solstice Helmet",
-            "Garuda Bathory Helmet",
-            "Hidden Messages",
-            "Ivara Loxley Helmet",
-            "Revenant Vania Helmet",
-            "Sands Of Inaros",
-            "Wukong Macak Helmet",
-            "Zephyr Cierzo Helmet"
-        ],
         "type": "Misc",
         "imageName": "oxium.png",
         "category": "Misc",
@@ -5539,33 +4828,6 @@
     "Plastids": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
         "itemCount": 300,
-        "parents": [
-            "Adramal Alloy",
-            "Adrenal Stim",
-            "Air Support Charges",
-            "Calcifin Stim",
-            "Cosmic Specter",
-            "Fersteel Alloy",
-            "Force Specter",
-            "Hespazym Alloy",
-            "Hydroid Ketos Helmet",
-            "Inaros Anubis Helmet",
-            "Inaros Canopic Helmet",
-            "Infested Catalyst",
-            "Ivara Zirastra Helmet",
-            "Limbo Aristeas Helmet",
-            "Limbo Magrite Helmet",
-            "Loc-Pin",
-            "Loki Enigma Helmet",
-            "Mirage Harlequin Helmet",
-            "Mirage Trivelin Helmet",
-            "Nova Slipstream Helmet",
-            "Patient Zero",
-            "The Silver Grove",
-            "Travocyte Alloy",
-            "Wukong Dasheng Helmet",
-            "Zephyr Tengu Helmet"
-        ],
         "type": "Misc",
         "imageName": "plastids.png",
         "category": "Misc",
@@ -5673,9 +4935,6 @@
     "Pulsating Tubercles": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/JuggernautPartA",
         "itemCount": 1,
-        "parents": [
-            "Pherliac Pods"
-        ],
         "type": "Misc",
         "imageName": "pulsating-tubercles.png",
         "category": "Misc",
@@ -5982,36 +5241,6 @@
     "Rubedo": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
         "itemCount": 300,
-        "parents": [
-            "Atterax Desert-Camo Skin",
-            "Axidrol Alloy",
-            "Burston Solstice Skin",
-            "Coprite Alloy",
-            "Corinth Solstice Skin",
-            "Devolved Namalon",
-            "Diriga Desert-Camo Skin",
-            "Fersteel Alloy",
-            "Fragor Brokk Skin",
-            "Galatine Solstice Skin",
-            "Grinlok Desert-Camo Skin",
-            "Guandao Solstice Skin",
-            "Guandao Synoid Skin",
-            "Hek Desert-Camo Skin",
-            "Ignis Solstice Skin",
-            "Ivara Loxley Helmet",
-            "Karak Desert-Camo Skin",
-            "Lenz Solstice Skin",
-            "Marelok Desert-Camo Skin",
-            "Mesa Ovis Helmet",
-            "Pyrana Synoid Skin",
-            "Pyrotic Alloy",
-            "Rubico Synoid Skin",
-            "Scindo Solstice Skin",
-            "Tatsu Solstice Skin",
-            "Tonkor Desert-Camo Skin",
-            "Venerdo Alloy",
-            "Zephyr Cierzo Helmet"
-        ],
         "type": "Misc",
         "imageName": "rubedo.png",
         "category": "Misc",
@@ -6158,9 +5387,6 @@
     "Scrap": {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
         "itemCount": 45,
-        "parents": [
-            "Bonewidow Weapon Pod"
-        ],
         "type": "Fish Part",
         "imageName": "scrap.png",
         "category": "Misc",
@@ -6284,12 +5510,6 @@
     "Seram Beetle Shell": {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightLegendaryFishAPartItem",
         "itemCount": 2,
-        "parents": [
-            "Ceno Cuirass",
-            "Ceno Helmet",
-            "Vahd Cuirass",
-            "Vahd Mask"
-        ],
         "type": "Fish Part",
         "imageName": "seram-beetle-shell.png",
         "category": "Misc",
@@ -6306,9 +5526,6 @@
     "Severed Bile Sac": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/JuggernautPartD",
         "itemCount": 1,
-        "parents": [
-            "Pherliac Pods"
-        ],
         "type": "Misc",
         "imageName": "severed-bile-sac.png",
         "category": "Misc",
@@ -6317,11 +5534,6 @@
     "Sharrac Teeth": {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",
         "itemCount": 5,
-        "parents": [
-            "Ceno Pauldrons",
-            "Fosfor Rahd",
-            "Norg Bait"
-        ],
         "type": "Fish Part",
         "imageName": "sharrac-teeth.png",
         "category": "Misc",
@@ -6504,9 +5716,6 @@
     "Somatic Fibers": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/MemoryCryptoFragment",
         "itemCount": 5,
-        "parents": [
-            "Lua Lens"
-        ],
         "type": "Misc",
         "imageName": "somatic-fibers.png",
         "category": "Misc",
@@ -6534,16 +5743,6 @@
     "Spinal Core Section": {
         "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
         "itemCount": 20,
-        "parents": [
-            "Bonewidow Weapon Pod",
-            "Cortege Barrel",
-            "Loid Sentinel Mask",
-            "Loid Sentinel Skin",
-            "Loid Sentinel Tail",
-            "Loid Sentinel Wing",
-            "Morgha Barrel",
-            "Voidrig Capsule"
-        ],
         "type": "Fish Part",
         "imageName": "spinal-core-section.png",
         "category": "Misc",
@@ -6853,15 +6052,6 @@
     "Synathid Ecosynth Analyzer": {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEcosynthAnalyzerItem",
         "itemCount": 5,
-        "parents": [
-            "Haztech Mask",
-            "Kubrodon Ventkid Mask",
-            "Outrider Mask",
-            "Pax Soar",
-            "Smelter Mask",
-            "Vent Pobber Ventkid Mask",
-            "Vent Rat Mask"
-        ],
         "type": "Fish Part",
         "imageName": "synathid-ecosynth-analyzer.png",
         "category": "Misc",
@@ -6877,12 +6067,6 @@
     "Synthula": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Eventium",
         "itemCount": 2,
-        "parents": [
-            "Adrenal Stim",
-            "Calcifin Stim",
-            "Clotra Stim",
-            "Refract Stim"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 1,
@@ -6919,23 +6103,6 @@
     "Tellurium": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
         "itemCount": 2,
-        "parents": [
-            "Antiserum Injector",
-            "Bishamo Greaves",
-            "Chroma Amaru Helmet",
-            "Chroma Drac Helmet",
-            "Equinox Clisthert Helm",
-            "Equinox Solstice Helmet",
-            "Garuda Bathory Helmet",
-            "Haztech Greaves",
-            "Kubrodon Ventkid Greaves",
-            "Outrider Greaves",
-            "Revenant Vania Helmet",
-            "Smelter Greaves",
-            "Vent Pobber Ventkid Greaves",
-            "Vent Rat Greaves",
-            "Wukong Macak Helmet"
-        ],
         "type": "Misc",
         "imageName": "tellurium.png",
         "category": "Misc",
@@ -7045,10 +6212,6 @@
     "Tink Dissipator Coil": {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
         "itemCount": 15,
-        "parents": [
-            "Cortege Receiver",
-            "Morgha Receiver"
-        ],
         "type": "Fish Part",
         "imageName": "tink-dissipator-coil.png",
         "category": "Misc",
@@ -7125,10 +6288,6 @@
     "Tralok Eyes": {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishAPartItem",
         "itemCount": 5,
-        "parents": [
-            "Murkray Bait",
-            "Vahd Pauldrons"
-        ],
         "type": "Fish Part",
         "imageName": "tralok-eyes.png",
         "category": "Misc",
@@ -7156,15 +6315,6 @@
     "Tromyzon Entroplasma": {
         "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEntroplasmaItem",
         "itemCount": 5,
-        "parents": [
-            "Haztech Greaves",
-            "Kubrodon Ventkid Greaves",
-            "Outrider Greaves",
-            "Pax Bolt",
-            "Smelter Greaves",
-            "Vent Pobber Ventkid Greaves",
-            "Vent Rat Greaves"
-        ],
         "type": "Fish Part",
         "imageName": "tromyzon-entroplasma.png",
         "category": "Misc",
@@ -7598,15 +6748,6 @@
     "Vitus Essence": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/Elitium",
         "itemCount": 1,
-        "parents": [
-            "Ayatan Amber Star",
-            "Blazing Step Ephemera",
-            "Bleeding Body Ephemera",
-            "Freezing Step Ephemera",
-            "Seeding Step Ephemera",
-            "Shocking Step Ephemera",
-            "Smoking Body Ephemera"
-        ],
         "type": "Misc",
         "imageName": "vitus-essence.png",
         "category": "Misc",
@@ -7646,12 +6787,6 @@
     "Void Traces": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/VoidTearDrop",
         "itemCount": 10,
-        "parents": [
-            "Bleeding Dragon Key",
-            "Decaying Dragon Key",
-            "Extinguished Dragon Key",
-            "Hobbled Dragon Key"
-        ],
         "type": "Misc",
         "imageName": "void-traces.png",
         "category": "Misc",

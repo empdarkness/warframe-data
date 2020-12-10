@@ -76,12 +76,6 @@
     "Adramal Alloy": {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem",
         "itemCount": 80,
-        "parents": [
-            "Bonewidow Engine",
-            "Cortege Barrel",
-            "Morgha Barrel",
-            "Voidrig Casing"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -96,10 +90,6 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAItem",
         "excludeFromCodex": true,
         "itemCount": 20,
-        "parents": [
-            "Adramal Alloy",
-            "Xaku Kintsu Helmet"
-        ],
         "type": "Gem",
         "imageName": "adramalium.png",
         "category": "Resources",
@@ -116,9 +106,6 @@
     "Amarast": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemAItem",
         "itemCount": 6,
-        "parents": [
-            "Star Amarast"
-        ],
         "type": "Gem",
         "imageName": "amarast.png",
         "category": "Resources",
@@ -161,9 +148,6 @@
     "Auron": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAItem",
         "itemCount": 20,
-        "parents": [
-            "Auroxium Alloy"
-        ],
         "type": "Gem",
         "imageName": "auron.png",
         "category": "Resources",
@@ -172,11 +156,6 @@
     "Auroxium Alloy": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAAlloyAItem",
         "itemCount": 50,
-        "parents": [
-            "Ceno Helmet",
-            "Vahd Mask",
-            "Zauba Mask"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -190,9 +169,6 @@
     "Axidite": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBItem",
         "itemCount": 20,
-        "parents": [
-            "Axidrol Alloy"
-        ],
         "type": "Gem",
         "imageName": "axidite.png",
         "category": "Resources",
@@ -213,9 +189,6 @@
     "Azurite": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemAItem",
         "itemCount": 10,
-        "parents": [
-            "Tear Azurite"
-        ],
         "type": "Gem",
         "imageName": "azurite.png",
         "category": "Resources",
@@ -225,9 +198,6 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBItem",
         "excludeFromCodex": true,
         "itemCount": 20,
-        "parents": [
-            "Tempered Bapholite"
-        ],
         "type": "Gem",
         "imageName": "bapholite.png",
         "category": "Resources",
@@ -296,10 +266,6 @@
     "Cabochon Embolos": {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBCutItem",
         "itemCount": 10,
-        "parents": [
-            "Cortege Stock",
-            "Morgha Stock"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -313,18 +279,6 @@
     "Calda Toroid": {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem",
         "itemCount": 5,
-        "parents": [
-            "Haztech Apparel",
-            "Haztech Cuirass",
-            "Kubrodon Ventkid Apparel",
-            "Kubrodon Ventkid Cuirass",
-            "Outrider Cuirass",
-            "Smelter Apparel",
-            "Smelter Cuirass",
-            "Vent Pobber Ventkid Apparel",
-            "Vent Pobber Ventkid Cuirass",
-            "Vent Rat Cuirass"
-        ],
         "type": "Resource",
         "imageName": "calda-toroid.png",
         "category": "Resources",
@@ -333,9 +287,6 @@
     "Carbides": {
         "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
         "itemCount": 2000,
-        "parents": [
-            "Protea Telema Helmet"
-        ],
         "buildPrice": 1000,
         "buildTime": 120,
         "skipBuildTimePrice": 5,
@@ -363,13 +314,6 @@
     "Cetus Wisp": {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/CetusWispItem",
         "itemCount": 15,
-        "parents": [
-            "Zauba Apparel",
-            "Zauba Cuirass",
-            "Zauba Greaves",
-            "Zauba Mask",
-            "Zauba Pauldrons"
-        ],
         "type": "Resource",
         "imageName": "cetus-wisp.png",
         "category": "Resources",
@@ -378,9 +322,6 @@
     "Condroc Wing": {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
         "itemCount": 5,
-        "parents": [
-            "Naberus Ephemera"
-        ],
         "type": "Resource",
         "imageName": "condroc-wing.png",
         "category": "Resources",
@@ -401,12 +342,6 @@
     "Coprite Alloy": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBAlloyBItem",
         "itemCount": 100,
-        "parents": [
-            "Ceno Pauldrons",
-            "Peram Fishing Spear",
-            "Vahd Pauldrons",
-            "Zauba Pauldrons"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -420,9 +355,6 @@
     "Coprun": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBItem",
         "itemCount": 20,
-        "parents": [
-            "Coprite Alloy"
-        ],
         "type": "Gem",
         "imageName": "coprun.png",
         "category": "Resources",
@@ -481,9 +413,6 @@
     "Crimzian": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareGemAItem",
         "itemCount": 6,
-        "parents": [
-            "Star Crimzian"
-        ],
         "type": "Gem",
         "imageName": "crimzian.png",
         "category": "Resources",
@@ -511,9 +440,6 @@
     "Dagonic": {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemBItem",
         "itemCount": 10,
-        "parents": [
-            "Purged Dagonic"
-        ],
         "type": "Gem",
         "imageName": "dagonic.png",
         "category": "Resources",
@@ -536,12 +462,6 @@
     "Damaged Necramech Pod": {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
         "itemCount": 1,
-        "parents": [
-            "Loid Sentinel Mask",
-            "Loid Sentinel Skin",
-            "Loid Sentinel Tail",
-            "Loid Sentinel Wing"
-        ],
         "type": "Resource",
         "imageName": "damaged-necramech-pod.png",
         "category": "Resources",
@@ -586,11 +506,6 @@
     "Detonite Ampule": {
         "uniqueName": "/Lotus/Types/Items/Research/ChemFragment",
         "itemCount": 10,
-        "parents": [
-            "Detonite Injector",
-            "Gallos Rods",
-            "Komms"
-        ],
         "type": "Resource",
         "imageName": "detonite-ampule.png",
         "category": "Resources",
@@ -611,9 +526,6 @@
     "Devar": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBItem",
         "itemCount": 10,
-        "parents": [
-            "Esher Devar"
-        ],
         "type": "Gem",
         "imageName": "devar.png",
         "category": "Resources",
@@ -622,11 +534,6 @@
     "Devolved Namalon": {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem",
         "itemCount": 80,
-        "parents": [
-            "Bonewidow Weapon Pod",
-            "Cortege Receiver",
-            "Morgha Receiver"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -640,9 +547,6 @@
     "Dusklight Sarracenia": {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenCobraLotusPlantItem",
         "itemCount": 2,
-        "parents": [
-            "Nightfall Apothic"
-        ],
         "type": "Plant",
         "imageName": "dusklight-sarracenia.png",
         "category": "Resources",
@@ -651,9 +555,6 @@
     "Embolos": {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBItem",
         "itemCount": 3,
-        "parents": [
-            "Cabochon Embolos"
-        ],
         "type": "Gem",
         "imageName": "embolos.png",
         "category": "Resources",
@@ -670,9 +571,6 @@
     "Esher Devar": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBCutAItem",
         "itemCount": 1,
-        "parents": [
-            "Focused Nosam Cutter"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -706,9 +604,6 @@
     "Faceted Tiametrite": {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemACutItem",
         "itemCount": 1,
-        "parents": [
-            "Xaku Kintsu Helmet"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -738,10 +633,6 @@
     "Ferros": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAItem",
         "itemCount": 20,
-        "parents": [
-            "Devolved Namalon",
-            "Fersteel Alloy"
-        ],
         "type": "Gem",
         "imageName": "ferros.png",
         "category": "Resources",
@@ -750,18 +641,6 @@
     "Fersteel Alloy": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAAlloyAItem",
         "itemCount": 20,
-        "parents": [
-            "Advanced Nosam Cutter",
-            "Ceno Apparel",
-            "Ceno Cuirass",
-            "Cortege Barrel",
-            "Morgha Barrel",
-            "Peram Fishing Spear",
-            "Vahd Apparel",
-            "Vahd Cuirass",
-            "Zauba Apparel",
-            "Zauba Cuirass"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -775,9 +654,6 @@
     "Fieldron": {
         "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
         "itemCount": 2,
-        "parents": [
-            "Antiserum Injector"
-        ],
         "buildPrice": 15000,
         "buildTime": 43200,
         "skipBuildTimePrice": 5,
@@ -791,11 +667,6 @@
     "Fieldron Sample": {
         "uniqueName": "/Lotus/Types/Items/Research/EnergyFragment",
         "itemCount": 10,
-        "parents": [
-            "Aucrux Capacitors",
-            "Fieldron",
-            "Isos"
-        ],
         "type": "Resource",
         "imageName": "fieldron-sample.png",
         "category": "Resources",
@@ -811,9 +682,6 @@
     "Fresnels": {
         "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/FresnelsRailjackItem",
         "itemCount": 4,
-        "parents": [
-            "Protea Mavv Helmet"
-        ],
         "buildPrice": 1000,
         "buildTime": 120,
         "skipBuildTimePrice": 5,
@@ -841,9 +709,6 @@
     "Frostleaf": {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/WildGingerBPlantItem",
         "itemCount": 8,
-        "parents": [
-            "Sunrise Apothic"
-        ],
         "type": "Plant",
         "imageName": "frostleaf.png",
         "category": "Resources",
@@ -886,9 +751,6 @@
     "Goblite": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemAItem",
         "itemCount": 10,
-        "parents": [
-            "Goblite Tears"
-        ],
         "type": "Gem",
         "imageName": "goblite.png",
         "category": "Resources",
@@ -897,9 +759,6 @@
     "Goblite Tears": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
         "itemCount": 15,
-        "parents": [
-            "Bonewidow Casing"
-        ],
         "buildPrice": 2500,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -913,9 +772,6 @@
     "Gorgaricus Spore": {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
         "itemCount": 20,
-        "parents": [
-            "Pax Bolt"
-        ],
         "type": "Resource",
         "imageName": "gorgaricus-spore.png",
         "category": "Resources",
@@ -940,16 +796,6 @@
     "Grokdrul": {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
         "itemCount": 55,
-        "parents": [
-            "Archwing Launcher",
-            "Eidolon Phylaxis",
-            "Fosfor Blau",
-            "Lanzo Fishing Spear",
-            "Peram Fishing Spear",
-            "Shockprod Fishing Spear",
-            "Stunna Fishing Spear",
-            "Tulok Fishing Spear"
-        ],
         "type": "Resource",
         "imageName": "grokdrul.png",
         "category": "Resources",
@@ -977,14 +823,6 @@
     "Heart Nyth": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBCutAItem",
         "itemCount": 1,
-        "parents": [
-            "Exceptional Sentient Core",
-            "Vahd Apparel",
-            "Vahd Cuirass",
-            "Vahd Greaves",
-            "Vahd Mask",
-            "Vahd Pauldrons"
-        ],
         "buildPrice": 10000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -998,9 +836,6 @@
     "Heciphron": {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonGemAItem",
         "itemCount": 10,
-        "parents": [
-            "Purified Heciphron"
-        ],
         "type": "Gem",
         "imageName": "heciphron.png",
         "category": "Resources",
@@ -1009,20 +844,6 @@
     "Hespazym Alloy": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
         "itemCount": 30,
-        "parents": [
-            "Haztech Greaves",
-            "Haztech Mask",
-            "Kubrodon Ventkid Greaves",
-            "Kubrodon Ventkid Mask",
-            "Outrider Greaves",
-            "Outrider Mask",
-            "Smelter Greaves",
-            "Smelter Mask",
-            "Vent Pobber Ventkid Greaves",
-            "Vent Pobber Ventkid Mask",
-            "Vent Rat Greaves",
-            "Vent Rat Mask"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -1036,9 +857,6 @@
     "Hesperon": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAItem",
         "itemCount": 20,
-        "parents": [
-            "Hespazym Alloy"
-        ],
         "type": "Gem",
         "imageName": "hesperon.png",
         "category": "Resources",
@@ -1054,13 +872,6 @@
     "Iradite": {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
         "itemCount": 15,
-        "parents": [
-            "Archwing Launcher",
-            "Eidolon Phylaxis",
-            "Fosfor Rahd",
-            "Luminous Dye",
-            "Pharoma"
-        ],
         "type": "Resource",
         "imageName": "iradite.png",
         "category": "Resources",
@@ -1069,9 +880,6 @@
     "Isos": {
         "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/IsosRailjackItem",
         "itemCount": 75,
-        "parents": [
-            "Voidrig Engine"
-        ],
         "buildPrice": 1000,
         "buildTime": 120,
         "skipBuildTimePrice": 5,
@@ -1097,9 +905,6 @@
     "Komms": {
         "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
         "itemCount": 4,
-        "parents": [
-            "Protea Telema Helmet"
-        ],
         "buildPrice": 1000,
         "buildTime": 120,
         "skipBuildTimePrice": 5,
@@ -1142,10 +947,6 @@
     "Lunar Pitcher": {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem",
         "itemCount": 6,
-        "parents": [
-            "Seeding Step Ephemera",
-            "Twilight Apothic"
-        ],
         "type": "Plant",
         "imageName": "lunar-pitcher.png",
         "category": "Resources",
@@ -1154,15 +955,6 @@
     "Maprico": {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
         "itemCount": 1,
-        "parents": [
-            "Cuthol Bait",
-            "Fosfor Blau",
-            "Fosfor Rahd",
-            "Glappid Bait",
-            "Norg Bait",
-            "Twilight Bait",
-            "Vasca Curative"
-        ],
         "type": "Resource",
         "imageName": "maprico.png",
         "category": "Resources",
@@ -1171,25 +963,6 @@
     "Marquise Thyst": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemBCutItem",
         "itemCount": 3,
-        "parents": [
-            "Haztech Apparel",
-            "Haztech Cuirass",
-            "Haztech Mask",
-            "Kubrodon Ventkid Apparel",
-            "Kubrodon Ventkid Cuirass",
-            "Kubrodon Ventkid Mask",
-            "Outrider Cuirass",
-            "Outrider Mask",
-            "Pax Soar",
-            "Smelter Apparel",
-            "Smelter Cuirass",
-            "Smelter Mask",
-            "Vent Pobber Ventkid Apparel",
-            "Vent Pobber Ventkid Cuirass",
-            "Vent Pobber Ventkid Mask",
-            "Vent Rat Cuirass",
-            "Vent Rat Mask"
-        ],
         "buildPrice": 10000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -1203,15 +976,6 @@
     "Marquise Veridos": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem",
         "itemCount": 20,
-        "parents": [
-            "Advanced Nosam Cutter",
-            "Loid Sentinel Mask",
-            "Loid Sentinel Skin",
-            "Loid Sentinel Tail",
-            "Loid Sentinel Wing",
-            "Sunpoint Plasma Drill",
-            "Voidrig Capsule"
-        ],
         "buildPrice": 2500,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -1233,13 +997,6 @@
     "Moonlight Dragonlily": {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
         "itemCount": 10,
-        "parents": [
-            "Lapis Antitoxin",
-            "Nightfall Apothic",
-            "The Silver Grove",
-            "Topaz Antitoxin",
-            "Vermillion Antitoxin"
-        ],
         "type": "Plant",
         "imageName": "moonlight-dragonlily.png",
         "category": "Resources",
@@ -1248,12 +1005,6 @@
     "Moonlight Jadeleaf": {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem",
         "itemCount": 1,
-        "parents": [
-            "Health Restore (Large)",
-            "Lapis Antitoxin",
-            "Twilight Apothic",
-            "Vermillion Antitoxin"
-        ],
         "type": "Plant",
         "imageName": "moonlight-jadeleaf.png",
         "category": "Resources",
@@ -1262,11 +1013,6 @@
     "Moonlight Threshcone": {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem",
         "itemCount": 4,
-        "parents": [
-            "Amethyst Antitoxin",
-            "Health Restore (Large)",
-            "Topaz Antitoxin"
-        ],
         "type": "Plant",
         "imageName": "moonlight-threshcone.png",
         "category": "Resources",
@@ -1334,11 +1080,6 @@
     "Mutagen Sample": {
         "uniqueName": "/Lotus/Types/Items/Research/BioFragment",
         "itemCount": 10,
-        "parents": [
-            "Bracoid",
-            "Mutagen Mass",
-            "Trachons"
-        ],
         "type": "Resource",
         "imageName": "mutagen-sample.png",
         "category": "Resources",
@@ -1347,9 +1088,6 @@
     "Mytocardia Spore": {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
         "itemCount": 20,
-        "parents": [
-            "Pax Charge"
-        ],
         "type": "Resource",
         "imageName": "mytocardia-spore.png",
         "category": "Resources",
@@ -1359,9 +1097,6 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAItem",
         "excludeFromCodex": true,
         "itemCount": 20,
-        "parents": [
-            "Devolved Namalon"
-        ],
         "type": "Gem",
         "imageName": "namalon.png",
         "category": "Resources",
@@ -1370,9 +1105,6 @@
     "Necrathene": {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareGemAItem",
         "itemCount": 6,
-        "parents": [
-            "Stellated Necrathene"
-        ],
         "type": "Gem",
         "imageName": "necrathene.png",
         "category": "Resources",
@@ -1381,17 +1113,6 @@
     "Nistlepod": {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
         "itemCount": 70,
-        "parents": [
-            "Eidolon Phylaxis",
-            "Lanzo Fishing Spear",
-            "Peppered Bait",
-            "Peram Fishing Spear",
-            "Shockprod Fishing Spear",
-            "Stunna Fishing Spear",
-            "Tulok Fishing Spear",
-            "Twilight Bait",
-            "Vasca Curative"
-        ],
         "type": "Resource",
         "imageName": "nistlepod.png",
         "category": "Resources",
@@ -1400,9 +1121,6 @@
     "Noctrul": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBItem",
         "itemCount": 10,
-        "parents": [
-            "Heart Noctrul"
-        ],
         "type": "Gem",
         "imageName": "noctrul.png",
         "category": "Resources",
@@ -1418,9 +1136,6 @@
     "Nyth": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBItem",
         "itemCount": 3,
-        "parents": [
-            "Heart Nyth"
-        ],
         "type": "Gem",
         "imageName": "nyth.png",
         "category": "Resources",
@@ -1468,9 +1183,6 @@
     "Phasmin": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemAItem",
         "itemCount": 10,
-        "parents": [
-            "Smooth Phasmin"
-        ],
         "type": "Gem",
         "imageName": "phasmin.png",
         "category": "Resources",
@@ -1529,10 +1241,6 @@
     "Pyrol": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAItem",
         "itemCount": 20,
-        "parents": [
-            "Pyrotic Alloy",
-            "Tempered Bapholite"
-        ],
         "type": "Gem",
         "imageName": "pyrol.png",
         "category": "Resources",
@@ -1541,15 +1249,6 @@
     "Pyrotic Alloy": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAAlloyAItem",
         "itemCount": 40,
-        "parents": [
-            "Ceno Greaves",
-            "Focused Nosam Cutter",
-            "Shockprod Fishing Spear",
-            "Stunna Fishing Spear",
-            "Tulok Fishing Spear",
-            "Vahd Greaves",
-            "Zauba Greaves"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -1570,15 +1269,6 @@
     "Radian Sentirum": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemACutAItem",
         "itemCount": 1,
-        "parents": [
-            "Ceno Apparel",
-            "Ceno Cuirass",
-            "Ceno Greaves",
-            "Ceno Helmet",
-            "Ceno Pauldrons",
-            "Eidolon Ephemera",
-            "Exceptional Sentient Core"
-        ],
         "buildPrice": 10000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -1592,22 +1282,6 @@
     "Radiant Zodian": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemACutItem",
         "itemCount": 3,
-        "parents": [
-            "Haztech Mask",
-            "Haztech Pauldrons",
-            "Kubrodon Ventkid Mask",
-            "Kubrodon Ventkid Pauldrons",
-            "Outrider Mask",
-            "Outrider Pauldrons",
-            "Pax Bolt",
-            "Pax Charge",
-            "Smelter Mask",
-            "Smelter Pauldrons",
-            "Vent Pobber Ventkid Mask",
-            "Vent Pobber Ventkid Pauldrons",
-            "Vent Rat Mask",
-            "Vent Rat Pauldrons"
-        ],
         "buildPrice": 10000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -1648,9 +1322,6 @@
     "Ruk'S Claw": {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/GftPlantRuksClawMaturePlantItem",
         "itemCount": 6,
-        "parents": [
-            "Twilight Apothic"
-        ],
         "type": "Plant",
         "imageName": "ruk's-claw.png",
         "category": "Resources",
@@ -1659,14 +1330,6 @@
     "Scintillant": {
         "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/EntratiWispItem",
         "itemCount": 4,
-        "parents": [
-            "Bonewidow Capsule",
-            "Loid Sentinel Mask",
-            "Loid Sentinel Skin",
-            "Loid Sentinel Tail",
-            "Loid Sentinel Wing",
-            "Voidrig Capsule"
-        ],
         "type": "Resource",
         "imageName": "scintillant.png",
         "category": "Resources",
@@ -1675,9 +1338,6 @@
     "Sentirum": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemAItem",
         "itemCount": 3,
-        "parents": [
-            "Radian Sentirum"
-        ],
         "type": "Gem",
         "imageName": "sentirum.png",
         "category": "Resources",
@@ -1714,14 +1374,6 @@
     "Sola Toroid": {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidWraithItem",
         "itemCount": 5,
-        "parents": [
-            "Haztech Greaves",
-            "Kubrodon Ventkid Greaves",
-            "Outrider Greaves",
-            "Smelter Greaves",
-            "Vent Pobber Ventkid Greaves",
-            "Vent Rat Greaves"
-        ],
         "type": "Resource",
         "imageName": "sola-toroid.png",
         "category": "Resources",
@@ -1750,9 +1402,6 @@
     "Star Crimzian": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareGemACutAItem",
         "itemCount": 6,
-        "parents": [
-            "Bonewidow Capsule"
-        ],
         "buildPrice": 5000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -1766,9 +1415,6 @@
     "Stellated Necrathene": {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareGemACutItem",
         "itemCount": 16,
-        "parents": [
-            "Voidrig Casing"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -1782,12 +1428,6 @@
     "Sunlight Dragonlily": {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
         "itemCount": 10,
-        "parents": [
-            "Citrine Antitoxin",
-            "Lapis Antitoxin",
-            "The Silver Grove",
-            "Vermillion Antitoxin"
-        ],
         "type": "Plant",
         "imageName": "sunlight-dragonlily.png",
         "category": "Resources",
@@ -1796,12 +1436,6 @@
     "Sunlight Jadeleaf": {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem",
         "itemCount": 1,
-        "parents": [
-            "Health Restore (Large)",
-            "Lapis Antitoxin",
-            "Sunrise Apothic",
-            "Vermillion Antitoxin"
-        ],
         "type": "Plant",
         "imageName": "sunlight-jadeleaf.png",
         "category": "Resources",
@@ -1810,12 +1444,6 @@
     "Sunlight Threshcone": {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem",
         "itemCount": 4,
-        "parents": [
-            "Beryl Antitoxin",
-            "Citrine Antitoxin",
-            "Health Restore (Large)",
-            "Nightfall Apothic"
-        ],
         "type": "Plant",
         "imageName": "sunlight-threshcone.png",
         "category": "Resources",
@@ -1824,9 +1452,6 @@
     "Tear Azurite": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemACutAItem",
         "itemCount": 1,
-        "parents": [
-            "Focused Nosam Cutter"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -1840,12 +1465,6 @@
     "Tempered Bapholite": {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem",
         "itemCount": 80,
-        "parents": [
-            "Bonewidow Casing",
-            "Cortege Stock",
-            "Morgha Stock",
-            "Voidrig Engine"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -1859,9 +1478,6 @@
     "Tepa Nodule": {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
         "itemCount": 20,
-        "parents": [
-            "Pax Soar"
-        ],
         "type": "Resource",
         "imageName": "tepa-nodule.png",
         "category": "Resources",
@@ -1870,10 +1486,6 @@
     "Thaumic Distillate": {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAAlloyItem",
         "itemCount": 20,
-        "parents": [
-            "Bonewidow Casing",
-            "Voidrig Weapon Pod"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -1888,9 +1500,6 @@
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAItem",
         "excludeFromCodex": true,
         "itemCount": 20,
-        "parents": [
-            "Thaumic Distillate"
-        ],
         "type": "Gem",
         "imageName": "thaumica.png",
         "category": "Resources",
@@ -1906,9 +1515,6 @@
     "Thyst": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemBItem",
         "itemCount": 3,
-        "parents": [
-            "Marquise Thyst"
-        ],
         "type": "Gem",
         "imageName": "thyst.png",
         "category": "Resources",
@@ -1917,9 +1523,6 @@
     "Tiametrite": {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemAItem",
         "itemCount": 10,
-        "parents": [
-            "Faceted Tiametrite"
-        ],
         "type": "Gem",
         "imageName": "tiametrite.png",
         "category": "Resources",
@@ -1928,10 +1531,6 @@
     "Titanium": {
         "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
         "itemCount": 750,
-        "parents": [
-            "Bonewidow Engine",
-            "Protea Mavv Helmet"
-        ],
         "type": "Resource",
         "imageName": "titanium.png",
         "category": "Resources",
@@ -1960,10 +1559,6 @@
     "Trapezium Xenorhast": {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemACutItem",
         "itemCount": 10,
-        "parents": [
-            "Cortege Receiver",
-            "Morgha Receiver"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -1977,9 +1572,6 @@
     "Travocyte Alloy": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
         "itemCount": 30,
-        "parents": [
-            "Sunpoint Plasma Drill"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -1993,10 +1585,6 @@
     "Travoride": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
         "itemCount": 20,
-        "parents": [
-            "Adramal Alloy",
-            "Travocyte Alloy"
-        ],
         "type": "Gem",
         "imageName": "travoride.png",
         "category": "Resources",
@@ -2005,9 +1593,6 @@
     "Trembera Essence": {
         "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseThreeEarthEssence",
         "itemCount": 15,
-        "parents": [
-            "Relay Strut Component"
-        ],
         "type": "Resource",
         "imageName": "trembera-essence.png",
         "category": "Resources",
@@ -2016,14 +1601,6 @@
     "Vega Toroid": {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidMicroidItem",
         "itemCount": 5,
-        "parents": [
-            "Haztech Pauldrons",
-            "Kubrodon Ventkid Pauldrons",
-            "Outrider Pauldrons",
-            "Smelter Pauldrons",
-            "Vent Pobber Ventkid Pauldrons",
-            "Vent Rat Pauldrons"
-        ],
         "type": "Resource",
         "imageName": "vega-toroid.png",
         "category": "Resources",
@@ -2032,25 +1609,6 @@
     "Venerdo Alloy": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
         "itemCount": 40,
-        "parents": [
-            "Haztech Apparel",
-            "Haztech Cuirass",
-            "Haztech Pauldrons",
-            "Kubrodon Ventkid Apparel",
-            "Kubrodon Ventkid Cuirass",
-            "Kubrodon Ventkid Pauldrons",
-            "Outrider Cuirass",
-            "Outrider Pauldrons",
-            "Smelter Apparel",
-            "Smelter Cuirass",
-            "Smelter Pauldrons",
-            "Vent Pobber Ventkid Apparel",
-            "Vent Pobber Ventkid Cuirass",
-            "Vent Pobber Ventkid Pauldrons",
-            "Vent Rat Cuirass",
-            "Vent Rat Pauldrons",
-            "Voidrig Casing"
-        ],
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -2064,10 +1622,6 @@
     "Venerol": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem",
         "itemCount": 20,
-        "parents": [
-            "Thaumic Distillate",
-            "Venerdo Alloy"
-        ],
         "type": "Gem",
         "imageName": "venerol.png",
         "category": "Resources",
@@ -2076,9 +1630,6 @@
     "Veridos": {
         "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemAItem",
         "itemCount": 10,
-        "parents": [
-            "Marquise Veridos"
-        ],
         "type": "Gem",
         "imageName": "veridos.png",
         "category": "Resources",
@@ -2087,9 +1638,6 @@
     "Vestan Moss": {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/MossGroundCoverAPlantItem",
         "itemCount": 12,
-        "parents": [
-            "Sunrise Apothic"
-        ],
         "type": "Plant",
         "imageName": "vestan-moss.png",
         "category": "Resources",
@@ -2146,9 +1694,6 @@
     "Xenorhast": {
         "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemAItem",
         "itemCount": 3,
-        "parents": [
-            "Trapezium Xenorhast"
-        ],
         "type": "Gem",
         "imageName": "xenorhast.png",
         "category": "Resources",
@@ -2165,9 +1710,6 @@
     "Zodian": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemAItem",
         "itemCount": 3,
-        "parents": [
-            "Radiant Zodian"
-        ],
         "type": "Gem",
         "imageName": "zodian.png",
         "category": "Resources",
