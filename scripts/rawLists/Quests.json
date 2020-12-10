@@ -1,0 +1,316 @@
+[
+    {
+        "uniqueName": "/Lotus/Types/Keys/TutorialEndoQuest/EndoQuestKeyChain",
+        "name": "[Hc] Endo Tutorial Quest",
+        "excludeFromCodex": true,
+        "type": "Key",
+        "imageName": "hc-endo-tutorial-quest.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/GetClemQuest/GetClemQuestKeyChain",
+        "name": "A Man Of Few Words",
+        "type": "Key",
+        "imageName": "a-man-of-few-words.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
+        "name": "Apostasy Prologue",
+        "type": "Key",
+        "imageName": "apostasy-prologue.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/NewPlayerQuest/NewPlayerQuestKeyChain",
+        "name": "Awakening",
+        "excludeFromCodex": true,
+        "type": "Key",
+        "imageName": "awakening.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/PriestFrameQuest/PriestQuestKeyChain",
+        "name": "Chains Of Harrow",
+        "type": "Key",
+        "imageName": "chains-of-harrow.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/ChimeraQuest/ChimeraKeyChain",
+        "name": "Chimera Prologue",
+        "type": "Key",
+        "imageName": "chimera-prologue.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/DojoKey",
+        "name": "Clan Key",
+        "buildPrice": 1500,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Key",
+        "imageName": "clan-key.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/NewWarIntroQuest/NewWarIntroKeyChain",
+        "name": "Erra",
+        "type": "Key",
+        "imageName": "erra.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/InfestedMicroplanetQuest/InfestedMicroplanetQuestKeyChain",
+        "name": "Heart Of Deimos",
+        "type": "Key",
+        "imageName": "heart-of-deimos.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/MirageQuest/MirageQuestKeyChain",
+        "name": "Hidden Messages",
+        "buildPrice": 5000,
+        "buildTime": 21600,
+        "skipBuildTimePrice": 15,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Key",
+        "imageName": "hidden-messages.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/KubrowQuest/KubrowQuestKeyChain",
+        "name": "Howl Of The Kubrow",
+        "type": "Key",
+        "imageName": "howl-of-the-kubrow.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/TestKeyErisBoss",
+        "name": "Jordas Golem Assassinate",
+        "type": "Key",
+        "imageName": "jordas-golem-assassinate.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/RevenantQuest/RevenantQuestKeyChain",
+        "name": "Mask Of The Revenant",
+        "type": "Key",
+        "imageName": "mask-of-the-revenant.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey",
+        "name": "Mutalist Alad V Assassinate",
+        "buildPrice": 20000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Key",
+        "imageName": "mutalist-alad-v-assassinate.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/SentientQuest/SentientQuestKeyChain",
+        "name": "Natah",
+        "type": "Key",
+        "imageName": "natah.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/BardQuest/BardQuestKeyChain",
+        "name": "Octavia'S Anthem",
+        "type": "Key",
+        "imageName": "octavia's-anthem.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/InfestedIntroQuest/InfestedIntroQuestKeyChain",
+        "name": "Once Awake",
+        "type": "Key",
+        "imageName": "once-awake.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/InfestedAladVQuest/InfestedAladVQuestKeyChain",
+        "name": "Patient Zero",
+        "buildPrice": 5000,
+        "buildTime": 21600,
+        "skipBuildTimePrice": 15,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Key",
+        "imageName": "patient-zero.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/RailJackBuildQuest/RailjackBuildQuestKeyChain",
+        "name": "Rising Tide",
+        "type": "Key",
+        "imageName": "rising-tide.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/MummyQuest/MummyQuestKeyChain",
+        "name": "Sands Of Inaros",
+        "buildPrice": 5000,
+        "buildTime": 21600,
+        "skipBuildTimePrice": 15,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Key",
+        "imageName": "sands-of-inaros.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/GlassQuest/GlassQuestKeyChain",
+        "name": "Saya'S Vigil",
+        "type": "Key",
+        "imageName": "saya's-vigil.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/SpyQuestKeyChain/SpyQuestKeyChain",
+        "name": "Stolen Dreams",
+        "type": "Key",
+        "imageName": "stolen-dreams.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/ArchwingQuest/ArchwingQuestKeyChain",
+        "name": "The Archwing",
+        "type": "Archwing",
+        "imageName": "the-archwing.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/ProteaQuest/ProteaQuestKeyChain",
+        "name": "The Deadlock Protocol",
+        "type": "Key",
+        "imageName": "the-deadlock-protocol.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/IndexQuest/IndexQuestKeyChain",
+        "name": "The Glast Gambit",
+        "type": "Key",
+        "imageName": "the-glast-gambit.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/GolemQuest/GolemQuestKeyChainItem",
+        "name": "The Jordas Precept",
+        "buildPrice": 5000,
+        "buildTime": 21600,
+        "skipBuildTimePrice": 15,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Key",
+        "imageName": "the-jordas-precept.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/LimboQuest/LimboQuestKeyChain",
+        "name": "The Limbo Theorem",
+        "buildPrice": 5000,
+        "buildTime": 21600,
+        "skipBuildTimePrice": 15,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Key",
+        "imageName": "the-limbo-theorem.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/DragonQuest/DragonQuestKeyChain",
+        "name": "The New Strange",
+        "type": "Key",
+        "imageName": "the-new-strange.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/SacrificeQuest/SacrificeQuestKeyChain",
+        "name": "The Sacrifice",
+        "type": "Key",
+        "imageName": "the-sacrifice.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/OrokinMoonQuest/OrokinMoonQuestKeyChain",
+        "name": "The Second Dream",
+        "type": "Key",
+        "imageName": "the-second-dream.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/FairyQuest/FairyQuestKeyChain",
+        "name": "The Silver Grove",
+        "buildPrice": 5000,
+        "buildTime": 21600,
+        "skipBuildTimePrice": 15,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Key",
+        "imageName": "the-silver-grove.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyChain",
+        "name": "The War Within",
+        "type": "Key",
+        "imageName": "the-war-within.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/VorsPrize/VorsPrizeQuestKeyChain",
+        "name": "Vor'S Prize",
+        "type": "Key",
+        "imageName": "vor's-prize.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/SolarisQuest/SolarisQuestKeyChain",
+        "name": "Vox Solaris",
+        "type": "Key",
+        "imageName": "vox-solaris.png",
+        "category": "Quests",
+        "tradable": false
+    }
+]

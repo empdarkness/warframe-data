@@ -1,0 +1,1766 @@
+{
+    "[Hc] Animal Bait": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/HuntingBait",
+        "type": "Gear",
+        "imageName": "hc-animal-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "[Hc] Demolyst Spectre": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/DemolystBall",
+        "type": "Gear",
+        "imageName": "hc-demolyst-spectre.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "[Hc] Polarlizer": {
+        "uniqueName": "/Lotus/Types/Restoratives/Quests/ProteaPolarizerDeployGearItem",
+        "type": "Gear",
+        "imageName": "hc-polarlizer.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "[Ph] Extended Infested Syringe": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/ExtendedInfestedSyringe",
+        "type": "Gear",
+        "imageName": "ph-extended-infested-syringe.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "[Ph] Mining Auto Laser": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningAutoComplete",
+        "type": "Gear",
+        "imageName": "ph-mining-auto-laser.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "[Ph] Pulse Spear": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/RobofishSpearA",
+        "type": "Gear",
+        "imageName": "ph-pulse-spear.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "[Ph] Solaris Mining Laser B": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaserSolarisB",
+        "type": "Gear",
+        "imageName": "ph-solaris-mining-laser-b.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "[Ph] Solaris Mining Laser C": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaserSolarisC",
+        "type": "Gear",
+        "imageName": "ph-solaris-mining-laser-c.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "/Lotus/Language/Items/Summonsnowmanball": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/SummonSnowmanBall",
+        "type": "Gear",
+        "imageName": "lotus-language-items-summonsnowmanball.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "/Lotus/Language/Quests/Glassquestelectronkey": {
+        "uniqueName": "/Lotus/Types/Restoratives/Quests/GlassQuestElectronKey",
+        "type": "Gear",
+        "imageName": "lotus-language-quests-glassquestelectronkey.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "A Fishing Spear": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/BaseSpearFishingSpear",
+        "type": "Gear",
+        "imageName": "a-fishing-spear.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Adrenal Stim": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/SpeedBuffArmorDebuff",
+        "buildPrice": 10000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "adrenal-stim.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Advanced Nosam Cutter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaserC",
+        "itemCount": 1,
+        "parents": [
+            "Sunpoint Plasma Drill"
+        ],
+        "buildPrice": 3500,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "advanced-nosam-cutter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Air Support Charges": {
+        "uniqueName": "/Lotus/Types/Restoratives/LisetAirSupport",
+        "buildPrice": 4000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "air-support-charges.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Alpha Corruptor": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/AlphaCorruptor",
+        "type": "Gear",
+        "imageName": "alpha-corruptor.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Amethyst Antitoxin": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/NightCommonAntitoxin",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "amethyst-antitoxin.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Ancient Healer Specter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/AncientHealerBall",
+        "buildPrice": 7500,
+        "buildTime": 28800,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "ancient-healer-specter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Antiserum Injector": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedSyringe",
+        "buildPrice": 30000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 35,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "antiserum-injector.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Archgun Deployer": {
+        "uniqueName": "/Lotus/Types/Restoratives/HeavyWeaponSummon",
+        "type": "Gear",
+        "imageName": "archgun-deployer.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Archwing Launcher": {
+        "uniqueName": "/Lotus/Types/Restoratives/OpenArchwingSummon",
+        "buildPrice": 7500,
+        "buildTime": 1800,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "archwing-launcher.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Avichaea Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMergooLureGearItem",
+        "type": "Gear",
+        "imageName": "avichaea-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Avichaea Pheromone Gland": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMergooRarityBoost",
+        "type": "Gear",
+        "imageName": "avichaea-pheromone-gland.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Beckonsnare": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/Eidolon/LandscapeTrapLightGear",
+        "type": "Gear",
+        "imageName": "beckonsnare.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Beryl Antitoxin": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/DayCommonAntitoxin",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "beryl-antitoxin.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Beta Corruptor": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/BetaCorruptor",
+        "type": "Gear",
+        "imageName": "beta-corruptor.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Bleeding Dragon Key": {
+        "uniqueName": "/Lotus/Types/Restoratives/Upgraded/HealthDebuffKey",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "bleeding-dragon-key.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Bolarola Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/SnowArmadilloLureGearItem",
+        "type": "Gear",
+        "imageName": "bolarola-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Bolarola Pheromone Synthesizer": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowArmadilloRarityBoost",
+        "type": "Gear",
+        "imageName": "bolarola-pheromone-synthesizer.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Broad-Spectrum Bait": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Venus/GenericContaminant",
+        "type": "Fish",
+        "imageName": "broad-spectrum-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Calcifin Stim": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/ArmorBuffSpeedDebuff",
+        "buildPrice": 10000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "calcifin-stim.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Carpet Bomb": {
+        "uniqueName": "/Lotus/Types/Restoratives/LisetBarrage",
+        "type": "Gear",
+        "imageName": "carpet-bomb.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Charamote Bait": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Venus/CaveContaminantTierB",
+        "type": "Fish",
+        "imageName": "charamote-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Charger Specter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/ChargerBall",
+        "buildPrice": 7500,
+        "buildTime": 28800,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "charger-specter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Cipher": {
+        "uniqueName": "/Lotus/Types/Restoratives/Cipher",
+        "buildPrice": 100,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "cipher.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Citrine Antitoxin": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/DayUnCommonAntitoxin",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "citrine-antitoxin.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Clem Clone": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/ClemBall",
+        "buildPrice": 7500,
+        "buildTime": 28800,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "clem-clone.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Clotra Stim": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/ReviveBuff",
+        "buildPrice": 10000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "clotra-stim.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Codex Scanner": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/Scanner",
+        "type": "Gear",
+        "imageName": "codex-scanner.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Condroc Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/BirdOfPreyLureGearItem",
+        "type": "Gear",
+        "imageName": "condroc-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Condroc Pheromone Oota": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/CondrocRarityBoost",
+        "type": "Gear",
+        "imageName": "condroc-pheromone-oota.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Corrupted Bombard Specter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/CorruptedBombardBall",
+        "buildPrice": 7500,
+        "buildTime": 28800,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "corrupted-bombard-specter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Corrupted Heavy Gunner Specter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/CorruptedHeavyGunnerBall",
+        "type": "Gear",
+        "imageName": "corrupted-heavy-gunner-specter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Corrupted Lancer Specter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/CorruptedLancerBall",
+        "buildPrice": 7500,
+        "buildTime": 28800,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "corrupted-lancer-specter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Cosmic Specter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/PlatinumSpectre",
+        "buildPrice": 60000,
+        "buildTime": 28800,
+        "skipBuildTimePrice": 20,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "cosmic-specter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Cosmic Specter Regiment": {
+        "uniqueName": "/Lotus/Types/Game/SpectreArmies/PlatinumSpectreArmy",
+        "buildPrice": 1000000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 0,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Specter",
+        "imageName": "cosmic-specter-regiment.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Cryptilex Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMaggotLureGearItem",
+        "type": "Gear",
+        "imageName": "cryptilex-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Cryptilex Pheromone Gland": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMaggotRarityBoost",
+        "type": "Gear",
+        "imageName": "cryptilex-pheromone-gland.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Cuthol Bait": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/NightRareFishBaitBItem",
+        "buildPrice": 2000,
+        "buildTime": 300,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "type": "Fish",
+        "imageName": "cuthol-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Decaying Dragon Key": {
+        "uniqueName": "/Lotus/Types/Restoratives/Upgraded/ShieldDebuffKey",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "decaying-dragon-key.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Desert Skate Specter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/SkateBall",
+        "type": "Gear",
+        "imageName": "desert-skate-specter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Dreamers": {
+        "uniqueName": "/Lotus/Types/Restoratives/LisetStun",
+        "type": "Gear",
+        "imageName": "dreamers.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Ebisu Spear": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedFishingSpearB",
+        "type": "Gear",
+        "imageName": "ebisu-spear.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/UpgradedAnimalLureGearItem",
+        "type": "Gear",
+        "imageName": "echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Eidolon Phylaxis": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/Eidolon/InfestedEventIngredient",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 5,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "eidolon-phylaxis.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Eros Arrow Skin": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/ValentinesArrowBundle",
+        "type": "Gear",
+        "imageName": "eros-arrow-skin.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Extinguished Dragon Key": {
+        "uniqueName": "/Lotus/Types/Restoratives/Upgraded/DamageDebuffKey",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "extinguished-dragon-key.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Faithful Void Offering": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/CreditChipMedium",
+        "buildPrice": 10000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "faithful-void-offering.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Fass Residue": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "type": "Fish",
+        "imageName": "fass-residue.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Focused Nosam Cutter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaserB",
+        "buildPrice": 3500,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "focused-nosam-cutter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Fomorian Disruptor": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/FomorianNegator",
+        "buildPrice": 1250,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "fomorian-disruptor.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Force Specter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/GoldSpectre",
+        "buildPrice": 50000,
+        "buildTime": 28800,
+        "skipBuildTimePrice": 20,
+        "buildQuantity": 3,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "force-specter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Force Specter Regiment": {
+        "uniqueName": "/Lotus/Types/Game/SpectreArmies/GoldSpectreArmy",
+        "buildPrice": 750000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 0,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Specter",
+        "imageName": "force-specter-regiment.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Fosfor Blau": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareBlue",
+        "buildPrice": 5000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "fosfor-blau.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Fosfor Rahd": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareRed",
+        "buildPrice": 5000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "fosfor-rahd.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Glappid Bait": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/NightLegendaryFishBaitItem",
+        "buildPrice": 5000,
+        "buildTime": 600,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "type": "Fish",
+        "imageName": "glappid-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Glyph Prism": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/GlyphConsumableNoCharges",
+        "type": "Gear",
+        "imageName": "glyph-prism.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Grand Finale": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/FireWorksCrate",
+        "type": "Gear",
+        "imageName": "grand-finale.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Grustrag Three Beacon": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/AssassinBaitC",
+        "type": "Gear",
+        "imageName": "grustrag-three-beacon.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Health Restore (Large)": {
+        "uniqueName": "/Lotus/Types/Restoratives/SelfHealLarge",
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "health-restore-(large).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Health Restore (Small)": {
+        "uniqueName": "/Lotus/Types/Restoratives/SelfHealSmall",
+        "type": "Gear",
+        "imageName": "health-restore-(small).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Hobbled Dragon Key": {
+        "uniqueName": "/Lotus/Types/Restoratives/Upgraded/SpeedDebuffKey",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "hobbled-dragon-key.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Horrasque Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/SnowPredatorLureGearItem",
+        "type": "Gear",
+        "imageName": "horrasque-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Horrasque Pheromone Synthesizer": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowPredatorRarityBoost",
+        "type": "Gear",
+        "imageName": "horrasque-pheromone-synthesizer.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Humble Void Offering": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/CreditChipSmall",
+        "buildPrice": 1000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "humble-void-offering.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Infested Catalyst": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/Eidolon/InfestedEventClanIngredient",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 5,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "infested-catalyst.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "K-Drive Launcher": {
+        "uniqueName": "/Lotus/Types/Restoratives/HoverboardSummon",
+        "type": "Gear",
+        "imageName": "k-drive-launcher.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Ki'Teer Fireworks": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/BaroFireWorksCrate",
+        "type": "Gear",
+        "imageName": "ki'teer-fireworks.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Kinetic Siphon Trap": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/HunterTool",
+        "type": "Gear",
+        "imageName": "kinetic-siphon-trap.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Kriller Bait": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Venus/LakeContaminantTierA",
+        "type": "Fish",
+        "imageName": "kriller-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Kuaka Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/ForestRodentLureGearItem",
+        "type": "Gear",
+        "imageName": "kuaka-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Kuaka Pheromone Oota": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/KuakaRarityBoost",
+        "type": "Gear",
+        "imageName": "kuaka-pheromone-oota.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Kubrodon Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/LegendaryKubrowLureGearItem",
+        "type": "Gear",
+        "imageName": "kubrodon-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Kubrodon Pheromone Synthesizer": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/LegendaryKubrowRarityBoost",
+        "type": "Gear",
+        "imageName": "kubrodon-pheromone-synthesizer.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Lanzo Fishing Spear": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpear",
+        "buildPrice": 1000,
+        "buildTime": 300,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "lanzo-fishing-spear.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Lapis Antitoxin": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/RareAntitoxin",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "lapis-antitoxin.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Laserturret": {
+        "uniqueName": "/Lotus/Types/Restoratives/LisetLaserTurret",
+        "type": "Gear",
+        "imageName": "laserturret.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Loc-Pin": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/MapMarker",
+        "buildPrice": 4000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "loc-pin.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Longwinder Bait": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Venus/LakeContaminantTierB",
+        "type": "Fish",
+        "imageName": "longwinder-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Luminous Dye": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/FishingBoosts/AnglerVision",
+        "buildPrice": 5000,
+        "buildTime": 300,
+        "skipBuildTimePrice": 25,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "luminous-dye.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Magic Debug Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/DebugMagicLureGearItem",
+        "type": "Gear",
+        "imageName": "magic-debug-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Med-Tower": {
+        "uniqueName": "/Lotus/Types/Restoratives/LisetMedStation",
+        "type": "Gear",
+        "imageName": "med-tower.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Mergoo Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/OstronSeaBirdLureGearItem",
+        "type": "Gear",
+        "imageName": "mergoo-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Mergoo Pheromone Oota": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/MergooRarityBoost",
+        "type": "Gear",
+        "imageName": "mergoo-pheromone-oota.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Mirewinder Bait": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Venus/CaveContaminantTierA",
+        "type": "Fish",
+        "imageName": "mirewinder-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Moa Specter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/MoaBall",
+        "buildPrice": 7500,
+        "buildTime": 28800,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "moa-specter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Murkray Bait": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/BothRareFishBaitAItem",
+        "buildPrice": 2000,
+        "buildTime": 300,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "type": "Fish",
+        "imageName": "murkray-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Narrow-Spectrum Bait": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Venus/PondContaminantTierA",
+        "type": "Fish",
+        "imageName": "narrow-spectrum-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Necramech Summon": {
+        "uniqueName": "/Lotus/Types/Restoratives/LoadoutTechSummon",
+        "type": "Gear",
+        "imageName": "necramech-summon.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Nexifera Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedNexiferaLureGearItem",
+        "type": "Gear",
+        "imageName": "nexifera-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Nexifera Pheromone Gland": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedNexiferaRarityBoost",
+        "type": "Gear",
+        "imageName": "nexifera-pheromone-gland.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Nightfall Apothic": {
+        "uniqueName": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonKnaveLoki",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "nightfall-apothic.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Norg Bait": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/NightRareFishBaitAItem",
+        "buildPrice": 2000,
+        "buildTime": 300,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "type": "Fish",
+        "imageName": "norg-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Nosam Cutter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaser",
+        "buildPrice": 3500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "nosam-cutter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Omni": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/RepairTool",
+        "type": "Gear",
+        "imageName": "omni.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Omni Ammo Box": {
+        "uniqueName": "/Lotus/Types/Restoratives/SelfOmniAmmo",
+        "type": "Gear",
+        "imageName": "omni-ammo-box.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Oplink": {
+        "uniqueName": "/Lotus/Types/Restoratives/ScenarioBeacon",
+        "type": "Gear",
+        "imageName": "oplink.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Override": {
+        "uniqueName": "/Lotus/Types/Restoratives/LisetAutoHack",
+        "type": "Gear",
+        "imageName": "override.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Passionate Void Offering": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/CreditChipLarge",
+        "buildPrice": 100000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "passionate-void-offering.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Peppered Bait": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/GenericFishBait",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "type": "Fish",
+        "imageName": "peppered-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Peram Fishing Spear": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearC",
+        "buildPrice": 5000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "peram-fishing-spear.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Pharoma": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/FishingBoosts/SoftTouch",
+        "buildPrice": 5000,
+        "buildTime": 300,
+        "skipBuildTimePrice": 25,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "pharoma.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Phase Specter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/SilverSpectre",
+        "buildPrice": 30000,
+        "buildTime": 28800,
+        "skipBuildTimePrice": 20,
+        "buildQuantity": 5,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "phase-specter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Phase Specter Regiment": {
+        "uniqueName": "/Lotus/Types/Game/SpectreArmies/SilverSpectreArmy",
+        "buildPrice": 500000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 0,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Specter",
+        "imageName": "phase-specter-regiment.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Pherliac Pods": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedBaitBall",
+        "itemCount": 1,
+        "parents": [
+            "Potent Pherliac Pods"
+        ],
+        "buildPrice": 7500,
+        "buildTime": 28800,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "pherliac-pods.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Pistol Ammo Box": {
+        "uniqueName": "/Lotus/Types/Restoratives/SelfPistolAmmo",
+        "type": "Gear",
+        "imageName": "pistol-ammo-box.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Pobbers Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/SnowRodentLureGearItem",
+        "type": "Gear",
+        "imageName": "pobbers-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Pobbers Pheromone Synthesizer": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowRodentRarityBoost",
+        "type": "Gear",
+        "imageName": "pobbers-pheromone-synthesizer.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Potent Pherliac Pods": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedIrradiatedBaitBall",
+        "buildPrice": 7500,
+        "buildTime": 28800,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "potent-pherliac-pods.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Predasite Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedPredatorLureGearItem",
+        "type": "Gear",
+        "imageName": "predasite-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Predasite Pheromone Gland": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedPredatorRarityBoost",
+        "type": "Gear",
+        "imageName": "predasite-pheromone-gland.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Processed Fass Residue": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitB",
+        "buildPrice": 30000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 20,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Fish",
+        "imageName": "processed-fass-residue.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Processed Vome Residue": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitB",
+        "buildPrice": 30000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 20,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Fish",
+        "imageName": "processed-vome-residue.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Railjack Recall": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/RecallToRailjack",
+        "type": "Gear",
+        "imageName": "railjack-recall.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Razorback Cipher": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/RazorbackCipher",
+        "buildPrice": 1250,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "razorback-cipher.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Refract Stim": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/CloakingBuff",
+        "buildPrice": 10000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "refract-stim.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Remote Observer": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/CameraConsumable",
+        "type": "Gear",
+        "imageName": "remote-observer.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Rifle Ammo Box": {
+        "uniqueName": "/Lotus/Types/Restoratives/SelfRifleAmmo",
+        "type": "Gear",
+        "imageName": "rifle-ammo-box.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Roller Specter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/RollerBall",
+        "buildPrice": 7500,
+        "buildTime": 28800,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "roller-specter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Sacred Vessel": {
+        "uniqueName": "/Lotus/Types/Keys/MummyQuest/MummyArtifact01GearItem",
+        "type": "Key",
+        "imageName": "sacred-vessel.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Sawgaw Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/SnowBirdLureGearItem",
+        "type": "Gear",
+        "imageName": "sawgaw-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Sawgaw Pheromone Synthesizer": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowBirdRarityBoost",
+        "type": "Gear",
+        "imageName": "sawgaw-pheromone-synthesizer.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Scorpion Specter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/MacheteWomanBall",
+        "type": "Gear",
+        "imageName": "scorpion-specter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Sentry Gun": {
+        "uniqueName": "/Lotus/Types/Restoratives/LisetTurret",
+        "type": "Gear",
+        "imageName": "sentry-gun.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Shield Osprey Specter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/ShieldDroneBall",
+        "buildPrice": 7500,
+        "buildTime": 28800,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "shield-osprey-specter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Shield Restore (Small)": {
+        "uniqueName": "/Lotus/Types/Restoratives/SelfShieldHeal",
+        "type": "Gear",
+        "imageName": "shield-restore-(small).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Shockprod Fishing Spear": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/RobofishSpearB",
+        "buildPrice": 2000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "shockprod-fishing-spear.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Shotgun Ammo Box": {
+        "uniqueName": "/Lotus/Types/Restoratives/SelfShotgunAmmo",
+        "type": "Gear",
+        "imageName": "shotgun-ammo-box.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Sniper Ammo Box": {
+        "uniqueName": "/Lotus/Types/Restoratives/SelfSniperAmmo",
+        "type": "Gear",
+        "imageName": "sniper-ammo-box.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Snow Globe": {
+        "uniqueName": "/Lotus/Types/Restoratives/LisetShield",
+        "type": "Gear",
+        "imageName": "snow-globe.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Spari Spear": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedFishingSpearA",
+        "type": "Gear",
+        "imageName": "spari-spear.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Squad Ammo Restore (Large)": {
+        "uniqueName": "/Lotus/Types/Restoratives/SyndicateTeamAmmoTotem",
+        "buildPrice": 9000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "squad-ammo-restore-(large).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Squad Ammo Restore (Medium)": {
+        "uniqueName": "/Lotus/Types/Restoratives/LisetAmmoDrop",
+        "type": "Gear",
+        "imageName": "squad-ammo-restore-(medium).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Squad Ammo Restore (Small)": {
+        "uniqueName": "/Lotus/Types/Restoratives/TeamAmmoTotem",
+        "buildPrice": 36000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 50,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "squad-ammo-restore-(small).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Squad Energy Restore (Large)": {
+        "uniqueName": "/Lotus/Types/Restoratives/SyndicateTeamEnergyTotem",
+        "buildPrice": 9000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "squad-energy-restore-(large).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Squad Energy Restore (Medium)": {
+        "uniqueName": "/Lotus/Types/Restoratives/ClanTeamEnergyTotem",
+        "buildPrice": 4000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "squad-energy-restore-(medium).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Squad Energy Restore (Small)": {
+        "uniqueName": "/Lotus/Types/Restoratives/TeamEnergyTotem",
+        "buildPrice": 3600,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 50,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "squad-energy-restore-(small).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Squad Health Restore (Large)": {
+        "uniqueName": "/Lotus/Types/Restoratives/SyndicateTeamHealTotem",
+        "buildPrice": 9000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "squad-health-restore-(large).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Squad Health Restore (Medium)": {
+        "uniqueName": "/Lotus/Types/Restoratives/ClanTeamHealTotem",
+        "buildPrice": 4000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "squad-health-restore-(medium).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Squad Health Restore (Small)": {
+        "uniqueName": "/Lotus/Types/Restoratives/TeamHealTotem",
+        "buildPrice": 36000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 50,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "squad-health-restore-(small).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Squad Shield Restore (Large)": {
+        "uniqueName": "/Lotus/Types/Restoratives/SyndicateTeamShieldTotem",
+        "buildPrice": 9000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 10,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "squad-shield-restore-(large).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Squad Shield Restore (Medium)": {
+        "uniqueName": "/Lotus/Types/Restoratives/ClanTeamShieldTotem",
+        "buildPrice": 4000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "squad-shield-restore-(medium).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Squad Shield Restore (Small)": {
+        "uniqueName": "/Lotus/Types/Restoratives/TeamShieldTotem",
+        "buildPrice": 36000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 50,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "squad-shield-restore-(small).png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Stable Corruptor": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/StableCorruptor",
+        "type": "Gear",
+        "imageName": "stable-corruptor.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Stalker Beacon": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/AssassinBait",
+        "type": "Gear",
+        "imageName": "stalker-beacon.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Starburst": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/FireWorksSingle",
+        "type": "Gear",
+        "imageName": "starburst.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Stover Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/OrokinKubrowLureGearItem",
+        "type": "Gear",
+        "imageName": "stover-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Stover Pheromone Synthesizer": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/OrokinKubrowRarityBoost",
+        "type": "Gear",
+        "imageName": "stover-pheromone-synthesizer.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Stunna Fishing Spear": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/RobofishSpearC",
+        "buildPrice": 2000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "stunna-fishing-spear.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Sunpoint Plasma Drill": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaserSolaris",
+        "buildPrice": 3500,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 10,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "sunpoint-plasma-drill.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Sunrise Apothic": {
+        "uniqueName": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonFeyarchOberon",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "sunrise-apothic.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Synathid Bait": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Venus/CaveContaminantTierC",
+        "type": "Fish",
+        "imageName": "synathid-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Synthesis Scanner": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/LibraryScanner",
+        "type": "Gear",
+        "imageName": "synthesis-scanner.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Topaz Antitoxin": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/NightUnCommonAntitoxin",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "topaz-antitoxin.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Tranq Rifle": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/TranqRifleGearItem",
+        "type": "Gear",
+        "imageName": "tranq-rifle.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Tromyzon Bait": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Venus/PondContaminantTierB",
+        "type": "Fish",
+        "imageName": "tromyzon-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Tulok Fishing Spear": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearB",
+        "buildPrice": 2000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "tulok-fishing-spear.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Twilight Apothic": {
+        "uniqueName": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonOrphidSaryn",
+        "buildPrice": 500,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "twilight-apothic.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Twilight Bait": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/BothUncommonFishBaitItem",
+        "buildPrice": 1000,
+        "buildTime": 120,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 20,
+        "consumeOnBuild": false,
+        "type": "Fish",
+        "imageName": "twilight-bait.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Undazoa Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedZongroLureGearItem",
+        "type": "Gear",
+        "imageName": "undazoa-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Undazoa Pheromone Gland": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedZongroRarityBoost",
+        "type": "Gear",
+        "imageName": "undazoa-pheromone-gland.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Vapor Specter": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/BronzeSpectre",
+        "buildPrice": 15000,
+        "buildTime": 28800,
+        "skipBuildTimePrice": 20,
+        "buildQuantity": 10,
+        "consumeOnBuild": true,
+        "type": "Gear",
+        "imageName": "vapor-specter.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Vapor Specter Regiment": {
+        "uniqueName": "/Lotus/Types/Game/SpectreArmies/BronzeSpectreArmy",
+        "buildPrice": 250000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 0,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Specter",
+        "imageName": "vapor-specter-regiment.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Vasca Curative": {
+        "uniqueName": "/Lotus/Types/Restoratives/CatbrowVampireDisinfect",
+        "buildPrice": 2000,
+        "buildTime": 3600,
+        "skipBuildTimePrice": 5,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "vasca-curative.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Vasca Kavat Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/VampireKavatLureGearItem",
+        "type": "Gear",
+        "imageName": "vasca-kavat-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Vasca Kavat Pheromone Oota": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/VampireKavatRarityBoost",
+        "type": "Gear",
+        "imageName": "vasca-kavat-pheromone-oota.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Vermillion Antitoxin": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/SoloRareAntitoxin",
+        "buildPrice": 2000,
+        "buildTime": 60,
+        "skipBuildTimePrice": 1,
+        "buildQuantity": 1,
+        "consumeOnBuild": false,
+        "type": "Gear",
+        "imageName": "vermillion-antitoxin.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Virmink Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/SnowCritterLureGearItem",
+        "type": "Gear",
+        "imageName": "virmink-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Virmink Pheromone Synthesizer": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowCritterRarityBoost",
+        "type": "Gear",
+        "imageName": "virmink-pheromone-synthesizer.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Vome Residue": {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "type": "Fish",
+        "imageName": "vome-residue.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Vortex": {
+        "uniqueName": "/Lotus/Types/Restoratives/LisetBlackHole",
+        "type": "Gear",
+        "imageName": "vortex.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Vulpaphyla Echo-Lure": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedCritterLureGearItem",
+        "type": "Gear",
+        "imageName": "vulpaphyla-echo-lure.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Vulpaphyla Pheromone Gland": {
+        "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedCritterRarityBoost",
+        "type": "Gear",
+        "imageName": "vulpaphyla-pheromone-gland.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Wolf Beacon": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/AssassinBaitD",
+        "type": "Gear",
+        "imageName": "wolf-beacon.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Xattractor 1": {
+        "uniqueName": "/Lotus/Types/Restoratives/Upgraded/AssassinAttractor",
+        "type": "Gear",
+        "imageName": "xattractor-1.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Xattractor 2": {
+        "uniqueName": "/Lotus/Types/Restoratives/Upgraded/AssassinAttractorB",
+        "type": "Gear",
+        "imageName": "xattractor-2.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Xattractor 3": {
+        "uniqueName": "/Lotus/Types/Restoratives/Upgraded/AssassinAttractorC",
+        "type": "Gear",
+        "imageName": "xattractor-3.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Xattractor 4": {
+        "uniqueName": "/Lotus/Types/Restoratives/Upgraded/AssassinAttractorD",
+        "type": "Gear",
+        "imageName": "xattractor-4.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Xattractor 5": {
+        "uniqueName": "/Lotus/Types/Restoratives/Upgraded/AssassinAttractorE",
+        "type": "Gear",
+        "imageName": "xattractor-5.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Xattractor 6": {
+        "uniqueName": "/Lotus/Types/Restoratives/Upgraded/AssassinAttractorF",
+        "type": "Gear",
+        "imageName": "xattractor-6.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Xattractor 7": {
+        "uniqueName": "/Lotus/Types/Restoratives/Upgraded/AssassinAttractorG",
+        "type": "Gear",
+        "imageName": "xattractor-7.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Xattractor 8": {
+        "uniqueName": "/Lotus/Types/Restoratives/Upgraded/AssassinAttractorH",
+        "type": "Gear",
+        "imageName": "xattractor-8.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Xattractor 9": {
+        "uniqueName": "/Lotus/Types/Restoratives/Upgraded/AssassinAttractorI",
+        "type": "Gear",
+        "imageName": "xattractor-9.png",
+        "category": "Gear",
+        "tradable": false
+    },
+    "Zanuka Hunter Beacon": {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/AssassinBaitB",
+        "type": "Gear",
+        "imageName": "zanuka-hunter-beacon.png",
+        "category": "Gear",
+        "tradable": false
+    }
+}

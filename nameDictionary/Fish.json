@@ -1,0 +1,298 @@
+{
+    "[Ph] Stocking": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/HolidayGrineerBootItem",
+        "excludeFromCodex": true,
+        "type": "Fish",
+        "imageName": "ph-stocking.png",
+        "category": "Fish",
+        "tradable": false
+    },
+    "Amniophysi": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonDFishItemMedium",
+        "type": "Fish",
+        "imageName": "amniophysi.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Aquapulmo": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/HybridRareAFishItemMedium",
+        "type": "Fish",
+        "imageName": "aquapulmo.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Barbisteo": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonBFishItemMedium",
+        "type": "Fish",
+        "imageName": "barbisteo.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Boot": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/GrineerBootItem",
+        "type": "Fish",
+        "imageName": "boot.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Brickie": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishBMediumItem",
+        "type": "Fish",
+        "imageName": "brickie.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Charamote": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/OrokinBothRareFishAMediumItem",
+        "type": "Fish",
+        "imageName": "charamote.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Charc Eel": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItemMedium",
+        "type": "Fish",
+        "imageName": "charc-eel.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Chondricord": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/OrokinUncommonAFishItemMedium",
+        "type": "Fish",
+        "imageName": "chondricord.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Crewman\u2019S Boot": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusBootItem",
+        "excludeFromCodex": true,
+        "type": "Fish",
+        "imageName": "crewman\u2019s-boot.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Cryptosuctus": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonAFishItemMedium",
+        "type": "Fish",
+        "imageName": "cryptosuctus.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Cuthol": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItemMedium",
+        "type": "Fish",
+        "imageName": "cuthol.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Duroid": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/OrokinRareAFishItemMedium",
+        "type": "Fish",
+        "imageName": "duroid.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Echowinder": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishAMediumItem",
+        "type": "Fish",
+        "imageName": "echowinder.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Eye-Eye": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolUncommonFishAMediumItem",
+        "type": "Fish",
+        "imageName": "eye-eye.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Flagellocanth": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedRareAFishItemMedium",
+        "type": "Fish",
+        "imageName": "flagellocanth.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Glappid": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItemMedium",
+        "type": "Fish",
+        "imageName": "glappid.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Glutinox": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedUncommonAFishItemMedium",
+        "type": "Fish",
+        "imageName": "glutinox.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Goopolla": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItemMedium",
+        "type": "Fish",
+        "imageName": "goopolla.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Karkina": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItemMedium",
+        "type": "Fish",
+        "imageName": "karkina.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Khut-Khut": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItemMedium",
+        "type": "Fish",
+        "imageName": "khut-khut.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Kriller": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmUncommonFishAMediumItem",
+        "type": "Fish",
+        "imageName": "kriller.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Kymaeros": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonCFishItemMedium",
+        "type": "Fish",
+        "imageName": "kymaeros.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Lobotriscid": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonEFishItemMedium",
+        "type": "Fish",
+        "imageName": "lobotriscid.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Longwinder": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/SolarisWarmRareFishAMediumItem",
+        "type": "Fish",
+        "imageName": "longwinder.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Mawfish": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItemMedium",
+        "type": "Fish",
+        "imageName": "mawfish.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Mirewinder": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusBothUncommonFishAMediumItem",
+        "type": "Fish",
+        "imageName": "mirewinder.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Mortus Lungfish": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItemMedium",
+        "type": "Fish",
+        "imageName": "mortus-lungfish.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Murkray": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItemMedium",
+        "type": "Fish",
+        "imageName": "murkray.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Myxostomata": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/OrokinLegendaryAFishItemMedium",
+        "type": "Fish",
+        "imageName": "myxostomata.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Norg": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItemMedium",
+        "type": "Fish",
+        "imageName": "norg.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Ostimyr": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/HybridUncommonAFishItemMedium",
+        "type": "Fish",
+        "imageName": "ostimyr.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Recaster": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/SolarisCoolUncommonFishAMediumItem",
+        "type": "Fish",
+        "imageName": "recaster.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Sapcaddy": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolCommonFishAMediumItem",
+        "type": "Fish",
+        "imageName": "sapcaddy.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Scrubber": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/SolarisBothCommonFishAMediumItem",
+        "type": "Fish",
+        "imageName": "scrubber.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Sharrac": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItemMedium",
+        "type": "Fish",
+        "imageName": "sharrac.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Synathid": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/OrokinBothLegendaryFishAMediumItem",
+        "type": "Fish",
+        "imageName": "synathid.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Tink": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/SolarisCoolCommonFishAMediumItem",
+        "type": "Fish",
+        "imageName": "tink.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Tralok": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItemMedium",
+        "type": "Fish",
+        "imageName": "tralok.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Tromyzon": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/OrokinCoolRareFishAMediumItem",
+        "type": "Fish",
+        "imageName": "tromyzon.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Vitreospina": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/HybridUncommonBFishItemMedium",
+        "type": "Fish",
+        "imageName": "vitreospina.png",
+        "category": "Fish",
+        "tradable": true
+    },
+    "Yogwun": {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishCItemMedium",
+        "type": "Fish",
+        "imageName": "yogwun.png",
+        "category": "Fish",
+        "tradable": true
+    }
+}

@@ -1,0 +1,1877 @@
+[
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/AllianceSigilMaskedEffect",
+        "name": "[Ph] Alliance Gilded Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "ph-alliance-gilded-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilDarkSector",
+        "name": "[Ph] Dark Sector Event Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "ph-dark-sector-event-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/AllianceSigilTwoTone",
+        "name": "[Ph] Glyphed Alliance Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "ph-glyphed-alliance-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilRelayReconClanTierOne",
+        "name": "[Ph] Relay Reconstruction Clan Tier 1",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "ph-relay-reconstruction-clan-tier-1.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilRelayReconClanTierTwo",
+        "name": "[Ph] Relay Reconstruction Clan Tier 2",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "ph-relay-reconstruction-clan-tier-2.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilRelayReconClanTierThree",
+        "name": "[Ph] Relay Reconstruction Clan Tier 3",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "ph-relay-reconstruction-clan-tier-3.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MonquisCYSigil",
+        "name": "/Lotus/Language/Sigils/Monquiscysigilname",
+        "type": "Sigil",
+        "imageName": "lotus-language-sigils-monquiscysigilname.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4ExclusiveBundleSigil",
+        "name": "/Lotus/Language/Sigils/Ps4exclusivebundlesigilname",
+        "type": "Sigil",
+        "imageName": "lotus-language-sigils-ps4exclusivebundlesigilname.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsA",
+        "name": "/Lotus/Language/Sigils/Syndicatesigilassassinsaname",
+        "type": "Sigil",
+        "imageName": "lotus-language-sigils-syndicatesigilassassinsaname.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsB",
+        "name": "/Lotus/Language/Sigils/Syndicatesigilassassinsbname",
+        "type": "Sigil",
+        "imageName": "lotus-language-sigils-syndicatesigilassassinsbname.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsC",
+        "name": "/Lotus/Language/Sigils/Syndicatesigilassassinscname",
+        "type": "Sigil",
+        "imageName": "lotus-language-sigils-syndicatesigilassassinscname.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsD",
+        "name": "/Lotus/Language/Sigils/Syndicatesigilassassinsdname",
+        "type": "Sigil",
+        "imageName": "lotus-language-sigils-syndicatesigilassassinsdname.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsE",
+        "name": "/Lotus/Language/Sigils/Syndicatesigilassassinsename",
+        "type": "Sigil",
+        "imageName": "lotus-language-sigils-syndicatesigilassassinsename.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsF",
+        "name": "/Lotus/Language/Sigils/Syndicatesigilassassinsfname",
+        "type": "Sigil",
+        "imageName": "lotus-language-sigils-syndicatesigilassassinsfname.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsG",
+        "name": "/Lotus/Language/Sigils/Syndicatesigilassassinsgname",
+        "type": "Sigil",
+        "imageName": "lotus-language-sigils-syndicatesigilassassinsgname.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsH",
+        "name": "/Lotus/Language/Sigils/Syndicatesigilassassinshname",
+        "type": "Sigil",
+        "imageName": "lotus-language-sigils-syndicatesigilassassinshname.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsI",
+        "name": "/Lotus/Language/Sigils/Syndicatesigilassassinsiname",
+        "type": "Sigil",
+        "imageName": "lotus-language-sigils-syndicatesigilassassinsiname.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsJ",
+        "name": "/Lotus/Language/Sigils/Syndicatesigilassassinsjname",
+        "type": "Sigil",
+        "imageName": "lotus-language-sigils-syndicatesigilassassinsjname.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilAssassinsK",
+        "name": "/Lotus/Language/Sigils/Syndicatesigilassassinskname",
+        "type": "Sigil",
+        "imageName": "lotus-language-sigils-syndicatesigilassassinskname.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveN",
+        "name": "Accord Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "accord-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ProjectSinisterSigil",
+        "name": "Acolyte Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "acolyte-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilAladV",
+        "name": "Alad V Sigil",
+        "type": "Sigil",
+        "imageName": "alad-v-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/AllianceSigilBasic",
+        "name": "Alliance Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "alliance-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveI",
+        "name": "Ambition Sigil",
+        "type": "Sigil",
+        "imageName": "ambition-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilAmbulas",
+        "name": "Ambulas Reborn Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "ambulas-reborn-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilAmbulas",
+        "name": "Ambulas Sigil",
+        "type": "Sigil",
+        "imageName": "ambulas-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisA",
+        "name": "Arbiter Of Hexis Sigil",
+        "type": "Sigil",
+        "imageName": "arbiter-of-hexis-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianC",
+        "name": "Armada Sigil",
+        "type": "Sigil",
+        "imageName": "armada-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianH",
+        "name": "Armored Sigil",
+        "type": "Sigil",
+        "imageName": "armored-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilK",
+        "name": "Assassin Sigil",
+        "type": "Sigil",
+        "imageName": "assassin-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaE",
+        "name": "Atomic Sigil",
+        "type": "Sigil",
+        "imageName": "atomic-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LoginSigilB",
+        "name": "Awakened Luna Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "awakened-luna-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveB",
+        "name": "Awakening Sigil",
+        "type": "Sigil",
+        "imageName": "awakening-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveD",
+        "name": "Awareness Sigil",
+        "type": "Sigil",
+        "imageName": "awareness-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BansheeDeluxeSigil",
+        "name": "Banshee Soprana Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "banshee-soprana-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisC",
+        "name": "Bending Will Sigil",
+        "type": "Sigil",
+        "imageName": "bending-will-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BladeAndGunSigil",
+        "name": "Blade And Gun Sigil",
+        "type": "Sigil",
+        "imageName": "blade-and-gun-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilB",
+        "name": "Blades Sigil",
+        "type": "Sigil",
+        "imageName": "blades-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BloodiedSigil",
+        "name": "Bloodshed Sigil",
+        "type": "Sigil",
+        "imageName": "bloodshed-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaG",
+        "name": "Bloom Sigil",
+        "type": "Sigil",
+        "imageName": "bloom-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaJ",
+        "name": "Bounty Sigil",
+        "type": "Sigil",
+        "imageName": "bounty-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/OrbSigil",
+        "name": "Buried Debts Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "buried-debts-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceD",
+        "name": "Calculating Sigil",
+        "type": "Sigil",
+        "imageName": "calculating-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XboneJadeTwoSigil",
+        "name": "Capala Jade Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "capala-jade-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceJ",
+        "name": "Capital Sigil",
+        "type": "Sigil",
+        "imageName": "capital-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/CollectorSigil",
+        "name": "Cephalon Simaris Sigil",
+        "type": "Sigil",
+        "imageName": "cephalon-simaris-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaA",
+        "name": "Cephalon Suda Sigil",
+        "type": "Sigil",
+        "imageName": "cephalon-suda-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceK",
+        "name": "Chairman Sigil",
+        "type": "Sigil",
+        "imageName": "chairman-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianK",
+        "name": "Champion Sigil",
+        "type": "Sigil",
+        "imageName": "champion-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisF",
+        "name": "Choice Sigil",
+        "type": "Sigil",
+        "imageName": "choice-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ClanSigilBasic",
+        "name": "Clan Sigil",
+        "type": "Sigil",
+        "imageName": "clan-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaF",
+        "name": "Clarity Sigil",
+        "type": "Sigil",
+        "imageName": "clarity-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LotusHeartSigil",
+        "name": "Community Of Tenno",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "community-of-tenno.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/OpticorConclaveVariantSigil",
+        "name": "Conclave Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "conclave-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveA",
+        "name": "Conclave Sigil",
+        "type": "Sigil",
+        "imageName": "conclave-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilScarletSpear",
+        "name": "Condrix Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "condrix-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ConqueraSigil",
+        "name": "Conquera Sigil",
+        "type": "Sigil",
+        "imageName": "conquera-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilJ",
+        "name": "Covert Sigil",
+        "type": "Sigil",
+        "imageName": "covert-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilC",
+        "name": "Cull Sigil",
+        "type": "Sigil",
+        "imageName": "cull-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4FiveYearSigil",
+        "name": "Cycle Five Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "cycle-five-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4FourYearSigil",
+        "name": "Cycle Four Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "cycle-four-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4OneYearSigil",
+        "name": "Cycle One Sigil",
+        "type": "Sigil",
+        "imageName": "cycle-one-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4ThreeYearSigil",
+        "name": "Cycle Three Sigil",
+        "type": "Sigil",
+        "imageName": "cycle-three-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4TwoYearSigil",
+        "name": "Cycle Two Sigil",
+        "type": "Sigil",
+        "imageName": "cycle-two-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrimeAccessSigilSaryn",
+        "name": "Cycuta Prime Sigil",
+        "type": "Sigil",
+        "imageName": "cycuta-prime-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DotD2016Sigil",
+        "name": "Day Of The Dead Sigil",
+        "type": "Sigil",
+        "imageName": "day-of-the-dead-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianB",
+        "name": "Defiance Sigil",
+        "type": "Sigil",
+        "imageName": "defiance-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveF",
+        "name": "Diligence Sigil",
+        "type": "Sigil",
+        "imageName": "diligence-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceF",
+        "name": "Directives Sigil",
+        "type": "Sigil",
+        "imageName": "directives-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilDisciple",
+        "name": "Disciple Sigil",
+        "type": "Sigil",
+        "imageName": "disciple-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisD",
+        "name": "Discipline Sigil",
+        "type": "Sigil",
+        "imageName": "discipline-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveM",
+        "name": "Discovery Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "discovery-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveH",
+        "name": "Discretion Sigil",
+        "type": "Sigil",
+        "imageName": "discretion-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DogDaysSigil",
+        "name": "Dog Days Sigil",
+        "type": "Sigil",
+        "imageName": "dog-days-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NoraSeasonTwoSigil",
+        "name": "Emissary Sigil",
+        "type": "Sigil",
+        "imageName": "emissary-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveP",
+        "name": "Empathy Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "empathy-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveL",
+        "name": "Enlightenment Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "enlightenment-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LoginSigilC",
+        "name": "Eternal Stasis Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "eternal-stasis-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014D",
+        "name": "Evergreen Sigil",
+        "type": "Sigil",
+        "imageName": "evergreen-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilFalseProfit",
+        "name": "False Profit Sigil",
+        "type": "Sigil",
+        "imageName": "false-profit-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilSnowflake",
+        "name": "Festive Sigil",
+        "type": "Sigil",
+        "imageName": "festive-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FireSigil",
+        "name": "Flaming Sigil",
+        "type": "Sigil",
+        "imageName": "flaming-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SparkSigil",
+        "name": "Flickering Sigil",
+        "type": "Sigil",
+        "imageName": "flickering-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FormaSigil",
+        "name": "Forma Sigil",
+        "type": "Sigil",
+        "imageName": "forma-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaG",
+        "name": "Fractal Sigil",
+        "type": "Sigil",
+        "imageName": "fractal-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianG",
+        "name": "Freedom Fighter Sigil",
+        "type": "Sigil",
+        "imageName": "freedom-fighter-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveK",
+        "name": "Freedom Sigil",
+        "type": "Sigil",
+        "imageName": "freedom-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaI",
+        "name": "Gaia Sigil",
+        "type": "Sigil",
+        "imageName": "gaia-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilTeralystBig",
+        "name": "Gantulyst Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "gantulyst-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ClanSigilMaskedEffect",
+        "name": "Gilded Clan Sigil",
+        "type": "Sigil",
+        "imageName": "gilded-clan-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BaroKavatSigil",
+        "name": "Glaring Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "glaring-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/GlassmakerSigil",
+        "name": "Glassmaker Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "glassmaker-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ClanSigilTwoTone",
+        "name": "Glyphed Clan Sigil",
+        "type": "Sigil",
+        "imageName": "glyphed-clan-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TwoToneSigil",
+        "name": "Glyphed Sigil",
+        "type": "Sigil",
+        "imageName": "glyphed-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilGrandMaster",
+        "name": "Grand Master Sigil",
+        "type": "Sigil",
+        "imageName": "grand-master-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisG",
+        "name": "Grasp Sigil",
+        "type": "Sigil",
+        "imageName": "grasp-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Halloween2020Sigil",
+        "name": "Grim Grin Naberus Sigil",
+        "type": "Sigil",
+        "imageName": "grim-grin-naberus-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaE",
+        "name": "Growth Sigil",
+        "type": "Sigil",
+        "imageName": "growth-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DeathMarkSigilGrustrag",
+        "name": "Grustrag Sigil",
+        "type": "Sigil",
+        "imageName": "grustrag-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LotusGuideSigil",
+        "name": "Guide Of The Lotus",
+        "type": "Sigil",
+        "imageName": "guide-of-the-lotus.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisB",
+        "name": "Guiding Path Sigil",
+        "type": "Sigil",
+        "imageName": "guiding-path-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaJ",
+        "name": "Hexan Sigil",
+        "type": "Sigil",
+        "imageName": "hexan-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilAmalgam",
+        "name": "Hostile Mergers Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "hostile-mergers-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaK",
+        "name": "Humanity Sigil",
+        "type": "Sigil",
+        "imageName": "humanity-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilHunter",
+        "name": "Hunter Sigil",
+        "type": "Sigil",
+        "imageName": "hunter-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilTeralystRain",
+        "name": "Hydrolyst Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "hydrolyst-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilHyenaPack",
+        "name": "Hyena Sigil",
+        "type": "Sigil",
+        "imageName": "hyena-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LoginSigilA",
+        "name": "Imminent Eclipse Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "imminent-eclipse-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/InktoberSigil",
+        "name": "Inktober Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "inktober-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveO",
+        "name": "Insight Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "insight-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilJackal",
+        "name": "Jackal Sigil",
+        "type": "Sigil",
+        "imageName": "jackal-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilKelaDeThaym",
+        "name": "Kela De Thaym Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "kela-de-thaym-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/StarterPackLotusSigil",
+        "name": "Kumuda Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "kumuda-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaI",
+        "name": "Labyrinth Sigil",
+        "type": "Sigil",
+        "imageName": "labyrinth-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SigilTankAncient",
+        "name": "Leaping Thrasher Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "leaping-thrasher-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilLechKril",
+        "name": "Lech Kril Sigil",
+        "type": "Sigil",
+        "imageName": "lech-kril-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MasterySigil",
+        "name": "Legacy Mastery Sigil",
+        "type": "Sigil",
+        "imageName": "legacy-mastery-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilLephantis",
+        "name": "Lephantis Sigil",
+        "type": "Sigil",
+        "imageName": "lephantis-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilF",
+        "name": "Lesion Sigil",
+        "type": "Sigil",
+        "imageName": "lesion-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FortunaSigil",
+        "name": "Lift Together Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "lift-together-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LoginSigilF",
+        "name": "Lotus Deliverance Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "lotus-deliverance-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilLynx",
+        "name": "Lynx Sigil",
+        "type": "Sigil",
+        "imageName": "lynx-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilE",
+        "name": "Maelstrom Sigil",
+        "type": "Sigil",
+        "imageName": "maelstrom-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilI",
+        "name": "Malevolent Sigil",
+        "type": "Sigil",
+        "imageName": "malevolent-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaF",
+        "name": "Manifold Sigil",
+        "type": "Sigil",
+        "imageName": "manifold-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/FounderSigilMaster",
+        "name": "Master Sigil",
+        "type": "Sigil",
+        "imageName": "master-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MasteryStoneSigil",
+        "name": "Mastery Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "mastery-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/MonquisSigil",
+        "name": "Monquis Sigil",
+        "type": "Sigil",
+        "imageName": "monquis-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaH",
+        "name": "Multivariate Sigil",
+        "type": "Sigil",
+        "imageName": "multivariate-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/StarterPackASigil",
+        "name": "Nava Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "nava-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TwitchNecraloidSigil",
+        "name": "Necraloid Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "necraloid-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilNefAnyo",
+        "name": "Nef Anyo Sigil",
+        "type": "Sigil",
+        "imageName": "nef-anyo-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaA",
+        "name": "New Loka Sigil",
+        "type": "Sigil",
+        "imageName": "new-loka-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/RadioLegionSigil",
+        "name": "Nightwave Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "nightwave-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014B",
+        "name": "Nistlebrush Sigil",
+        "type": "Sigil",
+        "imageName": "nistlebrush-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4CrowSigil",
+        "name": "Obsidian Corvus Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "obsidian-corvus-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ObsidianIndraSigil",
+        "name": "Obsidian Indra Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "obsidian-indra-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PS4RenownXSigil",
+        "name": "Obsidian Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "obsidian-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/KuvaLichSigil",
+        "name": "Old Blood Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "old-blood-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceC",
+        "name": "Opportunity Sigil",
+        "type": "Sigil",
+        "imageName": "opportunity-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceI",
+        "name": "Optimum Sigil",
+        "type": "Sigil",
+        "imageName": "optimum-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaK",
+        "name": "Oracle Sigil",
+        "type": "Sigil",
+        "imageName": "oracle-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/OstronCommunitySigil",
+        "name": "Ostron Community Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "ostron-community-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BaroKubrowSigil",
+        "name": "Pack Leader Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "pack-leader-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaD",
+        "name": "Pattern Match Sigil",
+        "type": "Sigil",
+        "imageName": "pattern-match-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveC",
+        "name": "Perception Sigil",
+        "type": "Sigil",
+        "imageName": "perception-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceA",
+        "name": "Perrin Sequence Sigil",
+        "type": "Sigil",
+        "imageName": "perrin-sequence-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ClanSigilBasicAdd",
+        "name": "Phased Clan Sigil",
+        "type": "Sigil",
+        "imageName": "phased-clan-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/CNYRoosterPWSigil",
+        "name": "Phoenix Coronet Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "phoenix-coronet-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilPhorid",
+        "name": "Phorid Sigil",
+        "type": "Sigil",
+        "imageName": "phorid-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisH",
+        "name": "Potential Sigil",
+        "type": "Sigil",
+        "imageName": "potential-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrismaLotusSigil",
+        "name": "Prisma Lotus Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "prisma-lotus-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrimeTraderSigil",
+        "name": "Prisma Sigil",
+        "type": "Sigil",
+        "imageName": "prisma-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceB",
+        "name": "Progress Sigil",
+        "type": "Sigil",
+        "imageName": "progress-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TwitchProminenceSigil",
+        "name": "Prominence Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "prominence-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianF",
+        "name": "Protectorate Sigil",
+        "type": "Sigil",
+        "imageName": "protectorate-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveG",
+        "name": "Prudence Sigil",
+        "type": "Sigil",
+        "imageName": "prudence-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaH",
+        "name": "Purity Sigil",
+        "type": "Sigil",
+        "imageName": "purity-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaB",
+        "name": "Query Sigil",
+        "type": "Sigil",
+        "imageName": "query-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ConclaveTacAlertSigilA",
+        "name": "Quick Steel Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "quick-steel-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilRaptor",
+        "name": "Raptor Sigil",
+        "type": "Sigil",
+        "imageName": "raptor-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/KelaEventSigil",
+        "name": "Rathuum Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "rathuum-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianI",
+        "name": "Rebellion Sigil",
+        "type": "Sigil",
+        "imageName": "rebellion-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaD",
+        "name": "Rebirth Sigil",
+        "type": "Sigil",
+        "imageName": "rebirth-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilA",
+        "name": "Red Veil Sigil",
+        "type": "Sigil",
+        "imageName": "red-veil-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveE",
+        "name": "Revelation Sigil",
+        "type": "Sigil",
+        "imageName": "revelation-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/RhinoDeluxeSigil",
+        "name": "Rhino Palatine Sigil",
+        "type": "Sigil",
+        "imageName": "rhino-palatine-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EnergySigilA",
+        "name": "Rift Sigil",
+        "type": "Sigil",
+        "imageName": "rift-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrimeAccessSigilLimbo",
+        "name": "Rift Walker Prime Sigil",
+        "type": "Sigil",
+        "imageName": "rift-walker-prime-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilG",
+        "name": "Ruin Sigil",
+        "type": "Sigil",
+        "imageName": "ruin-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaB",
+        "name": "Sacrifice Sigil",
+        "type": "Sigil",
+        "imageName": "sacrifice-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilSargusRuk",
+        "name": "Sargas Ruk Sigil",
+        "type": "Sigil",
+        "imageName": "sargas-ruk-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WolfSigil",
+        "name": "Saturn Six Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "saturn-six-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/ScarSigil",
+        "name": "Scar Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "scar-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EnergySigilB",
+        "name": "Scars Of Arbitration Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "scars-of-arbitration-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XBoneOneYearSigil",
+        "name": "Seal Of Honoring",
+        "type": "Sigil",
+        "imageName": "seal-of-honoring.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XBoneTwoYearSigil",
+        "name": "Seal Of Honoring Ii",
+        "type": "Sigil",
+        "imageName": "seal-of-honoring-ii.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XBoneThreeYearSigil",
+        "name": "Seal Of Honoring Iii",
+        "type": "Sigil",
+        "imageName": "seal-of-honoring-iii.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XBoneFourYearSigil",
+        "name": "Seal Of Honoring Iv",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "seal-of-honoring-iv.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilCephalonSudaC",
+        "name": "Searching Sigil",
+        "type": "Sigil",
+        "imageName": "searching-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilNewLokaC",
+        "name": "Seed Sigil",
+        "type": "Sigil",
+        "imageName": "seed-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/NecramechSigilSnake",
+        "name": "Snake Necramech Sigil",
+        "type": "Sigil",
+        "imageName": "snake-necramech-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SigilSnake",
+        "name": "Snake Sigil",
+        "type": "Sigil",
+        "imageName": "snake-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LoginSigilD",
+        "name": "Solar Flare Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "solar-flare-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/Winter2016Sigil",
+        "name": "Solstice Sigil",
+        "type": "Sigil",
+        "imageName": "solstice-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DeathMarkSigilStalker",
+        "name": "Stalker Sigil",
+        "type": "Sigil",
+        "imageName": "stalker-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TwitchPrimeSigil",
+        "name": "Static Reactor Prime Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "static-reactor-prime-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianA",
+        "name": "Steel Meridian Sigil",
+        "type": "Sigil",
+        "imageName": "steel-meridian-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/XBoneJadeSigil",
+        "name": "Stoka Jade Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "stoka-jade-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceG",
+        "name": "Strategy Sigil",
+        "type": "Sigil",
+        "imageName": "strategy-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisI",
+        "name": "Succession Sigil",
+        "type": "Sigil",
+        "imageName": "succession-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisJ",
+        "name": "Surpassing Sigil",
+        "type": "Sigil",
+        "imageName": "surpassing-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceE",
+        "name": "Synergy Sigil",
+        "type": "Sigil",
+        "imageName": "synergy-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WikiaSigil",
+        "name": "Tenno Chronicler Sigil",
+        "type": "Sigil",
+        "imageName": "tenno-chronicler-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoLive2015Sigil",
+        "name": "Tenno Live Sigil",
+        "type": "Sigil",
+        "imageName": "tenno-live-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoLivePromoSigil",
+        "name": "Tenno Luminary Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "tenno-luminary-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TranslatorSigil",
+        "name": "Tenno Translator Sigil",
+        "type": "Sigil",
+        "imageName": "tenno-translator-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2016Sigil",
+        "name": "Tennocon 2016 Sigil",
+        "type": "Sigil",
+        "imageName": "tennocon-2016-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2017Sigil",
+        "name": "Tennocon 2017 Sigil",
+        "type": "Sigil",
+        "imageName": "tennocon-2017-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2018Sigil",
+        "name": "Tennocon 2018 Sigil",
+        "type": "Sigil",
+        "imageName": "tennocon-2018-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2019Sigil",
+        "name": "Tennocon 2019 Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "tennocon-2019-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2020Sigil",
+        "name": "Tennocon 2020 Sigil",
+        "type": "Sigil",
+        "imageName": "tennocon-2020-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoGenSigil",
+        "name": "Tennogen Sigil",
+        "type": "Sigil",
+        "imageName": "tennogen-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DawnsEarlyLightSigil",
+        "name": "Teralyst Prominence Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "teralyst-prominence-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TeralystSigil",
+        "name": "Teralyst Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "teralyst-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceH",
+        "name": "Tessilations Sigil",
+        "type": "Sigil",
+        "imageName": "tessilations-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilIndex",
+        "name": "The Index Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "the-index-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilD",
+        "name": "Threat Sigil",
+        "type": "Sigil",
+        "imageName": "threat-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014C",
+        "name": "Tolling Sigil",
+        "type": "Sigil",
+        "imageName": "tolling-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SigilVideoContest",
+        "name": "Trailer Entrant Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "trailer-entrant-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisK",
+        "name": "Truth Sigil",
+        "type": "Sigil",
+        "imageName": "truth-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilTylRegor",
+        "name": "Tyl Regor Sigil",
+        "type": "Sigil",
+        "imageName": "tyl-regor-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveQ",
+        "name": "Unity Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "unity-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianJ",
+        "name": "Unyielding Sigil",
+        "type": "Sigil",
+        "imageName": "unyielding-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianE",
+        "name": "Uprising Sigil",
+        "type": "Sigil",
+        "imageName": "uprising-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilVayHek",
+        "name": "Vay Hek Sigil",
+        "type": "Sigil",
+        "imageName": "vay-hek-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/PrimeAccessSigilFive",
+        "name": "Velorum Prime Sigil",
+        "type": "Sigil",
+        "imageName": "velorum-prime-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilSteelMeridianD",
+        "name": "Vigilance Sigil",
+        "type": "Sigil",
+        "imageName": "vigilance-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilRedVeilH",
+        "name": "Viscera Sigil",
+        "type": "Sigil",
+        "imageName": "viscera-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/LoginSigilE",
+        "name": "Void Gate Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "void-gate-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilConclaveJ",
+        "name": "Volition Sigil",
+        "type": "Sigil",
+        "imageName": "volition-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilCaptainVor",
+        "name": "Vor Sigil",
+        "type": "Sigil",
+        "imageName": "vor-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilArbitersOfHexisE",
+        "name": "Will Sigil",
+        "type": "Sigil",
+        "imageName": "will-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/HolidaySigilXmas2014A",
+        "name": "Wreath Sigil",
+        "type": "Sigil",
+        "imageName": "wreath-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/CNYRoosterCYSigil",
+        "name": "Year Of The Rooster Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "year-of-the-rooster-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/DeathMarkSigilZanuka",
+        "name": "Zanuka Sigil",
+        "type": "Sigil",
+        "imageName": "zanuka-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    }
+]
