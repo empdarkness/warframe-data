@@ -4948,6 +4948,14 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "Unreal Tournament Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageUnrealTournament",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "unreal-tournament-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "Unrealyuki Glyph": {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageUnrealYuki",
         "type": "Glyph",

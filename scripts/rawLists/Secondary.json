@@ -1376,6 +1376,7 @@
         "slot": 0,
         "omegaAttenuation": 0.5,
         "noise": "Alarming",
+        "trigger": "Held",
         "magazineSize": 31,
         "reloadTime": 1.7,
         "multishot": 1,

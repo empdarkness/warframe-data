@@ -5476,6 +5476,14 @@
         "category": "Skins",
         "tradable": false
     },
+    "Drakgoon Flak Cannon Skin": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Weapons/UnrealTournament/DrakgoonFlakCannonSkin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "drakgoon-flak-cannon-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Drakgoon Rubedo Plated Skin": {
         "uniqueName": "/Lotus/Upgrades/Skins/ReferralSeriesTwo/RubedoDrakgoonCamo",
         "type": "Skin",
@@ -17803,6 +17811,14 @@
         "category": "Skins",
         "tradable": false
     },
+    "Ogris Rocket Launcher Skin": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Weapons/UnrealTournament/OgrisRocketLauncherSkin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "ogris-rocket-launcher-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Oku Nikana Skin": {
         "uniqueName": "/Lotus/Upgrades/Skins/Katana/ExcaliburDeluxeNikana",
         "type": "Skin",
@@ -22273,6 +22289,14 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "staff-straight-holster.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Stahlta Shock Rifle Skin": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Weapons/UnrealTournament/StahltaShockRifleSkin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "stahlta-shock-rifle-skin.png",
         "category": "Skins",
         "tradable": false
     },
