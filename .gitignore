@@ -5,3 +5,4 @@ warframes.py
 primary.py
 melee.py
 secondary.py
+scripts/mod-override.py
