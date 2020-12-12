@@ -2072,6 +2072,12 @@
                 "Cyath": 0.89999998
             }
         },
+        "Dakra Prime": {
+            "riventype": "Melee",
+            "variants": {
+                "Dakra Prime": 1.1
+            }
+        },
         "Dehtat": {
             "riventype": "Melee",
             "variants": {
