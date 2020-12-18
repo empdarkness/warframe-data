@@ -88,7 +88,11 @@
     "imageName": "corrupted-bombard-specter.png"
   },
   "/Lotus/Types/StoreItems/Packages/VTEosArmourBundle": {
-	"name": "Eos Prime Armor Set",
-	"imageName": "eos-prime-armor-set.jpg"
+	  "name": "Eos Prime Armor Set",
+	  "imageName": "eos-prime-armor-set.jpg"
+  },
+  "/Lotus/Types/StoreItems/Packages/KavatColorPackNexus": {
+    "name": "Nexus Gene-Masking Kit",
+    "imageName": "KavatNexusBundle.png"
   }
 }
