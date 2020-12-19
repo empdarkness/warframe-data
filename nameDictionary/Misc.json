@@ -540,6 +540,14 @@
         "category": "Misc",
         "tradable": true
     },
+    "Ayatan Hemakara Sculpture": {
+        "uniqueName": "/Lotus/Types/Items/FusionTreasures/OroFusexJ",
+        "excludeFromCodex": true,
+        "type": "Ayatan Sculpture",
+        "imageName": "ayatan-hemakara-sculpture.png",
+        "category": "Misc",
+        "tradable": true
+    },
     "Ayatan Kitha Sculpture": {
         "uniqueName": "/Lotus/Types/Items/FusionTreasures/OroFusexEntrati",
         "type": "Ayatan Sculpture",
@@ -4704,6 +4712,13 @@
         "uniqueName": "/Lotus/Types/Items/Deimos/AnimalTagInfestedPredatorUncommon",
         "type": "Conservation Tag",
         "imageName": "pharaoh-predasite-tag.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "Phasic Cells": {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/MechSurvivalEventCreds",
+        "type": "Misc",
+        "imageName": "phasic-cells.png",
         "category": "Misc",
         "tradable": false
     },

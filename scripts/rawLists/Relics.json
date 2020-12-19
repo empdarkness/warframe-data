@@ -96,6 +96,38 @@
         "tradable": true
     },
     {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBansheeMirageVaultBSilver",
+        "name": "Axi A12 Exceptional",
+        "type": "Relic",
+        "imageName": "axi-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBansheeMirageVaultBGold",
+        "name": "Axi A12 Flawless",
+        "type": "Relic",
+        "imageName": "axi-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBansheeMirageVaultBBronze",
+        "name": "Axi A12 Intact",
+        "type": "Relic",
+        "imageName": "axi-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBansheeMirageVaultBPlatinum",
+        "name": "Axi A12 Radiant",
+        "type": "Relic",
+        "imageName": "axi-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
         "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionPSilver",
         "name": "Axi A2 Exceptional",
         "type": "Relic",
@@ -1018,6 +1050,38 @@
     {
         "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionMesaPrimeBPlatinum",
         "name": "Axi H4 Radiant",
+        "type": "Relic",
+        "imageName": "axi-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBansheeMirageVaultASilver",
+        "name": "Axi H5 Exceptional",
+        "type": "Relic",
+        "imageName": "axi-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBansheeMirageVaultAGold",
+        "name": "Axi H5 Flawless",
+        "type": "Relic",
+        "imageName": "axi-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBansheeMirageVaultABronze",
+        "name": "Axi H5 Intact",
+        "type": "Relic",
+        "imageName": "axi-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBansheeMirageVaultAPlatinum",
+        "name": "Axi H5 Radiant",
         "type": "Relic",
         "imageName": "axi-radiant.png",
         "category": "Relics",
@@ -3552,6 +3616,38 @@
         "tradable": true
     },
     {
+        "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionBansheeMirageVaultASilver",
+        "name": "Lith K5 Exceptional",
+        "type": "Relic",
+        "imageName": "lith-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionBansheeMirageVaultAGold",
+        "name": "Lith K5 Flawless",
+        "type": "Relic",
+        "imageName": "lith-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionBansheeMirageVaultABronze",
+        "name": "Lith K5 Intact",
+        "type": "Relic",
+        "imageName": "lith-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionBansheeMirageVaultAPlatinum",
+        "name": "Lith K5 Radiant",
+        "type": "Relic",
+        "imageName": "lith-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
         "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionWukongPrimeBSilver",
         "name": "Lith L1 Exceptional",
         "type": "Relic",
@@ -3802,6 +3898,38 @@
     {
         "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionInarosPrimeAPlatinum",
         "name": "Lith M6 Radiant",
+        "type": "Relic",
+        "imageName": "lith-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionBansheeMirageVaultBSilver",
+        "name": "Lith M7 Exceptional",
+        "type": "Relic",
+        "imageName": "lith-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionBansheeMirageVaultBGold",
+        "name": "Lith M7 Flawless",
+        "type": "Relic",
+        "imageName": "lith-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionBansheeMirageVaultBBronze",
+        "name": "Lith M7 Intact",
+        "type": "Relic",
+        "imageName": "lith-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionBansheeMirageVaultBPlatinum",
+        "name": "Lith M7 Radiant",
         "type": "Relic",
         "imageName": "lith-radiant.png",
         "category": "Relics",
@@ -5722,6 +5850,38 @@
     {
         "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionTitaniaPrimeAPlatinum",
         "name": "Meso E4 Radiant",
+        "type": "Relic",
+        "imageName": "meso-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionBansheeMirageVaultASilver",
+        "name": "Meso E5 Exceptional",
+        "type": "Relic",
+        "imageName": "meso-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionBansheeMirageVaultAGold",
+        "name": "Meso E5 Flawless",
+        "type": "Relic",
+        "imageName": "meso-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionBansheeMirageVaultABronze",
+        "name": "Meso E5 Intact",
+        "type": "Relic",
+        "imageName": "meso-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionBansheeMirageVaultAPlatinum",
+        "name": "Meso E5 Radiant",
         "type": "Relic",
         "imageName": "meso-radiant.png",
         "category": "Relics",
@@ -7802,6 +7962,38 @@
     {
         "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLimboPrimeDPlatinum",
         "name": "Neo B5 Radiant",
+        "type": "Relic",
+        "imageName": "neo-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionBansheeMirageVaultASilver",
+        "name": "Neo B6 Exceptional",
+        "type": "Relic",
+        "imageName": "neo-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionBansheeMirageVaultAGold",
+        "name": "Neo B6 Flawless",
+        "type": "Relic",
+        "imageName": "neo-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionBansheeMirageVaultABronze",
+        "name": "Neo B6 Intact",
+        "type": "Relic",
+        "imageName": "neo-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionBansheeMirageVaultAPlatinum",
+        "name": "Neo B6 Radiant",
         "type": "Relic",
         "imageName": "neo-radiant.png",
         "category": "Relics",

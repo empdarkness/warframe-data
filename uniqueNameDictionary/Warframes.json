@@ -882,6 +882,31 @@
         "sprint": 1.05,
         "wikiaUrl": "http://warframe.fandom.com/wiki/Khora"
     },
+    "/Lotus/Powersuits/Alchemist/Alchemist": {
+        "name": "Lavos",
+        "health": 200,
+        "shield": 100,
+        "armor": 450,
+        "stamina": 3,
+        "power": 175,
+        "masteryReq": 0,
+        "sprintSpeed": 1.15,
+        "buildPrice": 25000,
+        "buildTime": 259200,
+        "skipBuildTimePrice": 50,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Warframe",
+        "imageName": "lavos.png",
+        "category": "Warframes",
+        "tradable": false,
+        "conclave": false,
+        "color": 2830632,
+        "introduced": "29.6",
+        "sex": "Male",
+        "sprint": 1.15,
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Lavos"
+    },
     "/Lotus/Powersuits/Magician/Magician": {
         "name": "Limbo",
         "health": 100,
@@ -1897,7 +1922,7 @@
         "vaulted": true
     },
     "/Lotus/Powersuits/EntratiMech/NechroTech": {
-        "name": "Voidrig Necramech",
+        "name": "Voidrig",
         "health": 1500,
         "shield": 500,
         "armor": 400,
@@ -1914,7 +1939,7 @@
         "buildQuantity": 1,
         "consumeOnBuild": true,
         "type": "Warframe",
-        "imageName": "voidrig-necramech.png",
+        "imageName": "voidrig.png",
         "category": "Warframes",
         "tradable": false
     },

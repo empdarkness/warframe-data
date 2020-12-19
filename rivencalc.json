@@ -355,6 +355,12 @@
                 "Caustacyst": 1.3
             }
         },
+        "Cedo": {
+            "riventype": "Shotgun",
+            "variants": {
+                "Cedo": 0.5
+            }
+        },
         "Centaur": {
             "riventype": "Melee",
             "variants": {

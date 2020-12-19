@@ -870,6 +870,24 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/NecramechSnakeHelmet",
+        "name": "/Lotus/Language/Skins/Necramechsnakehelmetname",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "lotus-language-skins-necramechsnakehelmetname.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/VoidrigDOTDHelmet",
+        "name": "/Lotus/Language/Skins/Voidrigdotdhelmetname",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "lotus-language-skins-voidrigdotdhelmetname.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Clan/CY17173MediaBadge",
         "name": "17173 Emblem",
         "excludeFromCodex": true,
@@ -3515,6 +3533,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/ThanomechVoidRigDefaultHelmet",
+        "name": "Bonewidow Necramech Helmet",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "bonewidow-necramech-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Necramech/ThanomechVoidRigDefaultSkin",
         "name": "Bonewidow Necramech Skin",
         "excludeFromCodex": true,
@@ -3782,6 +3809,15 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "bruja-kubrow-armor.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/NecraMechCHelmetA",
+        "name": "Bruntspar Necramech Helmet",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "bruntspar-necramech-helmet.png",
         "category": "Skins",
         "tradable": false
     },
@@ -4998,6 +5034,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/MechWeapon/MechEventCortegeSkin",
+        "name": "Cortege Supulchrax Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "cortege-supulchrax-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWCovenantScarf",
         "name": "Covenant Syandana",
         "type": "Skin",
@@ -5087,6 +5132,15 @@
         "name": "Cryotic Front Emblem",
         "type": "Skin",
         "imageName": "cryotic-front-emblem.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/NecraMechCHelmetB",
+        "name": "Cryptanaut Necramech Helmet",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "cryptanaut-necramech-helmet.png",
         "category": "Skins",
         "tradable": false
     },
@@ -14292,6 +14346,72 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/AlchemistAgileAnims",
+        "name": "Lavos Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "lavos-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/AlchemistAltHelmet",
+        "name": "Lavos Cordatus Helmet",
+        "buildPrice": 20000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 25,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Skin",
+        "imageName": "lavos-cordatus-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/AlchemistHelmet",
+        "name": "Lavos Helmet",
+        "type": "Skin",
+        "imageName": "lavos-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/AlchemistNobleAnims",
+        "name": "Lavos Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "lavos-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardLavos",
+        "name": "Lavos Prex",
+        "excludeFromCodex": true,
+        "type": "Ship Decoration",
+        "imageName": "lavos-prex.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/LavosArmArmor",
+        "name": "Lavos Shoulder Guard",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "lavos-shoulder-guard.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/AlchemistSkin",
+        "name": "Lavos Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "lavos-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/LectaDazzleCamo",
         "name": "Lecta Shock-Camo Skin",
         "type": "Skin",
@@ -16411,6 +16531,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/MechWeapon/MechEventMausolonSkin",
+        "name": "Mausolon Supulchrax Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "mausolon-supulchrax-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/DayCommonFishATrophy",
         "name": "Mawfish Trophy",
         "buildPrice": 5000,
@@ -17098,6 +17227,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/MechWeapon/MechEventMorghaSkin",
+        "name": "Morgha Supulchrax Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "morgha-supulchrax-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/ResourceDecoItemMorphics",
         "name": "Morphics Decoration",
         "excludeFromCodex": true,
@@ -17396,6 +17534,15 @@
         "name": "Naviga Prime Sugatra",
         "type": "Skin",
         "imageName": "naviga-prime-sugatra.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/NecraMechCSkin",
+        "name": "Necramech Bruntspar Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "necramech-bruntspar-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -20813,6 +20960,15 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "opal-marteddu-sugatra.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Clan/MechEventEmblemItem",
+        "name": "Operation Orphix Venom Emblem",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "operation-orphix-venom-emblem.png",
         "category": "Skins",
         "tradable": false
     },
@@ -27906,6 +28062,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Items/ShipDecos/LavosDeviceDeco",
+        "name": "Transmutation Probe Decoration",
+        "excludeFromCodex": true,
+        "type": "Ship Decoration",
+        "imageName": "transmutation-probe-decoration.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityAgileAnims",
         "name": "Trinity Agile Animation Set",
         "excludeFromCodex": true,
@@ -29770,6 +29935,14 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TnAlchemistSyandana",
+        "name": "Vitam Syandana",
+        "type": "Skin",
+        "imageName": "vitam-syandana.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyHybridUncommonB",
         "name": "Vitreospina Trophy",
         "buildPrice": 5000,
@@ -29825,6 +29998,15 @@
         "name": "Void Black",
         "type": "Fur Color",
         "imageName": "void-black.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/NecramechVoidRigDefaultHelmet",
+        "name": "Voidrig Necramech Helmet",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "voidrig-necramech-helmet.png",
         "category": "Skins",
         "tradable": false
     },

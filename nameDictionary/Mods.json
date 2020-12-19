@@ -30089,6 +30089,34 @@
         "wikiaUrl": "http://warframe.fandom.com/wiki/Nebula_Bore",
         "transmutable": false
     },
+    "Necramech Augur": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechEnergyToOvershieldsMod",
+        "polarity": "Madurai",
+        "rarity": "Uncommon",
+        "baseDrain": 4,
+        "fusionLimit": 5,
+        "compatName": "NECRAMECH",
+        "type": "---",
+        "imageName": "necramech-augur.jpg",
+        "category": "Mods",
+        "tradable": false,
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Augur",
+        "transmutable": false
+    },
+    "Necramech Aviator": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechAvatarDamageReductionInAir",
+        "polarity": "Vazarin",
+        "rarity": "Common",
+        "baseDrain": 4,
+        "fusionLimit": 3,
+        "compatName": "NECRAMECH",
+        "type": "---",
+        "imageName": "necramech-aviator.jpg",
+        "category": "Mods",
+        "tradable": false,
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Aviator",
+        "transmutable": false
+    },
     "Necramech Blitz": {
         "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechSlideDamageMod",
         "polarity": "Madurai",
@@ -30117,6 +30145,20 @@
         "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Continuity",
         "transmutable": false
     },
+    "Necramech Deflection": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechAvatarShieldRechargeRateMod",
+        "polarity": "Vazarin",
+        "rarity": "Common",
+        "baseDrain": 4,
+        "fusionLimit": 5,
+        "compatName": "NECRAMECH",
+        "type": "---",
+        "imageName": "necramech-deflection.jpg",
+        "category": "Mods",
+        "tradable": false,
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Deflection",
+        "transmutable": false
+    },
     "Necramech Drift": {
         "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechHoverEfficiencyMod",
         "polarity": "Vazarin",
@@ -30143,6 +30185,20 @@
         "category": "Mods",
         "tradable": false,
         "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Efficiency",
+        "transmutable": false
+    },
+    "Necramech Enemy Sense": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechAvatarEnemyRadarMod",
+        "polarity": "Naramon",
+        "rarity": "Common",
+        "baseDrain": 4,
+        "fusionLimit": 5,
+        "compatName": "NECRAMECH",
+        "type": "---",
+        "imageName": "necramech-enemy-sense.jpg",
+        "category": "Mods",
+        "tradable": false,
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Enemy_Sense",
         "transmutable": false
     },
     "Necramech Flow": {
@@ -30229,6 +30285,20 @@
         "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Pressure_Point",
         "transmutable": false
     },
+    "Necramech Rage": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechAvatarDamageToEnergyMod",
+        "polarity": "Madurai",
+        "rarity": "Uncommon",
+        "baseDrain": 6,
+        "fusionLimit": 5,
+        "compatName": "NECRAMECH",
+        "type": "---",
+        "imageName": "necramech-rage.jpg",
+        "category": "Mods",
+        "tradable": false,
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Rage",
+        "transmutable": false
+    },
     "Necramech Reach": {
         "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechMeleeRangeMod",
         "polarity": "Madurai",
@@ -30241,6 +30311,20 @@
         "category": "Mods",
         "tradable": false,
         "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Reach",
+        "transmutable": false
+    },
+    "Necramech Rebuke": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechReflectOnShieldBreakMod",
+        "polarity": "Madurai",
+        "rarity": "Uncommon",
+        "baseDrain": 6,
+        "fusionLimit": 3,
+        "compatName": "NECRAMECH",
+        "type": "---",
+        "imageName": "necramech-rebuke.jpg",
+        "category": "Mods",
+        "tradable": false,
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Rebuke",
         "transmutable": false
     },
     "Necramech Redirection": {
@@ -30269,6 +30353,20 @@
         "category": "Mods",
         "tradable": false,
         "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Refuel",
+        "transmutable": false
+    },
+    "Necramech Repair": {
+        "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechRegenOnLowHealthMod",
+        "polarity": "Vazarin",
+        "rarity": "Uncommon",
+        "baseDrain": 10,
+        "fusionLimit": 3,
+        "compatName": "NECRAMECH",
+        "type": "---",
+        "imageName": "necramech-repair.jpg",
+        "category": "Mods",
+        "tradable": false,
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Repair",
         "transmutable": false
     },
     "Necramech Seismic Wave": {

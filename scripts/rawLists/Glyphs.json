@@ -3478,6 +3478,46 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLavosAltBright",
+        "name": "Lavos Cordatus Glyph",
+        "type": "Glyph",
+        "imageName": "lavos-cordatus-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLavosAltDark",
+        "name": "Lavos Cordatus Glyph",
+        "type": "Glyph",
+        "imageName": "lavos-cordatus-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLavosBright",
+        "name": "Lavos Glyph",
+        "type": "Glyph",
+        "imageName": "lavos-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageLavosDark",
+        "name": "Lavos Glyph",
+        "type": "Glyph",
+        "imageName": "lavos-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLavosAction",
+        "name": "Lavos In Action Glyph",
+        "type": "Glyph",
+        "imageName": "lavos-in-action-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLeDouble",
         "name": "Le Double Glyph",
         "type": "Glyph",
@@ -7203,6 +7243,15 @@
         "excludeFromCodex": true,
         "type": "Glyph",
         "imageName": "vome-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TwinSnakesGlyph",
+        "name": "Vome-Fass Glyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "vome-fass-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },

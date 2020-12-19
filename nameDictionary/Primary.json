@@ -983,6 +983,56 @@
         "wikiaUrl": "http://warframe.fandom.com/wiki/Buzlok",
         "disposition": 5
     },
+    "Cedo": {
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnAlchemistShotgun/TnAlchemistShotgun",
+        "totalDamage": 30,
+        "criticalChance": 0.2,
+        "criticalMultiplier": 2.4000001,
+        "procChance": 0.0033333302,
+        "fireRate": 3.8333335,
+        "masteryReq": 8,
+        "slot": 1,
+        "omegaAttenuation": 0.5,
+        "noise": "Alarming",
+        "trigger": "Auto",
+        "magazineSize": 40,
+        "reloadTime": 2.2,
+        "multishot": 6,
+        "buildPrice": 20000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 35,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Shotgun",
+        "imageName": "cedo.png",
+        "category": "Primary",
+        "tradable": false,
+        "ammo": 200,
+        "damage": "180.0",
+        "damageTypes": {
+            "puncture": 180
+        },
+        "marketCost": 240,
+        "projectile": "Hitscan",
+        "secondary": {
+            "name": "Semi",
+            "crit_chance": 2,
+            "crit_mult": 1.4,
+            "status_chance": 0.5,
+            "slash": 20
+        },
+        "secondaryArea": {
+            "name": "Radial Attack",
+            "radius": 600,
+            "blast": 10,
+            "damage": "10.0 blast"
+        },
+        "tags": [
+            "Tenno"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Cedo",
+        "disposition": 1
+    },
     "Cernos": {
         "uniqueName": "/Lotus/Weapons/Tenno/Bows/AntlerBow/AntlerBow",
         "totalDamage": 380,
@@ -5011,15 +5061,16 @@
             "viral": 1003,
             "damage": "1003.0 viral"
         },
-        "damage": "279.0",
+        "chargeTime": 0.7,
+        "damage": 279,
         "damageTypes": {
             "impact": 103.2,
             "slash": 145.1,
             "puncture": 30.7
         },
-        "flight": "???",
         "marketCost": 245,
         "projectile": "Projectile",
+        "statusChance": 43,
         "tags": [
             "Infested"
         ],

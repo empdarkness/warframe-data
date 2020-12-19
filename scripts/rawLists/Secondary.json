@@ -3574,7 +3574,6 @@
             "slash": 11.5,
             "puncture": 26.9
         },
-        "marketCost": 225,
         "projectile": "Hitscan",
         "secondary": {
             "name": "Burst",

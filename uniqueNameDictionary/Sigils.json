@@ -1016,6 +1016,14 @@
         "category": "Sigils",
         "tradable": false
     },
+    "/Lotus/Upgrades/Skins/Sigils/MechEventSigil": {
+        "name": "Operation Orphix Venom Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "operation-orphix-venom-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
     "/Lotus/Upgrades/Skins/Sigils/SyndicateSigilPerrinSequenceC": {
         "name": "Opportunity Sigil",
         "type": "Sigil",
