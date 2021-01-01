@@ -5263,6 +5263,7 @@
         "imageName": "quellor.png",
         "category": "Primary",
         "tradable": false,
+        "ammo": 900,
         "damage": "16.0 cold",
         "damageTypes": {
             "impact": 8,
@@ -5279,7 +5280,12 @@
             "status_chance": 0.1,
             "charge_time": 1.2,
             "shot_type": "Projectile",
-            "shot_speed": null,
+            "shot_speed": 210,
+            "falloff": {
+                "start": 9,
+                "end": 18,
+                "reduction": 0.6657
+            },
             "impact": 600,
             "cold": 800,
             "damage": "800.0 cold"

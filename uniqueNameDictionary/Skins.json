@@ -3405,6 +3405,14 @@
         "category": "Skins",
         "tradable": false
     },
+    "/Lotus/Upgrades/Skins/Necramech/NecraMechCSkin": {
+        "name": "Bruntspar Necramech Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "bruntspar-necramech-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "/Lotus/Upgrades/Skins/Scarves/HydroidDeluxeBlazers": {
         "name": "Burangara Longcoat",
         "excludeFromCodex": true,
@@ -15562,14 +15570,6 @@
         "name": "Naviga Prime Sugatra",
         "type": "Skin",
         "imageName": "naviga-prime-sugatra.png",
-        "category": "Skins",
-        "tradable": false
-    },
-    "/Lotus/Upgrades/Skins/Necramech/NecraMechCSkin": {
-        "name": "Necramech Bruntspar Skin",
-        "excludeFromCodex": true,
-        "type": "Skin",
-        "imageName": "necramech-bruntspar-skin.png",
         "category": "Skins",
         "tradable": false
     },

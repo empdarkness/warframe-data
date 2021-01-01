@@ -3336,6 +3336,14 @@
         "category": "Skins",
         "tradable": false
     },
+    "Bruntspar Necramech Skin": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/NecraMechCSkin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "bruntspar-necramech-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Burangara Longcoat": {
         "uniqueName": "/Lotus/Upgrades/Skins/Scarves/HydroidDeluxeBlazers",
         "excludeFromCodex": true,
@@ -15051,14 +15059,6 @@
         "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/ScrollingPrimeMeleeDangle",
         "type": "Skin",
         "imageName": "naviga-prime-sugatra.png",
-        "category": "Skins",
-        "tradable": false
-    },
-    "Necramech Bruntspar Skin": {
-        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/NecraMechCSkin",
-        "excludeFromCodex": true,
-        "type": "Skin",
-        "imageName": "necramech-bruntspar-skin.png",
         "category": "Skins",
         "tradable": false
     },

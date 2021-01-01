@@ -933,6 +933,7 @@
         "imageName": "lavos.png",
         "category": "Warframes",
         "tradable": false,
+        "aura": "naramon",
         "conclave": false,
         "color": 2830632,
         "introduced": "29.6",
