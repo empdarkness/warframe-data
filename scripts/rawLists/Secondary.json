@@ -3117,7 +3117,7 @@
             "falloff": {
                 "start": 0,
                 "end": 3.6,
-                "reduction": 0.5
+                "reduction": 0
             },
             "toxin": 20,
             "damage": "20.0 toxin"
@@ -4679,6 +4679,11 @@
         "ammo": 210,
         "areaAttack": {
             "name": "Gas Cloud",
+            "falloff": {
+                "start": 0,
+                "end": 3.5,
+                "reduction": 0
+            },
             "gas": 80,
             "damage": "80.0 gas"
         },
@@ -4724,6 +4729,11 @@
         "ammo": 210,
         "areaAttack": {
             "name": "Gas Cloud",
+            "falloff": {
+                "start": 0,
+                "end": 3.8,
+                "reduction": 0
+            },
             "gas": 100,
             "damage": "100.0 gas"
         },

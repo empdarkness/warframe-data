@@ -3049,6 +3049,14 @@
         "category": "Misc",
         "tradable": false
     },
+    "Intermission Iii Cred": {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/NoraIntermissionThreeCreds",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "intermission-iii-cred.png",
+        "category": "Misc",
+        "tradable": false
+    },
     "Intriguing Datum": {
         "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/CephalonUncommonDogTag",
         "type": "Medallion",

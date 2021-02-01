@@ -30157,7 +30157,7 @@
         "category": "Mods",
         "tradable": false,
         "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Deflection",
-        "transmutable": false
+        "transmutable": true
     },
     "Necramech Drift": {
         "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechHoverEfficiencyMod",
@@ -30199,7 +30199,7 @@
         "category": "Mods",
         "tradable": false,
         "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Enemy_Sense",
-        "transmutable": false
+        "transmutable": true
     },
     "Necramech Flow": {
         "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechPowerMaxMod",
@@ -30213,7 +30213,7 @@
         "category": "Mods",
         "tradable": false,
         "wikiaUrl": "http://warframe.fandom.com/wiki/Necramech_Flow",
-        "transmutable": false
+        "transmutable": true
     },
     "Necramech Friction": {
         "uniqueName": "/Lotus/Upgrades/Mods/Necromech/NecromechSlideEfficiencyMod",

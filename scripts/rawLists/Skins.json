@@ -63,15 +63,6 @@
         "tradable": false
     },
     {
-        "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyPobbersUncommonDirty",
-        "name": "[Ph] Delicate Pobber Floof",
-        "excludeFromCodex": true,
-        "type": "Ship Decoration",
-        "imageName": "ph-delicate-pobber-floof.png",
-        "category": "Skins",
-        "tradable": false
-    },
-    {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyDerelictGold",
         "name": "[Ph] Derelict Trophy - Gold",
         "excludeFromCodex": true,
@@ -239,15 +230,6 @@
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "ph-k-drive-booster-deco.png",
-        "category": "Skins",
-        "tradable": false
-    },
-    {
-        "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyKubrodonRareDirty",
-        "name": "[Ph] Kubrodon Incarnadine Floof",
-        "excludeFromCodex": true,
-        "type": "Ship Decoration",
-        "imageName": "ph-kubrodon-incarnadine-floof.png",
         "category": "Skins",
         "tradable": false
     },
@@ -866,24 +848,6 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "lotus-language-skins-doomswordlegacyname.png",
-        "category": "Skins",
-        "tradable": false
-    },
-    {
-        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/NecramechSnakeHelmet",
-        "name": "/Lotus/Language/Skins/Necramechsnakehelmetname",
-        "excludeFromCodex": true,
-        "type": "Skin",
-        "imageName": "lotus-language-skins-necramechsnakehelmetname.png",
-        "category": "Skins",
-        "tradable": false
-    },
-    {
-        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/VoidrigDOTDHelmet",
-        "name": "/Lotus/Language/Skins/Voidrigdotdhelmetname",
-        "excludeFromCodex": true,
-        "type": "Skin",
-        "imageName": "lotus-language-skins-voidrigdotdhelmetname.png",
         "category": "Skins",
         "tradable": false
     },
@@ -5467,6 +5431,15 @@
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "day-of-the-dead-shawzin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/VoidrigDOTDHelmet",
+        "name": "Day Of The Dead Voidrig Helmet",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "day-of-the-dead-voidrig-helmet.png",
         "category": "Skins",
         "tradable": false
     },
@@ -10096,6 +10069,24 @@
         "name": "Grakata Towsun Skin",
         "type": "Skin",
         "imageName": "grakata-towsun-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyKubrodonRareDirty",
+        "name": "Gral'S Kubrodon Floof",
+        "excludeFromCodex": true,
+        "type": "Ship Decoration",
+        "imageName": "gral's-kubrodon-floof.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyPobbersUncommonDirty",
+        "name": "Gral'S Pobber Floof",
+        "excludeFromCodex": true,
+        "type": "Ship Decoration",
+        "imageName": "gral's-pobber-floof.png",
         "category": "Skins",
         "tradable": false
     },
@@ -23779,14 +23770,6 @@
         "tradable": false
     },
     {
-        "uniqueName": "/Lotus/Types/Items/ShipDecos/Deimos/FishTrophyOrokinRareBoot",
-        "name": "Sandal Trophy",
-        "type": "Ship Decoration",
-        "imageName": "sandal-trophy.png",
-        "category": "Skins",
-        "tradable": false
-    },
-    {
         "uniqueName": "/Lotus/Types/Game/CatbrowPet/Colors/CatbrowPetColorBaseXmas",
         "name": "Sandstorm Brown",
         "excludeFromCodex": true,
@@ -25394,6 +25377,15 @@
         "consumeOnBuild": true,
         "type": "Skin",
         "imageName": "smoking-body-ephemera.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Necramech/NecramechSnakeHelmet",
+        "name": "Snake Voidrig Helmet",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "snake-voidrig-helmet.png",
         "category": "Skins",
         "tradable": false
     },
@@ -27678,6 +27670,15 @@
         "name": "Tibor Prime Fur Pattern",
         "type": "Skin",
         "imageName": "tibor-prime-fur-pattern.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyTicker",
+        "name": "Ticker Floof",
+        "excludeFromCodex": true,
+        "type": "Ship Decoration",
+        "imageName": "ticker-floof.png",
         "category": "Skins",
         "tradable": false
     },

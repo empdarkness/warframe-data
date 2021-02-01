@@ -3802,7 +3802,7 @@
             "puncture": 46,
             "heat": 50
         },
-        "projectile": "Projectile",
+        "projectile": "Hitscan",
         "secondary": {
             "name": "Charged Shot Explosion",
             "speed": 0.5,
@@ -3817,7 +3817,14 @@
             "heat": 3000,
             "damage": "3000.0 heat"
         },
-        "statusChance": 50,
+        "secondaryArea": {
+            "name": "Charged Shot Projectile",
+            "status_chance": 50,
+            "impact": 100,
+            "puncture": 400,
+            "heat": 500,
+            "damage": "500.0 heat"
+        },
         "tags": [
             "Entrati"
         ],
@@ -6892,10 +6899,16 @@
         "ammo": 60,
         "areaAttack": {
             "name": "Poison Cloud",
+            "speed": 1,
             "crit_chance": 15,
             "crit_mult": 2,
-            "toxin": 400,
-            "damage": "400.0 toxin"
+            "falloff": {
+                "start": 0,
+                "end": 3,
+                "reduction": 1
+            },
+            "toxin": 40,
+            "damage": "40.0 toxin"
         },
         "damage": "100.0 toxin",
         "damageTypes": {
