@@ -3,6 +3,38 @@
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Deimos/FirePuddleOnKill",
         "excludeFromCodex": true,
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Kill:10% chance for |BONUS| to Melee Weapons for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Kill:20% chance for |BONUS| to Melee Weapons for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Kill:30% chance for |BONUS| to Melee Weapons for 9s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Kill:40% chance for |BONUS| to Melee Weapons for 12s|val|% Melee Damage"
+                ]
+            },
+            {
+                "stats": [
+                    "On Kill:50% chance for |BONUS| to Melee Weapons for 15s|val|% Melee Damage"
+                ]
+            },
+            {
+                "stats": [
+                    "On Kill:60% chance for |BONUS| to Melee Weapons for 18s|val|% Melee Damage"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "hc-fire-puddle-death.png",
         "category": "Arcanes",
@@ -12,6 +44,28 @@
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RegenerateOnHeadshot",
         "excludeFromCodex": true,
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Headshot Kill:10% chance for +3.8 HEAL RATE for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot Kill:20% chance for +7.5 HEAL RATE for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot Kill:30% chance for +11.3 HEAL RATE for 5s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot Kill:40% chance for +15 HEAL RATE for 6s"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "ph-regenerate-on-headshot.png",
         "category": "Arcanes",
@@ -28,6 +82,38 @@
     "Arcane Acceleration": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunSpeedOnCrit",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Critical Hit:5% chance for +15% Fire Rate to Primary Weapons for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:10% chance for +30% Fire Rate to Primary Weapons for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:15% chance for +45% Fire Rate to Primary Weapons for 5s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:20% chance for +60% Fire Rate to Primary Weapons for 6s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:25% chance for +75% Fire Rate to Primary Weapons for 8s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:30% chance for +90% Fire Rate to Primary Weapons for 9s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-acceleration.png",
         "category": "Arcanes",
@@ -36,6 +122,38 @@
     "Arcane Aegis": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/GolemArcaneShieldRegenOnDamage",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Shield Damaged:1% chance for +5% Shield Recharge for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Shield Damaged:1% chance for +10% Shield Recharge for 4s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Shield Damaged:2% chance for +15% Shield Recharge for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Shield Damaged:2% chance for +20% Shield Recharge for 8s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Shield Damaged:2% chance for +25% Shield Recharge for 10s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Shield Damaged:3% chance for +30% Shield Recharge for 12s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-aegis.png",
         "category": "Arcanes",
@@ -44,6 +162,38 @@
     "Arcane Agility": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnDamage",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Damaged:10% chance for +10% Parkour Velocity for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:20% chance for +20% Parkour Velocity for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:30% chance for +30% Parkour Velocity for 9s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:40% chance for +40% Parkour Velocity for 12s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:50% chance for +50% Parkour Velocity for 15s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:60% chance for +60% Parkour Velocity for 18s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-agility.png",
         "category": "Arcanes",
@@ -52,6 +202,38 @@
     "Arcane Arachne": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneBonusDamageOnWallLatch",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Wall Latch:+25% Damage for 5s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Wall Latch:+50% Damage for 10s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Wall Latch:+75% Damage for 15s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Wall Latch:+100% Damage for 20s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Wall Latch:+125% Damage for 25s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Wall Latch:+150% Damage for 30s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-arachne.png",
         "category": "Arcanes",
@@ -60,6 +242,38 @@
     "Arcane Avenger": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/CritChanceOnDamage",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Damaged:4% chance for +7.5% Critical Chance for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:7% chance for +15% Critical Chance for 4s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:11% chance for +22.5% Critical Chance for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:14% chance for +30% Critical Chance for 8s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:18% chance for +37.5% Critical Chance for 10s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:21% chance for +45% Critical Chance for 12s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-avenger.png",
         "category": "Arcanes",
@@ -68,6 +282,38 @@
     "Arcane Awakening": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/PistolDamageOnReload",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Reload:10% chance for +25% Damage to Pistols for 4s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Reload:20% chance for +50% Damage to Pistols for 8s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Reload:30% chance for +75% Damage to Pistols for 12s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Reload:40% chance for +100% Damage to Pistols for 16s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Reload:50% chance for +125% Damage to Pistols for 20s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Reload:60% chance for +150% Damage to Pistols for 24s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-awakening.png",
         "category": "Arcanes",
@@ -76,6 +322,38 @@
     "Arcane Barrier": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/InstantShieldOnDamage",
         "rarity": "Legendary",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Shield Damaged:1% chance to instantly restore all Shields"
+                ]
+            },
+            {
+                "stats": [
+                    "On Shield Damaged:2% chance to instantly restore all Shields"
+                ]
+            },
+            {
+                "stats": [
+                    "On Shield Damaged:3% chance to instantly restore all Shields"
+                ]
+            },
+            {
+                "stats": [
+                    "On Shield Damaged:4% chance to instantly restore all Shields+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Shield Damaged:5% chance to instantly restore all Shields+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Shield Damaged:6% chance to instantly restore all Shields+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-barrier.png",
         "category": "Arcanes",
@@ -84,6 +362,38 @@
     "Arcane Blade Charger": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDmgOnRifleKill",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Primary Weapon Kill:5% chance for +50% Melee Damage for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Primary Weapon Kill:10% chance for +100% Melee Damage for 4s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Primary Weapon Kill:15% chance for +150% Melee Damage for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Primary Weapon Kill:20% chance for +200% Melee Damage for 8s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Primary Weapon Kill:25% chance for +250% Melee Damage for 10s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Primary Weapon Kill:30% chance for +300% Melee Damage for 12s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Melee",
         "imageName": "arcane-blade-charger.png",
         "category": "Arcanes",
@@ -92,6 +402,38 @@
     "Arcane Bodyguard": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealCompanionOnSixMeleeKills",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On 6 Melee Kills within 30s:Heal Companion for 150"
+                ]
+            },
+            {
+                "stats": [
+                    "On 6 Melee Kills within 30s:Heal Companion for 300"
+                ]
+            },
+            {
+                "stats": [
+                    "On 6 Melee Kills within 30s:Heal Companion for 450"
+                ]
+            },
+            {
+                "stats": [
+                    "On 6 Melee Kills within 30s:Heal Companion for 600+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On 6 Melee Kills within 30s:Heal Companion for 750+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On 6 Melee Kills within 30s:Heal Companion for 900+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-bodyguard.png",
         "category": "Arcanes",
@@ -99,6 +441,38 @@
     },
     "Arcane Consequence": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneAimGlideOnHeadshot",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Headshot:25% chance for +10% Parkour Velocity for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:50% chance for +20% Parkour Velocity for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:75% chance for +30% Parkour Velocity for 9s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:100% chance for +40% Parkour Velocity for 12s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:100% chance for +50% Parkour Velocity for 15s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:100% chance for +60% Parkour Velocity for 18s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-consequence.png",
         "category": "Arcanes",
@@ -106,6 +480,38 @@
     },
     "Arcane Defense": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/PunctureProcResist",
+        "levelStats": [
+            {
+                "stats": [
+                    "+17% chance to resist a <DT_PUNCTURE>Puncture Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+34% chance to resist a <DT_PUNCTURE>Puncture Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+51% chance to resist a <DT_PUNCTURE>Puncture Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+68% chance to resist a <DT_PUNCTURE>Puncture Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+85% chance to resist a <DT_PUNCTURE>Puncture Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+102% chance to resist a <DT_PUNCTURE>Puncture Status effect."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-defense.png",
         "category": "Arcanes",
@@ -114,6 +520,38 @@
     "Arcane Deflection": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SlashProcResist",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "+17% chance to resist a <DT_SLASH>Slash Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+34% chance to resist a <DT_SLASH>Slash Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+51% chance to resist a <DT_SLASH>Slash Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+68% chance to resist a <DT_SLASH>Slash Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+85% chance to resist a <DT_SLASH>Slash Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+102% chance to resist a <DT_SLASH>Slash Status effect."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-deflection.png",
         "category": "Arcanes",
@@ -121,6 +559,38 @@
     },
     "Arcane Detoxifier": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/PoisonProcResist",
+        "levelStats": [
+            {
+                "stats": [
+                    "+17% chance to resist a <DT_POISON>Toxin Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+34% chance to resist a <DT_POISON>Toxin Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+51% chance to resist a <DT_POISON>Toxin Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+68% chance to resist a <DT_POISON>Toxin Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+85% chance to resist a <DT_POISON>Toxin Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+102% chance to resist a <DT_POISON>Toxin Status effect."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-detoxifier.png",
         "category": "Arcanes",
@@ -129,6 +599,38 @@
     "Arcane Energize": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneRadialEnergyOnEnergyPickup",
         "rarity": "Legendary",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Energy Pickup:10% chance to replenish Energy to nearby allies"
+                ]
+            },
+            {
+                "stats": [
+                    "On Energy Pickup:20% chance to replenish Energy to nearby allies"
+                ]
+            },
+            {
+                "stats": [
+                    "On Energy Pickup:30% chance to replenish Energy to nearby allies"
+                ]
+            },
+            {
+                "stats": [
+                    "On Energy Pickup:40% chance to replenish Energy to nearby allies+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Energy Pickup:50% chance to replenish Energy to nearby allies+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Energy Pickup:60% chance to replenish Energy to nearby allies+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-energize.png",
         "category": "Arcanes",
@@ -137,6 +639,38 @@
     "Arcane Eruption": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialKnockdownOnEnergyPickup",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Energy Pickup:17% chance to Knockdown nearby enemies"
+                ]
+            },
+            {
+                "stats": [
+                    "On Energy Pickup:34% chance to Knockdown nearby enemies"
+                ]
+            },
+            {
+                "stats": [
+                    "On Energy Pickup:51% chance to Knockdown nearby enemies"
+                ]
+            },
+            {
+                "stats": [
+                    "On Energy Pickup:68% chance to Knockdown nearby enemies+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Energy Pickup:85% chance to Knockdown nearby enemies+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Energy Pickup:100% chance to Knockdown nearby enemies+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-eruption.png",
         "category": "Arcanes",
@@ -145,6 +679,38 @@
     "Arcane Fury": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDamageOnCrit",
         "excludeFromCodex": true,
+        "levelStats": [
+            {
+                "stats": [
+                    "On Critical Hit:3% chance for +15% Damage to Pistols for 4s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:6% chance for +30% Damage to Pistols for 8s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:9% chance for +45% Damage to Pistols for 12s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:12% chance for +60% Damage to Pistols for 16s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:15% chance for +75% Damage to Pistols for 20s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:18% chance for +90% Damage to Pistols for 24s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Melee",
         "imageName": "arcane-fury.png",
         "category": "Arcanes",
@@ -153,6 +719,38 @@
     "Arcane Grace": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/HealthRegenOnDamage",
         "rarity": "Legendary",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Health Damaged:2% chance for +1% Health Regeneration/s for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Health Damaged:3% chance for +2% Health Regeneration/s for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Health Damaged:5% chance for +3% Health Regeneration/s for 5s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Health Damaged:6% chance for +4% Health Regeneration/s for 6s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Health Damaged:7% chance for +5% Health Regeneration/s for 8s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Health Damaged:9% chance for +6% Health Regeneration/s for 9s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-grace.png",
         "category": "Arcanes",
@@ -161,6 +759,38 @@
     "Arcane Guardian": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ArmourOnDamage",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Damaged:3% chance for +150 Armor for 20s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:5% chance for +300 Armor for 20s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:8% chance for +450 Armor for 20s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:10% chance for +600 Armor for 20s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:13% chance for +750 Armor for 20s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Damaged:15% chance for +900 Armor for 20s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-guardian.png",
         "category": "Arcanes",
@@ -169,6 +799,38 @@
     "Arcane Healing": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadiationProcResist",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "+17% chance to resist a <DT_RADIATION>Radiation Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+34% chance to resist a <DT_RADIATION>Radiation Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+51% chance to resist a <DT_RADIATION>Radiation Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+68% chance to resist a <DT_RADIATION>Radiation Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+85% chance to resist a <DT_RADIATION>Radiation Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+102% chance to resist a <DT_RADIATION>Radiation Status effect."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-healing.png",
         "category": "Arcanes",
@@ -176,6 +838,38 @@
     },
     "Arcane Ice": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FireProcResist",
+        "levelStats": [
+            {
+                "stats": [
+                    "+17% chance to resist a <DT_FIRE>Heat Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+34% chance to resist a <DT_FIRE>Heat Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+51% chance to resist a <DT_FIRE>Heat Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+68% chance to resist a <DT_FIRE>Heat Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+85% chance to resist a <DT_FIRE>Heat Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+102% chance to resist a <DT_FIRE>Heat Status effect."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-ice.png",
         "category": "Arcanes",
@@ -183,6 +877,38 @@
     },
     "Arcane Liquid": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/GasProcResist",
+        "levelStats": [
+            {
+                "stats": [
+                    "+17% chance to resist a <DT_GAS>Gas Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+34% chance to resist a <DT_GAS>Gas Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+51% chance to resist a <DT_GAS>Gas Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+68% chance to resist a <DT_GAS>Gas Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+85% chance to resist a <DT_GAS>Gas Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+102% chance to resist a <DT_GAS>Gas Status effect."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-liquid.png",
         "category": "Arcanes",
@@ -190,6 +916,38 @@
     },
     "Arcane Momentum": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneSniperSpeedOnCrit",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Critical Hit:10% chance for +25% Reload Speed to Sniper Rifles for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:20% chance for +50% Reload Speed to Sniper Rifles for 4s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:30% chance for +75% Reload Speed to Sniper Rifles for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:40% chance for +100% Reload Speed to Sniper Rifles for 8s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:50% chance for +125% Reload Speed to Sniper Rifles for 10s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:60% chance for +150% Reload Speed to Sniper Rifles for 12s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-momentum.png",
         "category": "Arcanes",
@@ -197,6 +955,38 @@
     },
     "Arcane Nullifier": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/MagneticProcResist",
+        "levelStats": [
+            {
+                "stats": [
+                    "+17% chance to resist a <DT_MAGNETIC>Magnetic Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+34% chance to resist a <DT_MAGNETIC>Magnetic Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+51% chance to resist a <DT_MAGNETIC>Magnetic Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+68% chance to resist a <DT_MAGNETIC>Magnetic Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+85% chance to resist a <DT_MAGNETIC>Magnetic Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+102% chance to resist a <DT_MAGNETIC>Magnetic Status effect."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-nullifier.png",
         "category": "Arcanes",
@@ -205,6 +995,38 @@
     "Arcane Phantasm": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnParry",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Block:8% chance for +10% Speed for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Block:15% chance for +20% Speed for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Block:23% chance for +30% Speed for 9s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Block:30% chance for +40% Speed for 12s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Block:38% chance for +50% Speed for 15s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Block:45% chance for +60% Speed for 18s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-phantasm.png",
         "category": "Arcanes",
@@ -213,6 +1035,38 @@
     "Arcane Pistoleer": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AmmoEfficiencyOnPistolHeadshot",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Pistol Headshot Kill:10% chance for +17% Ammo Efficiency for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Pistol Headshot Kill:20% chance for +34% Ammo Efficiency for 4s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Pistol Headshot Kill:30% chance for +51% Ammo Efficiency for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Pistol Headshot Kill:40% chance for +68% Ammo Efficiency for 8s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Pistol Headshot Kill:50% chance for +85% Ammo Efficiency for 10s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Pistol Headshot Kill:60% chance for +102% Ammo Efficiency for 12s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-pistoleer.png",
         "category": "Arcanes",
@@ -221,6 +1075,38 @@
     "Arcane Precision": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolDamageOnHeadshot",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Headshot:20% chance for +50% Damage to Pistols for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:40% chance for +100% Damage to Pistols for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:60% chance for +150% Damage to Pistols for 9s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:80% chance for +200% Damage to Pistols for 12s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:100% chance for +250% Damage to Pistols for 15s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:100% chance for +300% Damage to Pistols for 18s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-precision.png",
         "category": "Arcanes",
@@ -229,6 +1115,38 @@
     "Arcane Primary Charger": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDmgOnMeleeKill",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Melee Kill:5% chance for +50% Primary Weapon Damage for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Melee Kill:10% chance for +100% Primary Weapon Damage for 4s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Melee Kill:15% chance for +150% Primary Weapon Damage for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Melee Kill:20% chance for +200% Primary Weapon Damage for 8s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Melee Kill:25% chance for +250% Primary Weapon Damage for 10s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Melee Kill:30% chance for +300% Primary Weapon Damage for 12s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-primary-charger.png",
         "category": "Arcanes",
@@ -237,6 +1155,38 @@
     "Arcane Protection": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/CorrosiveProcResist",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "+17% chance to resist a <DT_CORROSIVE>Corrosive Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+34% chance to resist a <DT_CORROSIVE>Corrosive Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+51% chance to resist a <DT_CORROSIVE>Corrosive Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+68% chance to resist a <DT_CORROSIVE>Corrosive Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+85% chance to resist a <DT_CORROSIVE>Corrosive Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+102% chance to resist a <DT_CORROSIVE>Corrosive Status effect."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-protection.png",
         "category": "Arcanes",
@@ -245,6 +1195,38 @@
     "Arcane Pulse": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialHealOnHealthPickup",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Health Pickup:10% chance to restore 50 Health to allies within 10m"
+                ]
+            },
+            {
+                "stats": [
+                    "On Health Pickup:20% chance to restore 100 Health to allies within 12m"
+                ]
+            },
+            {
+                "stats": [
+                    "On Health Pickup:30% chance to restore 200 Health to allies within 15m"
+                ]
+            },
+            {
+                "stats": [
+                    "On Health Pickup:40% chance to restore 300 Health to allies within 18m"
+                ]
+            },
+            {
+                "stats": [
+                    "On Health Pickup:50% chance to restore 400 Health to allies within 20m"
+                ]
+            },
+            {
+                "stats": [
+                    "On Health Pickup:60% chance to restore 500 Health to allies within 25m"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-pulse.png",
         "category": "Arcanes",
@@ -253,6 +1235,38 @@
     "Arcane Rage": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunDamageOnHeadshot",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Headshot:3% chance for +30% Damage to Primary Weapons for 4s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:5% chance for +60% Damage to Primary Weapons for 8s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:8% chance for +90% Damage to Primary Weapons for 12s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:10% chance for +120% Damage to Primary Weapons for 16s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:13% chance for +150% Damage to Primary Weapons for 20s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:15% chance for +180% Damage to Primary Weapons for 24s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-rage.png",
         "category": "Arcanes",
@@ -261,6 +1275,38 @@
     "Arcane Resistance": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ElectricityProcResist",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "+17% chance to resist a <DT_POISON>Toxin Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+34% chance to resist a <DT_POISON>Toxin Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+51% chance to resist a <DT_POISON>Toxin Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+68% chance to resist a <DT_POISON>Toxin Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+85% chance to resist a <DT_POISON>Toxin Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+102% chance to resist a <DT_POISON>Toxin Status effect."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-resistance.png",
         "category": "Arcanes",
@@ -269,6 +1315,38 @@
     "Arcane Shield": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ImpactProcResist",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "+17% chance to resist an <DT_IMPACT>Impact Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+34% chance to resist an <DT_IMPACT>Impact Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+51% chance to resist an <DT_IMPACT>Impact Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+68% chance to resist an <DT_IMPACT>Impact Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+85% chance to resist an <DT_IMPACT>Impact Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+102% chance to resist an <DT_IMPACT>Impact Status effect."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-shield.png",
         "category": "Arcanes",
@@ -277,6 +1355,38 @@
     "Arcane Strike": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeSpeedOnHit",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Hit:3% chance for +10% Attack Speed to Melee Weapons for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Hit:5% chance for +20% Attack Speed to Melee Weapons for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Hit:8% chance for +30% Attack Speed to Melee Weapons for 9s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Hit:10% chance for +40% Attack Speed to Melee Weapons for 12s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Hit:13% chance for +50% Attack Speed to Melee Weapons for 15s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Hit:15% chance for +60% Attack Speed to Melee Weapons for 18s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Melee",
         "imageName": "arcane-strike.png",
         "category": "Arcanes",
@@ -284,6 +1394,38 @@
     },
     "Arcane Survival": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/SlowerBleedOutOnPredeath",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Predeath:10% chance for -25% Bleedout Rate for 10s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Predeath:20% chance for -50% Bleedout Rate for 20s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Predeath:30% chance for -75% Bleedout Rate for 30s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Predeath:40% chance for -100% Bleedout Rate for 40s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Predeath:50% chance for -125% Bleedout Rate for 50s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Predeath:60% chance for -150% Bleedout Rate for 60s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-survival.png",
         "category": "Arcanes",
@@ -292,6 +1434,38 @@
     "Arcane Tanker": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ArmorOnHeavyGunEquipped",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Archgun Equipped:+200 Armor for 10s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Archgun Equipped:+400 Armor for 20s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Archgun Equipped:+600 Armor for 30s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Archgun Equipped:+800 Armor for 40s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Archgun Equipped:+1000 Armor for 50s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Archgun Equipped:+1200 Armor for 60s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-tanker.png",
         "category": "Arcanes",
@@ -300,6 +1474,38 @@
     "Arcane Temperance": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/DamageReductionDuringRevive",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "-15% Damage Taken During Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "-30% Damage Taken During Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "-45% Damage Taken During Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "-60% Damage Taken During Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "-75% Damage Taken During Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "-90% Damage Taken During Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-temperance.png",
         "category": "Arcanes",
@@ -307,6 +1513,38 @@
     },
     "Arcane Tempo": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneShotgunSpeedOnCrit",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Critical Hit:3% chance for +15% Fire Rate to Shotguns for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:5% chance for +30% Fire Rate to Shotguns for 4s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:8% chance for +45% Fire Rate to Shotguns for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:10% chance for +60% Fire Rate to Shotguns for 8s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:13% chance for +75% Fire Rate to Shotguns for 10s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:15% chance for +90% Fire Rate to Shotguns for 12s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-tempo.png",
         "category": "Arcanes",
@@ -315,6 +1553,38 @@
     "Arcane Trickery": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/InvisibilityOnFinisher",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Finisher Kill:3% chance to become invisible for 5s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Finisher Kill:5% chance to become invisible for 10s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Finisher Kill:8% chance to become invisible for 15s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Finisher Kill:10% chance to become invisible for 20s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Finisher Kill:13% chance to become invisible for 25s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Finisher Kill:15% chance to become invisible for 30s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-trickery.png",
         "category": "Arcanes",
@@ -323,6 +1593,38 @@
     "Arcane Ultimatum": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneArmorOnFinisher",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Finisher Kill:25% chance for +200 Armor for 8s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Finisher Kill:50% chance for +400 Armor for 15s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Finisher Kill:75% chance for +600 Armor for 23s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Finisher Kill:100% chance for +800 Armor for 30s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Finisher Kill:100% chance for +1000 Armor for 38s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Finisher Kill:100% chance for +1200 Armor for 45s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-ultimatum.png",
         "category": "Arcanes",
@@ -331,6 +1633,38 @@
     "Arcane Velocity": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolSpeedOnCrit",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Critical Hit:15% chance for +20% Fire Rate to Pistols for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:30% chance for +40% Fire Rate to Pistols for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:45% chance for +60% Fire Rate to Pistols for 5s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:60% chance for +80% Fire Rate to Pistols for 6s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:75% chance for +100% Fire Rate to Pistols for 8s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:90% chance for +120% Fire Rate to Pistols for 9s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-velocity.png",
         "category": "Arcanes",
@@ -339,6 +1673,38 @@
     "Arcane Victory": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealthRegenOnHeadshot",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Headshot Kill:13% chance for +0.5% Health Regeneration/s for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot Kill:25% chance for +1% Health Regeneration/s for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot Kill:38% chance for +1.5% Health Regeneration/s for 5s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot Kill:50% chance for +2% Health Regeneration/s for 6s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot Kill:63% chance for +2.5% Health Regeneration/s for 8s+1 Arcane Revive"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot Kill:75% chance for +3% Health Regeneration/s for 9s+1 Arcane Revive"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-victory.png",
         "category": "Arcanes",
@@ -346,6 +1712,38 @@
     },
     "Arcane Warmth": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FreezeProcResist",
+        "levelStats": [
+            {
+                "stats": [
+                    "+17% chance to resist a <DT_FREEZE>Cold Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+34% chance to resist a <DT_FREEZE>Cold Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+51% chance to resist a <DT_FREEZE>Cold Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+68% chance to resist a <DT_FREEZE>Cold Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+85% chance to resist a <DT_FREEZE>Cold Status effect."
+                ]
+            },
+            {
+                "stats": [
+                    "+102% chance to resist a <DT_FREEZE>Cold Status effect."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "arcane-warmth.png",
         "category": "Arcanes",
@@ -354,6 +1752,28 @@
     "Exodia Brave": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ChannelKillEnergyRate",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Heavy Attack Kill:+1.3 Energy Rate for 1s. Stacks up to 3 times"
+                ]
+            },
+            {
+                "stats": [
+                    "On Heavy Attack Kill:+2.5 Energy Rate for 2s. Stacks up to 3 times"
+                ]
+            },
+            {
+                "stats": [
+                    "On Heavy Attack Kill:+3.8 Energy Rate for 3s. Stacks up to 3 times"
+                ]
+            },
+            {
+                "stats": [
+                    "On Heavy Attack Kill:+5 Energy Rate for 4s. Stacks up to 3 times"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "exodia-brave.png",
         "category": "Arcanes",
@@ -362,6 +1782,28 @@
     "Exodia Contagion": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneProjectileOnJump",
         "rarity": "Legendary",
+        "levelStats": [
+            {
+                "stats": [
+                    "After a Bullet Jump or Double Jump:Melee while Aim Gliding launches a projectile that explodes on impact"
+                ]
+            },
+            {
+                "stats": [
+                    "After a Bullet Jump or Double Jump:Melee while Aim Gliding launches a projectile that explodes on impact"
+                ]
+            },
+            {
+                "stats": [
+                    "After a Bullet Jump or Double Jump:Melee while Aim Gliding launches a projectile that explodes on impact"
+                ]
+            },
+            {
+                "stats": [
+                    "After a Bullet Jump or Double Jump:Melee while Aim Gliding launches a projectile that explodes on impact"
+                ]
+            }
+        ],
         "type": "Melee",
         "imageName": "exodia-contagion.png",
         "category": "Arcanes",
@@ -370,6 +1812,28 @@
     "Exodia Epidemic": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneShockwaveOnJump",
         "rarity": "Legendary",
+        "levelStats": [
+            {
+                "stats": [
+                    "After a Bullet Jump or Double Jump:Slam emits a shockwave forwards that suspends enemies in the air for a short period"
+                ]
+            },
+            {
+                "stats": [
+                    "After a Bullet Jump or Double Jump:Slam emits a shockwave forwards that suspends enemies in the air for a short period"
+                ]
+            },
+            {
+                "stats": [
+                    "After a Bullet Jump or Double Jump:Slam emits a shockwave forwards that suspends enemies in the air for a short period"
+                ]
+            },
+            {
+                "stats": [
+                    "After a Bullet Jump or Double Jump:Slam emits a shockwave forwards that suspends enemies in the air for a short period"
+                ]
+            }
+        ],
         "type": "Melee",
         "imageName": "exodia-epidemic.png",
         "category": "Arcanes",
@@ -378,6 +1842,28 @@
     "Exodia Force": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusTriggerRadialDamage",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Status Effect:5% chance to deal 50% Weapon Damage to enemies within 3m."
+                ]
+            },
+            {
+                "stats": [
+                    "On Status Effect:20% chance to deal 100% Weapon Damage to enemies within 4m."
+                ]
+            },
+            {
+                "stats": [
+                    "On Status Effect:35% chance to deal 150% Weapon Damage to enemies within 5m."
+                ]
+            },
+            {
+                "stats": [
+                    "On Status Effect:50% chance to deal 200% Weapon Damage to enemies within 6m."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "exodia-force.png",
         "category": "Arcanes",
@@ -386,6 +1872,28 @@
     "Exodia Hunt": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GroundSlamPull",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Ground Slam:20% chance to pull enemies within 6m into melee range."
+                ]
+            },
+            {
+                "stats": [
+                    "On Ground Slam:30% chance to pull enemies within 8m into melee range."
+                ]
+            },
+            {
+                "stats": [
+                    "On Ground Slam:40% chance to pull enemies within 10m into melee range."
+                ]
+            },
+            {
+                "stats": [
+                    "On Ground Slam:50% chance to pull enemies within 12m into melee range."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "exodia-hunt.png",
         "category": "Arcanes",
@@ -394,6 +1902,28 @@
     "Exodia Might": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/FinisherLifesteal",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Finisher Kill:13% chance for +7.5% Life Steal for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Finisher Kill:25% chance for +15% Life Steal for 4s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Finisher Kill:38% chance for +22.5% Life Steal for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Finisher Kill:50% chance for +30% Life Steal for 8s"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "exodia-might.png",
         "category": "Arcanes",
@@ -402,6 +1932,28 @@
     "Exodia Triumph": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusChannelingDamage",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "+12.5% Additional Combo Count Chance"
+                ]
+            },
+            {
+                "stats": [
+                    "+25% Additional Combo Count Chance"
+                ]
+            },
+            {
+                "stats": [
+                    "+37.5% Additional Combo Count Chance"
+                ]
+            },
+            {
+                "stats": [
+                    "+50% Additional Combo Count Chance"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "exodia-triumph.png",
         "category": "Arcanes",
@@ -410,6 +1962,28 @@
     "Exodia Valor": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritChannelingDamage",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "+50% Additional Combo Count Chance on Lifted enemies"
+                ]
+            },
+            {
+                "stats": [
+                    "+100% Additional Combo Count Chance on Lifted enemies"
+                ]
+            },
+            {
+                "stats": [
+                    "+150% Additional Combo Count Chance on Lifted enemies"
+                ]
+            },
+            {
+                "stats": [
+                    "+200% Additional Combo Count Chance on Lifted enemies"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "exodia-valor.png",
         "category": "Arcanes",
@@ -417,6 +1991,38 @@
     },
     "Magus Accelerant": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HeatResistOnBlast",
+        "levelStats": [
+            {
+                "stats": [
+                    "Reduce Enemy Resistance to <DT_FIRE>Heat Damage by 12%."
+                ]
+            },
+            {
+                "stats": [
+                    "Reduce Enemy Resistance to <DT_FIRE>Heat Damage by 25%."
+                ]
+            },
+            {
+                "stats": [
+                    "Reduce Enemy Resistance to <DT_FIRE>Heat Damage by 37%."
+                ]
+            },
+            {
+                "stats": [
+                    "Reduce Enemy Resistance to <DT_FIRE>Heat Damage by 50%."
+                ]
+            },
+            {
+                "stats": [
+                    "Reduce Enemy Resistance to <DT_FIRE>Heat Damage by 60%."
+                ]
+            },
+            {
+                "stats": [
+                    "Reduce Enemy Resistance to <DT_FIRE>Heat Damage by 65%."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-accelerant.png",
         "category": "Arcanes",
@@ -424,6 +2030,38 @@
     },
     "Magus Anomaly": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/PullOnTransferenceIn",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Transference In:Enemies within 5m are pulled towards Warframe. "
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:Enemies within 10m are pulled towards Warframe. "
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:Enemies within 15m are pulled towards Warframe. "
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:Enemies within 20m are pulled towards Warframe. "
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:Enemies within 25m are pulled towards Warframe. "
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:Enemies within 30m are pulled towards Warframe. "
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-anomaly.png",
         "category": "Arcanes",
@@ -432,6 +2070,38 @@
     "Magus Cadence": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/SpeedOnVoidDash",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Void Dash:25% chance for +15% Sprint Speed for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:50% chance for +30% Sprint Speed for 4s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:75% chance for +45% Sprint Speed for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:100% chance for +60% Sprint Speed for 8s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:100% chance for +75% Sprint Speed for 10s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:100% chance for +90% Sprint Speed for 12s"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-cadence.png",
         "category": "Arcanes",
@@ -440,6 +2110,38 @@
     "Magus Cloud": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ImmunityFallDamageOnVoidDash",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Void Mode:+50% Void Dash Radius for 1s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:+100% Void Dash Radius for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:+150% Void Dash Radius for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:+200% Void Dash Radius for 4s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:+250% Void Dash Radius for 5s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:+300% Void Dash Radius for 6s"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-cloud.png",
         "category": "Arcanes",
@@ -448,6 +2150,38 @@
     "Magus Destruct": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ProcResistOnBlast",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "Reduce Enemy Resistance to <DT_PUNCTURE>Puncture Damage by 12%."
+                ]
+            },
+            {
+                "stats": [
+                    "Reduce Enemy Resistance to <DT_PUNCTURE>Puncture Damage by 25%."
+                ]
+            },
+            {
+                "stats": [
+                    "Reduce Enemy Resistance to <DT_PUNCTURE>Puncture Damage by 37%."
+                ]
+            },
+            {
+                "stats": [
+                    "Reduce Enemy Resistance to <DT_PUNCTURE>Puncture Damage by 50%."
+                ]
+            },
+            {
+                "stats": [
+                    "Reduce Enemy Resistance to <DT_PUNCTURE>Puncture Damage by 60%."
+                ]
+            },
+            {
+                "stats": [
+                    "Reduce Enemy Resistance to <DT_PUNCTURE>Puncture Damage by 65%."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-destruct.png",
         "category": "Arcanes",
@@ -455,6 +2189,38 @@
     },
     "Magus Drive": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HoverboardSpeedOnTransferenceIn",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Transference In:Increase K-Drive Speed by 25% for 5s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:Increase K-Drive Speed by 50% for 10s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:Increase K-Drive Speed by 75% for 15s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:Increase K-Drive Speed by 100% for 20s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:Increase K-Drive Speed by 125% for 25s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:Increase K-Drive Speed by 150% for 30s."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-drive.png",
         "category": "Arcanes",
@@ -463,6 +2229,38 @@
     "Magus Elevate": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnTransferenceIn",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Transference In:30% chance to restore 50 Health to Warframe"
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:40% chance to restore 100 Health to Warframe"
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:50% chance to restore 150 Health to Warframe"
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:75% chance to restore 200 Health to Warframe"
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:85% chance to restore 250 Health to Warframe"
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference In:95% chance to restore 300 Health to Warframe"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-elevate.png",
         "category": "Arcanes",
@@ -470,6 +2268,38 @@
     },
     "Magus Firewall": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/DamageReductionOnVoidMode",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Void Mode:Generate Void Particles every 6s up to 6 particles, each granting 12.5% Damage Reduction for 10s. Taking damage consumes a particle."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:Generate Void Particles every 5s up to 6 particles, each granting 12.5% Damage Reduction for 20s. Taking damage consumes a particle."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:Generate Void Particles every 4s up to 6 particles, each granting 12.5% Damage Reduction for 30s. Taking damage consumes a particle."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:Generate Void Particles every 3s up to 6 particles, each granting 12.5% Damage Reduction for 40s. Taking damage consumes a particle."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:Generate Void Particles every 2s up to 6 particles, each granting 12.5% Damage Reduction for 50s. Taking damage consumes a particle."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:Generate Void Particles every 1s up to 6 particles, each granting 12.5% Damage Reduction for 60s. Taking damage consumes a particle."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-firewall.png",
         "category": "Arcanes",
@@ -478,6 +2308,38 @@
     "Magus Glitch": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/NoPenaltyOnDeath",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "17% chance to negate Transference Static."
+                ]
+            },
+            {
+                "stats": [
+                    "34% chance to negate Transference Static."
+                ]
+            },
+            {
+                "stats": [
+                    "51% chance to negate Transference Static."
+                ]
+            },
+            {
+                "stats": [
+                    "68% chance to negate Transference Static."
+                ]
+            },
+            {
+                "stats": [
+                    "85% chance to negate Transference Static."
+                ]
+            },
+            {
+                "stats": [
+                    "102% chance to negate Transference Static."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-glitch.png",
         "category": "Arcanes",
@@ -485,6 +2347,38 @@
     },
     "Magus Husk": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ArmourOnOperatorMode",
+        "levelStats": [
+            {
+                "stats": [
+                    "+25 Armor"
+                ]
+            },
+            {
+                "stats": [
+                    "+50 Armor"
+                ]
+            },
+            {
+                "stats": [
+                    "+75 Armor"
+                ]
+            },
+            {
+                "stats": [
+                    "+100 Armor"
+                ]
+            },
+            {
+                "stats": [
+                    "+125 Armor"
+                ]
+            },
+            {
+                "stats": [
+                    "+150 Armor"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-husk.png",
         "category": "Arcanes",
@@ -493,6 +2387,38 @@
     "Magus Lockdown": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/TetherMineOnDash",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Void Dash:Drop a mine that tethers up to 2 enemies in 3m for 4s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Drop a mine that tethers up to 4 enemies in 6m for 4s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Drop a mine that tethers up to 6 enemies in 9m for 4s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Drop a mine that tethers up to 8 enemies in 12m for 4s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Drop a mine that tethers up to 9 enemies in 13m for 4s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Drop a mine that tethers up to 10 enemies in 15m for 4s."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-lockdown.png",
         "category": "Arcanes",
@@ -501,6 +2427,38 @@
     "Magus Melt": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HeatDamageOnDash",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Void Dash:Increase <DT_FIRE>Heat Damage in Operator Mode by 5% for 2.5s, stacking up to 2x."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Increase <DT_FIRE>Heat Damage in Operator Mode by 10% for 5s, stacking up to 3x."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Increase <DT_FIRE>Heat Damage in Operator Mode by 15% for 7.5s, stacking up to 4x."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Increase <DT_FIRE>Heat Damage in Operator Mode by 20% for 10s, stacking up to 5x."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Increase <DT_FIRE>Heat Damage in Operator Mode by 20% for 12.5s, stacking up to 6x."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Increase <DT_FIRE>Heat Damage in Operator Mode by 20% for 15s, stacking up to 7x."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-melt.png",
         "category": "Arcanes",
@@ -509,6 +2467,38 @@
     "Magus Nourish": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnTransferenceOut",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Transference Out:Restores 10 Health/s to Warframe."
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference Out:Restores 15 Health/s to Warframe."
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference Out:Restores 20 Health/s to Warframe."
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference Out:Restores 25 Health/s to Warframe."
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference Out:Restores 30 Health/s to Warframe."
+                ]
+            },
+            {
+                "stats": [
+                    "On Transference Out:Restores 35 Health/s to Warframe."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-nourish.png",
         "category": "Arcanes",
@@ -516,6 +2506,38 @@
     },
     "Magus Overload": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/RobotStunOnBlast",
+        "levelStats": [
+            {
+                "stats": [
+                    "Stun robotic enemies for 3s, which then discharge <DT_ELECTRICITY>Electricity Damage dealing 15% of their Max Health to anyone within 5m."
+                ]
+            },
+            {
+                "stats": [
+                    "Stun robotic enemies for 3s, which then discharge <DT_ELECTRICITY>Electricity Damage dealing 30% of their Max Health to anyone within 10m."
+                ]
+            },
+            {
+                "stats": [
+                    "Stun robotic enemies for 3s, which then discharge <DT_ELECTRICITY>Electricity Damage dealing 45% of their Max Health to anyone within 15m."
+                ]
+            },
+            {
+                "stats": [
+                    "Stun robotic enemies for 3s, which then discharge <DT_ELECTRICITY>Electricity Damage dealing 60% of their Max Health to anyone within 20m."
+                ]
+            },
+            {
+                "stats": [
+                    "Stun robotic enemies for 3s, which then discharge <DT_ELECTRICITY>Electricity Damage dealing 75% of their Max Health to anyone within 22m."
+                ]
+            },
+            {
+                "stats": [
+                    "Stun robotic enemies for 3s, which then discharge <DT_ELECTRICITY>Electricity Damage dealing 80% of their Max Health to anyone within 25m."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-overload.png",
         "category": "Arcanes",
@@ -524,6 +2546,38 @@
     "Magus Repair": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnVoidMode",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Void Mode:Heal Warframes within 5m by 5% Health/s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:Heal Warframes within 10m by 10% Health/s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:Heal Warframes within 15m by 15% Health/s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:Heal Warframes within 20m by 20% Health/s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:Heal Warframes within 25m by 22% Health/s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Mode:Heal Warframes within 30m by 25% Health/s."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-repair.png",
         "category": "Arcanes",
@@ -532,6 +2586,38 @@
     "Magus Replenish": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnVoidDash",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Void Dash:25% chance to heal 5% Health"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:50% chance to heal 10% Health"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:75% chance to heal 15% Health"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:100% chance to heal 20% Health"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:100% chance to heal 25% Health"
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:100% chance to heal 30% Health"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-replenish.png",
         "category": "Arcanes",
@@ -540,6 +2626,38 @@
     "Magus Revert": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ReverseOnDash",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Void Dash:Use again within 3s, to return the Operator to their original position at no energy cost. Restores 10 Health. 3s cooldown."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Use again within 3s, to return the Operator to their original position at no energy cost. Restores 20 Health. 3s cooldown."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Use again within 3s, to return the Operator to their original position at no energy cost. Restores 30 Health. 3s cooldown."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Use again within 3s, to return the Operator to their original position at no energy cost. Restores 40 Health. 3s cooldown."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Use again within 3s, to return the Operator to their original position at no energy cost. Restores 50 Health. 3s cooldown."
+                ]
+            },
+            {
+                "stats": [
+                    "On Void Dash:Use again within 3s, to return the Operator to their original position at no energy cost. Restores 60 Health. 3s cooldown."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-revert.png",
         "category": "Arcanes",
@@ -547,6 +2665,38 @@
     },
     "Magus Vigor": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealthOnOperatorMode",
+        "levelStats": [
+            {
+                "stats": [
+                    "+50 Health"
+                ]
+            },
+            {
+                "stats": [
+                    "+100 Health"
+                ]
+            },
+            {
+                "stats": [
+                    "+150 Health"
+                ]
+            },
+            {
+                "stats": [
+                    "+200 Health"
+                ]
+            },
+            {
+                "stats": [
+                    "+250 Health"
+                ]
+            },
+            {
+                "stats": [
+                    "+300 Health"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "magus-vigor.png",
         "category": "Arcanes",
@@ -555,6 +2705,28 @@
     "Pax Bolt": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/EnergyEfficiencyOnHeadshot",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Headshot Kill:25% chance for +7.5% Ability Efficiency and +7.5% Ability Strength on the next Ability used within 1s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot Kill:50% chance for +15% Ability Efficiency and +15% Ability Strength on the next Ability used within 2s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot Kill:75% chance for +22.5% Ability Efficiency and +22.5% Ability Strength on the next Ability used within 3s."
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot Kill:100% chance for +30% Ability Efficiency and +30% Ability Strength on the next Ability used within 4s."
+                ]
+            }
+        ],
         "buildPrice": 7500,
         "buildTime": 3600,
         "skipBuildTimePrice": 10,
@@ -568,6 +2740,28 @@
     "Pax Charge": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/BulletToBattery",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "Battery Recharge Delay is reduced by +12.5%"
+                ]
+            },
+            {
+                "stats": [
+                    "Battery Recharge Delay is reduced by +25%"
+                ]
+            },
+            {
+                "stats": [
+                    "Battery Recharge Delay is reduced by +37.5%"
+                ]
+            },
+            {
+                "stats": [
+                    "Battery Recharge Delay is reduced by +50%"
+                ]
+            }
+        ],
         "buildPrice": 7500,
         "buildTime": 3600,
         "skipBuildTimePrice": 10,
@@ -581,6 +2775,28 @@
     "Pax Seeker": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SeekerProjOnHeadshotKill",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Headshot Kill:25% chance for 1 projectiles burst from the target and seek the heads of nearby enemies."
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot Kill:50% chance for 2 projectiles burst from the target and seek the heads of nearby enemies."
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot Kill:75% chance for 3 projectiles burst from the target and seek the heads of nearby enemies."
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot Kill:100% chance for 4 projectiles burst from the target and seek the heads of nearby enemies."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "pax-seeker.png",
         "category": "Arcanes",
@@ -589,6 +2805,36 @@
     "Pax Soar": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/EyeInTheSky",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "+12.5% Accuracy while Airborne",
+                    "-12.5% Weapon Recoil while Airborne",
+                    "+1.3s Aim Glide/Wall Latch Duration"
+                ]
+            },
+            {
+                "stats": [
+                    "+25% Accuracy while Airborne",
+                    "-25% Weapon Recoil while Airborne",
+                    "+2.5s Aim Glide/Wall Latch Duration"
+                ]
+            },
+            {
+                "stats": [
+                    "+37.5% Accuracy while Airborne",
+                    "-37.5% Weapon Recoil while Airborne",
+                    "+3.8s Aim Glide/Wall Latch Duration"
+                ]
+            },
+            {
+                "stats": [
+                    "+50% Accuracy while Airborne",
+                    "-50% Weapon Recoil while Airborne",
+                    "+5s Aim Glide/Wall Latch Duration"
+                ]
+            }
+        ],
         "buildPrice": 7500,
         "buildTime": 3600,
         "skipBuildTimePrice": 10,
@@ -602,6 +2848,28 @@
     "Residual Boils": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/BurningCystOnKill",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Kitgun Kill:5% chance to spawn volatile hives for 3s that explode when enemies approach for 20 <DT_FIRE>Heat Damage in 2.5m. Standing in the area applies <DT_FIRE>Heat Damage type to Theorem Arcanes."
+                ]
+            },
+            {
+                "stats": [
+                    "On Kitgun Kill:10% chance to spawn volatile hives for 6s that explode when enemies approach for 40 <DT_FIRE>Heat Damage in 5m. Standing in the area applies <DT_FIRE>Heat Damage type to Theorem Arcanes."
+                ]
+            },
+            {
+                "stats": [
+                    "On Kitgun Kill:15% chance to spawn volatile hives for 9s that explode when enemies approach for 60 <DT_FIRE>Heat Damage in 7.5m. Standing in the area applies <DT_FIRE>Heat Damage type to Theorem Arcanes."
+                ]
+            },
+            {
+                "stats": [
+                    "On Kitgun Kill:20% chance to spawn volatile hives for 12s that explode when enemies approach for 80 <DT_FIRE>Heat Damage in 10m. Standing in the area applies <DT_FIRE>Heat Damage type to Theorem Arcanes."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "residual-boils.png",
         "category": "Arcanes",
@@ -610,6 +2878,28 @@
     "Residual Malodor": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/IceMistOnKill",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Kitgun Kill:5% chance to create a frigid mist for 3s, dealing 10 <DT_FREEZE>Cold Damage/s. Standing in the area applies <DT_FREEZE>Cold Damage to Theorem Arcanes."
+                ]
+            },
+            {
+                "stats": [
+                    "On Kitgun Kill:10% chance to create a frigid mist for 6s, dealing 20 <DT_FREEZE>Cold Damage/s. Standing in the area applies <DT_FREEZE>Cold Damage to Theorem Arcanes."
+                ]
+            },
+            {
+                "stats": [
+                    "On Kitgun Kill:15% chance to create a frigid mist for 9s, dealing 30 <DT_FREEZE>Cold Damage/s. Standing in the area applies <DT_FREEZE>Cold Damage to Theorem Arcanes."
+                ]
+            },
+            {
+                "stats": [
+                    "On Kitgun Kill:20% chance to create a frigid mist for 12s, dealing 40 <DT_FREEZE>Cold Damage/s. Standing in the area applies <DT_FREEZE>Cold Damage to Theorem Arcanes."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "residual-malodor.png",
         "category": "Arcanes",
@@ -618,6 +2908,28 @@
     "Residual Shock": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/LightningStrikeOnKill",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Kitgun Kill:5% chance to spawn an electrified spike for 3s, dealing 50 <DT_ELECTRICITY>Electricity Damage to enemies within 2.5m. Standing in the area applies <DT_ELECTRICITY>Electricity Damage to Theorem Arcanes."
+                ]
+            },
+            {
+                "stats": [
+                    "On Kitgun Kill:10% chance to spawn an electrified spike for 6s, dealing 100 <DT_ELECTRICITY>Electricity Damage to enemies within 5m. Standing in the area applies <DT_ELECTRICITY>Electricity Damage to Theorem Arcanes."
+                ]
+            },
+            {
+                "stats": [
+                    "On Kitgun Kill:15% chance to spawn an electrified spike for 9s, dealing 150 <DT_ELECTRICITY>Electricity Damage to enemies within 7.5m. Standing in the area applies <DT_ELECTRICITY>Electricity Damage to Theorem Arcanes."
+                ]
+            },
+            {
+                "stats": [
+                    "On Kitgun Kill:20% chance to spawn an electrified spike for 12s, dealing 200 <DT_ELECTRICITY>Electricity Damage to enemies within 10m. Standing in the area applies <DT_ELECTRICITY>Electricity Damage to Theorem Arcanes."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "residual-shock.png",
         "category": "Arcanes",
@@ -626,6 +2938,28 @@
     "Residual Viremia": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Utility/ToxicBloodOnKill",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Kitgun Kill:5% chance to create pool of toxic blood for 3s, dealing 10 <DT_POISON>Toxin Damage/s. Standing in the area applies the <DT_POISON>Toxin Damage to Theorem Arcanes."
+                ]
+            },
+            {
+                "stats": [
+                    "On Kitgun Kill:10% chance to create pool of toxic blood for 6s, dealing 20 <DT_POISON>Toxin Damage/s. Standing in the area applies the <DT_POISON>Toxin Damage to Theorem Arcanes."
+                ]
+            },
+            {
+                "stats": [
+                    "On Kitgun Kill:15% chance to create pool of toxic blood for 9s, dealing 30 <DT_POISON>Toxin Damage/s. Standing in the area applies the <DT_POISON>Toxin Damage to Theorem Arcanes."
+                ]
+            },
+            {
+                "stats": [
+                    "On Kitgun Kill:20% chance to create pool of toxic blood for 12s, dealing 40 <DT_POISON>Toxin Damage/s. Standing in the area applies the <DT_POISON>Toxin Damage to Theorem Arcanes."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "residual-viremia.png",
         "category": "Arcanes",
@@ -634,6 +2968,38 @@
     "Theorem Contagion": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OrbsOnResidualContact",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane creates a globe that orbits the player every 2s. The globes will strike the nearest enemy within 15m dealing 25 damage increasing their vulnerability to the globe's damage type by 25% for 1s. Globes will persist for 5s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane creates a globe that orbits the player every 2s. The globes will strike the nearest enemy within 15m dealing 50 damage increasing their vulnerability to the globe's damage type by 50% for 2s. Globes will persist for 10s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane creates a globe that orbits the player every 2s. The globes will strike the nearest enemy within 15m dealing 75 damage increasing their vulnerability to the globe's damage type by 75% for 6s. Globes will persist for 15s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane creates a globe that orbits the player every 2s. The globes will strike the nearest enemy within 15m dealing 100 damage increasing their vulnerability to the globe's damage type by 100% for 4s. Globes will persist for 20s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane creates a globe that orbits the player every 2s. The globes will strike the nearest enemy within 15m dealing 125 damage increasing their vulnerability to the globe's damage type by 150% for 5s. Globes will persist for 25s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane creates a globe that orbits the player every 2s. The globes will strike the nearest enemy within 15m dealing 150 damage increasing their vulnerability to the globe's damage type by 200% for 6s. Globes will persist for 30s upon leaving the zone."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "theorem-contagion.png",
         "category": "Arcanes",
@@ -642,6 +3008,38 @@
     "Theorem Demulcent": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/WeaponDamageOnResidualContact",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane increases weapon damage by 2%/s stacking up to 15x. Effect persists for 20s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane increases weapon damage by 4%/s stacking up to 15x. Effect persists for 20s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane increases weapon damage by 6%/s stacking up to 15x. Effect persists for 20s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane increases weapon damage by 8%/s stacking up to 15x. Effect persists for 20s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane increases weapon damage by 10%/s stacking up to 15x. Effect persists for 20s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane increases weapon damage by 12%/s stacking up to 15x. Effect persists for 20s upon leaving the zone."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "theorem-demulcent.png",
         "category": "Arcanes",
@@ -650,6 +3048,38 @@
     "Theorem Infection": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CompanionDamageOnResidualContact",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane increases damage of companions and summoned allies within 15m by 4%/s stacking up to 15x. Effect persists for 20s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane increases damage of companions and summoned allies within 30m by 8%/s stacking up to 15x. Effect persists for 20s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane increases damage of companions and summoned allies within 45m by 12%/s stacking up to 15x. Effect persists for 20s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane increases damage of companions and summoned allies within 60m by 16%/s stacking up to 15x. Effect persists for 20s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane increases damage of companions and summoned allies within 75m by 20%/s stacking up to 15x. Effect persists for 20s upon leaving the zone."
+                ]
+            },
+            {
+                "stats": [
+                    "Standing in a zone created by a Residual Arcane increases damage of companions and summoned allies within 90m by 24%/s stacking up to 15x. Effect persists for 20s upon leaving the zone."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "theorem-infection.png",
         "category": "Arcanes",
@@ -658,6 +3088,28 @@
     "Virtuos Forge": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToHeatDamage",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "Converts 24% Void Damage to <DT_FIRE>Heat Damage."
+                ]
+            },
+            {
+                "stats": [
+                    "Converts 48% Void Damage to <DT_FIRE>Heat Damage."
+                ]
+            },
+            {
+                "stats": [
+                    "Converts 72% Void Damage to <DT_FIRE>Heat Damage."
+                ]
+            },
+            {
+                "stats": [
+                    "Converts 98% Void Damage to <DT_FIRE>Heat Damage."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "virtuos-forge.png",
         "category": "Arcanes",
@@ -666,6 +3118,28 @@
     "Virtuos Fury": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedDamageOnStatusProc",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Status Effect:5% chance for +7.5% Damage for 1s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Status Effect:10% chance for +15% Damage for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Status Effect:15% chance for +22.5% Damage for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Status Effect:20% chance for +30% Damage for 4s"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "virtuos-fury.png",
         "category": "Arcanes",
@@ -674,6 +3148,28 @@
     "Virtuos Ghost": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/StatusChanceOnHeadshot",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Headshot:10% chance for +15% Status Chance for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:20% chance for +30% Status Chance for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:30% chance for +45% Status Chance for 9s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:40% chance for +60% Status Chance for 12s"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "virtuos-ghost.png",
         "category": "Arcanes",
@@ -681,6 +3177,28 @@
     },
     "Virtuos Null": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/OperatorAmmoRegenOnKill",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Kill:+5% Amp Energy Regeneration for 1s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Kill:+10% Amp Energy Regeneration for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Kill:+15% Amp Energy Regeneration for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Kill:+20% Amp Energy Regeneration for 4s"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "virtuos-null.png",
         "category": "Arcanes",
@@ -689,6 +3207,28 @@
     "Virtuos Shadow": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/CriticalChanceOnHeadshot",
         "rarity": "Rare",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Headshot:10% chance for +15% Critical Chance for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:20% chance for +30% Critical Chance for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:30% chance for +45% Critical Chance for 9s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Headshot:40% chance for +60% Critical Chance for 12s"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "virtuos-shadow.png",
         "category": "Arcanes",
@@ -696,6 +3236,28 @@
     },
     "Virtuos Spike": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToPunctureDamage",
+        "levelStats": [
+            {
+                "stats": [
+                    "Converts 24% Void Damage to <DT_PUNCTURE>Puncture Damage."
+                ]
+            },
+            {
+                "stats": [
+                    "Converts 48% Void Damage to <DT_PUNCTURE>Puncture Damage."
+                ]
+            },
+            {
+                "stats": [
+                    "Converts 72% Void Damage to <DT_PUNCTURE>Puncture Damage."
+                ]
+            },
+            {
+                "stats": [
+                    "Converts 98% Void Damage to <DT_PUNCTURE>Puncture Damage."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "virtuos-spike.png",
         "category": "Arcanes",
@@ -704,6 +3266,28 @@
     "Virtuos Strike": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedCriticalDamageOnCriticalStrike",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Critical Hit:5% chance for +15% Critical Damage for 1s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:10% chance for +30% Critical Damage for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:15% chance for +45% Critical Damage for 3s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Critical Hit:20% chance for +60% Critical Damage for 4s"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "virtuos-strike.png",
         "category": "Arcanes",
@@ -711,6 +3295,28 @@
     },
     "Virtuos Surge": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToElectricDamage",
+        "levelStats": [
+            {
+                "stats": [
+                    "Converts 24% Void Damage to <DT_ELECTRICITY>Electricity Damage."
+                ]
+            },
+            {
+                "stats": [
+                    "Converts 48% Void Damage to <DT_ELECTRICITY>Electricity Damage."
+                ]
+            },
+            {
+                "stats": [
+                    "Converts 72% Void Damage to <DT_ELECTRICITY>Electricity Damage."
+                ]
+            },
+            {
+                "stats": [
+                    "Converts 98% Void Damage to <DT_ELECTRICITY>Electricity Damage."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "virtuos-surge.png",
         "category": "Arcanes",
@@ -718,6 +3324,28 @@
     },
     "Virtuos Tempo": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/AttackSpeedOnKill",
+        "levelStats": [
+            {
+                "stats": [
+                    "On Kill:15% chance for +15% Fire Rate for 2s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Kill:30% chance for +30% Fire Rate for 4s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Kill:45% chance for +45% Fire Rate for 6s"
+                ]
+            },
+            {
+                "stats": [
+                    "On Kill:60% chance for +60% Fire Rate for 8s"
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "virtuos-tempo.png",
         "category": "Arcanes",
@@ -726,6 +3354,28 @@
     "Virtuos Trojan": {
         "uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToViralDamage",
         "rarity": "Uncommon",
+        "levelStats": [
+            {
+                "stats": [
+                    "Converts 24% Void Damage to <DT_VIRAL>Viral Damage."
+                ]
+            },
+            {
+                "stats": [
+                    "Converts 48% Void Damage to <DT_VIRAL>Viral Damage."
+                ]
+            },
+            {
+                "stats": [
+                    "Converts 72% Void Damage to <DT_VIRAL>Viral Damage."
+                ]
+            },
+            {
+                "stats": [
+                    "Converts 98% Void Damage to <DT_VIRAL>Viral Damage."
+                ]
+            }
+        ],
         "type": "Arcane",
         "imageName": "virtuos-trojan.png",
         "category": "Arcanes",
