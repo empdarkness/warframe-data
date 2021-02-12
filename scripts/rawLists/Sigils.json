@@ -1004,6 +1004,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearOxSigil",
+        "name": "Lunar Renewal Ox Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "lunar-renewal-ox-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilLynx",
         "name": "Lynx Sigil",
         "type": "Sigil",

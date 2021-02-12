@@ -1621,6 +1621,14 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "Feasting Hamster Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ChineseNewYear2021Glyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "feasting-hamster-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "Feellikeaplayer Glyph": {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageFeelLikeAPlayer",
         "type": "Glyph",
@@ -4490,6 +4498,46 @@
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageStallordD",
         "type": "Glyph",
         "imageName": "stallordd-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Star Days Deimos Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValentine2021Deimos",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "star-days-deimos-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Star Days Gauss Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValentine2021Gauss",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "star-days-gauss-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Star Days Helminth Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValentine2021Helminth",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "star-days-helminth-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Star Days Lavos Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValentine2021Lavos",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "star-days-lavos-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Star Days Necramech Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValentine2021Mech",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "star-days-necramech-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },

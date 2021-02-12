@@ -607,14 +607,6 @@
         "category": "Skins",
         "tradable": false
     },
-    "/Lotus/Types/Items/ShipDecos/Plushies/PlushyThumperMediumDirty": {
-        "name": "[Ph] Tusk Thumper Bull Floof",
-        "excludeFromCodex": true,
-        "type": "Ship Decoration",
-        "imageName": "ph-tusk-thumper-bull-floof.png",
-        "category": "Skins",
-        "tradable": false
-    },
     "/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyUranusGold": {
         "name": "[Ph] Uranus Trophy - Gold",
         "excludeFromCodex": true,
@@ -833,6 +825,14 @@
         "name": "Acanthus Prime Shoulder Guard",
         "type": "Skin",
         "imageName": "acanthus-prime-shoulder-guard.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Skins/LunarNewYear/Lunar2020AcceltraSkin": {
+        "name": "Acceltra Lunaeus Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "acceltra-lunaeus-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -3776,6 +3776,14 @@
         "category": "Skins",
         "tradable": false
     },
+    "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerValItemB": {
+        "name": "Cherub",
+        "excludeFromCodex": true,
+        "type": "Color Palette",
+        "imageName": "cherub.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "/Lotus/Upgrades/Skins/Sentinels/Masks/InfNightWaveMask": {
         "name": "Chitoid Sentinel Mask",
         "type": "Skin",
@@ -6632,6 +6640,14 @@
         "category": "Skins",
         "tradable": false
     },
+    "/Lotus/Upgrades/Skins/Effects/CupidWingsEphemera": {
+        "name": "Eros Wings Ephemera",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "eros-wings-ephemera.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "/Lotus/Upgrades/Skins/Hoverboard/HoverboardStickerD": {
         "name": "Error!",
         "excludeFromCodex": true,
@@ -8809,6 +8825,14 @@
         "category": "Skins",
         "tradable": false
     },
+    "/Lotus/Types/Items/ShipDecos/WeGame/LuckyKavatGold": {
+        "name": "Gold Lucky Kavat",
+        "excludeFromCodex": true,
+        "type": "Ship Decoration",
+        "imageName": "gold-lucky-kavat.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "/Lotus/Types/Items/ShipDecos/MasteryTrophies/Rank06Trophy": {
         "name": "Gold Novice Mastery Slate",
         "excludeFromCodex": true,
@@ -8962,6 +8986,14 @@
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "gral's-pobber-floof.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "/Lotus/Types/Items/ShipDecos/Plushies/PlushyThumperMediumDirty": {
+        "name": "Gral'S Thumper Floof",
+        "excludeFromCodex": true,
+        "type": "Ship Decoration",
+        "imageName": "gral's-thumper-floof.png",
         "category": "Skins",
         "tradable": false
     },
@@ -13874,6 +13906,38 @@
         "category": "Skins",
         "tradable": false
     },
+    "/Lotus/Upgrades/Skins/MeleeDangles/WegameChinaKnotDangle": {
+        "name": "Lunaeus Knot Sugatra",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "lunaeus-knot-sugatra.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Skins/Promo/WeGame/WeGameMacheteSkin": {
+        "name": "Lunaeus Machete Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "lunaeus-machete-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "/Lotus/Types/Items/ShipDecos/CNY2021Poster": {
+        "name": "Lunar Renewal Calligraphy Poster",
+        "excludeFromCodex": true,
+        "type": "Ship Decoration",
+        "imageName": "lunar-renewal-calligraphy-poster.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Skins/Clan/CNY2021EmblemItem": {
+        "name": "Lunar Renewal Ox Emblem",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "lunar-renewal-ox-emblem.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "/Lotus/Types/Items/ShipDecos/Deimos/LisetPropEntratiLamp": {
         "name": "Lychnus",
         "type": "Ship Decoration",
@@ -15807,6 +15871,14 @@
         "name": "Nelumbo Syandana",
         "type": "Syandana",
         "imageName": "nelumbo-syandana.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "/Lotus/Types/Items/ShipDecos/Events/TickerValentineWings": {
+        "name": "Neon Eros Wings",
+        "excludeFromCodex": true,
+        "type": "Ship Decoration",
+        "imageName": "neon-eros-wings.png",
         "category": "Skins",
         "tradable": false
     },
@@ -18773,6 +18845,14 @@
         "category": "Skins",
         "tradable": false
     },
+    "/Lotus/Upgrades/Skins/LunarNewYear/Lunar2020OrthosSkin": {
+        "name": "Orthos Lunaeus Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "orthos-lunaeus-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Polearms/OrthosMagestySkin": {
         "name": "Orthos Magesty Skin",
         "excludeFromCodex": true,
@@ -20066,6 +20146,14 @@
         "name": "Pyra Syandana",
         "type": "Skin",
         "imageName": "pyra-syandana.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Skins/LunarNewYear/Lunar2020PyranaSkin": {
+        "name": "Pyrana Lunaeus Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "pyrana-lunaeus-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -25122,6 +25210,14 @@
         "category": "Skins",
         "tradable": false
     },
+    "/Lotus/Types/Items/ShipDecos/WeGame/LuckyKavat": {
+        "name": "Turquoise Lucky Kavat",
+        "excludeFromCodex": true,
+        "type": "Ship Decoration",
+        "imageName": "turquoise-lucky-kavat.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "/Lotus/Types/Items/ShipDecos/Plushies/PlushyThumperMedium": {
         "name": "Tusk Thumper Bull Floof",
         "excludeFromCodex": true,
@@ -27079,6 +27175,14 @@
         "name": "Whispering Naberus Mobile",
         "type": "Ship Decoration",
         "imageName": "whispering-naberus-mobile.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "/Lotus/Types/Items/ShipDecos/WeGame/LuckyKavatWhite": {
+        "name": "White Lucky Kavat",
+        "excludeFromCodex": true,
+        "type": "Ship Decoration",
+        "imageName": "white-lucky-kavat.png",
         "category": "Skins",
         "tradable": false
     },

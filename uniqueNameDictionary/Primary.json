@@ -5935,6 +5935,7 @@
         "imageName": "stahlta.png",
         "category": "Primary",
         "tradable": false,
+        "ammo": 300,
         "areaAttack": {
             "name": "Charged Shot Explosion",
             "speed": 0.667,
