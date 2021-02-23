@@ -1304,6 +1304,13 @@
         "category": "Skins",
         "tradable": false
     },
+    "Another Level": {
+        "uniqueName": "/Lotus/Types/Items/Emotes/DanceReachAcrossHips",
+        "type": "Emotes",
+        "imageName": "another-level.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Anpu Staff Skin": {
         "uniqueName": "/Lotus/Upgrades/Skins/VoidTrader/BaroInarosPolearmSkin",
         "type": "Skin",
@@ -1850,6 +1857,13 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Clan/CorpusVoidBadgeItem",
         "type": "Skin",
         "imageName": "arid-fear-emblem.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Aristei Prime Shawzin": {
+        "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropShawzinPrime",
+        "type": "Ship Decoration",
+        "imageName": "aristei-prime-shawzin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -8007,6 +8021,13 @@
         "category": "Skins",
         "tradable": false
     },
+    "Gallop": {
+        "uniqueName": "/Lotus/Types/Items/Emotes/DanceOneHandHipPump",
+        "type": "Emotes",
+        "imageName": "gallop.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Galvanik Chest Plate": {
         "uniqueName": "/Lotus/Upgrades/Skins/Armor/GrnAmphisArmor/GrnAmphisCArmor",
         "type": "Skin",
@@ -8377,6 +8398,13 @@
         "category": "Skins",
         "tradable": false
     },
+    "Gaze": {
+        "uniqueName": "/Lotus/Types/Items/Emotes/DanceOneHandHipLookLeftRight",
+        "type": "Emotes",
+        "imageName": "gaze.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Get Rekt": {
         "uniqueName": "/Lotus/Upgrades/Skins/Hoverboard/HoverboardStickerK",
         "excludeFromCodex": true,
@@ -8559,6 +8587,27 @@
         "excludeFromCodex": true,
         "type": "Emotes",
         "imageName": "glissade-narta.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Glissanda Prime Chest Plate": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeOctaviaArmour/PrimeOctaviaArmourC",
+        "type": "Skin",
+        "imageName": "glissanda-prime-chest-plate.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Glissanda Prime Leg Plates": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeOctaviaArmour/PrimeOctaviaArmourL",
+        "type": "Skin",
+        "imageName": "glissanda-prime-leg-plates.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Glissanda Prime Shoulder Plates": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/PrimeOctaviaArmour/PrimeOctaviaArmourA",
+        "type": "Skin",
+        "imageName": "glissanda-prime-shoulder-plates.png",
         "category": "Skins",
         "tradable": false
     },
@@ -9475,6 +9524,13 @@
         "category": "Skins",
         "tradable": false
     },
+    "Hands Up": {
+        "uniqueName": "/Lotus/Types/Items/Emotes/DanceHandsUp",
+        "type": "Emotes",
+        "imageName": "hands-up.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Handshake": {
         "uniqueName": "/Lotus/Types/Items/Emotes/HandshakeEmote",
         "excludeFromCodex": true,
@@ -9738,6 +9794,13 @@
         "consumeOnBuild": true,
         "type": "Skin",
         "imageName": "haztech-pauldrons.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Head Bop": {
+        "uniqueName": "/Lotus/Types/Items/Emotes/DanceHeadphonesBop",
+        "type": "Emotes",
+        "imageName": "head-bop.png",
         "category": "Skins",
         "tradable": false
     },
@@ -11274,6 +11337,13 @@
         "category": "Skins",
         "tradable": false
     },
+    "Just Dance": {
+        "uniqueName": "/Lotus/Types/Items/Emotes/DanceSideStepTurn",
+        "type": "Emotes",
+        "imageName": "just-dance.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Justice": {
         "uniqueName": "/Lotus/Upgrades/Skins/Hoverboard/HoverboardStickerF",
         "excludeFromCodex": true,
@@ -12353,6 +12423,13 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Dazzle/LankaDazzleCamo",
         "type": "Skin",
         "imageName": "lanka-shock-camo-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Lasso": {
+        "uniqueName": "/Lotus/Types/Items/Emotes/DanceLassoSidestep",
+        "type": "Emotes",
+        "imageName": "lasso.png",
         "category": "Skins",
         "tradable": false
     },
@@ -17936,6 +18013,21 @@
         "category": "Skins",
         "tradable": false
     },
+    "Octavia Prime Helmet": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Bard/OctaviaPrimeHelmet",
+        "type": "Skin",
+        "imageName": "octavia-prime-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Octavia Prime Skin": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Bard/OctaviaPrimeSkin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "octavia-prime-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Octavia Skin": {
         "uniqueName": "/Lotus/Upgrades/Skins/Bard/BardSkin",
         "excludeFromCodex": true,
@@ -18875,6 +18967,13 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWPistrisScarf",
         "type": "Skin",
         "imageName": "pistris-syandana.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Pivot Dance": {
+        "uniqueName": "/Lotus/Types/Items/Emotes/DanceTurnReverseTurn",
+        "type": "Emotes",
+        "imageName": "pivot-dance.png",
         "category": "Skins",
         "tradable": false
     },
@@ -21266,6 +21365,13 @@
         "category": "Skins",
         "tradable": false
     },
+    "Serenidine Prime Syandana": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeOctaviaSyandana",
+        "type": "Skin",
+        "imageName": "serenidine-prime-syandana.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Serro Obsidian Skin": {
         "uniqueName": "/Lotus/Upgrades/Skins/Sony/ObsidianSerro",
         "excludeFromCodex": true,
@@ -22859,6 +22965,13 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Clan/InfTacAlertNaniteMoaAncientBadgeItem",
         "type": "Skin",
         "imageName": "swarm-mutalist-moa-emblem.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Sway": {
+        "uniqueName": "/Lotus/Types/Items/Emotes/DanceElbowWave",
+        "type": "Emotes",
+        "imageName": "sway.png",
         "category": "Skins",
         "tradable": false
     },
@@ -26533,6 +26646,19 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "wolf.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Wolf Hood": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/WolfHood",
+        "excludeFromCodex": true,
+        "buildPrice": 20000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 25,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Skin",
+        "imageName": "wolf-hood.png",
         "category": "Skins",
         "tradable": false
     },

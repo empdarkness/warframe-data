@@ -4436,6 +4436,20 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "/Lotus/Types/StoreItems/AvatarImages/ImageOctaviaPrimeBright": {
+        "name": "Octavia Prime Glyph",
+        "type": "Glyph",
+        "imageName": "octavia-prime-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/ImageOctaviaPrimeDark": {
+        "name": "Octavia Prime Glyph",
+        "type": "Glyph",
+        "imageName": "octavia-prime-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageOddieowl": {
         "name": "Oddieowl Glyph",
         "excludeFromCodex": true,

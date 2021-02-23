@@ -309,7 +309,7 @@
         "fireRate": 12.000001,
         "masteryReq": 11,
         "slot": 1,
-        "omegaAttenuation": 1.1,
+        "omegaAttenuation": 1.15,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 21,
@@ -324,6 +324,7 @@
         "imageName": "basmu.png",
         "category": "Primary",
         "tradable": false,
+        "ammo": "Infinite",
         "areaAttack": {
             "name": "Radial Attack",
             "falloff": {
@@ -353,7 +354,7 @@
             "Sentient"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Basmu",
-        "disposition": 3
+        "disposition": 4
     },
     {
         "name": "Battacor",
@@ -493,7 +494,7 @@
         "disposition": 3,
         "releaseDate": "2019 12 17",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2021 06 17"
+        "estimatedVaultDate": "2021 08 06"
     },
     {
         "name": "Boar",
@@ -791,7 +792,7 @@
         "fireRate": 3.8333335,
         "masteryReq": 13,
         "slot": 1,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.60000002,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 27,
@@ -806,6 +807,7 @@
         "imageName": "bubonico.png",
         "category": "Primary",
         "tradable": false,
+        "ammo": "Infinite",
         "damage": "49.0 toxin",
         "damageTypes": {
             "impact": 14,
@@ -1016,7 +1018,7 @@
         "fireRate": 3.8333335,
         "masteryReq": 8,
         "slot": 1,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.55000001,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 40,
@@ -1047,6 +1049,7 @@
         },
         "secondaryArea": {
             "name": "Radial Attack",
+            "status_chance": 50,
             "radius": 600,
             "blast": 10,
             "damage": "10.0 blast"
@@ -1311,7 +1314,7 @@
         "disposition": 3,
         "releaseDate": "2020 03 31",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2021 09 03"
+        "estimatedVaultDate": "2021 10 27"
     },
     {
         "name": "Cortege",
@@ -1323,7 +1326,7 @@
         "fireRate": 12.000001,
         "masteryReq": 14,
         "slot": 1,
-        "omegaAttenuation": 0.69999999,
+        "omegaAttenuation": 0.85000002,
         "noise": "Alarming",
         "trigger": "Held",
         "magazineSize": 100,
@@ -1366,7 +1369,7 @@
             "Entrati"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Cortege",
-        "disposition": 1
+        "disposition": 2
     },
     {
         "name": "Corvas",
@@ -1789,6 +1792,7 @@
         "imageName": "drakgoon.png",
         "category": "Primary",
         "tradable": false,
+        "ammo": 120,
         "damage": "400.0",
         "damageTypes": {
             "impact": 80,
@@ -1815,7 +1819,7 @@
         "fireRate": 1,
         "masteryReq": 5,
         "slot": 1,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "noise": "Silent",
         "trigger": "Charge",
         "magazineSize": 1,
@@ -2060,7 +2064,7 @@
         "imageName": "flux-rifle.png",
         "category": "Primary",
         "tradable": false,
-        "ammo": 50,
+        "ammo": "Infinite",
         "damage": "22.0",
         "damageTypes": {
             "slash": 17.2,
@@ -2083,7 +2087,7 @@
         "fireRate": 2.1666667,
         "masteryReq": 8,
         "slot": 1,
-        "omegaAttenuation": 0.60000002,
+        "omegaAttenuation": 0.64999998,
         "noise": "Silent",
         "trigger": "Semi",
         "magazineSize": 6,
@@ -2098,6 +2102,7 @@
         "imageName": "fulmin.png",
         "category": "Primary",
         "tradable": false,
+        "ammo": "Infinite",
         "damage": "400.0 electricity",
         "damageTypes": {
             "impact": 100,
@@ -2562,7 +2567,7 @@
         "imageName": "hema.png",
         "category": "Primary",
         "tradable": false,
-        "ammo": 60,
+        "ammo": "Infinite",
         "damage": "47.0 viral",
         "damageTypes": {
             "viral": 47
@@ -2711,7 +2716,7 @@
         "fireRate": 16.666668,
         "masteryReq": 0,
         "slot": 1,
-        "omegaAttenuation": 1,
+        "omegaAttenuation": 1.05,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 200,
@@ -3258,7 +3263,7 @@
         "fireRate": 9.09091,
         "masteryReq": 15,
         "slot": 1,
-        "omegaAttenuation": 1,
+        "omegaAttenuation": 1.05,
         "maxLevelCap": 40,
         "noise": "Alarming",
         "trigger": "Burst",
@@ -3374,7 +3379,7 @@
         "imageName": "kuva-kohm.png",
         "category": "Primary",
         "tradable": false,
-        "ammo": 960,
+        "ammo": 836,
         "damage": "20.0",
         "damageTypes": {
             "impact": 4,
@@ -3556,7 +3561,7 @@
         "fireRate": 0,
         "masteryReq": 10,
         "slot": 1,
-        "omegaAttenuation": 0.89999998,
+        "omegaAttenuation": 0.94999999,
         "noise": "Alarming",
         "trigger": "Charge",
         "magazineSize": 10,
@@ -4076,7 +4081,7 @@
         "fireRate": 6.0000005,
         "masteryReq": 15,
         "slot": 1,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.69999999,
         "noise": "Alarming",
         "trigger": "Auto Burst",
         "magazineSize": 100,
@@ -4566,7 +4571,7 @@
         "fireRate": 3.6666667,
         "masteryReq": 14,
         "slot": 1,
-        "omegaAttenuation": 0.85000002,
+        "omegaAttenuation": 1.05,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 40,
@@ -4611,10 +4616,10 @@
             "Prime"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Panthera_Prime",
-        "disposition": 2,
+        "disposition": 3,
         "releaseDate": "2020 07 14",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2022 02 06"
+        "estimatedVaultDate": "2022 04 09"
     },
     {
         "name": "Paracyst",
@@ -5375,7 +5380,7 @@
         "fireRate": 6.0000005,
         "masteryReq": 12,
         "slot": 1,
-        "omegaAttenuation": 1,
+        "omegaAttenuation": 1.05,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 300,
@@ -5553,7 +5558,7 @@
         "fireRate": 2,
         "masteryReq": 12,
         "slot": 1,
-        "omegaAttenuation": 0.89999998,
+        "omegaAttenuation": 0.94999999,
         "noise": "Alarming",
         "trigger": "Duplex",
         "magazineSize": 2,
@@ -5563,6 +5568,7 @@
         "imageName": "sancti-tigris.png",
         "category": "Primary",
         "tradable": true,
+        "ammo": 120,
         "damage": "1260.0",
         "damageTypes": {
             "impact": 126,
@@ -5719,6 +5725,7 @@
         "imageName": "shedu.png",
         "category": "Primary",
         "tradable": false,
+        "ammo": "Infinite",
         "damage": "71.0 heat",
         "damageTypes": {
             "heat": 71
@@ -6006,7 +6013,7 @@
         "fireRate": 1.8333334,
         "masteryReq": 13,
         "slot": 1,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.85000002,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 9,
@@ -6043,7 +6050,7 @@
             "Infested"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Sporothrix",
-        "disposition": 1
+        "disposition": 2
     },
     {
         "name": "Stahlta",
@@ -6071,20 +6078,6 @@
         "category": "Primary",
         "tradable": false,
         "ammo": 300,
-        "areaAttack": {
-            "name": "Charged Shot Explosion",
-            "speed": 0.667,
-            "crit_chance": 40,
-            "crit_mult": 3,
-            "status_chance": 0.3,
-            "falloff": {
-                "start": 0,
-                "end": 7.2,
-                "reduction": 0.7
-            },
-            "radiation": 1200,
-            "damage": "1200.0 radiation"
-        },
         "damage": "52.0",
         "damageTypes": {
             "impact": 7.3,
@@ -6094,7 +6087,14 @@
         "flight": 50,
         "marketCost": 225,
         "projectile": "Projectile",
-        "statusChance": 32,
+        "secondaryArea": {
+            "name": "Charged Shot Explosion",
+            "status_chance": 32,
+            "radius": 720,
+            "speed": 0.667,
+            "radiation": 1200,
+            "damage": "1200.0 radiation"
+        },
         "tags": [
             "Corpus"
         ],
@@ -6323,7 +6323,7 @@
         "fireRate": 12.500001,
         "masteryReq": 12,
         "slot": 1,
-        "omegaAttenuation": 1,
+        "omegaAttenuation": 1.05,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 180,
@@ -6363,7 +6363,7 @@
         "fireRate": 12.500001,
         "masteryReq": 14,
         "slot": 1,
-        "omegaAttenuation": 0.89999998,
+        "omegaAttenuation": 0.94999999,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 300,
@@ -6752,6 +6752,60 @@
         "disposition": 3
     },
     {
+        "name": "Tenora Prime",
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeTenora/TenoraPrimeWeapon",
+        "totalDamage": 28,
+        "criticalChance": 0.30000001,
+        "criticalMultiplier": 2.2,
+        "procChance": 0.24000001,
+        "fireRate": 12.666667,
+        "masteryReq": 14,
+        "slot": 1,
+        "omegaAttenuation": 0.5,
+        "noise": "Alarming",
+        "trigger": "Auto",
+        "magazineSize": 200,
+        "reloadTime": 2.5,
+        "multishot": 1,
+        "buildPrice": 15000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 50,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Rifle",
+        "imageName": "tenora-prime.png",
+        "category": "Primary",
+        "tradable": true,
+        "ammo": 900,
+        "damage": "28.0",
+        "damageTypes": {
+            "impact": 8.4,
+            "slash": 8.4,
+            "puncture": 11.2
+        },
+        "projectile": "Hitscan",
+        "secondary": {
+            "speed": 2,
+            "crit_chance": 40,
+            "crit_mult": 3,
+            "status_chance": 0.2,
+            "charge_time": 0.8,
+            "shot_type": "Projectile",
+            "shot_speed": null,
+            "impact": 56,
+            "slash": 56,
+            "puncture": 168
+        },
+        "tags": [
+            "Prime"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Tenora_Prime",
+        "disposition": 1,
+        "releaseDate": "2021 02 23",
+        "vaultDate": "n/a",
+        "estimatedVaultDate": "2022 09 20"
+    },
+    {
         "name": "Tetra",
         "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CorpusUMP/CorpusUMP",
         "totalDamage": 32,
@@ -6947,7 +7001,7 @@
         "fireRate": 2,
         "masteryReq": 13,
         "slot": 1,
-        "omegaAttenuation": 0.80000001,
+        "omegaAttenuation": 0.85000002,
         "noise": "Alarming",
         "trigger": "Duplex",
         "magazineSize": 2,
@@ -7091,7 +7145,7 @@
         "fireRate": 4.666667,
         "masteryReq": 13,
         "slot": 1,
-        "omegaAttenuation": 0.55000001,
+        "omegaAttenuation": 0.69999999,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 200,
@@ -7286,7 +7340,7 @@
         "imageName": "veldt.png",
         "category": "Primary",
         "tradable": false,
-        "ammo": 528,
+        "ammo": 546,
         "damage": "90.0",
         "damageTypes": {
             "impact": 23.4,
@@ -7701,7 +7755,8 @@
         "wikiaUrl": "http://warframe.fandom.com/wiki/Zhuge_Prime",
         "disposition": 4,
         "releaseDate": "2019 07 07",
-        "vaultDate": "n/a",
-        "estimatedVaultDate": "2021 01 12"
+        "vaultDate": "2021 02 23",
+        "estimatedVaultDate": "2021 02 23",
+        "vaulted": true
     }
 ]

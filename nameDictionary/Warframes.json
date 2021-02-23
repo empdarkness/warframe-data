@@ -108,7 +108,7 @@
         "wikiaUrl": "http://warframe.fandom.com/wiki/Atlas_Prime",
         "releaseDate": "2019 10 01",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2021 03 31"
+        "estimatedVaultDate": "2021 05 16"
     },
     "Banshee": {
         "uniqueName": "/Lotus/Powersuits/Banshee/Banshee",
@@ -790,7 +790,7 @@
         "wikiaUrl": "http://warframe.fandom.com/wiki/Inaros_Prime",
         "releaseDate": "2020 07 14",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2022 02 06"
+        "estimatedVaultDate": "2022 04 09"
     },
     "Ivara": {
         "uniqueName": "/Lotus/Powersuits/Ranger/Ranger",
@@ -851,7 +851,7 @@
         "wikiaUrl": "http://warframe.fandom.com/wiki/Ivara_Prime",
         "releaseDate": "2019 12 17",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2021 06 17"
+        "estimatedVaultDate": "2021 08 06"
     },
     "Khora": {
         "uniqueName": "/Lotus/Powersuits/Khora/Khora",
@@ -1301,7 +1301,7 @@
         "wikiaUrl": "http://warframe.fandom.com/wiki/Nezha_Prime",
         "releaseDate": "2020 10 26",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2022 04 25"
+        "estimatedVaultDate": "2022 06 30"
     },
     "Nidus": {
         "uniqueName": "/Lotus/Powersuits/Infestation/Infestation",
@@ -1522,6 +1522,35 @@
         "sex": "Female",
         "sprint": 1.05,
         "wikiaUrl": "http://warframe.fandom.com/wiki/Octavia"
+    },
+    "Octavia Prime": {
+        "uniqueName": "/Lotus/Powersuits/Bard/OctaviaPrime",
+        "health": 100,
+        "shield": 100,
+        "armor": 150,
+        "stamina": 3,
+        "power": 175,
+        "masteryReq": 0,
+        "sprintSpeed": 1.05,
+        "buildPrice": 25000,
+        "buildTime": 259200,
+        "skipBuildTimePrice": 50,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Warframe",
+        "imageName": "octavia-prime.png",
+        "category": "Warframes",
+        "tradable": true,
+        "aura": "madurai",
+        "conclave": true,
+        "color": 0,
+        "introduced": "29.9",
+        "sex": "Female",
+        "sprint": 1.05,
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Octavia_Prime",
+        "releaseDate": "2021 02 23",
+        "vaultDate": "n/a",
+        "estimatedVaultDate": "2022 09 20"
     },
     "Protea": {
         "uniqueName": "/Lotus/Powersuits/Odalisk/Odalisk",
@@ -1746,7 +1775,7 @@
         "wikiaUrl": "http://warframe.fandom.com/wiki/Titania_Prime",
         "releaseDate": "2020 03 31",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2021 09 03"
+        "estimatedVaultDate": "2021 10 27"
     },
     "Trinity": {
         "uniqueName": "/Lotus/Powersuits/Trinity/Trinity",
@@ -2084,8 +2113,9 @@
         "sprint": 1.05,
         "wikiaUrl": "http://warframe.fandom.com/wiki/Wukong_Prime",
         "releaseDate": "2019 07 07",
-        "vaultDate": "n/a",
-        "estimatedVaultDate": "2021 01 12"
+        "vaultDate": "2021 02 23",
+        "estimatedVaultDate": "2021 02 23",
+        "vaulted": true
     },
     "Xaku": {
         "uniqueName": "/Lotus/Powersuits/BrokenFrame/BrokenFrame",

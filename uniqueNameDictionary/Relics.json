@@ -111,6 +111,34 @@
         "category": "Relics",
         "tradable": true
     },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeBSilver": {
+        "name": "Axi A13 Exceptional",
+        "type": "Relic",
+        "imageName": "axi-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeBGold": {
+        "name": "Axi A13 Flawless",
+        "type": "Relic",
+        "imageName": "axi-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeBBronze": {
+        "name": "Axi A13 Intact",
+        "type": "Relic",
+        "imageName": "axi-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeBPlatinum": {
+        "name": "Axi A13 Radiant",
+        "type": "Relic",
+        "imageName": "axi-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
     "/Lotus/Types/Game/Projections/T4VoidProjectionPSilver": {
         "name": "Axi A2 Exceptional",
         "type": "Relic",
@@ -582,6 +610,34 @@
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionInarosPrimeBPlatinum": {
         "name": "Axi C5 Radiant",
+        "type": "Relic",
+        "imageName": "axi-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeDSilver": {
+        "name": "Axi C6 Exceptional",
+        "type": "Relic",
+        "imageName": "axi-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeDGold": {
+        "name": "Axi C6 Flawless",
+        "type": "Relic",
+        "imageName": "axi-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeDBronze": {
+        "name": "Axi C6 Intact",
+        "type": "Relic",
+        "imageName": "axi-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeDPlatinum": {
+        "name": "Axi C6 Radiant",
         "type": "Relic",
         "imageName": "axi-radiant.png",
         "category": "Relics",
@@ -1539,6 +1595,34 @@
         "category": "Relics",
         "tradable": true
     },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeASilver": {
+        "name": "Axi O5 Exceptional",
+        "type": "Relic",
+        "imageName": "axi-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeAGold": {
+        "name": "Axi O5 Flawless",
+        "type": "Relic",
+        "imageName": "axi-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeABronze": {
+        "name": "Axi O5 Intact",
+        "type": "Relic",
+        "imageName": "axi-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeAPlatinum": {
+        "name": "Axi O5 Radiant",
+        "type": "Relic",
+        "imageName": "axi-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
     "/Lotus/Types/Game/Projections/T4VoidProjectionWukongPrimeDSilver": {
         "name": "Axi P1 Exceptional",
         "type": "Relic",
@@ -2043,6 +2127,34 @@
         "category": "Relics",
         "tradable": true
     },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeESilver": {
+        "name": "Axi T6 Exceptional",
+        "type": "Relic",
+        "imageName": "axi-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeEGold": {
+        "name": "Axi T6 Flawless",
+        "type": "Relic",
+        "imageName": "axi-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeEBronze": {
+        "name": "Axi T6 Intact",
+        "type": "Relic",
+        "imageName": "axi-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeEPlatinum": {
+        "name": "Axi T6 Radiant",
+        "type": "Relic",
+        "imageName": "axi-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
     "/Lotus/Types/Game/Projections/T4VoidProjectionBSilver": {
         "name": "Axi V1 Exceptional",
         "type": "Relic",
@@ -2318,6 +2430,34 @@
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionInarosPrimeDPlatinum": {
         "name": "Axi W1 Radiant",
+        "type": "Relic",
+        "imageName": "axi-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeCSilver": {
+        "name": "Axi W2 Exceptional",
+        "type": "Relic",
+        "imageName": "axi-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeCGold": {
+        "name": "Axi W2 Flawless",
+        "type": "Relic",
+        "imageName": "axi-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeCBronze": {
+        "name": "Axi W2 Intact",
+        "type": "Relic",
+        "imageName": "axi-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeCPlatinum": {
+        "name": "Axi W2 Radiant",
         "type": "Relic",
         "imageName": "axi-radiant.png",
         "category": "Relics",
@@ -2631,6 +2771,34 @@
         "category": "Relics",
         "tradable": true
     },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeBSilver": {
+        "name": "Lith B8 Exceptional",
+        "type": "Relic",
+        "imageName": "lith-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeBGold": {
+        "name": "Lith B8 Flawless",
+        "type": "Relic",
+        "imageName": "lith-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeBBronze": {
+        "name": "Lith B8 Intact",
+        "type": "Relic",
+        "imageName": "lith-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeBPlatinum": {
+        "name": "Lith B8 Radiant",
+        "type": "Relic",
+        "imageName": "lith-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
     "/Lotus/Types/Game/Projections/T1VoidProjectionJSilver": {
         "name": "Lith C1 Exceptional",
         "type": "Relic",
@@ -2883,6 +3051,34 @@
         "category": "Relics",
         "tradable": true
     },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeASilver": {
+        "name": "Lith D4 Exceptional",
+        "type": "Relic",
+        "imageName": "lith-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeAGold": {
+        "name": "Lith D4 Flawless",
+        "type": "Relic",
+        "imageName": "lith-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeABronze": {
+        "name": "Lith D4 Intact",
+        "type": "Relic",
+        "imageName": "lith-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeAPlatinum": {
+        "name": "Lith D4 Radiant",
+        "type": "Relic",
+        "imageName": "lith-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCSilver": {
         "name": "Lith F1 Exceptional",
         "type": "Relic",
@@ -2995,6 +3191,34 @@
         "category": "Relics",
         "tradable": true
     },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeCSilver": {
+        "name": "Lith G3 Exceptional",
+        "type": "Relic",
+        "imageName": "lith-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeCGold": {
+        "name": "Lith G3 Flawless",
+        "type": "Relic",
+        "imageName": "lith-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeCBronze": {
+        "name": "Lith G3 Intact",
+        "type": "Relic",
+        "imageName": "lith-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeCPlatinum": {
+        "name": "Lith G3 Radiant",
+        "type": "Relic",
+        "imageName": "lith-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
     "/Lotus/Types/Game/Projections/T1VoidProjectionHydroidPrimeCSilver": {
         "name": "Lith H1 Exceptional",
         "type": "Relic",
@@ -3046,6 +3270,34 @@
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionZephyrPrimeBPlatinum": {
         "name": "Lith H2 Radiant",
+        "type": "Relic",
+        "imageName": "lith-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeESilver": {
+        "name": "Lith I1 Exceptional",
+        "type": "Relic",
+        "imageName": "lith-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeEGold": {
+        "name": "Lith I1 Flawless",
+        "type": "Relic",
+        "imageName": "lith-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeEBronze": {
+        "name": "Lith I1 Intact",
+        "type": "Relic",
+        "imageName": "lith-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeEPlatinum": {
+        "name": "Lith I1 Radiant",
         "type": "Relic",
         "imageName": "lith-radiant.png",
         "category": "Relics",
@@ -4199,6 +4451,34 @@
         "category": "Relics",
         "tradable": true
     },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeDSilver": {
+        "name": "Lith T5 Exceptional",
+        "type": "Relic",
+        "imageName": "lith-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeDGold": {
+        "name": "Lith T5 Flawless",
+        "type": "Relic",
+        "imageName": "lith-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeDBronze": {
+        "name": "Lith T5 Intact",
+        "type": "Relic",
+        "imageName": "lith-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeDPlatinum": {
+        "name": "Lith T5 Radiant",
+        "type": "Relic",
+        "imageName": "lith-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
     "/Lotus/Types/Game/Projections/T1VoidProjectionDSilver": {
         "name": "Lith V1 Exceptional",
         "type": "Relic",
@@ -5006,6 +5286,34 @@
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionNovaTrinityVaultAPlatinum": {
         "name": "Meso D5 Radiant",
+        "type": "Relic",
+        "imageName": "meso-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionOctaviaPrimeBSilver": {
+        "name": "Meso D6 Exceptional",
+        "type": "Relic",
+        "imageName": "meso-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionOctaviaPrimeBGold": {
+        "name": "Meso D6 Flawless",
+        "type": "Relic",
+        "imageName": "meso-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionOctaviaPrimeBBronze": {
+        "name": "Meso D6 Intact",
+        "type": "Relic",
+        "imageName": "meso-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionOctaviaPrimeBPlatinum": {
+        "name": "Meso D6 Radiant",
         "type": "Relic",
         "imageName": "meso-radiant.png",
         "category": "Relics",
@@ -6019,6 +6327,34 @@
         "category": "Relics",
         "tradable": true
     },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionOctaviaPrimeASilver": {
+        "name": "Meso P4 Exceptional",
+        "type": "Relic",
+        "imageName": "meso-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionOctaviaPrimeAGold": {
+        "name": "Meso P4 Flawless",
+        "type": "Relic",
+        "imageName": "meso-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionOctaviaPrimeABronze": {
+        "name": "Meso P4 Intact",
+        "type": "Relic",
+        "imageName": "meso-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionOctaviaPrimeAPlatinum": {
+        "name": "Meso P4 Radiant",
+        "type": "Relic",
+        "imageName": "meso-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
     "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeDSilver": {
         "name": "Meso R1 Exceptional",
         "type": "Relic",
@@ -6434,6 +6770,34 @@
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeBPlatinum": {
         "name": "Meso T3 Radiant",
+        "type": "Relic",
+        "imageName": "meso-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionOctaviaPrimeCSilver": {
+        "name": "Meso T4 Exceptional",
+        "type": "Relic",
+        "imageName": "meso-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionOctaviaPrimeCGold": {
+        "name": "Meso T4 Flawless",
+        "type": "Relic",
+        "imageName": "meso-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionOctaviaPrimeCBronze": {
+        "name": "Meso T4 Intact",
+        "type": "Relic",
+        "imageName": "meso-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T2VoidProjectionOctaviaPrimeCPlatinum": {
+        "name": "Meso T4 Radiant",
         "type": "Relic",
         "imageName": "meso-radiant.png",
         "category": "Relics",
@@ -6994,6 +7358,34 @@
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionBansheeMirageVaultAPlatinum": {
         "name": "Neo B6 Radiant",
+        "type": "Relic",
+        "imageName": "neo-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeDSilver": {
+        "name": "Neo B7 Exceptional",
+        "type": "Relic",
+        "imageName": "neo-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeDGold": {
+        "name": "Neo B7 Flawless",
+        "type": "Relic",
+        "imageName": "neo-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeDBronze": {
+        "name": "Neo B7 Intact",
+        "type": "Relic",
+        "imageName": "neo-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeDPlatinum": {
+        "name": "Neo B7 Radiant",
         "type": "Relic",
         "imageName": "neo-radiant.png",
         "category": "Relics",
@@ -7671,6 +8063,62 @@
         "category": "Relics",
         "tradable": true
     },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeASilver": {
+        "name": "Neo N14 Exceptional",
+        "type": "Relic",
+        "imageName": "neo-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeAGold": {
+        "name": "Neo N14 Flawless",
+        "type": "Relic",
+        "imageName": "neo-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeABronze": {
+        "name": "Neo N14 Intact",
+        "type": "Relic",
+        "imageName": "neo-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeAPlatinum": {
+        "name": "Neo N14 Radiant",
+        "type": "Relic",
+        "imageName": "neo-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeESilver": {
+        "name": "Neo N15 Exceptional",
+        "type": "Relic",
+        "imageName": "neo-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeEGold": {
+        "name": "Neo N15 Flawless",
+        "type": "Relic",
+        "imageName": "neo-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeEBronze": {
+        "name": "Neo N15 Intact",
+        "type": "Relic",
+        "imageName": "neo-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeEPlatinum": {
+        "name": "Neo N15 Radiant",
+        "type": "Relic",
+        "imageName": "neo-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
     "/Lotus/Types/Game/Projections/T3VoidProjectionDSilver": {
         "name": "Neo N2 Exceptional",
         "type": "Relic",
@@ -7946,6 +8394,34 @@
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionTitaniaPrimeBPlatinum": {
         "name": "Neo P1 Radiant",
+        "type": "Relic",
+        "imageName": "neo-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeCSilver": {
+        "name": "Neo P2 Exceptional",
+        "type": "Relic",
+        "imageName": "neo-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeCGold": {
+        "name": "Neo P2 Flawless",
+        "type": "Relic",
+        "imageName": "neo-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeCBronze": {
+        "name": "Neo P2 Intact",
+        "type": "Relic",
+        "imageName": "neo-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeCPlatinum": {
+        "name": "Neo P2 Radiant",
         "type": "Relic",
         "imageName": "neo-radiant.png",
         "category": "Relics",
@@ -8898,6 +9374,34 @@
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeDPlatinum": {
         "name": "Neo Z6 Radiant",
+        "type": "Relic",
+        "imageName": "neo-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeBSilver": {
+        "name": "Neo Z7 Exceptional",
+        "type": "Relic",
+        "imageName": "neo-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeBGold": {
+        "name": "Neo Z7 Flawless",
+        "type": "Relic",
+        "imageName": "neo-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeBBronze": {
+        "name": "Neo Z7 Intact",
+        "type": "Relic",
+        "imageName": "neo-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeBPlatinum": {
+        "name": "Neo Z7 Radiant",
         "type": "Relic",
         "imageName": "neo-radiant.png",
         "category": "Relics",

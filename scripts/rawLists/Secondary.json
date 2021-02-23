@@ -306,7 +306,7 @@
         "fireRate": 16.666668,
         "masteryReq": 8,
         "slot": 0,
-        "omegaAttenuation": 1,
+        "omegaAttenuation": 1.05,
         "noise": "Alarming",
         "trigger": "Burst",
         "magazineSize": 36,
@@ -346,7 +346,7 @@
         "fireRate": 10.000001,
         "masteryReq": 12,
         "slot": 0,
-        "omegaAttenuation": 0.85000002,
+        "omegaAttenuation": 0.89999998,
         "noise": "Alarming",
         "trigger": "Burst",
         "magazineSize": 40,
@@ -374,7 +374,7 @@
             "Vaulted"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Akjagara_Prime",
-        "disposition": 2,
+        "disposition": 3,
         "releaseDate": "2018 12 12",
         "vaultDate": "2020 07 14",
         "estimatedVaultDate": "2020 07 14",
@@ -521,6 +521,7 @@
         "imageName": "akmagnus.png",
         "category": "Secondary",
         "tradable": false,
+        "ammo": 210,
         "damage": "76.0",
         "damageTypes": {
             "impact": 34.2,
@@ -615,7 +616,7 @@
         "disposition": 3,
         "releaseDate": "2019 12 17",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2021 06 17"
+        "estimatedVaultDate": "2021 08 06"
     },
     {
         "name": "Akstiletto",
@@ -627,7 +628,7 @@
         "fireRate": 10.000001,
         "masteryReq": 8,
         "slot": 0,
-        "omegaAttenuation": 0.89999998,
+        "omegaAttenuation": 0.94999999,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 28,
@@ -667,7 +668,7 @@
         "fireRate": 7.0833335,
         "masteryReq": 10,
         "slot": 0,
-        "omegaAttenuation": 0.60000002,
+        "omegaAttenuation": 0.64999998,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 40,
@@ -1089,6 +1090,7 @@
         "imageName": "ballistica.png",
         "category": "Secondary",
         "tradable": false,
+        "ammo": 210,
         "chargeTime": 1,
         "damage": 100,
         "damageTypes": {
@@ -1374,7 +1376,7 @@
         "fireRate": 12.000001,
         "masteryReq": 11,
         "slot": 0,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.80000001,
         "noise": "Alarming",
         "trigger": "Held",
         "magazineSize": 31,
@@ -1414,7 +1416,7 @@
             "Infested"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Catabolyst",
-        "disposition": 1
+        "disposition": 2
     },
     {
         "name": "Cestra",
@@ -1542,6 +1544,7 @@
         "imageName": "cycron.png",
         "category": "Secondary",
         "tradable": false,
+        "ammo": "Infinite",
         "damage": "10.0 radiation",
         "damageTypes": {
             "slash": 5,
@@ -2073,7 +2076,7 @@
         "fireRate": 7.0000005,
         "masteryReq": 7,
         "slot": 0,
-        "omegaAttenuation": 1.15,
+        "omegaAttenuation": 1.2,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 16,
@@ -2179,6 +2182,7 @@
         "imageName": "kohmak.png",
         "category": "Secondary",
         "tradable": false,
+        "ammo": 210,
         "damage": "30.0",
         "damageTypes": {
             "impact": 6,
@@ -2805,6 +2809,7 @@
         "imageName": "mara-detron.png",
         "category": "Secondary",
         "tradable": false,
+        "ammo": 210,
         "damage": "280.0 radiation",
         "damageTypes": {
             "radiation": 280
@@ -2841,6 +2846,7 @@
         "imageName": "marelok.png",
         "category": "Secondary",
         "tradable": false,
+        "ammo": 210,
         "damage": "160.0",
         "damageTypes": {
             "impact": 80,
@@ -3048,6 +3054,57 @@
         "disposition": 3
     },
     {
+        "name": "Pandero Prime",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimePandero/PanderoPrimeWeapon",
+        "totalDamage": 104,
+        "criticalChance": 0.30000001,
+        "criticalMultiplier": 2.8,
+        "procChance": 0.24000001,
+        "fireRate": 3.0000002,
+        "masteryReq": 14,
+        "slot": 0,
+        "omegaAttenuation": 0.5,
+        "noise": "Alarming",
+        "trigger": "Semi",
+        "magazineSize": 8,
+        "reloadTime": 1,
+        "multishot": 1,
+        "buildPrice": 15000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 50,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Pistol",
+        "imageName": "pandero-prime.png",
+        "category": "Secondary",
+        "tradable": true,
+        "ammo": 210,
+        "damage": "104.0",
+        "damageTypes": {
+            "impact": 26,
+            "slash": 52,
+            "puncture": 26
+        },
+        "projectile": "Hitscan",
+        "secondary": {
+            "speed": 7.69,
+            "crit_chance": 30,
+            "crit_mult": 2.8,
+            "status_chance": 0.2,
+            "impact": 18,
+            "slash": 36,
+            "puncture": 18
+        },
+        "tags": [
+            "Prime"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Pandero_Prime",
+        "disposition": 1,
+        "releaseDate": "2021 02 23",
+        "vaultDate": "n/a",
+        "estimatedVaultDate": "2022 09 20"
+    },
+    {
         "name": "Plinx",
         "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpSonificBlastor/CrpBlastorWeapon",
         "totalDamage": 46,
@@ -3072,7 +3129,7 @@
         "imageName": "plinx.png",
         "category": "Secondary",
         "tradable": false,
-        "ammo": 10,
+        "ammo": "Infinite",
         "damage": "20.0 heat",
         "damageTypes": {
             "puncture": 26,
@@ -3096,7 +3153,7 @@
         "fireRate": 2.0833335,
         "masteryReq": 9,
         "slot": 0,
-        "omegaAttenuation": 1.15,
+        "omegaAttenuation": 1.2,
         "noise": "Silent",
         "trigger": "Auto",
         "magazineSize": 4,
@@ -3249,7 +3306,7 @@
         "fireRate": 4.166667,
         "masteryReq": 12,
         "slot": 0,
-        "omegaAttenuation": 0.89999998,
+        "omegaAttenuation": 0.94999999,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 10,
@@ -3333,7 +3390,7 @@
         "fireRate": 15.000001,
         "masteryReq": 9,
         "slot": 0,
-        "omegaAttenuation": 1.15,
+        "omegaAttenuation": 1.2,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 72,
@@ -3542,7 +3599,7 @@
         "fireRate": 3.6666665,
         "masteryReq": 14,
         "slot": 0,
-        "omegaAttenuation": 0.75,
+        "omegaAttenuation": 0.85000002,
         "noise": "Alarming",
         "trigger": "Burst",
         "magazineSize": 90,
@@ -3592,7 +3649,7 @@
             "Entrati"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Sepulcrum",
-        "disposition": 1
+        "disposition": 2
     },
     {
         "name": "Sicarus",
@@ -3614,6 +3671,7 @@
         "imageName": "sicarus.png",
         "category": "Secondary",
         "tradable": false,
+        "ammo": 210,
         "damage": "30.0",
         "damageTypes": {
             "impact": 21,
@@ -3890,7 +3948,7 @@
         "fireRate": 3.5000002,
         "masteryReq": 10,
         "slot": 0,
-        "omegaAttenuation": 0.60000002,
+        "omegaAttenuation": 0.64999998,
         "noise": "Alarming",
         "trigger": "Charge",
         "reloadTime": 1.5,
@@ -3999,6 +4057,7 @@
         "imageName": "stug.png",
         "category": "Secondary",
         "tradable": false,
+        "ammo": 210,
         "areaAttack": {
             "name": "Blob Explosion",
             "crit_chance": 5,
@@ -4482,6 +4541,7 @@
         "imageName": "vasto-prime.png",
         "category": "Secondary",
         "tradable": true,
+        "ammo": 210,
         "damage": "66.0",
         "damageTypes": {
             "impact": 9.9,
@@ -4520,6 +4580,7 @@
         "imageName": "vaykor-marelok.png",
         "category": "Secondary",
         "tradable": true,
+        "ammo": 210,
         "damage": "160.0",
         "damageTypes": {
             "impact": 96,
@@ -4544,7 +4605,7 @@
         "fireRate": 15.000001,
         "masteryReq": 8,
         "slot": 0,
-        "omegaAttenuation": 1,
+        "omegaAttenuation": 1.1,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 62,
@@ -4711,7 +4772,7 @@
         "fireRate": 5.0000005,
         "masteryReq": 14,
         "slot": 0,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.75,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 8,
@@ -4751,7 +4812,7 @@
         "disposition": 1,
         "releaseDate": "2020 10 26",
         "vaultDate": "n/a",
-        "estimatedVaultDate": "2022 04 25"
+        "estimatedVaultDate": "2022 06 30"
     },
     {
         "name": "Zylok",
@@ -4773,6 +4834,7 @@
         "imageName": "zylok.png",
         "category": "Secondary",
         "tradable": false,
+        "ammo": 210,
         "damage": "140.0",
         "damageTypes": {
             "impact": 44.8,
@@ -4796,7 +4858,7 @@
         "fireRate": 1.3333334,
         "masteryReq": 11,
         "slot": 0,
-        "omegaAttenuation": 0.75,
+        "omegaAttenuation": 0.94999999,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 17,
@@ -4834,6 +4896,6 @@
             "Infested"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Zymos",
-        "disposition": 1
+        "disposition": 3
     }
 ]
