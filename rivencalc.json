@@ -330,6 +330,12 @@
                 "Buzlok": 1.45
             }
         },
+        "Carmine Penta": {
+            "riventype": "Rifle",
+            "variants": {
+                "Carmine Penta": 1.3
+            }
+        },
         "Cassowar": {
             "riventype": "Melee",
             "variants": {
@@ -1953,6 +1959,12 @@
             "variants": {
                 "Venka": 1.05,
                 "Venka Prime": 0.80000001
+            }
+        },
+        "Verglas": {
+            "riventype": "Rifle",
+            "variants": {
+                "Verglas": 1.3
             }
         },
         "Veritux": {

@@ -1987,6 +1987,34 @@
         "category": "Relics",
         "tradable": true
     },
+    "Axi S8 Exceptional": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionNyxValkyrRailjackBSilver",
+        "type": "Relic",
+        "imageName": "axi-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Axi S8 Flawless": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionNyxValkyrRailjackBGold",
+        "type": "Relic",
+        "imageName": "axi-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Axi S8 Intact": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionNyxValkyrRailjackBBronze",
+        "type": "Relic",
+        "imageName": "axi-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Axi S8 Radiant": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionNyxValkyrRailjackBPlatinum",
+        "type": "Relic",
+        "imageName": "axi-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
     "Axi T1 Exceptional": {
         "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionJSilver",
         "type": "Relic",
@@ -2178,6 +2206,34 @@
     },
     "Axi V1 Radiant": {
         "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionBPlatinum",
+        "type": "Relic",
+        "imageName": "axi-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Axi V10 Exceptional": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionNyxValkyrRailjackASilver",
+        "type": "Relic",
+        "imageName": "axi-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Axi V10 Flawless": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionNyxValkyrRailjackAGold",
+        "type": "Relic",
+        "imageName": "axi-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Axi V10 Intact": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionNyxValkyrRailjackABronze",
+        "type": "Relic",
+        "imageName": "axi-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Axi V10 Radiant": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionNyxValkyrRailjackAPlatinum",
         "type": "Relic",
         "imageName": "axi-radiant.png",
         "category": "Relics",
@@ -2962,6 +3018,34 @@
     },
     "Lith C6 Radiant": {
         "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionTitaniaPrimeAPlatinum",
+        "type": "Relic",
+        "imageName": "lith-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Lith C7 Exceptional": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNyxValkyrRailjackASilver",
+        "type": "Relic",
+        "imageName": "lith-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Lith C7 Flawless": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNyxValkyrRailjackAGold",
+        "type": "Relic",
+        "imageName": "lith-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Lith C7 Intact": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNyxValkyrRailjackABronze",
+        "type": "Relic",
+        "imageName": "lith-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Lith C7 Radiant": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNyxValkyrRailjackAPlatinum",
         "type": "Relic",
         "imageName": "lith-radiant.png",
         "category": "Relics",
@@ -5902,6 +5986,34 @@
     },
     "Meso N10 Radiant": {
         "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionInarosPrimeCPlatinum",
+        "type": "Relic",
+        "imageName": "meso-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Meso N11 Exceptional": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionNyxValkyrRailjackASilver",
+        "type": "Relic",
+        "imageName": "meso-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Meso N11 Flawless": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionNyxValkyrRailjackAGold",
+        "type": "Relic",
+        "imageName": "meso-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Meso N11 Intact": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionNyxValkyrRailjackABronze",
+        "type": "Relic",
+        "imageName": "meso-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Meso N11 Radiant": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionNyxValkyrRailjackAPlatinum",
         "type": "Relic",
         "imageName": "meso-radiant.png",
         "category": "Relics",
@@ -9206,6 +9318,34 @@
     },
     "Neo V8 Radiant": {
         "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionLokiVoltVaultAPlatinum",
+        "type": "Relic",
+        "imageName": "neo-radiant.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Neo V9 Exceptional": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNyxValkyrRailjackASilver",
+        "type": "Relic",
+        "imageName": "neo-exceptional.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Neo V9 Flawless": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNyxValkyrRailjackAGold",
+        "type": "Relic",
+        "imageName": "neo-flawless.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Neo V9 Intact": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNyxValkyrRailjackABronze",
+        "type": "Relic",
+        "imageName": "neo-intact.png",
+        "category": "Relics",
+        "tradable": true
+    },
+    "Neo V9 Radiant": {
+        "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNyxValkyrRailjackAPlatinum",
         "type": "Relic",
         "imageName": "neo-radiant.png",
         "category": "Relics",

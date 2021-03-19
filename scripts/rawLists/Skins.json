@@ -54,6 +54,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Clan/CorpusLichEmblemItem",
+        "name": "[Ph] Corpus Lich Emblem",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "ph-corpus-lich-emblem.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Clan/DarkSectorEventEmblemItem",
         "name": "[Ph] Dark Sector Event Emblem",
         "excludeFromCodex": true,
@@ -996,6 +1005,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/NotePacks/BardTennoPackA",
+        "name": "Adau Instruments",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "adau-instruments.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/GrineerForest/GrineerForestAfuris",
         "name": "Afuris Forest-Camo Skin",
         "type": "Skin",
@@ -1270,6 +1288,15 @@
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "alloy-plate-decoration.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/NotePacks/BardCorpusPackA",
+        "name": "Alpha Instruments",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "alpha-instruments.png",
         "category": "Skins",
         "tradable": false
     },
@@ -1575,6 +1602,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/OceanADiorama",
+        "name": "Aquarium Vignette",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "aquarium-vignette.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWRThreeAquirosScarf",
         "name": "Aquiros Syandana",
         "type": "Skin",
@@ -1638,7 +1674,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAlt",
         "name": "Arcane Aura Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1652,7 +1687,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAlt",
         "name": "Arcane Aurora Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1666,7 +1700,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAlt",
         "name": "Arcane Avalon Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1680,7 +1713,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberHelmetAltB",
         "name": "Arcane Backdraft Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1694,7 +1726,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Asp/AspAltHelmetB",
         "name": "Arcane Chlora Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1708,7 +1739,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmetB",
         "name": "Arcane Chorus Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1722,7 +1752,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagHelmetAlt",
         "name": "Arcane Coil Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1736,7 +1765,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetAlt",
         "name": "Arcane Esprit Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1750,7 +1778,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiHelmetAlt",
         "name": "Arcane Essence Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1764,7 +1791,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/AntiAltHelmet",
         "name": "Arcane Flux Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1778,7 +1804,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetAltB",
         "name": "Arcane Gambit Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1792,7 +1817,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Asp/AspAltHelmet",
         "name": "Arcane Hemlock Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1806,7 +1830,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Ninja/NinjaHelmetAltB",
         "name": "Arcane Locust Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1820,7 +1843,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Mag/MagHelmetAltB",
         "name": "Arcane Mag Gauss Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1834,7 +1856,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAlt",
         "name": "Arcane Menticide Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1848,7 +1869,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAltB",
         "name": "Arcane Meridian Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1862,7 +1882,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAltB",
         "name": "Arcane Pendragon Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1876,7 +1895,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Ember/EmberHelmetAlt",
         "name": "Arcane Phoenix Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1890,7 +1908,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltHelmetAltB",
         "name": "Arcane Pulse Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1904,7 +1921,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmet",
         "name": "Arcane Reverb Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1918,7 +1934,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Ninja/NinjaHelmetAlt",
         "name": "Arcane Scorpion Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1932,7 +1947,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAltB",
         "name": "Arcane Squall Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1946,7 +1960,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltHelmetAlt",
         "name": "Arcane Storm Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1960,7 +1973,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiHelmetAltB",
         "name": "Arcane Swindle Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1974,7 +1986,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoHelmetAlt",
         "name": "Arcane Thrak Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -1988,7 +1999,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoHelmetAltB",
         "name": "Arcane Vanguard Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -2002,7 +2012,6 @@
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAltB",
         "name": "Arcane Vespa Helmet",
-        "itemCount": 1,
         "buildPrice": 20000,
         "buildTime": 43200,
         "skipBuildTimePrice": 25,
@@ -2019,6 +2028,14 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "arcata-riv-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Liset/ZephyrDeluxeShipSkin",
+        "name": "Arclite Landing Craft Skin",
+        "type": "Skin",
+        "imageName": "arclite-landing-craft-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -2496,6 +2513,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Brawler/UnlockBrawlerAgile",
+        "name": "Atlas Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "atlas-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Brawler/SWRFiveAtlasArhatHelmet",
         "name": "Atlas Arhat Helmet",
         "type": "Skin",
@@ -2562,6 +2588,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Brawler/BrawlerNobleAnims",
+        "name": "Atlas Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "atlas-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Brawler/UnlockBrawlerNoble",
         "name": "Atlas Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -3082,6 +3117,24 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/UnlockPacifistAgile",
+        "name": "Baruuk Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "baruuk-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/BaruukBackground",
+        "name": "Baruuk Background",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "baruuk-background.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/SWBedouinHelmet",
         "name": "Baruuk Bedouin Helmet",
         "type": "Skin",
@@ -3154,11 +3207,29 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/UnlockPacifistNoble",
+        "name": "Baruuk Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "baruuk-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/PacifistSkin",
         "name": "Baruuk Skin",
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "baruuk-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/BaruukStyle",
+        "name": "Baruuk Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "baruuk-theme.png",
         "category": "Skins",
         "tradable": false
     },
@@ -3216,6 +3287,15 @@
         "name": "Bennu Syandana",
         "type": "Skin",
         "imageName": "bennu-syandana.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/NotePacks/BardCorpusPackB",
+        "name": "Beta Instruments",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "beta-instruments.png",
         "category": "Skins",
         "tradable": false
     },
@@ -3501,6 +3581,15 @@
         "excludeFromCodex": true,
         "type": "Fur Color",
         "imageName": "bombard-white.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/NotePacks/BardHipHopPackA",
+        "name": "Bombast Instruments",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "bombast-instruments.png",
         "category": "Skins",
         "tradable": false
     },
@@ -4176,6 +4265,15 @@
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "cephalon-suda-stencil.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/CephalonDiorama",
+        "name": "Cephalon Vignette",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "cephalon-vignette.png",
         "category": "Skins",
         "tradable": false
     },
@@ -4943,6 +5041,105 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerA",
+        "name": "Controllera",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "controllera.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerB",
+        "name": "Controllerb",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "controllerb.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerC",
+        "name": "Controllerc",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "controllerc.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerD",
+        "name": "Controllerd",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "controllerd.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerE",
+        "name": "Controllere",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "controllere.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerF",
+        "name": "Controllerf",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "controllerf.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerG",
+        "name": "Controllerg",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "controllerg.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerH",
+        "name": "Controllerh",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "controllerh.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerI",
+        "name": "Controlleri",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "controlleri.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerJ",
+        "name": "Controllerj",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "controllerj.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerK",
+        "name": "Controllerk",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "controllerk.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropMandolinGrineer",
         "name": "Corbu Shawzin",
         "type": "Ship Decoration",
@@ -5016,10 +5213,55 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/CorpusBackground",
+        "name": "Corpus Background",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "corpus-background.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/PoseSets/CorpusCrewmanGunPoseSet",
+        "name": "Corpus Crewman Gun Pose Set",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "corpus-crewman-gun-pose-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/PoseSets/CorpusCrewmanReactPoseSet",
+        "name": "Corpus Crewman Reaction Pose Set",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "corpus-crewman-reaction-pose-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMundaneC",
         "name": "Corpus Grey",
         "type": "Fur Color",
         "imageName": "corpus-grey.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Sounds/CorpusSounds",
+        "name": "Corpus Sounds",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "corpus-sounds.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/CorpusStyle",
+        "name": "Corpus Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "corpus-theme.png",
         "category": "Skins",
         "tradable": false
     },
@@ -5341,6 +5583,24 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/NatahBackground",
+        "name": "Dark Lotus Background",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "dark-lotus-background.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/NatahStyle",
+        "name": "Dark Lotus Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "dark-lotus-theme.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenDarkSplitSword",
         "name": "Dark Split-Sword Day Of The Dead Skin",
         "type": "Skin",
@@ -5485,6 +5745,24 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/DeadlockBackground",
+        "name": "Deadlock Background",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "deadlock-background.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/DeadlockStyle",
+        "name": "Deadlock Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "deadlock-theme.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/ContestCatbrowFur",
         "name": "Deaeira Kavat Fur Pattern",
         "type": "Skin",
@@ -5623,6 +5901,15 @@
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "delicate-pobber-floof.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/NotePacks/BardCorpusPackD",
+        "name": "Delta Instruments",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "delta-instruments.png",
         "category": "Skins",
         "tradable": false
     },
@@ -6129,6 +6416,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2021BallasPortrait",
+        "name": "Display - Tennocon 2021",
+        "excludeFromCodex": true,
+        "type": "Ship Decoration",
+        "imageName": "display---tennocon-2021.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/Tennocon2020SimarisDisplay",
         "name": "Display - Tennotrivia 2020",
         "type": "Ship Decoration",
@@ -6393,6 +6689,15 @@
         "excludeFromCodex": true,
         "type": "Fur Color",
         "imageName": "dreg-red.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/NotePacks/BardGrineerPackA",
+        "name": "Druk Instruments",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "druk-instruments.png",
         "category": "Skins",
         "tradable": false
     },
@@ -6664,6 +6969,15 @@
         "name": "Earth Console",
         "type": "Ship Decoration",
         "imageName": "earth-console.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/EarthADiorama",
+        "name": "Earth Vignette",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "earth-vignette.png",
         "category": "Skins",
         "tradable": false
     },
@@ -7215,6 +7529,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/EmpyreanRegionADiorama",
+        "name": "Empyrean Vignette",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "empyrean-vignette.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Scarves/NyxDeluxeSyandana",
         "name": "Enthra Syandana",
         "type": "Skin",
@@ -7272,6 +7595,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/NotePacks/BardCorpusPackE",
+        "name": "Epsilon Instruments",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "epsilon-instruments.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Anima/AnimaAgileAnims",
         "name": "Equinox Agile Animation Set",
         "excludeFromCodex": true,
@@ -7293,6 +7625,15 @@
         "name": "Equinox Antonym Skin",
         "type": "Skin",
         "imageName": "equinox-antonym-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/GradientBackground",
+        "name": "Equinox Background",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "equinox-background.png",
         "category": "Skins",
         "tradable": false
     },
@@ -7319,7 +7660,25 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Anima/UnlockAnimaDayAgile",
+        "name": "Equinox Day Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "equinox-day-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Anima/AnimaDayNobleAnims",
+        "name": "Equinox Day Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "equinox-day-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Anima/UnlockAnimaDayNoble",
         "name": "Equinox Day Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -7394,7 +7753,25 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Anima/UnlockAnimaAgile",
+        "name": "Equinox Night Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "equinox-night-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Anima/AnimaNightNobleAnims",
+        "name": "Equinox Night Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "equinox-night-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Anima/UnlockAnimaNoble",
         "name": "Equinox Night Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -7447,6 +7824,15 @@
         "consumeOnBuild": true,
         "type": "Skin",
         "imageName": "equinox-solstice-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/EquinoxStyle",
+        "name": "Equinox Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "equinox-theme.png",
         "category": "Skins",
         "tradable": false
     },
@@ -7566,6 +7952,15 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "euphrates-kubrow-armor.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/CorpusIcePlanetDiorama",
+        "name": "Europa Vignette",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "europa-vignette.png",
         "category": "Skins",
         "tradable": false
     },
@@ -8085,6 +8480,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/UnlockExcaliburUmbraAgile",
+        "name": "Excalibur Umbra Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "excalibur-umbra-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Umbra/UmbraHelmet",
         "name": "Excalibur Umbra Helmet",
         "excludeFromCodex": true,
@@ -8095,6 +8499,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburUmbraNobleAnims",
+        "name": "Excalibur Umbra Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "excalibur-umbra-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/UnlockExcaliburUmbraNoble",
         "name": "Excalibur Umbra Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -8155,6 +8568,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/UnlockExcaliburDeluxeAgile",
+        "name": "Excalibur Zato Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "excalibur-zato-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburDeluxeHelmet",
         "name": "Excalibur Zato Helmet",
         "type": "Skin",
@@ -8164,6 +8586,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburDeluxeNobleAnims",
+        "name": "Excalibur Zato Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "excalibur-zato-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/UnlockExcaliburDeluxeNoble",
         "name": "Excalibur Zato Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -8639,6 +9070,24 @@
         "name": "Forest Grey",
         "type": "Fur Color",
         "imageName": "forest-grey.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/FortunaBackground",
+        "name": "Fortuna Background",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "fortuna-background.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/FortunaStyle",
+        "name": "Fortuna Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "fortuna-theme.png",
         "category": "Skins",
         "tradable": false
     },
@@ -9279,7 +9728,25 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/NotePacks/BardCorpusPackC",
+        "name": "Gamma Instruments",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "gamma-instruments.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Glass/GlassAgileAnims",
+        "name": "Gara Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "gara-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Glass/UnlockGlassAgile",
         "name": "Gara Agile Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -9314,6 +9781,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Glass/GlassNobleAnims",
+        "name": "Gara Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "gara-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Glass/UnlockGlassNoble",
         "name": "Gara Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -9409,6 +9885,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Garuda/UnlockGarudaAgile",
+        "name": "Garuda Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "garuda-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaAltHelmet",
         "name": "Garuda Bathory Helmet",
         "buildPrice": 20000,
@@ -9458,6 +9943,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Garuda/GarudaNobleAnims",
+        "name": "Garuda Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "garuda-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Garuda/UnlockGarudaNoble",
         "name": "Garuda Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -9548,6 +10042,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Runner/UnlockRunnerAgile",
+        "name": "Gauss Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "gauss-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Runner/SWGaussAgitoHelmet",
         "name": "Gauss Agito Helmet",
         "type": "Skin",
@@ -9603,6 +10106,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Runner/RunnerNobleAnims",
+        "name": "Gauss Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "gauss-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Runner/UnlockRunnerNoble",
         "name": "Gauss Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -9806,6 +10318,15 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "glaives-standard-holster.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/HolsterCustomizations/GlaiveUpperBack",
+        "name": "Glaives Upper Back Holster",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "glaives-upper-back-holster.png",
         "category": "Skins",
         "tradable": false
     },
@@ -10328,6 +10849,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Devourer/UnlockDevourerAgile",
+        "name": "Grendel Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "grendel-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Devourer/DevourerAltHelmet",
         "name": "Grendel Glutt Helmet",
         "buildPrice": 20000,
@@ -10351,6 +10881,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Devourer/DevourerNobleAnims",
+        "name": "Grendel Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "grendel-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Devourer/UnlockDevourerNoble",
         "name": "Grendel Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -10403,11 +10942,29 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/GrineerBackground",
+        "name": "Grineer Background",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "grineer-background.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/Game/QuartersWallpapers/GrineerWallpaper",
         "name": "Grineer Fury Stencil",
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "grineer-fury-stencil.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/PoseSets/GrineerGunPoseSet",
+        "name": "Grineer Gun Pose Set",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "grineer-gun-pose-set.png",
         "category": "Skins",
         "tradable": false
     },
@@ -10420,11 +10977,29 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/PoseSets/GrineerReactPoseSet",
+        "name": "Grineer Reaction Pose Set",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "grineer-reaction-pose-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/KubrowToyC",
         "name": "Grineer Tech Pet Toy",
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "grineer-tech-pet-toy.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/GrineerStyle",
+        "name": "Grineer Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "grineer-theme.png",
         "category": "Skins",
         "tradable": false
     },
@@ -11063,7 +11638,48 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/HoodZephyrDeluxe",
+        "name": "Harrier Hood",
+        "type": "Skin",
+        "imageName": "harrier-hood.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Operator/Leggings/LeggingsZephyrDeluxe",
+        "name": "Harrier Legs",
+        "type": "Skin",
+        "imageName": "harrier-legs.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Operator/Sleeves/SleevesZephyrDeluxe",
+        "name": "Harrier Sleeves",
+        "type": "Skin",
+        "imageName": "harrier-sleeves.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitZephyrDeluxe",
+        "name": "Harrier Suit",
+        "type": "Skin",
+        "imageName": "harrier-suit.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Priest/PriestAgileAnims",
+        "name": "Harrow Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "harrow-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Priest/UnlockPriestAgile",
         "name": "Harrow Agile Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -11106,6 +11722,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Priest/PriestNobleAnims",
+        "name": "Harrow Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "harrow-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Priest/UnlockPriestNoble",
         "name": "Harrow Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -11574,6 +12199,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/ContrastStyle",
+        "name": "High Contrast Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "high-contrast-theme.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/IronFrame/IronFrameAgileAnims",
         "name": "Hildryn Agile Animation Set",
         "excludeFromCodex": true,
@@ -11677,6 +12311,15 @@
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "hood-display-teal-decoration.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/NotePacks/BardEDMPackA",
+        "name": "Horos Instruments",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "horos-instruments.png",
         "category": "Skins",
         "tradable": false
     },
@@ -12576,6 +13219,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Ranger/UnlockRangerAgile",
+        "name": "Ivara Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "ivara-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Archer/SWArcuataHelmet",
         "name": "Ivara Arcuata Helmet",
         "type": "Skin",
@@ -12663,6 +13315,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Ranger/RangerNobleAnims",
+        "name": "Ivara Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "ivara-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Ranger/UnlockRangerNoble",
         "name": "Ivara Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -13280,6 +13941,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Khora/UnlockKhoraAgile",
+        "name": "Khora Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "khora-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Khora/KhoraAltHelmet",
         "name": "Khora Delphi Helmet",
         "buildPrice": 20000,
@@ -13351,6 +14021,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Khora/UnlockKhoraNoble",
+        "name": "Khora Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "khora-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Khora/KhoraSkin",
         "name": "Khora Skin",
         "excludeFromCodex": true,
@@ -13369,6 +14048,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Khora/UnlockKhoraDeluxeAgile",
+        "name": "Khora Urushu Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "khora-urushu-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Khora/KhoraDeluxeHelmet",
         "name": "Khora Urushu Helmet",
         "type": "Skin",
@@ -13378,6 +14066,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Khora/KhoraDeluxeNobleAnims",
+        "name": "Khora Urushu Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "khora-urushu-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Khora/UnlockKhoraDeluxeNoble",
         "name": "Khora Urushu Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -13586,6 +14283,15 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "ki'teer-leg-plates.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/MoaPet/BaroMoaPetSkin",
+        "name": "Ki'Teer Moa Pet Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "ki'teer-moa-pet-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -14094,6 +14800,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/FortressDiorama",
+        "name": "Kuva Fortress Vignette",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "kuva-fortress-vignette.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/KuvaMetaBallOrnament",
         "name": "Kuva Globule",
         "excludeFromCodex": true,
@@ -14479,6 +15194,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/UnlockAlchemistAgile",
+        "name": "Lavos Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "lavos-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/AlchemistAltHelmet",
         "name": "Lavos Cordatus Helmet",
         "buildPrice": 20000,
@@ -14501,6 +15225,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/AlchemistNobleAnims",
+        "name": "Lavos Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "lavos-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Alchemist/UnlockAlchemistNoble",
         "name": "Lavos Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -14594,6 +15327,33 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "left-prisma-edo-shoulder-plates.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/LegacyBackground",
+        "name": "Legacy Background",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "legacy-background.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Sounds/LegacySounds",
+        "name": "Legacy Sounds",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "legacy-sounds.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/LegacyStyle",
+        "name": "Legacy Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "legacy-theme.png",
         "category": "Skins",
         "tradable": false
     },
@@ -14913,6 +15673,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinJade",
+        "name": "Liset Jade Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "liset-jade-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinKotora",
         "name": "Liset Kotara Skin",
         "excludeFromCodex": true,
@@ -14950,6 +15719,15 @@
         "name": "Liset Mithra Skin",
         "type": "Skin",
         "imageName": "liset-mithra-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinObsidian",
+        "name": "Liset Obsidian Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "liset-obsidian-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -15368,6 +16146,22 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiTwitchHelmet",
+        "name": "Loki Verv Helmet",
+        "type": "Skin",
+        "imageName": "loki-verv-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Loki/LokiTwitchSkin",
+        "name": "Loki Verv Skin",
+        "type": "Skin",
+        "imageName": "loki-verv-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Swords/SWAritSkanaSkin",
         "name": "Longsword Arit Skin",
         "type": "Skin",
@@ -15475,6 +16269,15 @@
         "name": "Lotus Sentinel Mask",
         "type": "Skin",
         "imageName": "lotus-sentinel-mask.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/LotusStyle",
+        "name": "Lotus Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "lotus-theme.png",
         "category": "Skins",
         "tradable": false
     },
@@ -15716,6 +16519,15 @@
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "lua-planter.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/OrokinMoonDiorama",
+        "name": "Lua Vignette",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "lua-vignette.png",
         "category": "Skins",
         "tradable": false
     },
@@ -16622,6 +17434,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/SettlementDiorama",
+        "name": "Mars Vignette",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mars-vignette.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerMarshlandsItemA",
         "name": "Marshlands",
         "excludeFromCodex": true,
@@ -17500,6 +18321,150 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseGreyA",
+        "name": "Mousegreya",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mousegreya.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseGreyB",
+        "name": "Mousegreyb",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mousegreyb.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseGreyC",
+        "name": "Mousegreyc",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mousegreyc.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseGreyD",
+        "name": "Mousegreyd",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mousegreyd.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseGreyE",
+        "name": "Mousegreye",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mousegreye.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseGreyF",
+        "name": "Mousegreyf",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mousegreyf.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseGreyG",
+        "name": "Mousegreyg",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mousegreyg.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineA",
+        "name": "Mouselinea",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mouselinea.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineB",
+        "name": "Mouselineb",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mouselineb.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineC",
+        "name": "Mouselinec",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mouselinec.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineD",
+        "name": "Mouselined",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mouselined.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineE",
+        "name": "Mouselinee",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mouselinee.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineF",
+        "name": "Mouselinef",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mouselinef.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineG",
+        "name": "Mouselineg",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mouselineg.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineH",
+        "name": "Mouselineh",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mouselineh.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineI",
+        "name": "Mouselinei",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "mouselinei.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TnGuandaoScarf",
         "name": "Mozi Syandana",
         "type": "Skin",
@@ -17678,6 +18643,33 @@
         "name": "Narvarr Prime Shoulder Plates",
         "type": "Skin",
         "imageName": "narvarr-prime-shoulder-plates.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/TnEmpyreanSocketMask",
+        "name": "Nautilus Sentinel Mask",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "nautilus-sentinel-mask.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Tails/TnEmpyreanSocketTail",
+        "name": "Nautilus Sentinel Tail",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "nautilus-sentinel-tail.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Wings/TnEmpyreanSocketWings",
+        "name": "Nautilus Sentinel Wings",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "nautilus-sentinel-wings.png",
         "category": "Skins",
         "tradable": false
     },
@@ -18089,6 +19081,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Nezha/UnlockNezhaAgile",
+        "name": "Nezha Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "nezha-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Nezha/NezhaAltHelmet",
         "name": "Nezha Circa Helmet",
         "buildPrice": 20000,
@@ -18181,6 +19182,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Nezha/UnlockNezhaNoble",
+        "name": "Nezha Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "nezha-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/TarotCardNezha",
         "name": "Nezha Prex",
         "excludeFromCodex": true,
@@ -18265,10 +19275,27 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Infestation/UnlockInfestationAgile",
+        "name": "Nidus Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "nidus-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Infestation/InfestationHelmet",
         "name": "Nidus Helmet",
         "type": "Skin",
         "imageName": "nidus-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Infestation/NidusAlternateSkin",
+        "name": "Nidus Immortal Skin",
+        "type": "Skin",
+        "imageName": "nidus-immortal-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -18311,6 +19338,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Infestation/UnlockInfestationNoble",
+        "name": "Nidus Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "nidus-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Infestation/NidusDeluxeHelmet",
         "name": "Nidus Phryke Helmet",
         "type": "Skin",
@@ -18345,6 +19381,15 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "nidus-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/NidusStyle",
+        "name": "Nidus Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "nidus-theme.png",
         "category": "Skins",
         "tradable": false
     },
@@ -18921,6 +19966,14 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Items/ShipDecos/ExcaliburJadeBobbleHead",
+        "name": "Noggle Statue - Excalibur Jade",
+        "type": "Ship Decoration",
+        "imageName": "noggle-statue---excalibur-jade.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/ExcaliburObsidianBobbleHead",
         "name": "Noggle Statue - Excalibur Obsidian",
         "type": "Ship Decoration",
@@ -19191,14 +20244,6 @@
         "name": "Noggle Statue - Jad Teran",
         "type": "Ship Decoration",
         "imageName": "noggle-statue---jad-teran.png",
-        "category": "Skins",
-        "tradable": false
-    },
-    {
-        "uniqueName": "/Lotus/Types/Items/ShipDecos/ExcaliburJadeBobbleHead",
-        "name": "Noggle Statue - Jade Excalibur",
-        "type": "Ship Decoration",
-        "imageName": "noggle-statue---jade-excalibur.png",
         "category": "Skins",
         "tradable": false
     },
@@ -20919,6 +21964,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Bard/UnlockBardAgile",
+        "name": "Octavia Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "octavia-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Bard/BardAltHelmet",
         "name": "Octavia Cadenza Helmet",
         "buildPrice": 20000,
@@ -20975,6 +22029,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Bard/BardNobleAnims",
+        "name": "Octavia Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "octavia-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Bard/UnlockBardNoble",
         "name": "Octavia Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -21225,6 +22288,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/PoseSets/ArachnoidCamperPoseSet",
+        "name": "Orb Pose Set",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "orb-pose-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Clan/ConservationBadgeItem",
         "name": "Orb Vallis Conservation Emblem",
         "type": "Skin",
@@ -21341,6 +22413,15 @@
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "orokin-tea-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/OrokinStyle",
+        "name": "Orokin Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "orokin-theme.png",
         "category": "Skins",
         "tradable": false
     },
@@ -22124,6 +23205,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/EidolonADiorama",
+        "name": "Plains Of Eidolon Vignette",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "plains-of-eidolon-vignette.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/ContainerDecoItemPlastidCarapace",
         "name": "Plastid Carapace Decoration",
         "excludeFromCodex": true,
@@ -22160,6 +23250,15 @@
         "consumeOnBuild": true,
         "type": "Skin",
         "imageName": "plinx-shock-camo-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/NotePacks/BardGrineerPackB",
+        "name": "Plogg Instruments",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "plogg-instruments.png",
         "category": "Skins",
         "tradable": false
     },
@@ -22319,6 +23418,15 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "porta-shoulder-plate.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerTwitchItemC",
+        "name": "Potentia",
+        "excludeFromCodex": true,
+        "type": "Color Palette",
+        "imageName": "potentia.png",
         "category": "Skins",
         "tradable": false
     },
@@ -22664,6 +23772,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Odalisk/UnlockOdaliskAgile",
+        "name": "Protea Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "protea-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Odalisk/OdaliskHelmet",
         "name": "Protea Helmet",
         "excludeFromCodex": true,
@@ -22687,6 +23804,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Odalisk/OdaliskNobleAnims",
+        "name": "Protea Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "protea-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Odalisk/UnlockOdaliskNoble",
         "name": "Protea Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -23257,6 +24383,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Revenant/UnlockRevenantAgile",
+        "name": "Revenant Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "revenant-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Revenant/RevenantHelmet",
         "name": "Revenant Helmet",
         "excludeFromCodex": true,
@@ -23275,6 +24410,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Revenant/RevenantNobleAnims",
+        "name": "Revenant Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "revenant-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Revenant/UnlockRevenantNoble",
         "name": "Revenant Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -23351,6 +24495,24 @@
         "name": "Rhino Brown",
         "type": "Fur Color",
         "imageName": "rhino-brown.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoDexHelmet",
+        "name": "Rhino Dex Helmet",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "rhino-dex-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Rhino/RhinoDexSkin",
+        "name": "Rhino Dex Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "rhino-dex-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -23804,6 +24966,15 @@
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "ropalolyst-articula.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/PoseSets/RopalolystPoseSet",
+        "name": "Ropalolyst Pose Set",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "ropalolyst-pose-set.png",
         "category": "Skins",
         "tradable": false
     },
@@ -25076,6 +26247,33 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/RailJack/HullMaterialsClanA",
+        "name": "Sigma Plating Mk I",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "sigma-plating-mk-i.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/RailJack/HullMaterialsClanB",
+        "name": "Sigma Plating Mk Ii",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "sigma-plating-mk-ii.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/RailJack/HullMaterialsClanC",
+        "name": "Sigma Plating Mk Iii",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "sigma-plating-mk-iii.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/RailJack/DefaultReactor",
         "name": "Sigma Reactor",
         "excludeFromCodex": true,
@@ -26116,6 +27314,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetSkinTwitchPrime",
+        "name": "Spektaka Liset Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "spektaka-liset-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/TwitchPrimeMeleeDangle",
         "name": "Spektaka Prime Sugatra",
         "type": "Skin",
@@ -26302,6 +27509,24 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/StalkerBackground",
+        "name": "Stalker Background",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "stalker-background.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/StalkerStyle",
+        "name": "Stalker Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "stalker-theme.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/Game/KubrowPet/Colors/KubrowPetColorMidDiamond",
         "name": "Star White",
         "excludeFromCodex": true,
@@ -26366,6 +27591,14 @@
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "steel-meridian-stencil.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Scarves/AmazonOniSyandana",
+        "name": "Stezia Sumbha Syandana",
+        "type": "Skin",
+        "imageName": "stezia-sumbha-syandana.png",
         "category": "Skins",
         "tradable": false
     },
@@ -27081,6 +28314,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/PoseSets/WarframeGunPoseSet",
+        "name": "Tenno Gun Pose Set",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "tenno-gun-pose-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerDefaultsItemB",
         "name": "Tenno Ii",
         "type": "Color Palette",
@@ -27109,6 +28351,15 @@
         "name": "Tenno Red",
         "type": "Fur Color",
         "imageName": "tenno-red.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/TennoStyle",
+        "name": "Tenno Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "tenno-theme.png",
         "category": "Skins",
         "tradable": false
     },
@@ -27213,6 +28464,51 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Items/Emotes/Tennocon2021Emote",
+        "name": "Tennocon 2021",
+        "excludeFromCodex": true,
+        "type": "Emotes",
+        "imageName": "tennocon-2021.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/TennoCon2021Armor/TennoCon2021CArmor",
+        "name": "Tennocon 2021 Chest Plate",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "tennocon-2021-chest-plate.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Effects/TennoCon2021Ephemera",
+        "name": "Tennocon 2021 Ephemera",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "tennocon-2021-ephemera.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/TennoCon2021Armor/TennoCon2021LArmor",
+        "name": "Tennocon 2021 Leg Plates",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "tennocon-2021-leg-plates.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/TennoCon2021Armor/TennoCon2021AArmor",
+        "name": "Tennocon 2021 Shoulder Plates",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "tennocon-2021-shoulder-plates.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Clan/TennoCon2016BadgeItem",
         "name": "Tennocon Emblem",
         "type": "Skin",
@@ -27259,6 +28555,15 @@
         "name": "Teplo Syandana",
         "type": "Skin",
         "imageName": "teplo-syandana.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/PoseSets/TeralystPoseSet",
+        "name": "Teralyst Pose Set",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "teralyst-pose-set.png",
         "category": "Skins",
         "tradable": false
     },
@@ -28019,6 +29324,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Fairy/UnlockFairyAgile",
+        "name": "Titania Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "titania-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Fairy/FairyAltHelmet",
         "name": "Titania Aurai Helmet",
         "buildPrice": 20000,
@@ -28087,6 +29401,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Fairy/FairyNobleAnims",
+        "name": "Titania Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "titania-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Fairy/UnlockFairyNoble",
         "name": "Titania Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -29934,6 +31257,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/VenusADiorama",
+        "name": "Venus Vignette",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "venus-vignette.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Khora/KhoraDeluxeWhipBladeSkin",
         "name": "Veratria Blade And Whip Skin",
         "type": "Skin",
@@ -29971,6 +31303,23 @@
         "name": "Verta Warfan Skin",
         "type": "Skin",
         "imageName": "verta-warfan-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Scarves/Twitch2021Syandana",
+        "name": "Verv Atelia Syandana",
+        "type": "Skin",
+        "imageName": "verv-atelia-syandana.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Redeemer/RedeemerTwitchSkin",
+        "name": "Verv Redeemer Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "verv-redeemer-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -30190,6 +31539,33 @@
         "consumeOnBuild": true,
         "type": "Ship Decoration",
         "imageName": "vitreospina-trophy.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/HelminthBackground",
+        "name": "Vitruvian Background",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "vitruvian-background.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Sounds/HelminthSounds",
+        "name": "Vitruvian Sounds",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "vitruvian-sounds.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/HelminthStyle",
+        "name": "Vitruvian Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "vitruvian-theme.png",
         "category": "Skins",
         "tradable": false
     },
@@ -30849,6 +32225,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Wisp/UnlockWispAgile",
+        "name": "Wisp Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "wisp-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Wisp/WispAgileAnims",
         "name": "Wisp Agile Animation Set",
         "type": "Skin",
@@ -30914,6 +32299,15 @@
         "name": "Wisp Helmet",
         "type": "Skin",
         "imageName": "wisp-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Wisp/UnlockWispNoble",
+        "name": "Wisp Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "wisp-noble-animation-set.png",
         "category": "Skins",
         "tradable": false
     },
@@ -31012,6 +32406,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/MonkeyKing/UnlockMonkeyKingAgile",
+        "name": "Wukong Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "wukong-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/MonkeyKing/SWAumanHelmet",
         "name": "Wukong Auman Helmet",
         "type": "Skin",
@@ -31098,6 +32501,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/MonkeyKing/MonkeyKingNobleAnims",
+        "name": "Wukong Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "wukong-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/MonkeyKing/UnlockMonkeyKingNoble",
         "name": "Wukong Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -31254,6 +32666,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/UnlockBrokenFrameAgile",
+        "name": "Xaku Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "xaku-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/BrokenFrameHelmet",
         "name": "Xaku Helmet",
         "excludeFromCodex": true,
@@ -31277,6 +32698,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/BrokenFrameNobleAnims",
+        "name": "Xaku Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "xaku-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/BrokenFrame/UnlockBrokenFrameNoble",
         "name": "Xaku Noble Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
@@ -31444,6 +32874,24 @@
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "yooka-floof.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageYouTubeCorpusA",
+        "name": "Youtube Crewman Head",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "youtube-crewman-head.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageYouTubeCorpusB",
+        "name": "Youtube Crewman Head Color",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "youtube-crewman-head-color.png",
         "category": "Skins",
         "tradable": false
     },
@@ -31773,6 +33221,76 @@
         "name": "Zephyr Hagoromo Skin",
         "type": "Skin",
         "imageName": "zephyr-hagoromo-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Tengu/TenguDeluxeAgileAnims",
+        "name": "Zephyr Harrier Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "zephyr-harrier-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/ZephyrDeluxeBackground",
+        "name": "Zephyr Harrier Background",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "zephyr-harrier-background.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Tengu/ZephyrDeluxeHelmet",
+        "name": "Zephyr Harrier Helmet",
+        "type": "Skin",
+        "imageName": "zephyr-harrier-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Tengu/TenguDeluxeNobleAnims",
+        "name": "Zephyr Harrier Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "zephyr-harrier-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Tengu/UnlockTenguDeluxeNoble",
+        "name": "Zephyr Harrier Noble Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "zephyr-harrier-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Tengu/ZephyrDeluxeSkin",
+        "name": "Zephyr Harrier Skin",
+        "type": "Skin",
+        "imageName": "zephyr-harrier-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Sounds/ZephyrDeluxeSounds",
+        "name": "Zephyr Harrier Sounds",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "zephyr-harrier-sounds.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Interface/Graphics/CustomUI/ZephyrDeluxeStyle",
+        "name": "Zephyr Harrier Theme",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "zephyr-harrier-theme.png",
         "category": "Skins",
         "tradable": false
     },

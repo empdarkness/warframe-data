@@ -228,7 +228,7 @@
     },
     "/Lotus/Types/Items/MiscItems/AlloyPlate": {
         "name": "Alloy Plate",
-        "itemCount": 10,
+        "itemCount": 1000,
         "type": "Misc",
         "imageName": "alloy-plate.png",
         "category": "Misc",
@@ -822,7 +822,7 @@
     },
     "/Lotus/Types/Items/MiscItems/Eidolonium": {
         "name": "Breath Of The Eidolon",
-        "itemCount": 30,
+        "itemCount": 10,
         "type": "Misc",
         "imageName": "breath-of-the-eidolon.png",
         "category": "Misc",
@@ -937,6 +937,54 @@
         "category": "Misc",
         "tradable": false
     },
+    "/Lotus/Upgrades/Mods/FusionBundles/CetusTierAEndoCommon": {
+        "fusionPoints": 15,
+        "type": "Misc",
+        "name": "Cetustieraendocommon",
+        "imageName": "cetustieraendocommon.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/CetusTierAEndoUncommon": {
+        "fusionPoints": 50,
+        "type": "Misc",
+        "name": "Cetustieraendouncommon",
+        "imageName": "cetustieraendouncommon.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/CetusTierBEndoCommon": {
+        "fusionPoints": 15,
+        "type": "Misc",
+        "name": "Cetustierbendocommon",
+        "imageName": "cetustierbendocommon.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/CetusTierBEndoUncommon": {
+        "fusionPoints": 50,
+        "type": "Misc",
+        "name": "Cetustierbendouncommon",
+        "imageName": "cetustierbendouncommon.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/CetusTierCEndoUncommon": {
+        "fusionPoints": 50,
+        "type": "Misc",
+        "name": "Cetustiercendouncommon",
+        "imageName": "cetustiercendouncommon.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/CetusTierDEndoUncommon": {
+        "fusionPoints": 50,
+        "type": "Misc",
+        "name": "Cetustierdendouncommon",
+        "imageName": "cetustierdendouncommon.png",
+        "category": "Misc",
+        "tradable": false
+    },
     "/Lotus/Types/Items/MiscItems/PhotoboothTileSyndicateCephalonLotusThrone": {
         "name": "Chamber Of The Lotus Scene",
         "type": "Misc",
@@ -946,7 +994,7 @@
     },
     "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishSaganModuleItem": {
         "name": "Charamote Sagan Module",
-        "itemCount": 15,
+        "itemCount": 5,
         "type": "Fish Part",
         "imageName": "charamote-sagan-module.png",
         "category": "Misc",
@@ -1302,6 +1350,22 @@
         "category": "Misc",
         "tradable": false
     },
+    "/Lotus/Upgrades/Mods/FusionBundles/CrewShipFusionBundles/DeepSpaceCommonAvionicsEndo": {
+        "fusionPoints": 150,
+        "type": "Misc",
+        "name": "Deepspacecommonavionicsendo",
+        "imageName": "deepspacecommonavionicsendo.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/CrewShipFusionBundles/DeepSpaceUncommonAvionicsEndo": {
+        "fusionPoints": 300,
+        "type": "Misc",
+        "name": "Deepspaceuncommonavionicsendo",
+        "imageName": "deepspaceuncommonavionicsendo.png",
+        "category": "Misc",
+        "tradable": false
+    },
     "/Lotus/Types/Items/SyndicateDogTags/SteelMeridianUncommonDogTag": {
         "name": "Defender Insignia",
         "type": "Medallion",
@@ -1367,6 +1431,13 @@
         "category": "Misc",
         "tradable": false
     },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosCenote": {
+        "name": "Deimos Cenote Scene",
+        "type": "Misc",
+        "imageName": "deimos-cenote-scene.png",
+        "category": "Misc",
+        "tradable": false
+    },
     "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosTomb": {
         "name": "Deimos Chamber Scene",
         "excludeFromCodex": true,
@@ -1375,11 +1446,47 @@
         "category": "Misc",
         "tradable": false
     },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosBurialChamber": {
+        "name": "Deimos Crypt Scene",
+        "type": "Misc",
+        "imageName": "deimos-crypt-scene.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosCalamity": {
+        "name": "Deimos Depths Scene",
+        "type": "Misc",
+        "imageName": "deimos-depths-scene.png",
+        "category": "Misc",
+        "tradable": false
+    },
     "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosDownfall": {
         "name": "Deimos Downfall Scene",
         "excludeFromCodex": true,
         "type": "Misc",
         "imageName": "deimos-downfall-scene.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosForsaken": {
+        "name": "Deimos Forsaken Scene",
+        "type": "Misc",
+        "imageName": "deimos-forsaken-scene.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosHeart": {
+        "name": "Deimos Heart Scene",
+        "excludeFromCodex": true,
+        "type": "Misc",
+        "imageName": "deimos-heart-scene.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosSchism": {
+        "name": "Deimos Membrane Scene",
+        "type": "Misc",
+        "imageName": "deimos-membrane-scene.png",
         "category": "Misc",
         "tradable": false
     },
@@ -1412,6 +1519,13 @@
         "excludeFromCodex": true,
         "type": "Misc",
         "imageName": "deimos-vault-scene.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosSpawn": {
+        "name": "Deimos Verge Scene",
+        "type": "Misc",
+        "imageName": "deimos-verge-scene.png",
         "category": "Misc",
         "tradable": false
     },
@@ -1645,7 +1759,7 @@
         "slamAttack": 50,
         "slamRadialDamage": 50,
         "slamRadius": 8,
-        "slideAttack": 100,
+        "slideAttack": 50,
         "heavyAttackDamage": 50,
         "heavySlamAttack": 50,
         "type": "Exalted Weapon",
@@ -1682,7 +1796,7 @@
         "slamAttack": 50,
         "slamRadialDamage": 50,
         "slamRadius": 8,
-        "slideAttack": 100,
+        "slideAttack": 50,
         "heavyAttackDamage": 50,
         "heavySlamAttack": 50,
         "type": "Warframe",
@@ -1742,6 +1856,22 @@
         "excludeFromCodex": true,
         "type": "Ship Segment",
         "imageName": "earth-nav-segment.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/CrewShipFusionBundles/EarthCommonAvionicsEndo": {
+        "fusionPoints": 50,
+        "type": "Misc",
+        "name": "Earthcommonavionicsendo",
+        "imageName": "earthcommonavionicsendo.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/CrewShipFusionBundles/EarthUncommonAvionicsEndo": {
+        "fusionPoints": 100,
+        "type": "Misc",
+        "name": "Earthuncommonavionicsendo",
+        "imageName": "earthuncommonavionicsendo.png",
         "category": "Misc",
         "tradable": false
     },
@@ -2015,8 +2145,8 @@
         "name": "Engine Cowling",
         "excludeFromCodex": true,
         "showInInventory": false,
-        "buildPrice": 15000,
-        "buildTime": 43200,
+        "buildPrice": 10000,
+        "buildTime": 3600,
         "skipBuildTimePrice": 0,
         "buildQuantity": 1,
         "consumeOnBuild": true,
@@ -2322,7 +2452,7 @@
     },
     "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem": {
         "name": "Fish Oil",
-        "itemCount": 10,
+        "itemCount": 30,
         "type": "Fish Part",
         "imageName": "fish-oil.png",
         "category": "Misc",
@@ -2330,7 +2460,7 @@
     },
     "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishScalesItem": {
         "name": "Fish Scales",
-        "itemCount": 30,
+        "itemCount": 20,
         "type": "Fish Part",
         "imageName": "fish-scales.png",
         "category": "Misc",
@@ -2456,8 +2586,8 @@
         "name": "Fuselage",
         "excludeFromCodex": true,
         "showInInventory": false,
-        "buildPrice": 15000,
-        "buildTime": 43200,
+        "buildPrice": 10000,
+        "buildTime": 3600,
         "skipBuildTimePrice": 0,
         "buildQuantity": 1,
         "consumeOnBuild": true,
@@ -2705,7 +2835,7 @@
     },
     "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishBPartItem": {
         "name": "Goopolla Spleen",
-        "itemCount": 10,
+        "itemCount": 5,
         "type": "Fish Part",
         "imageName": "goopolla-spleen.png",
         "category": "Misc",
@@ -3307,7 +3437,7 @@
     },
     "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem": {
         "name": "Karkina Antenna",
-        "itemCount": 5,
+        "itemCount": 3,
         "type": "Fish Part",
         "imageName": "karkina-antenna.png",
         "category": "Misc",
@@ -4039,6 +4169,14 @@
         "category": "Misc",
         "tradable": false
     },
+    "/Lotus/Upgrades/Mods/FusionBundles/CrewShipFusionBundles/MarketTier1CrewShipFusionBundle": {
+        "fusionPoints": 100,
+        "type": "Misc",
+        "name": "Markettier1crewshipfusionbundle",
+        "imageName": "markettier1crewshipfusionbundle.png",
+        "category": "Misc",
+        "tradable": false
+    },
     "/Lotus/Upgrades/Mods/FusionBundles/MarketTier1FusionBundle": {
         "fusionPoints": 100,
         "type": "Misc",
@@ -4047,11 +4185,27 @@
         "category": "Misc",
         "tradable": false
     },
+    "/Lotus/Upgrades/Mods/FusionBundles/CrewShipFusionBundles/MarketTier2CrewShipFusionBundle": {
+        "fusionPoints": 400,
+        "type": "Misc",
+        "name": "Markettier2crewshipfusionbundle",
+        "imageName": "markettier2crewshipfusionbundle.png",
+        "category": "Misc",
+        "tradable": false
+    },
     "/Lotus/Upgrades/Mods/FusionBundles/MarketTier2FusionBundle": {
         "fusionPoints": 400,
         "type": "Misc",
         "name": "Markettier2fusionbundle",
         "imageName": "markettier2fusionbundle.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/CrewShipFusionBundles/MarketTier3CrewShipFusionBundle": {
+        "fusionPoints": 1000,
+        "type": "Misc",
+        "name": "Markettier3crewshipfusionbundle",
+        "imageName": "markettier3crewshipfusionbundle.png",
         "category": "Misc",
         "tradable": false
     },
@@ -4474,7 +4628,7 @@
     },
     "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishAPartItem": {
         "name": "Norg Brain",
-        "itemCount": 5,
+        "itemCount": 3,
         "type": "Fish Part",
         "imageName": "norg-brain.png",
         "category": "Misc",
@@ -5072,8 +5226,8 @@
         "name": "Port Nacelle",
         "excludeFromCodex": true,
         "showInInventory": false,
-        "buildPrice": 15000,
-        "buildTime": 43200,
+        "buildPrice": 10000,
+        "buildTime": 3600,
         "skipBuildTimePrice": 0,
         "buildQuantity": 1,
         "consumeOnBuild": true,
@@ -5088,6 +5242,25 @@
         "showInInventory": false,
         "type": "Ship Segment",
         "imageName": "port-nacelle-repairs.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Types/Ship/VoidTraderResourceDrone": {
+        "name": "Prisma Niroda Extractor",
+        "binCount": 1,
+        "binCapacity": 1,
+        "fillRate": 8,
+        "durability": 200,
+        "repairRate": 20,
+        "capacityMultiplier": [
+            8,
+            6,
+            4,
+            1
+        ],
+        "specialities": [],
+        "type": "Extractor",
+        "imageName": "prisma-niroda-extractor.png",
         "category": "Misc",
         "tradable": false
     },
@@ -5121,8 +5294,8 @@
         "name": "Propulsion Systems",
         "excludeFromCodex": true,
         "showInInventory": false,
-        "buildPrice": 15000,
-        "buildTime": 43200,
+        "buildPrice": 10000,
+        "buildTime": 3600,
         "skipBuildTimePrice": 0,
         "buildQuantity": 1,
         "consumeOnBuild": true,
@@ -5238,11 +5411,84 @@
         "category": "Misc",
         "tradable": false
     },
+    "/Lotus/Types/Game/CrewShip/Ships/RailJack": {
+        "name": "Railjack",
+        "excludeFromCodex": true,
+        "showInInventory": false,
+        "type": "Orbiter",
+        "imageName": "railjack.png",
+        "category": "Misc",
+        "tradable": false
+    },
     "/Lotus/Types/Items/ShipFeatureItems/RailjackCephalonShipFeatureItem": {
         "name": "Railjack Cephalon",
         "showInInventory": false,
         "type": "Ship Segment",
         "imageName": "railjack-cephalon.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/RailjackEndoTierALarge": {
+        "fusionPoints": 150,
+        "type": "Misc",
+        "name": "Railjackendotieralarge",
+        "imageName": "railjackendotieralarge.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/RailjackEndoTierASmall": {
+        "fusionPoints": 100,
+        "type": "Misc",
+        "name": "Railjackendotierasmall",
+        "imageName": "railjackendotierasmall.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/RailjackEndoTierBLarge": {
+        "fusionPoints": 300,
+        "type": "Misc",
+        "name": "Railjackendotierblarge",
+        "imageName": "railjackendotierblarge.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/RailjackEndoTierBSmall": {
+        "fusionPoints": 200,
+        "type": "Misc",
+        "name": "Railjackendotierbsmall",
+        "imageName": "railjackendotierbsmall.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/RailjackEndoTierCLarge": {
+        "fusionPoints": 450,
+        "type": "Misc",
+        "name": "Railjackendotierclarge",
+        "imageName": "railjackendotierclarge.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/RailjackEndoTierCSmall": {
+        "fusionPoints": 300,
+        "type": "Misc",
+        "name": "Railjackendotiercsmall",
+        "imageName": "railjackendotiercsmall.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/RailjackEndoTierDLarge": {
+        "fusionPoints": 600,
+        "type": "Misc",
+        "name": "Railjackendotierdlarge",
+        "imageName": "railjackendotierdlarge.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/RailjackEndoTierDSmall": {
+        "fusionPoints": 400,
+        "type": "Misc",
+        "name": "Railjackendotierdsmall",
+        "imageName": "railjackendotierdsmall.png",
         "category": "Misc",
         "tradable": false
     },
@@ -5604,6 +5850,22 @@
         "name": "Saturn Six Scene",
         "type": "Misc",
         "imageName": "saturn-six-scene.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/CrewShipFusionBundles/SaturnCommonAvionicsEndo": {
+        "fusionPoints": 100,
+        "type": "Misc",
+        "name": "Saturncommonavionicsendo",
+        "imageName": "saturncommonavionicsendo.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Upgrades/Mods/FusionBundles/CrewShipFusionBundles/SaturnUncommonAvionicsEndo": {
+        "fusionPoints": 200,
+        "type": "Misc",
+        "name": "Saturnuncommonavionicsendo",
+        "imageName": "saturnuncommonavionicsendo.png",
         "category": "Misc",
         "tradable": false
     },
@@ -6116,8 +6378,8 @@
         "name": "Starboard Nacelle",
         "excludeFromCodex": true,
         "showInInventory": false,
-        "buildPrice": 15000,
-        "buildTime": 43200,
+        "buildPrice": 10000,
+        "buildTime": 3600,
         "skipBuildTimePrice": 0,
         "buildQuantity": 1,
         "consumeOnBuild": true,
@@ -6334,8 +6596,8 @@
         "name": "Tail Section",
         "excludeFromCodex": true,
         "showInInventory": false,
-        "buildPrice": 15000,
-        "buildTime": 43200,
+        "buildPrice": 10000,
+        "buildTime": 3600,
         "skipBuildTimePrice": 0,
         "buildQuantity": 1,
         "consumeOnBuild": true,
@@ -6489,6 +6751,25 @@
         "skipBuildTimePrice": 5,
         "buildQuantity": 1,
         "consumeOnBuild": false,
+        "type": "Extractor",
+        "imageName": "titan-extractor.png",
+        "category": "Misc",
+        "tradable": false
+    },
+    "/Lotus/Types/Ship/LandscapeTrapLight": {
+        "name": "Titan Extractor",
+        "binCount": 1,
+        "binCapacity": 20,
+        "fillRate": 0.1,
+        "durability": 100,
+        "repairRate": 0,
+        "capacityMultiplier": [
+            8,
+            4,
+            1,
+            1
+        ],
+        "specialities": [],
         "type": "Extractor",
         "imageName": "titan-extractor.png",
         "category": "Misc",

@@ -100,14 +100,6 @@
         "tradable": false
     },
     {
-        "uniqueName": "/Lotus/Types/Keys/TestKeyErisBoss",
-        "name": "Jordas Golem Assassinate",
-        "type": "Key",
-        "imageName": "jordas-golem-assassinate.png",
-        "category": "Quests",
-        "tradable": false
-    },
-    {
         "uniqueName": "/Lotus/Types/Keys/RevenantQuest/RevenantQuestKeyChain",
         "name": "Mask Of The Revenant",
         "type": "Key",
@@ -123,6 +115,15 @@
         "skipBuildTimePrice": 10,
         "buildQuantity": 1,
         "consumeOnBuild": false,
+        "type": "Key",
+        "imageName": "mutalist-alad-v-assassinate.png",
+        "category": "Quests",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Keys/SortieBossKeyInfestedAladV",
+        "name": "Mutalist Alad V Assassinate",
+        "excludeFromCodex": true,
         "type": "Key",
         "imageName": "mutalist-alad-v-assassinate.png",
         "category": "Quests",

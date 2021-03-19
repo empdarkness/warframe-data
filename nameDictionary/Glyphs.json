@@ -6,6 +6,22 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "[Ph] Mech Event Glyph A": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/MechEventGlyphA",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "ph-mech-event-glyph-a.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "[Ph] Mech Event Glyph B": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/MechEventGlyphB",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "ph-mech-event-glyph-b.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "13angtv Glyph": {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImage13angTV",
         "type": "Glyph",
@@ -87,6 +103,14 @@
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphMashedAladV",
         "type": "Glyph",
         "imageName": "alad-v-mashed-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Alainlove Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAlainLove",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "alainlove-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },
@@ -446,6 +470,14 @@
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphMuckneyE",
         "type": "Glyph",
         "imageName": "blood-lotus-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Bonewidow In Action Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBonewidowAction",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "bonewidow-in-action-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },
@@ -1222,6 +1254,14 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "Elnoraeleo Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageElNoraEleo",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "elnoraeleo-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "Ember Backdraft Glyph": {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageEmberBackdraftDark",
         "type": "Glyph",
@@ -1261,6 +1301,14 @@
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageEmovj",
         "type": "Glyph",
         "imageName": "emovj-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Empyreancap Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageEmpyreanCap",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "empyreancap-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },
@@ -1752,6 +1800,14 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "Frostynovaprime Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageFrostyNovaPrime",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "frostynovaprime-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "Frozenbawz Glyph": {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageFrozenbawz",
         "type": "Glyph",
@@ -2180,6 +2236,14 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "Ikedo Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIkedo",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "ikedo-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "In Mah Belly Glyph": {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/Halloween2019GrendelTreat",
         "type": "Glyph",
@@ -2394,6 +2458,14 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "Joriale Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageJoriale",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "joriale-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "Juno Glyph": {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageElCanalDeRow",
         "type": "Glyph",
@@ -2412,6 +2484,14 @@
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageK0yi",
         "type": "Glyph",
         "imageName": "k0yi-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "K1llerbarbie Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKillerBarbie",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "k1llerbarbie-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },
@@ -3853,6 +3933,14 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "Rainbowwaffles Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRainbowWaffles",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "rainbowwaffles-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "Random Surge Glyph": {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRandomSurge",
         "type": "Glyph",
@@ -4035,6 +4123,14 @@
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRoyGaming",
         "type": "Glyph",
         "imageName": "roy-gaming-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Royalprat Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRoyalPrat",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "royalprat-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },
@@ -4727,6 +4823,22 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "Tennocon 2021 Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2021Glyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "tennocon-2021-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Tennoforever Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTennoForever",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "tennoforever-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "Tennogen Glyph": {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTennoGen",
         "type": "Glyph",
@@ -5238,6 +5350,14 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "Voidrig In Action Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageVoidrigAction",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "voidrig-in-action-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "Volkeris Glyph": {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageVolkeris",
         "type": "Glyph",
@@ -5377,6 +5497,14 @@
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImagePartnerMug",
         "type": "Glyph",
         "imageName": "warframe-partner-mug-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Warframe Wiki Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTennoChronicler",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "warframe-wiki-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },
@@ -5720,6 +5848,13 @@
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageZephyrDark",
         "type": "Glyph",
         "imageName": "zephyr-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Zephyr Harrier Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageZephyrDeluxe",
+        "type": "Glyph",
+        "imageName": "zephyr-harrier-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },

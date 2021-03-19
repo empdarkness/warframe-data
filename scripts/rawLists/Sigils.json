@@ -9,6 +9,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/CorpusLichSigil",
+        "name": "[Ph] Corpus Lich Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "ph-corpus-lich-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilDarkSector",
         "name": "[Ph] Dark Sector Event Sigil",
         "excludeFromCodex": true,
@@ -1690,6 +1699,15 @@
         "name": "Tennocon 2020 Sigil",
         "type": "Sigil",
         "imageName": "tennocon-2020-sigil.png",
+        "category": "Sigils",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2021Sigil",
+        "name": "Tennocon 2021 Sigil",
+        "excludeFromCodex": true,
+        "type": "Sigil",
+        "imageName": "tennocon-2021-sigil.png",
         "category": "Sigils",
         "tradable": false
     },

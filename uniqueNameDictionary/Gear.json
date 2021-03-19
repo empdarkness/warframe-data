@@ -13,13 +13,6 @@
         "category": "Gear",
         "tradable": false
     },
-    "/Lotus/Types/Restoratives/Quests/ProteaPolarizerDeployGearItem": {
-        "name": "[Hc] Polarlizer",
-        "type": "Gear",
-        "imageName": "hc-polarlizer.png",
-        "category": "Gear",
-        "tradable": false
-    },
     "/Lotus/Types/Restoratives/Consumable/ExtendedInfestedSyringe": {
         "name": "[Ph] Extended Infested Syringe",
         "type": "Gear",
@@ -90,7 +83,6 @@
     },
     "/Lotus/Types/Restoratives/Consumable/MiningLaserC": {
         "name": "Advanced Nosam Cutter",
-        "itemCount": 1,
         "buildPrice": 3500,
         "buildTime": 3600,
         "skipBuildTimePrice": 10,
@@ -400,11 +392,6 @@
     },
     "/Lotus/Types/Game/SpectreArmies/PlatinumSpectreArmy": {
         "name": "Cosmic Specter Regiment",
-        "buildPrice": 1000000,
-        "buildTime": 86400,
-        "skipBuildTimePrice": 0,
-        "buildQuantity": 1,
-        "consumeOnBuild": false,
         "type": "Specter",
         "imageName": "cosmic-specter-regiment.png",
         "category": "Gear",
@@ -564,11 +551,6 @@
     },
     "/Lotus/Types/Game/SpectreArmies/GoldSpectreArmy": {
         "name": "Force Specter Regiment",
-        "buildPrice": 750000,
-        "buildTime": 86400,
-        "skipBuildTimePrice": 0,
-        "buildQuantity": 1,
-        "consumeOnBuild": false,
         "type": "Specter",
         "imageName": "force-specter-regiment.png",
         "category": "Gear",
@@ -969,6 +951,13 @@
         "category": "Gear",
         "tradable": false
     },
+    "/Lotus/Types/Restoratives/Consumable/CrewmateBall": {
+        "name": "On Call Crew",
+        "type": "Gear",
+        "imageName": "on-call-crew.png",
+        "category": "Gear",
+        "tradable": false
+    },
     "/Lotus/Types/Restoratives/ScenarioBeacon": {
         "name": "Oplink",
         "type": "Gear",
@@ -1045,11 +1034,6 @@
     },
     "/Lotus/Types/Game/SpectreArmies/SilverSpectreArmy": {
         "name": "Phase Specter Regiment",
-        "buildPrice": 500000,
-        "buildTime": 86400,
-        "skipBuildTimePrice": 0,
-        "buildQuantity": 1,
-        "consumeOnBuild": false,
         "type": "Specter",
         "imageName": "phase-specter-regiment.png",
         "category": "Gear",
@@ -1057,7 +1041,6 @@
     },
     "/Lotus/Types/Restoratives/Consumable/InfestedBaitBall": {
         "name": "Pherliac Pods",
-        "itemCount": 1,
         "buildPrice": 7500,
         "buildTime": 28800,
         "skipBuildTimePrice": 10,
@@ -1623,11 +1606,6 @@
     },
     "/Lotus/Types/Game/SpectreArmies/BronzeSpectreArmy": {
         "name": "Vapor Specter Regiment",
-        "buildPrice": 250000,
-        "buildTime": 86400,
-        "skipBuildTimePrice": 0,
-        "buildQuantity": 1,
-        "consumeOnBuild": false,
         "type": "Specter",
         "imageName": "vapor-specter-regiment.png",
         "category": "Gear",

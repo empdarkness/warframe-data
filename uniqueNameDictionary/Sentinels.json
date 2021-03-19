@@ -147,6 +147,23 @@
         "estimatedVaultDate": "2018 12 12",
         "vaulted": true
     },
+    "/Lotus/Types/Sentinels/SentinelPowersuits/EmpyreanSentinelPowerSuit": {
+        "name": "Nautilus",
+        "health": 200,
+        "shield": 100,
+        "armor": 50,
+        "stamina": 8,
+        "power": 100,
+        "buildPrice": 15000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 30,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Sentinel",
+        "imageName": "nautilus.png",
+        "category": "Sentinels",
+        "tradable": false
+    },
     "/Lotus/Types/Sentinels/SentinelPowersuits/RadarPowerSuit": {
         "name": "Oxylus",
         "health": 200,

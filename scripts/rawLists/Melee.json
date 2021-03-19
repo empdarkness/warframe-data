@@ -7395,7 +7395,8 @@
         },
         "stancePolarity": "Unairu",
         "tags": [
-            "Prime"
+            "Prime",
+            "Vaulted"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Tipedo_Prime",
         "disposition": 4,
@@ -7858,7 +7859,7 @@
         "omegaAttenuation": 1.25,
         "blockingAngle": 50,
         "comboDuration": 5,
-        "followThrough": 0.80000001,
+        "followThrough": 0.40000001,
         "range": 3.0999999,
         "slamAttack": 777,
         "slamRadialDamage": 259,

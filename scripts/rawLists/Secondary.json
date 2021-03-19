@@ -954,6 +954,11 @@
         "magazineSize": 24,
         "reloadTime": 2,
         "multishot": 1,
+        "buildPrice": 30000,
+        "buildTime": 86400,
+        "skipBuildTimePrice": 25,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
         "type": "Pistol",
         "imageName": "athodai.png",
         "category": "Secondary",
@@ -1823,7 +1828,7 @@
         "secondary": {
             "crit_chance": 2,
             "crit_mult": 2,
-            "status_chance": 0.3,
+            "status_chance": 0.1,
             "pellet": {
                 "count": 10
             },
@@ -1926,7 +1931,7 @@
             "speed": 1.5,
             "crit_chance": 3,
             "crit_mult": 1.5,
-            "status_chance": 0.4,
+            "status_chance": 0.1,
             "shot_type": "Projectile",
             "shot_speed": null,
             "pellet": {
@@ -2417,7 +2422,7 @@
         },
         "projectile": "Hitscan",
         "secondary": {
-            "speed": 6.77,
+            "speed": 16.28,
             "impact": 32.25,
             "slash": 5.38,
             "puncture": 5.38
@@ -3091,9 +3096,9 @@
             "crit_chance": 30,
             "crit_mult": 2.8,
             "status_chance": 0.2,
-            "impact": 18,
-            "slash": 36,
-            "puncture": 18
+            "impact": 26,
+            "slash": 52,
+            "puncture": 26
         },
         "tags": [
             "Prime"
@@ -3405,11 +3410,11 @@
         "imageName": "quatz.png",
         "category": "Secondary",
         "tradable": false,
-        "ammo": 210,
+        "ammo": 504,
         "damage": "11.0 electricity",
         "damageTypes": {
-            "impact": 7,
-            "slash": 9,
+            "impact": 9,
+            "slash": 7,
             "puncture": 2,
             "electricity": 11
         },
@@ -3635,12 +3640,16 @@
         "secondary": {
             "name": "Burst",
             "speed": 1,
+            "crit_chance": 38,
+            "crit_mult": 3,
+            "status_chance": 0.3,
             "impact": 19.2,
             "slash": 23,
             "puncture": 53.8
         },
         "secondaryArea": {
             "name": "Burst Radial Attack",
+            "status_chance": 26,
             "radius": 300,
             "heat": 480,
             "damage": "480.0 heat"

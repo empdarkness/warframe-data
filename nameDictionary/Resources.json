@@ -126,6 +126,13 @@
         "category": "Resources",
         "tradable": false
     },
+    "Athenaeum": {
+        "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/AthenaeumRailjackItem",
+        "type": "Resource",
+        "imageName": "athenaeum.png",
+        "category": "Resources",
+        "tradable": false
+    },
     "Atmo Systems": {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetBItem",
         "type": "Resource",
@@ -278,7 +285,7 @@
     },
     "Calda Toroid": {
         "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem",
-        "itemCount": 5,
+        "itemCount": 2,
         "type": "Resource",
         "imageName": "calda-toroid.png",
         "category": "Resources",
@@ -313,7 +320,7 @@
     },
     "Cetus Wisp": {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/CetusWispItem",
-        "itemCount": 15,
+        "itemCount": 5,
         "type": "Resource",
         "imageName": "cetus-wisp.png",
         "category": "Resources",
@@ -681,7 +688,6 @@
     },
     "Fresnels": {
         "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/FresnelsRailjackItem",
-        "itemCount": 4,
         "buildPrice": 1000,
         "buildTime": 120,
         "skipBuildTimePrice": 5,
@@ -795,7 +801,7 @@
     },
     "Grokdrul": {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
-        "itemCount": 55,
+        "itemCount": 50,
         "type": "Resource",
         "imageName": "grokdrul.png",
         "category": "Resources",
@@ -843,7 +849,7 @@
     },
     "Hespazym Alloy": {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
-        "itemCount": 30,
+        "itemCount": 50,
         "buildPrice": 1000,
         "buildTime": 60,
         "skipBuildTimePrice": 5,
@@ -871,7 +877,7 @@
     },
     "Iradite": {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
-        "itemCount": 15,
+        "itemCount": 50,
         "type": "Resource",
         "imageName": "iradite.png",
         "category": "Resources",
@@ -954,7 +960,7 @@
     },
     "Maprico": {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
-        "itemCount": 1,
+        "itemCount": 15,
         "type": "Resource",
         "imageName": "maprico.png",
         "category": "Resources",
@@ -1012,7 +1018,7 @@
     },
     "Moonlight Threshcone": {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem",
-        "itemCount": 4,
+        "itemCount": 15,
         "type": "Plant",
         "imageName": "moonlight-threshcone.png",
         "category": "Resources",
@@ -1112,7 +1118,7 @@
     },
     "Nistlepod": {
         "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
-        "itemCount": 70,
+        "itemCount": 15,
         "type": "Resource",
         "imageName": "nistlepod.png",
         "category": "Resources",
@@ -1128,6 +1134,7 @@
     },
     "Nullstones": {
         "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
+        "itemCount": 2,
         "type": "Resource",
         "imageName": "nullstones.png",
         "category": "Resources",
@@ -1443,7 +1450,7 @@
     },
     "Sunlight Threshcone": {
         "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem",
-        "itemCount": 4,
+        "itemCount": 15,
         "type": "Plant",
         "imageName": "sunlight-threshcone.png",
         "category": "Resources",
@@ -1525,6 +1532,14 @@
         "itemCount": 10,
         "type": "Gem",
         "imageName": "tiametrite.png",
+        "category": "Resources",
+        "tradable": false
+    },
+    "Ticor Plate": {
+        "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/ScrapRailjackItem",
+        "excludeFromCodex": true,
+        "type": "Resource",
+        "imageName": "ticor-plate.png",
         "category": "Resources",
         "tradable": false
     },
