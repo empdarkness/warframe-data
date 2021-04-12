@@ -10025,6 +10025,15 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Items/ShipDecos/GarvLatroxPoster",
+        "name": "Garv & Latrox Poster",
+        "excludeFromCodex": true,
+        "type": "Ship Decoration",
+        "imageName": "garv-&-latrox-poster.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Clan/OrokinSabotageBadgeItem",
         "name": "Gate Crash Emblem",
         "type": "Skin",

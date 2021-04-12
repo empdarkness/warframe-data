@@ -120,6 +120,15 @@
             "impact": 50
         },
         "projectile": "Projectile",
+        "secondary": {
+            "name": "Third Attack",
+            "crit_chance": 0,
+            "status_chance": 0.3,
+            "shot_type": "Projectile",
+            "shot_speed": null,
+            "slash": 50
+        },
+        "statusChance": 25,
         "tags": [
             "Tenno"
         ],
@@ -147,6 +156,15 @@
             "impact": 75
         },
         "projectile": "Projectile",
+        "secondary": {
+            "name": "Third Attack",
+            "crit_chance": 0,
+            "status_chance": 0.3,
+            "shot_type": "Projectile",
+            "shot_speed": null,
+            "slash": 75
+        },
+        "statusChance": 25,
         "tags": [
             "Prime",
             "Vaulted"
@@ -545,10 +563,20 @@
         "reloadTime": 2.2,
         "sentinel": true,
         "multishot": 1,
-        "type": "Sentinel",
+        "type": "Rifle",
         "imageName": "verglas.png",
         "category": "Primary",
-        "tradable": false
+        "tradable": false,
+        "damage": "26.0 cold",
+        "damageTypes": {
+            "cold": 26
+        },
+        "projectile": "Discharge",
+        "tags": [
+            "Tenno"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Verglas",
+        "disposition": 4
     },
     "Vulcax": {
         "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/ThermocorMoaWeapon",

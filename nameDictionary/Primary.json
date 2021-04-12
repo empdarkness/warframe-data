@@ -1012,6 +1012,11 @@
         "ammo": 20,
         "areaAttack": {
             "name": "Grenade Detonation",
+            "falloff": {
+                "start": 0,
+                "end": 4,
+                "reduction": 0.5
+            },
             "blast": 350,
             "damage": "350.0 blast"
         },
@@ -1555,6 +1560,15 @@
             "impact": 50
         },
         "projectile": "Projectile",
+        "secondary": {
+            "name": "Third Attack",
+            "crit_chance": 0,
+            "status_chance": 0.3,
+            "shot_type": "Projectile",
+            "shot_speed": null,
+            "slash": 50
+        },
+        "statusChance": 25,
         "tags": [
             "Tenno"
         ],
@@ -1582,6 +1596,15 @@
             "impact": 75
         },
         "projectile": "Projectile",
+        "secondary": {
+            "name": "Third Attack",
+            "crit_chance": 0,
+            "status_chance": 0.3,
+            "shot_type": "Projectile",
+            "shot_speed": null,
+            "slash": 75
+        },
+        "statusChance": 25,
         "tags": [
             "Prime",
             "Vaulted"
@@ -2894,10 +2917,10 @@
         "category": "Primary",
         "tradable": true,
         "ammo": 540,
-        "damage": "31.2",
+        "damage": "31.0",
         "damageTypes": {
-            "impact": 14.1,
-            "slash": 7.8,
+            "impact": 13.95,
+            "slash": 7.75,
             "puncture": 9.3
         },
         "projectile": "Hitscan",
@@ -7288,10 +7311,20 @@
         "reloadTime": 2.2,
         "sentinel": true,
         "multishot": 1,
-        "type": "Sentinel",
+        "type": "Rifle",
         "imageName": "verglas.png",
         "category": "Primary",
-        "tradable": false
+        "tradable": false,
+        "damage": "26.0 cold",
+        "damageTypes": {
+            "cold": 26
+        },
+        "projectile": "Discharge",
+        "tags": [
+            "Tenno"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Verglas",
+        "disposition": 4
     },
     "Vulcax": {
         "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/ThermocorMoaWeapon",

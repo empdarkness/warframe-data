@@ -3537,6 +3537,7 @@
         "ammo": 180,
         "areaAttack": {
             "name": "Semi Radial Attack",
+            "speed": 3.67,
             "falloff": {
                 "start": 0,
                 "end": 1.6,
@@ -3566,6 +3567,7 @@
             "name": "Burst Radial Attack",
             "status_chance": 26,
             "radius": 300,
+            "speed": 1,
             "heat": 480,
             "damage": "480.0 heat"
         },

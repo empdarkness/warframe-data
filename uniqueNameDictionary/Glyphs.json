@@ -3837,6 +3837,14 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMissFwuffy": {
+        "name": "Missfwuffy Glyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "missfwuffy-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageMK3Gaming": {
         "name": "Mk3gaming Glyph",
         "type": "Glyph",
@@ -6996,6 +7004,14 @@
         "name": "Yantzi Glyph",
         "type": "Glyph",
         "imageName": "yantzi-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/ImageEightYearAnniversary": {
+        "name": "Year Eight Anniversary Glyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "year-eight-anniversary-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },
