@@ -1054,6 +1054,22 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "/Lotus/Types/StoreItems/AvatarImages/ImageYouTubeCorpusA": {
+        "name": "Crewman Staredown Glyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "crewman-staredown-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/ImageYouTubeCorpusB": {
+        "name": "Crewman Toon Glyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "crewman-toon-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageCrusader": {
         "name": "Crusader Glyph",
         "type": "Glyph",
@@ -3437,6 +3453,14 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLokiActionTwitch": {
+        "name": "Loki Verv Glyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "loki-verv-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLordSaliak": {
         "name": "Lordsaliak Glyph",
         "type": "Glyph",
@@ -3806,6 +3830,13 @@
         "name": "Mirage Mashed Glyph",
         "type": "Glyph",
         "imageName": "mirage-mashed-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/ImageMirageDeluxe": {
+        "name": "Mirage Oneiro Glyph",
+        "type": "Glyph",
+        "imageName": "mirage-oneiro-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },
@@ -5353,6 +5384,38 @@
         "name": "Serganikari Glyph",
         "type": "Glyph",
         "imageName": "serganikari-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/ImageWraithBright": {
+        "name": "Sevagoth Glyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "sevagoth-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/ImageWraithDark": {
+        "name": "Sevagoth Glyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "sevagoth-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/ImageWraithAltBright": {
+        "name": "Sevagoth Lucifuge Glyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "sevagoth-lucifuge-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/ImageWraithAltDark": {
+        "name": "Sevagoth Lucifuge Glyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "sevagoth-lucifuge-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },

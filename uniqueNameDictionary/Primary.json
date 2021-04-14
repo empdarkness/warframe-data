@@ -1009,7 +1009,7 @@
         "imageName": "carmine-penta.png",
         "category": "Primary",
         "tradable": false,
-        "ammo": 20,
+        "ammo": 40,
         "areaAttack": {
             "name": "Grenade Detonation",
             "falloff": {
@@ -4216,8 +4216,8 @@
         "ammo": 540,
         "areaAttack": {
             "name": "Infested Orb",
-            "crit_chance": null,
-            "crit_mult": null,
+            "crit_chance": 0,
+            "crit_mult": 0,
             "status_chance": 1,
             "shot_type": "Projectile",
             "shot_speed": null,

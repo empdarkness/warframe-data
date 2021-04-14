@@ -204,6 +204,10 @@
         "power": 150,
         "masteryReq": 0,
         "sprintSpeed": 1.1,
+        "exalted": [
+            "/Lotus/Types/Enemies/Orokin/Entrati/EntratiTech/NechroTech/AbilitySword/NechroTechSwordWeapon",
+            "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchLongGun/ThanoTechLongGun"
+        ],
         "buildPrice": 25000,
         "buildTime": 259200,
         "skipBuildTimePrice": 50,
@@ -1715,6 +1719,34 @@
         "estimatedVaultDate": "2017 12 12",
         "vaulted": true
     },
+    "Sevagoth": {
+        "uniqueName": "/Lotus/Powersuits/Wraith/Wraith",
+        "health": 100,
+        "shield": 90,
+        "armor": 110,
+        "stamina": 3,
+        "power": 125,
+        "masteryReq": 0,
+        "sprintSpeed": 0.94999999,
+        "exalted": [
+            "/Lotus/Powersuits/Wraith/ReaperMeleeWeapon"
+        ],
+        "buildPrice": 25000,
+        "buildTime": 259200,
+        "skipBuildTimePrice": 50,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Warframe",
+        "imageName": "sevagoth.png",
+        "category": "Warframes",
+        "tradable": true,
+        "conclave": false,
+        "color": 0,
+        "introduced": "30",
+        "sex": "Male",
+        "sprint": 0.95,
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Sevagoth"
+    },
     "Titania": {
         "uniqueName": "/Lotus/Powersuits/Fairy/Fairy",
         "health": 100,
@@ -1961,7 +1993,8 @@
         "masteryReq": 0,
         "sprintSpeed": 1,
         "exalted": [
-            "/Lotus/Types/Enemies/Orokin/Entrati/EntratiTech/NechroTech/ExaltedArtilleryWeapon"
+            "/Lotus/Types/Enemies/Orokin/Entrati/EntratiTech/NechroTech/ExaltedArtilleryWeapon",
+            "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchLongGun/ThanoTechLongGun"
         ],
         "buildPrice": 25000,
         "buildTime": 259200,

@@ -655,6 +655,12 @@
                 "Endura": 1.4
             }
         },
+        "Epitaph": {
+            "riventype": "Pistol",
+            "variants": {
+                "Epitaph": 0.5
+            }
+        },
         "Ether Daggers": {
             "riventype": "Melee",
             "variants": {
@@ -832,7 +838,8 @@
         "Halikar": {
             "riventype": "Melee",
             "variants": {
-                "Halikar": 1.4400001
+                "Halikar": 1.4400001,
+                "Halikar Wraith": 0.5
             }
         },
         "Harpak": {

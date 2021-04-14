@@ -1424,7 +1424,6 @@
     },
     "Deimos Heart Scene": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosHeart",
-        "excludeFromCodex": true,
         "type": "Misc",
         "imageName": "deimos-heart-scene.png",
         "category": "Misc",
@@ -3264,6 +3263,45 @@
         "imageName": "iron-staff-prime.png",
         "category": "Misc",
         "tradable": false
+    },
+    "Ironbride": {
+        "uniqueName": "/Lotus/Types/Enemies/Orokin/Entrati/EntratiTech/NechroTech/AbilitySword/NechroTechSwordWeapon",
+        "totalDamage": 470,
+        "criticalChance": 0.44999999,
+        "criticalMultiplier": 3,
+        "procChance": 0.10000002,
+        "fireRate": 0.83333337,
+        "masteryReq": 0,
+        "slot": 7,
+        "omegaAttenuation": 0.5,
+        "blockingAngle": 90,
+        "comboDuration": 5,
+        "followThrough": 0.69999999,
+        "range": 3,
+        "slamAttack": 940,
+        "slamRadialDamage": 470,
+        "slamRadius": 10,
+        "slideAttack": 940,
+        "heavyAttackDamage": 2350,
+        "heavySlamAttack": 470,
+        "heavySlamRadialDamage": 470,
+        "heavySlamRadius": 12,
+        "windUp": 0.69999999,
+        "type": "Exalted Weapon",
+        "imageName": "ironbride.png",
+        "category": "Misc",
+        "tradable": false,
+        "damage": "300.0",
+        "damageTypes": {
+            "impact": 45,
+            "slash": 210,
+            "puncture": 45
+        },
+        "tags": [
+            "Entrati"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Ironbride",
+        "disposition": 1
     },
     "Jai": {
         "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Balance/BalanceSpeedI",
@@ -5821,6 +5859,34 @@
         "category": "Misc",
         "tradable": false
     },
+    "Shadow Claws": {
+        "uniqueName": "/Lotus/Powersuits/Wraith/ReaperMeleeWeapon",
+        "totalDamage": 240,
+        "criticalChance": 0.38,
+        "criticalMultiplier": 2.5999999,
+        "procChance": 0.24000001,
+        "fireRate": 1,
+        "masteryReq": 0,
+        "slot": 7,
+        "omegaAttenuation": 0.5,
+        "blockingAngle": 60,
+        "comboDuration": 5,
+        "followThrough": 1,
+        "range": 1.5,
+        "slamAttack": 720,
+        "slamRadialDamage": 240,
+        "slamRadius": 8,
+        "slideAttack": 480,
+        "heavyAttackDamage": 960,
+        "heavySlamAttack": 960,
+        "heavySlamRadialDamage": 960,
+        "heavySlamRadius": 9,
+        "windUp": 0.90000004,
+        "type": "Warframe",
+        "imageName": "shadow-claws.png",
+        "category": "Misc",
+        "tradable": false
+    },
     "Sharrac Teeth": {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",
         "itemCount": 5,
@@ -6428,6 +6494,13 @@
         "imageName": "the-citadel-simulacrum.png",
         "category": "Misc",
         "tradable": false
+    },
+    "The Cold Below Scene": {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileWraithQuestArena",
+        "type": "Misc",
+        "imageName": "the-cold-below-scene.png",
+        "category": "Misc",
+        "tradable": true
     },
     "The War Within Choice Scene": {
         "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileTWWTeshinEnding",

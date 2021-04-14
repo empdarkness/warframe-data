@@ -29,6 +29,13 @@
         "category": "Quests",
         "tradable": false
     },
+    "Call Of The Tempestarii": {
+        "uniqueName": "/Lotus/Types/Keys/WraithQuest/WraithQuestKeyChain",
+        "type": "Key",
+        "imageName": "call-of-the-tempestarii.png",
+        "category": "Quests",
+        "tradable": false
+    },
     "Chains Of Harrow": {
         "uniqueName": "/Lotus/Types/Keys/PriestFrameQuest/PriestQuestKeyChain",
         "type": "Key",

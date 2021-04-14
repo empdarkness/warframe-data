@@ -3017,6 +3017,71 @@
         "disposition": 5
     },
     {
+        "name": "Halikar Wraith",
+        "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrnBoomerang/HalikarWraithWeapon",
+        "totalDamage": 225,
+        "criticalChance": 0.19,
+        "criticalMultiplier": 2.3,
+        "procChance": 0.35000002,
+        "fireRate": 1.1666667,
+        "masteryReq": 13,
+        "slot": 5,
+        "omegaAttenuation": 0.5,
+        "blockingAngle": 55,
+        "comboDuration": 5,
+        "followThrough": 0.69999999,
+        "range": 1.2,
+        "slamAttack": 675,
+        "slamRadialDamage": 225,
+        "slamRadius": 5,
+        "slideAttack": 450,
+        "heavyAttackDamage": 225,
+        "heavySlamAttack": 900,
+        "heavySlamRadialDamage": 900,
+        "heavySlamRadius": 6,
+        "windUp": 0.60000002,
+        "type": "Glaive",
+        "imageName": "halikar-wraith.png",
+        "category": "Melee",
+        "tradable": true,
+        "areaAttack": {
+            "name": "Throw Explosion",
+            "crit_chance": 21,
+            "crit_mult": 2.3,
+            "status_chance": 0.4,
+            "falloff": {
+                "start": 0,
+                "end": 5.1,
+                "reduction": 0
+            },
+            "blast": 1242,
+            "damage": "1242.0 blast"
+        },
+        "channeling": 1.5,
+        "damage": "225.0",
+        "damageTypes": {
+            "impact": 22.5,
+            "slash": 22.5,
+            "puncture": 180
+        },
+        "projectile": "Thrown",
+        "secondaryArea": {
+            "name": "Charged Throw Explosion",
+            "status_chance": 41,
+            "radius": 510,
+            "blast": 1314,
+            "damage": "1314.0 blast"
+        },
+        "stancePolarity": "Naramon",
+        "tags": [
+            "Grineer",
+            "Wraith",
+            "Baro"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Halikar_Wraith",
+        "disposition": 1
+    },
+    {
         "name": "Hate",
         "uniqueName": "/Lotus/Weapons/Tenno/Melee/Scythe/StalkerScytheWeapon",
         "totalDamage": 230,
