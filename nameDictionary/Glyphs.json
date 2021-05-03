@@ -4438,6 +4438,14 @@
         "category": "Glyphs",
         "tradable": false
     },
+    "Sevagoth In Action Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAction",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "sevagoth-in-action-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
     "Sevagoth Lucifuge Glyph": {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageWraithAltDark",
         "excludeFromCodex": true,
@@ -4883,6 +4891,14 @@
         "excludeFromCodex": true,
         "type": "Glyph",
         "imageName": "tennocon-2021-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    "Tennocon 2021 Merch Glyph": {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2021MerchGlyph",
+        "excludeFromCodex": true,
+        "type": "Glyph",
+        "imageName": "tennocon-2021-merch-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },

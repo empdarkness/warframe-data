@@ -1244,15 +1244,6 @@
         "category": "Primary",
         "tradable": false,
         "ammo": 132,
-        "areaAttack": {
-            "name": "Air Burst Projectile",
-            "crit_chance": 4,
-            "crit_mult": 1.6,
-            "status_chance": 0.3,
-            "shot_type": "Projectile",
-            "shot_speed": null,
-            "impact": 100
-        },
         "damage": "540.0",
         "damageTypes": {
             "impact": 151.2,
@@ -1261,6 +1252,15 @@
         },
         "marketCost": 240,
         "projectile": "Hitscan",
+        "secondary": {
+            "name": "Air Burst Projectile",
+            "crit_chance": 4,
+            "crit_mult": 1.6,
+            "status_chance": 0.3,
+            "shot_type": "Projectile",
+            "shot_speed": null,
+            "impact": 100
+        },
         "secondaryArea": {
             "name": "Air Burst Explosion",
             "status_chance": 28,
@@ -1356,30 +1356,35 @@
         "imageName": "cortege.png",
         "category": "Primary",
         "tradable": false,
-        "areaAttack": {
-            "name": "Radial Attack",
-            "speed": 0.25,
-            "crit_chance": 30,
-            "crit_mult": 2.4,
-            "status_chance": 0.2,
-            "pellet": {
-                "name": "Grenade",
-                "count": 3
-            },
-            "falloff": {
-                "start": 0,
-                "end": 4,
-                "reduction": 0.3
-            },
-            "blast": 3000,
-            "damage": "3000.0 blast"
-        },
         "damage": "90.0 heat",
         "damageTypes": {
             "heat": 90
         },
         "projectile": "Discharge",
-        "statusChance": 16.7,
+        "secondary": {
+            "name": "Grenade Impact",
+            "speed": 0.25,
+            "crit_chance": 30,
+            "crit_mult": 2.4,
+            "status_chance": 0.2,
+            "pellet": {
+                "count": 3,
+                "name": "Grenade"
+            },
+            "impact": 30
+        },
+        "secondaryArea": {
+            "name": "Radial Attack",
+            "status_chance": 16.7,
+            "radius": 400,
+            "speed": 0.25,
+            "pellet": {
+                "name": "Grenade",
+                "count": 3
+            },
+            "blast": 3000,
+            "damage": "3000.0 blast"
+        },
         "tags": [
             "Entrati"
         ],
@@ -2050,7 +2055,8 @@
         "marketCost": 210,
         "projectile": "Projectile",
         "tags": [
-            "Tenno"
+            "Tenno",
+            "Corpus"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Fluctus",
         "disposition": 3
@@ -3119,27 +3125,24 @@
         },
         "projectile": "Projectile",
         "secondary": {
-            "name": "Cluster Bomb Explosion",
+            "name": "Cluster Bomb Contact",
+            "crit_chance": 35,
+            "crit_mult": 2.1,
+            "status_chance": 0.2,
             "pellet": {
                 "count": 3,
                 "name": "Bomblet"
             },
-            "falloff": {
-                "start": 0,
-                "end": 3.5,
-                "reduction": 0.5
-            },
-            "blast": 171,
-            "damage": "171.0 blast"
+            "impact": 147
         },
         "secondaryArea": {
-            "name": "Cluster Bomb Contact",
-            "status_chance": 21,
+            "name": "Cluster Bomb Explosion",
             "pellet": {
                 "name": "Bomblet",
                 "count": 3
             },
-            "impact": 147
+            "blast": 171,
+            "damage": "171.0 blast"
         },
         "statusChance": 21,
         "tags": [
@@ -3596,29 +3599,21 @@
         "imageName": "larkspur.png",
         "category": "Primary",
         "tradable": false,
-        "areaAttack": {
-            "name": "Explosion",
-            "speed": 1,
-            "crit_chance": 26,
-            "crit_mult": 2.2,
-            "status_chance": 0.3,
-            "falloff": {
-                "start": 0,
-                "end": 9.6,
-                "reduction": 0.6
-            },
-            "radiation": 400,
-            "blast": 400,
-            "damage": "400.0 radiation"
-        },
         "damage": "80.0 radiation",
         "damageTypes": {
             "impact": 10,
             "radiation": 80
         },
         "marketCost": 125,
-        "projectile": "Projectile",
-        "statusChance": 34,
+        "secondaryArea": {
+            "name": "Explosion",
+            "status_chance": 34,
+            "radius": 960,
+            "speed": 1,
+            "radiation": 400,
+            "blast": 400,
+            "damage": "400.0 radiation"
+        },
         "tags": [
             "Tenno"
         ],
@@ -3872,26 +3867,24 @@
         },
         "projectile": "Hitscan",
         "secondary": {
-            "name": "Charged Shot Explosion",
-            "speed": 0.5,
+            "name": "Charged Shot Projectile",
             "crit_chance": 50,
             "crit_mult": 3.5,
             "status_chance": 0.5,
-            "falloff": {
-                "start": 0,
-                "end": 8,
-                "reduction": 0.4
-            },
-            "heat": 3000,
-            "damage": "3000.0 heat"
-        },
-        "secondaryArea": {
-            "name": "Charged Shot Projectile",
-            "status_chance": 50,
+            "charge_time": 0.8,
+            "shot_type": "Projectile",
+            "shot_speed": null,
             "impact": 100,
             "puncture": 400,
             "heat": 500,
             "damage": "500.0 heat"
+        },
+        "secondaryArea": {
+            "name": "Charged Shot Explosion",
+            "status_chance": 50,
+            "speed": 0.5,
+            "heat": 3000,
+            "damage": "3000.0 heat"
         },
         "tags": [
             "Entrati"
@@ -4082,27 +4075,23 @@
         },
         "projectile": "Projectile",
         "secondary": {
-            "name": "Charged Shot Explosion",
+            "name": "Charged Shot",
             "speed": 0.833,
             "crit_chance": 40,
             "crit_mult": 3,
             "status_chance": 0.5,
-            "falloff": {
-                "start": 0,
-                "end": 20,
-                "reduction": 0.6
-            },
+            "impact": 100
+        },
+        "secondaryArea": {
+            "name": "Charged Shot Explosion",
+            "status_chance": 50,
+            "radius": 2000,
+            "speed": 0.833,
             "impact": 600,
             "slash": 1000,
             "puncture": 800,
             "blast": 1200,
             "damage": "1200.0 blast"
-        },
-        "secondaryArea": {
-            "name": "Charged Shot",
-            "status_chance": 50,
-            "speed": 0.833,
-            "impact": 100
         },
         "tags": [
             "Entrati"
@@ -4214,16 +4203,6 @@
         "category": "Primary",
         "tradable": false,
         "ammo": 540,
-        "areaAttack": {
-            "name": "Infested Orb",
-            "crit_chance": 0,
-            "crit_mult": 0,
-            "status_chance": 1,
-            "shot_type": "Projectile",
-            "shot_speed": null,
-            "radiation": 20,
-            "damage": "20.0 radiation"
-        },
         "damage": "25.0",
         "damageTypes": {
             "impact": 2.5,
@@ -4234,16 +4213,25 @@
         "marketCost": 225,
         "projectile": "Projectile",
         "secondary": {
-            "name": "Orb Explosion",
-            "speed": 10,
-            "crit_chance": 5,
-            "crit_mult": 1.5,
-            "status_chance": 0,
+            "name": "Infested Orb",
+            "crit_chance": 0,
+            "crit_mult": 0,
+            "status_chance": 1,
+            "shot_type": "Projectile",
+            "shot_speed": null,
             "falloff": {
                 "start": 0,
-                "end": 4.4,
-                "reduction": 0.5
+                "end": 2,
+                "reduction": 0
             },
+            "radiation": 20,
+            "damage": "20.0 radiation"
+        },
+        "secondaryArea": {
+            "name": "Orb Explosion",
+            "status_chance": 0,
+            "radius": 440,
+            "speed": 10,
             "toxin": 100,
             "damage": "100.0 toxin"
         },
@@ -4866,33 +4854,30 @@
         "category": "Primary",
         "tradable": false,
         "ammo": 275,
-        "areaAttack": {
-            "name": "Bomb Explosion",
-            "falloff": {
-                "start": 0,
-                "end": 4.8,
-                "reduction": 0.5
-            },
-            "radiation": 73,
-            "damage": "73.0 radiation"
-        },
         "damage": "60.0 radiation",
         "damageTypes": {
             "impact": 30,
             "radiation": 60
         },
         "marketCost": 180,
-        "projectile": "Projectile",
-        "secondaryArea": {
+        "projectile": "Hitscan",
+        "secondary": {
             "name": "Cluster Bombs",
-            "status_chance": 37,
+            "crit_chance": 3,
+            "crit_mult": 1.5,
+            "status_chance": 0.4,
             "pellet": {
-                "name": "Bomblet",
-                "count": 5
+                "count": 5,
+                "name": "Bomblet"
             },
             "impact": 75
         },
-        "statusChance": 37,
+        "secondaryArea": {
+            "name": "Bomb Explosion",
+            "radius": 480,
+            "radiation": 73,
+            "damage": "73.0 radiation"
+        },
         "tags": [
             "Sentient"
         ],
@@ -5659,7 +5644,7 @@
         "skipBuildTimePrice": 35,
         "buildQuantity": 1,
         "consumeOnBuild": true,
-        "type": "Arm-Cannon",
+        "type": "Arm Cannon",
         "imageName": "shedu.png",
         "category": "Primary",
         "tradable": false,
@@ -5711,7 +5696,14 @@
         "category": "Primary",
         "tradable": false,
         "ammo": 72,
-        "areaAttack": {
+        "damage": "100.0 magnetic",
+        "damageTypes": {
+            "magnetic": 100
+        },
+        "flight": "???",
+        "marketCost": 210,
+        "projectile": "Projectile",
+        "secondary": {
             "name": "Orb Explosion",
             "crit_chance": 12,
             "crit_mult": 2,
@@ -5721,16 +5713,9 @@
                 "end": 5,
                 "reduction": 0.6
             },
-            "magnetic": 100,
-            "damage": "100.0 magnetic"
+            "magnetic": 200,
+            "damage": "200.0 magnetic"
         },
-        "damage": "50.0 magnetic",
-        "damageTypes": {
-            "magnetic": 50
-        },
-        "flight": "???",
-        "marketCost": 210,
-        "projectile": "Projectile",
         "tags": [
             "Cephalon"
         ],
@@ -6518,7 +6503,13 @@
         "category": "Primary",
         "tradable": true,
         "ammo": 96,
-        "areaAttack": {
+        "damage": "125.0 magnetic",
+        "damageTypes": {
+            "magnetic": 125
+        },
+        "flight": "???",
+        "projectile": "Projectile",
+        "secondary": {
             "name": "Orb Explosion",
             "crit_chance": 14,
             "crit_mult": 2,
@@ -6526,17 +6517,20 @@
             "falloff": {
                 "start": 0,
                 "end": 5,
-                "reduction": 0.6
+                "reduction": 1
             },
             "magnetic": 240,
             "damage": "240.0 magnetic"
         },
-        "damage": "80.0 magnetic",
-        "damageTypes": {
-            "magnetic": 80
+        "secondaryArea": {
+            "name": "Singularity",
+            "status_chance": 0,
+            "duration": 2000,
+            "radius": 500,
+            "speed": 4,
+            "magnetic": 50,
+            "damage": "50.0 magnetic"
         },
-        "flight": "???",
-        "projectile": "Projectile",
         "tags": [
             "Syndicate",
             "Cephalon Suda",

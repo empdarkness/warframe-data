@@ -455,6 +455,30 @@
         "category": "Skins",
         "tradable": false
     },
+    "[Ph] Necra Armor A Name": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/NecraArmor/NecraArmorA",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "ph-necra-armor-a-name.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "[Ph] Necra Armor C Name": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/NecraArmor/NecraArmorC",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "ph-necra-armor-c-name.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "[Ph] Necra Armor L Name": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/NecraArmor/NecraArmorL",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "ph-necra-armor-l-name.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "[Ph] Necramech Articula": {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/Vignettes/Warframes/MechAFItem",
         "excludeFromCodex": true,
@@ -2787,6 +2811,20 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "baruuk-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Baruuk Shiraan Helmet": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/SWShiraanHelmet",
+        "type": "Skin",
+        "imageName": "baruuk-shiraan-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Baruuk Shiraan Skin": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/SWShiraanSkin",
+        "type": "Skin",
+        "imageName": "baruuk-shiraan-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -5556,6 +5594,14 @@
         "excludeFromCodex": true,
         "type": "Ship Decoration",
         "imageName": "display---tennocon-2021.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Display - Tennocon 2021 Merch": {
+        "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2021MerchDisplay",
+        "excludeFromCodex": true,
+        "type": "Ship Decoration",
+        "imageName": "display---tennocon-2021-merch.png",
         "category": "Skins",
         "tradable": false
     },
@@ -9329,6 +9375,20 @@
         "category": "Skins",
         "tradable": false
     },
+    "Grendel Moloch Helmet": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Devourer/SWMolochHelmet",
+        "type": "Skin",
+        "imageName": "grendel-moloch-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Grendel Moloch Skin": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Devourer/SWMolochSkin",
+        "type": "Skin",
+        "imageName": "grendel-moloch-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Grendel Noble Animation Set": {
         "uniqueName": "/Lotus/Upgrades/Skins/Devourer/UnlockDevourerNoble",
         "excludeFromCodex": true,
@@ -11114,6 +11174,20 @@
         "category": "Skins",
         "tradable": false
     },
+    "Inaros Ozymandias Helmet": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sandman/SWOzymandiasHelmet",
+        "type": "Skin",
+        "imageName": "inaros-ozymandias-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Inaros Ozymandias Skin": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sandman/SWOzymandiasSkin",
+        "type": "Skin",
+        "imageName": "inaros-ozymandias-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Inaros Prime Helmet": {
         "uniqueName": "/Lotus/Upgrades/Skins/Sandman/InarosPrimeHelmet",
         "type": "Skin",
@@ -11238,6 +11312,13 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "invati-sekhara.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Ion Shoulder Armor": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/SWIonShoulderArmor/SWIonShoulderArmorA",
+        "type": "Skin",
+        "imageName": "ion-shoulder-armor.png",
         "category": "Skins",
         "tradable": false
     },
@@ -11712,6 +11793,20 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWJotunheimScarf",
         "type": "Skin",
         "imageName": "jotunheim-syandana.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Jotunheim'S Music Shoulder Armor": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/SWJotunheimMusicShoulder/SWJotunheimMusicShoulder",
+        "type": "Skin",
+        "imageName": "jotunheim's-music-shoulder-armor.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Jotunheim'S Music Syandana": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWJotunheimMusic",
+        "type": "Skin",
+        "imageName": "jotunheim's-music-syandana.png",
         "category": "Skins",
         "tradable": false
     },
@@ -14082,6 +14177,13 @@
         "excludeFromCodex": true,
         "type": "Fur Color",
         "imageName": "lynx-blue.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Machete Kuther Skin": {
+        "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Machetes/SWKutherMachete",
+        "type": "Skin",
+        "imageName": "machete-kuther-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -16456,6 +16558,20 @@
         "category": "Skins",
         "tradable": false
     },
+    "Nidus Technocyst Helmet": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Infestation/SWTechnocystHelmet",
+        "type": "Skin",
+        "imageName": "nidus-technocyst-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Nidus Technocyst Skin": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Infestation/SWTechnocystSkin",
+        "type": "Skin",
+        "imageName": "nidus-technocyst-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Nidus Theme": {
         "uniqueName": "/Lotus/Interface/Graphics/CustomUI/NidusStyle",
         "excludeFromCodex": true,
@@ -18705,6 +18821,13 @@
         "category": "Skins",
         "tradable": false
     },
+    "Octavia Giocoso Helmet": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Bard/SWGiocosoHelmet",
+        "type": "Skin",
+        "imageName": "octavia-giocoso-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Octavia Helmet": {
         "uniqueName": "/Lotus/Upgrades/Skins/Bard/BardHelmet",
         "type": "Skin",
@@ -18756,6 +18879,20 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "octavia-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Octavia Youkai Helmet": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Bard/SWOctaviaYoukaiHelmet",
+        "type": "Skin",
+        "imageName": "octavia-youkai-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Octavia Youkai Skin": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Bard/SWOctaviaYoukaiSkin",
+        "type": "Skin",
+        "imageName": "octavia-youkai-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -19940,6 +20077,13 @@
         "category": "Skins",
         "tradable": false
     },
+    "Praesidum Mask": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/SWPraesidiumFacialAcc",
+        "type": "Skin",
+        "imageName": "praesidum-mask.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Pragka Pet Bed": {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/KubrowBedD",
         "excludeFromCodex": true,
@@ -20243,6 +20387,20 @@
         "category": "Skins",
         "tradable": false
     },
+    "Protea Kollapsar Helmet": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Odalisk/SWKollapsarHelmet",
+        "type": "Skin",
+        "imageName": "protea-kollapsar-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Protea Kollapsar Skin": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Odalisk/SWKollapsarSkin",
+        "type": "Skin",
+        "imageName": "protea-kollapsar-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
     "Protea Mavv Helmet": {
         "uniqueName": "/Lotus/Upgrades/Skins/Odalisk/OdaliskAlt2Helmet",
         "buildPrice": 20000,
@@ -20487,6 +20645,13 @@
         "uniqueName": "/Lotus/Upgrades/Skins/Scarves/NovaIIDeluxeSyandana",
         "type": "Skin",
         "imageName": "radia-syandana.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Raigo Chest Armor": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/SWRaigoChestArmor/SWRaigoChestArmor",
+        "type": "Skin",
+        "imageName": "raigo-chest-armor.png",
         "category": "Skins",
         "tradable": false
     },
@@ -20750,6 +20915,20 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "revenant-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Revenant Draugen Helmet": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Revenant/SWDraugenHelmet",
+        "type": "Skin",
+        "imageName": "revenant-draugen-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Revenant Draugen Skin": {
+        "uniqueName": "/Lotus/Upgrades/Skins/Revenant/SWDraugenSkin",
+        "type": "Skin",
+        "imageName": "revenant-draugen-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -25724,6 +25903,13 @@
         "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/TwoHandKatana/SWArashiTwoHandedKatanaSkin",
         "type": "Skin",
         "imageName": "two-handed-nikana-arashi-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    "Two-Handed Nikana Dogma Skin": {
+        "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/TwoHandKatana/SWDogma",
+        "type": "Skin",
+        "imageName": "two-handed-nikana-dogma-skin.png",
         "category": "Skins",
         "tradable": false
     },

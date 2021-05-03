@@ -6667,10 +6667,22 @@
         "heavySlamRadialDamage": 960,
         "heavySlamRadius": 9,
         "windUp": 0.90000004,
-        "type": "Warframe",
+        "type": "Exalted Weapon",
         "imageName": "shadow-claws.png",
         "category": "Misc",
-        "tradable": false
+        "tradable": false,
+        "channeling": 1.5,
+        "damage": "240.0",
+        "damageTypes": {
+            "impact": 72,
+            "slash": 120,
+            "puncture": 48
+        },
+        "tags": [
+            "Tenno"
+        ],
+        "wikiaUrl": "http://warframe.fandom.com/wiki/Shadow_Claws",
+        "disposition": 1
     },
     {
         "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",

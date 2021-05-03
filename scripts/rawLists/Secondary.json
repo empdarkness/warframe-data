@@ -1817,14 +1817,29 @@
         "category": "Secondary",
         "tradable": true,
         "ammo": 60,
-        "damage": "300.0",
-        "damageTypes": {
-            "impact": 120,
-            "slash": 135,
-            "puncture": 45
+        "areaAttack": {
+            "name": "Uncharged AoE",
+            "speed": 1.5,
+            "crit_chance": 2,
+            "crit_mult": 1.2,
+            "falloff": {
+                "start": 0,
+                "end": 8,
+                "reduction": 0.8
+            },
+            "blast": 20,
+            "damage": "20.0 blast"
         },
+        "damage": "100.0",
+        "damageTypes": {
+            "impact": 40,
+            "slash": 30,
+            "puncture": 30
+        },
+        "flight": "???",
         "marketCost": 225,
         "projectile": "Projectile",
+        "statusChance": 4,
         "tags": [],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Epitaph",
         "disposition": 1
@@ -4941,6 +4956,30 @@
         "flight": 79,
         "marketCost": 190,
         "projectile": "Projectile",
+        "secondary": {
+            "name": "Headshot Explosion",
+            "pellet": {
+                "name": "Spore",
+                "count": 6
+            },
+            "falloff": {
+                "start": 0,
+                "end": 3.3,
+                "reduction": 0.3
+            },
+            "toxin": 953,
+            "damage": "953.0 toxin"
+        },
+        "secondaryArea": {
+            "name": "Spore Explosion",
+            "radius": 330,
+            "pellet": {
+                "name": "Spore",
+                "count": 6
+            },
+            "toxin": 1998,
+            "damage": "1998.0 toxin"
+        },
         "tags": [
             "Infested"
         ],
