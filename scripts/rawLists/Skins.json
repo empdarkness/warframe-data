@@ -513,33 +513,6 @@
         "tradable": false
     },
     {
-        "uniqueName": "/Lotus/Upgrades/Skins/Armor/NecraArmor/NecraArmorA",
-        "name": "[Ph] Necra Armor A Name",
-        "excludeFromCodex": true,
-        "type": "Skin",
-        "imageName": "ph-necra-armor-a-name.png",
-        "category": "Skins",
-        "tradable": false
-    },
-    {
-        "uniqueName": "/Lotus/Upgrades/Skins/Armor/NecraArmor/NecraArmorC",
-        "name": "[Ph] Necra Armor C Name",
-        "excludeFromCodex": true,
-        "type": "Skin",
-        "imageName": "ph-necra-armor-c-name.png",
-        "category": "Skins",
-        "tradable": false
-    },
-    {
-        "uniqueName": "/Lotus/Upgrades/Skins/Armor/NecraArmor/NecraArmorL",
-        "name": "[Ph] Necra Armor L Name",
-        "excludeFromCodex": true,
-        "type": "Skin",
-        "imageName": "ph-necra-armor-l-name.png",
-        "category": "Skins",
-        "tradable": false
-    },
-    {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/Vignettes/Warframes/MechAFItem",
         "name": "[Ph] Necramech Articula",
         "excludeFromCodex": true,
@@ -2193,6 +2166,14 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWAropanexSyandana",
+        "name": "Aropanex Syandana",
+        "type": "Skin",
+        "imageName": "aropanex-syandana.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TnBrokenFrameSyandana",
         "name": "Artifex Syandana",
         "type": "Skin",
@@ -2218,6 +2199,14 @@
         "consumeOnBuild": true,
         "type": "Skin",
         "imageName": "asa-syandana.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/SWAsakageArmor/SWAsakageA",
+        "name": "Asakage Shoulder Armor",
+        "type": "Skin",
+        "imageName": "asakage-shoulder-armor.png",
         "category": "Skins",
         "tradable": false
     },
@@ -2553,6 +2542,22 @@
         "name": "Atlas Arhat Helmet",
         "type": "Skin",
         "imageName": "atlas-arhat-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Brawler/SWAtlasBotLHelmet",
+        "name": "Atlas Blade Of The Lotus Helmet",
+        "type": "Skin",
+        "imageName": "atlas-blade-of-the-lotus-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Brawler/SWAtlasBotLSkin",
+        "name": "Atlas Blade Of The Lotus Skin",
+        "type": "Skin",
+        "imageName": "atlas-blade-of-the-lotus-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -3178,6 +3183,22 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/SWBaruukBotlHelmet",
+        "name": "Baruuk Blade Of The Lotus Helmet",
+        "type": "Skin",
+        "imageName": "baruuk-blade-of-the-lotus-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/SWBaruukBotLSkin",
+        "name": "Baruuk Blade Of The Lotus Skin",
+        "type": "Skin",
+        "imageName": "baruuk-blade-of-the-lotus-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/SWBaruukGraxxHelmet",
         "name": "Baruuk Graxx Helmet",
         "type": "Skin",
@@ -3273,6 +3294,22 @@
         "excludeFromCodex": true,
         "type": "Misc",
         "imageName": "baruuk-theme.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/SWBaruukZamariuHelmet",
+        "name": "Baruuk Zaimariu Helmet",
+        "type": "Skin",
+        "imageName": "baruuk-zaimariu-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/SWBaruukZamariuSkin",
+        "name": "Baruuk Zaimariu Skin",
+        "type": "Skin",
+        "imageName": "baruuk-zaimariu-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -9564,6 +9601,31 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/WarframeDefaults/SWFrostStrigidArmArmor",
+        "name": "Frost Strigid Armor",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "frost-strigid-armor.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Frost/SWStrigidHelmet",
+        "name": "Frost Strigid Helmet",
+        "type": "Skin",
+        "imageName": "frost-strigid-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Frost/SWFrostStrigidSkin",
+        "name": "Frost Strigid Skin",
+        "type": "Skin",
+        "imageName": "frost-strigid-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Frost/SWSummitHelmet",
         "name": "Frost Summit Helmet",
         "type": "Skin",
@@ -14080,6 +14142,30 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Khora/SWKhoraFieraHelmet",
+        "name": "Khora Fiera Helmet",
+        "type": "Skin",
+        "imageName": "khora-fiera-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Khora/SWKhoraGraxxHelmet",
+        "name": "Khora Graxx Helmet",
+        "type": "Skin",
+        "imageName": "khora-graxx-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Khora/SWKhoraGraxxSkin",
+        "name": "Khora Graxx Skin",
+        "type": "Skin",
+        "imageName": "khora-graxx-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Khora/KhoraHelmet",
         "name": "Khora Helmet",
         "excludeFromCodex": true,
@@ -14566,6 +14652,14 @@
         "name": "Kiritsune Oculus",
         "type": "Skin",
         "imageName": "kiritsune-oculus.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/SWKishikamiArmor/SWKishikamiC",
+        "name": "Kishikami Chest Armor",
+        "type": "Skin",
+        "imageName": "kishikami-chest-armor.png",
         "category": "Skins",
         "tradable": false
     },
@@ -16347,6 +16441,14 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Swords/SWIonSwordSkin",
+        "name": "Longsword Ion Skin",
+        "type": "Skin",
+        "imageName": "longsword-ion-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Sandman/InarosDeluxeSword",
         "name": "Longsword Kopesh Skin",
         "type": "Skin",
@@ -16782,6 +16884,14 @@
         "name": "Machete Syachid Skin",
         "type": "Skin",
         "imageName": "machete-syachid-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Machetes/SWUdjyatMachete",
+        "name": "Machete Udjyat'S Serpent Skin",
+        "type": "Skin",
+        "imageName": "machete-udjyat's-serpent-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -18694,6 +18804,33 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/NecraArmor/NecraArmorC",
+        "name": "Mulciber Chest Plate",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "mulciber-chest-plate.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/NecraArmor/NecraArmorL",
+        "name": "Mulciber Knee Plate",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "mulciber-knee-plate.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Armor/NecraArmor/NecraArmorA",
+        "name": "Mulciber Shoulder Plate",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "mulciber-shoulder-plate.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Types/Items/ShipDecos/ScarletSpearAsteroidsDeco",
         "name": "Murex Console",
         "type": "Ship Decoration",
@@ -19500,6 +19637,22 @@
         "name": "Nidus Immortal Skin",
         "type": "Skin",
         "imageName": "nidus-immortal-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Infestation/SWKuvealScoungerHelmet",
+        "name": "Nidus Kuvael Scrounger Helmet",
+        "type": "Skin",
+        "imageName": "nidus-kuvael-scrounger-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Infestation/SWNidusKuvaelSkin",
+        "name": "Nidus Kuvael Scrounger Skin",
+        "type": "Skin",
+        "imageName": "nidus-kuvael-scrounger-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -26572,6 +26725,14 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Upgrades/Skins/Scarves/SWShirokuSyandana",
+        "name": "Shiroku Syandana",
+        "type": "Skin",
+        "imageName": "shiroku-syandana.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Effects/FootstepsElectrical",
         "name": "Shocking Step Ephemera",
         "buildPrice": 1000000,
@@ -29957,6 +30118,14 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "tonfa-standard-holster.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/SteamWorkshop/Melee/Tonfa/SWYamexTonfaSkin",
+        "name": "Tonfa Yamex Skin",
+        "type": "Skin",
+        "imageName": "tonfa-yamex-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -33677,6 +33846,15 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Tengu/TenguDeluxeAgileAnims",
+        "name": "Zephyr Harrier Agile Animation Set",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "zephyr-harrier-agile-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Tengu/UnlockTenguDeluxeAgile",
         "name": "Zephyr Harrier Agile Animation Set",
         "excludeFromCodex": true,
         "type": "Skin",
