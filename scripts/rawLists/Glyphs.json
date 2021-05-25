@@ -661,15 +661,6 @@
         "tradable": false
     },
     {
-        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBonewidowAction",
-        "name": "Bonewidow In Action Glyph",
-        "excludeFromCodex": true,
-        "type": "Glyph",
-        "imageName": "bonewidow-in-action-glyph.png",
-        "category": "Glyphs",
-        "tradable": false
-    },
-    {
         "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Seasonal/Halloween2019GhostChibiWisp",
         "name": "Boo Glyph",
         "excludeFromCodex": true,
@@ -2438,6 +2429,22 @@
         "name": "Gara Kaleida Glyph",
         "type": "Glyph",
         "imageName": "gara-kaleida-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageGaraPrimeBright",
+        "name": "Gara Prime Glyph",
+        "type": "Glyph",
+        "imageName": "gara-prime-glyph.png",
+        "category": "Glyphs",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageGaraPrimeDark",
+        "name": "Gara Prime Glyph",
+        "type": "Glyph",
+        "imageName": "gara-prime-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },
@@ -7424,15 +7431,6 @@
         "name": "Voidfissurebr Glyph",
         "type": "Glyph",
         "imageName": "voidfissurebr-glyph.png",
-        "category": "Glyphs",
-        "tradable": false
-    },
-    {
-        "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageVoidrigAction",
-        "name": "Voidrig In Action Glyph",
-        "excludeFromCodex": true,
-        "type": "Glyph",
-        "imageName": "voidrig-in-action-glyph.png",
         "category": "Glyphs",
         "tradable": false
     },

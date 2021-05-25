@@ -54,15 +54,6 @@
         "tradable": false
     },
     {
-        "uniqueName": "/Lotus/Upgrades/Skins/Clan/CorpusLichEmblemItem",
-        "name": "[Ph] Corpus Lich Emblem",
-        "excludeFromCodex": true,
-        "type": "Skin",
-        "imageName": "ph-corpus-lich-emblem.png",
-        "category": "Skins",
-        "tradable": false
-    },
-    {
         "uniqueName": "/Lotus/Upgrades/Skins/Clan/DarkSectorEventEmblemItem",
         "name": "[Ph] Dark Sector Event Emblem",
         "excludeFromCodex": true,
@@ -2174,6 +2165,14 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/CatbrowPet/Colors/GaraPrimeCatbrowPetColorTertiary",
+        "name": "Aros Brown",
+        "type": "Fur Color",
+        "imageName": "aros-brown.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TnBrokenFrameSyandana",
         "name": "Artifex Syandana",
         "type": "Skin",
@@ -3299,17 +3298,17 @@
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/SWBaruukZamariuHelmet",
-        "name": "Baruuk Zaimariu Helmet",
+        "name": "Baruuk Zamariu Helmet",
         "type": "Skin",
-        "imageName": "baruuk-zaimariu-helmet.png",
+        "imageName": "baruuk-zamariu-helmet.png",
         "category": "Skins",
         "tradable": false
     },
     {
         "uniqueName": "/Lotus/Upgrades/Skins/Pacifist/SWBaruukZamariuSkin",
-        "name": "Baruuk Zaimariu Skin",
+        "name": "Baruuk Zamariu Skin",
         "type": "Skin",
-        "imageName": "baruuk-zaimariu-skin.png",
+        "imageName": "baruuk-zamariu-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -4188,6 +4187,22 @@
         "name": "Cassowar Jade Skin",
         "type": "Skin",
         "imageName": "cassowar-jade-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/Armor/CatbrowArmorGaraPrime",
+        "name": "Castellan Prime Armor",
+        "type": "Skin",
+        "imageName": "castellan-prime-armor.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Effects/EphemeraGaraPrime",
+        "name": "Catena Prime Ephemera",
+        "type": "Skin",
+        "imageName": "catena-prime-ephemera.png",
         "category": "Skins",
         "tradable": false
     },
@@ -9908,6 +9923,23 @@
         "excludeFromCodex": true,
         "type": "Skin",
         "imageName": "gara-noble-animation-set.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Glass/GaraPrimeHelmet",
+        "name": "Gara Prime Helmet",
+        "type": "Skin",
+        "imageName": "gara-prime-helmet.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Glass/GaraPrimeSkin",
+        "name": "Gara Prime Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "gara-prime-skin.png",
         "category": "Skins",
         "tradable": false
     },
@@ -17350,6 +17382,14 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/CatbrowPet/Colors/GaraPrimeCatbrowPetColorAccents",
+        "name": "Maipal Yellow",
+        "type": "Fur Color",
+        "imageName": "maipal-yellow.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/Operator/Heads/MaleHeadA",
         "name": "Maleheada",
         "excludeFromCodex": true,
@@ -18952,6 +18992,14 @@
         "name": "Nart-Deer Pattern",
         "type": "Fur Pattern",
         "imageName": "nart-deer-pattern.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Types/Game/CatbrowPet/Colors/GaraPrimeCatbrowPetColorBase",
+        "name": "Naru Blue",
+        "type": "Fur Color",
+        "imageName": "naru-blue.png",
         "category": "Skins",
         "tradable": false
     },
@@ -23408,6 +23456,14 @@
         "tradable": false
     },
     {
+        "uniqueName": "/Lotus/Types/Game/CatbrowPet/Colors/GaraPrimeCatbrowPetColorSecondary",
+        "name": "Paskan Crimson",
+        "type": "Fur Color",
+        "imageName": "paskan-crimson.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
         "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/TennoMeleeDangle",
         "name": "Pataga Sugatra",
         "type": "Skin",
@@ -25512,6 +25568,14 @@
         "name": "Rucksack Roller Floof",
         "type": "Ship Decoration",
         "imageName": "rucksack-roller-floof.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Catbrows/GaraPrimeCatbrowFur",
+        "name": "Sabella Prime Fur Pattern",
+        "type": "Skin",
+        "imageName": "sabella-prime-fur-pattern.png",
         "category": "Skins",
         "tradable": false
     },
@@ -29765,6 +29829,15 @@
         "name": "Tiberon Elixis Skin",
         "type": "Skin",
         "imageName": "tiberon-elixis-skin.png",
+        "category": "Skins",
+        "tradable": false
+    },
+    {
+        "uniqueName": "/Lotus/Upgrades/Skins/Sony/PS5TiberonSkin",
+        "name": "Tiberon Obsidian Skin",
+        "excludeFromCodex": true,
+        "type": "Skin",
+        "imageName": "tiberon-obsidian-skin.png",
         "category": "Skins",
         "tradable": false
     },

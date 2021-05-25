@@ -253,7 +253,7 @@
         "fireRate": 0.73333335,
         "masteryReq": 10,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.40000001,
@@ -300,7 +300,7 @@
         "fireRate": 1.0833334,
         "masteryReq": 11,
         "slot": 5,
-        "omegaAttenuation": 0.85000002,
+        "omegaAttenuation": 1.05,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -335,7 +335,7 @@
             "Infested"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Arum_Spinosa",
-        "disposition": 2
+        "disposition": 3
     },
     {
         "name": "Atterax",
@@ -347,7 +347,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 5,
         "slot": 5,
-        "omegaAttenuation": 1,
+        "omegaAttenuation": 1.05,
         "blockingAngle": 45,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -1533,7 +1533,7 @@
         "fireRate": 1.1666667,
         "masteryReq": 1,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -1582,7 +1582,7 @@
         "fireRate": 1.1666667,
         "masteryReq": 8,
         "slot": 5,
-        "omegaAttenuation": 1.15,
+        "omegaAttenuation": 1.2,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -2423,7 +2423,7 @@
         "fireRate": 1,
         "masteryReq": 13,
         "slot": 5,
-        "omegaAttenuation": 0.75,
+        "omegaAttenuation": 0.80000001,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -2459,7 +2459,7 @@
             "Vaulted"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Galatine_Prime",
-        "disposition": 1,
+        "disposition": 2,
         "releaseDate": "2016 08 23",
         "vaultDate": "2018 06 19",
         "estimatedVaultDate": "2018 06 19",
@@ -2639,7 +2639,7 @@
         "fireRate": 1.2500001,
         "masteryReq": 10,
         "slot": 5,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 0.89999998,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -2760,7 +2760,7 @@
         "fireRate": 0.80000007,
         "masteryReq": 14,
         "slot": 5,
-        "omegaAttenuation": 0.80000001,
+        "omegaAttenuation": 0.75,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -2795,7 +2795,7 @@
             "Prime"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Gram_Prime",
-        "disposition": 2,
+        "disposition": 1,
         "releaseDate": "2018 09 25",
         "vaultDate": "2020 05 30",
         "estimatedVaultDate": "2020 05 30",
@@ -2811,7 +2811,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 4,
         "slot": 5,
-        "omegaAttenuation": 1,
+        "omegaAttenuation": 1.05,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -2859,7 +2859,7 @@
         "fireRate": 1,
         "masteryReq": 12,
         "slot": 5,
-        "omegaAttenuation": 0.60000002,
+        "omegaAttenuation": 0.64999998,
         "blockingAngle": 55,
         "comboDuration": 6,
         "followThrough": 0.60000002,
@@ -3026,7 +3026,7 @@
         "fireRate": 1.1666667,
         "masteryReq": 13,
         "slot": 5,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.75,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -3232,7 +3232,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 9,
         "slot": 5,
-        "omegaAttenuation": 1.3,
+        "omegaAttenuation": 1.35,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.40000001,
@@ -3268,7 +3268,7 @@
             "Cephalon Simaris"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Heliocor",
-        "disposition": 4
+        "disposition": 5
     },
     {
         "name": "Hirudo",
@@ -3328,7 +3328,7 @@
         "fireRate": 1,
         "masteryReq": 5,
         "slot": 5,
-        "omegaAttenuation": 1.3,
+        "omegaAttenuation": 1.35,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.40000001,
@@ -3364,7 +3364,7 @@
             "Grineer"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Jat_Kittag",
-        "disposition": 4
+        "disposition": 5
     },
     {
         "name": "Jat Kusar",
@@ -3620,7 +3620,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 9,
         "slot": 5,
-        "omegaAttenuation": 0.89999998,
+        "omegaAttenuation": 1,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.80000001,
@@ -3886,7 +3886,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 9,
         "slot": 5,
-        "omegaAttenuation": 1.3,
+        "omegaAttenuation": 1.35,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.89999998,
@@ -3920,7 +3920,7 @@
         "stancePolarity": "Naramon",
         "tags": [],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Korrudo",
-        "disposition": 4
+        "disposition": 5
     },
     {
         "name": "Kreska",
@@ -4077,7 +4077,7 @@
         "fireRate": 1.1666667,
         "masteryReq": 13,
         "slot": 5,
-        "omegaAttenuation": 0.69999999,
+        "omegaAttenuation": 0.64999998,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -4224,7 +4224,7 @@
         "fireRate": 1,
         "masteryReq": 0,
         "slot": 5,
-        "omegaAttenuation": 1.2,
+        "omegaAttenuation": 1.25,
         "blockingAngle": 45,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -4833,7 +4833,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 4,
         "slot": 5,
-        "omegaAttenuation": 0.89999998,
+        "omegaAttenuation": 0.94999999,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -5911,7 +5911,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 11,
         "slot": 5,
-        "omegaAttenuation": 0.85000002,
+        "omegaAttenuation": 1.05,
         "blockingAngle": 55,
         "comboDuration": 9,
         "followThrough": 0.5,
@@ -5946,7 +5946,7 @@
             "Infested"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Pulmonars",
-        "disposition": 2
+        "disposition": 3
     },
     {
         "name": "Pupacyst",
@@ -6005,7 +6005,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 8,
         "slot": 5,
-        "omegaAttenuation": 0.94999999,
+        "omegaAttenuation": 1,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.69999999,
@@ -6096,7 +6096,7 @@
         "fireRate": 1.0833334,
         "masteryReq": 10,
         "slot": 5,
-        "omegaAttenuation": 0.75,
+        "omegaAttenuation": 0.69999999,
         "blockingAngle": 60,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -6537,7 +6537,7 @@
         "fireRate": 1.2500001,
         "masteryReq": 8,
         "slot": 5,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 1.1,
         "blockingAngle": 45,
         "comboDuration": 5,
         "followThrough": 0.5,
@@ -7100,7 +7100,7 @@
         "fireRate": 0.91666669,
         "masteryReq": 5,
         "slot": 5,
-        "omegaAttenuation": 1.3,
+        "omegaAttenuation": 1.35,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -7135,7 +7135,7 @@
             "Grineer"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Sydon",
-        "disposition": 4
+        "disposition": 5
     },
     {
         "name": "Synoid Heliocor",
@@ -7147,7 +7147,7 @@
         "fireRate": 1.0833334,
         "masteryReq": 11,
         "slot": 5,
-        "omegaAttenuation": 1.3,
+        "omegaAttenuation": 1.35,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.40000001,
@@ -7178,7 +7178,7 @@
             "Cephalon Suda"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Synoid_Heliocor",
-        "disposition": 4
+        "disposition": 5
     },
     {
         "name": "Tatsu",
@@ -7625,7 +7625,7 @@
         "fireRate": 1.0833334,
         "masteryReq": 11,
         "slot": 5,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "blockingAngle": 55,
         "comboDuration": 5,
         "followThrough": 0.60000002,
@@ -7767,7 +7767,7 @@
         "fireRate": 0.83333337,
         "masteryReq": 13,
         "slot": 5,
-        "omegaAttenuation": 0.69999999,
+        "omegaAttenuation": 0.85000002,
         "blockingAngle": 60,
         "comboDuration": 10,
         "followThrough": 0.60000002,
@@ -7816,7 +7816,7 @@
             "Orokin"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Vitrica",
-        "disposition": 1
+        "disposition": 2
     },
     {
         "name": "Volnus",
@@ -7865,6 +7865,40 @@
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Volnus",
         "disposition": 5
+    },
+    {
+        "name": "Volnus Prime",
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/PrimeVolnus/VolnusPrimeWeapon",
+        "totalDamage": 250,
+        "criticalChance": 0.2,
+        "criticalMultiplier": 1.8,
+        "procChance": 0.34000003,
+        "fireRate": 1.2,
+        "masteryReq": 14,
+        "slot": 5,
+        "omegaAttenuation": 0.5,
+        "blockingAngle": 50,
+        "comboDuration": 5,
+        "followThrough": 0.60000002,
+        "range": 2.9000001,
+        "slamAttack": 750,
+        "slamRadialDamage": 250,
+        "slamRadius": 10,
+        "slideAttack": 500,
+        "heavyAttackDamage": 1500,
+        "heavySlamAttack": 1250,
+        "heavySlamRadialDamage": 1250,
+        "heavySlamRadius": 10,
+        "windUp": 1.1,
+        "buildPrice": 15000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 50,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Melee",
+        "imageName": "volnus-prime.png",
+        "category": "Melee",
+        "tradable": true
     },
     {
         "name": "War",

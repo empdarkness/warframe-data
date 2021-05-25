@@ -549,6 +549,25 @@
         "sprint": 1.15,
         "wikiaUrl": "http://warframe.fandom.com/wiki/Gara"
     },
+    "Gara Prime": {
+        "uniqueName": "/Lotus/Powersuits/Glass/GaraPrime",
+        "health": 120,
+        "shield": 100,
+        "armor": 190,
+        "stamina": 3,
+        "power": 150,
+        "masteryReq": 0,
+        "sprintSpeed": 1.15,
+        "buildPrice": 25000,
+        "buildTime": 259200,
+        "skipBuildTimePrice": 50,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Warframe",
+        "imageName": "gara-prime.png",
+        "category": "Warframes",
+        "tradable": true
+    },
     "Garuda": {
         "uniqueName": "/Lotus/Powersuits/Garuda/Garuda",
         "health": 100,

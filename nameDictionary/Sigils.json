@@ -7,14 +7,6 @@
         "category": "Sigils",
         "tradable": false
     },
-    "[Ph] Corpus Lich Sigil": {
-        "uniqueName": "/Lotus/Upgrades/Skins/Sigils/CorpusLichSigil",
-        "excludeFromCodex": true,
-        "type": "Sigil",
-        "imageName": "ph-corpus-lich-sigil.png",
-        "category": "Sigils",
-        "tradable": false
-    },
     "[Ph] Dark Sector Event Sigil": {
         "uniqueName": "/Lotus/Upgrades/Skins/Sigils/EventSigilDarkSector",
         "excludeFromCodex": true,

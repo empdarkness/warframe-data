@@ -133,7 +133,7 @@
         "fireRate": 10.000001,
         "masteryReq": 9,
         "slot": 0,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 30,
@@ -173,7 +173,7 @@
         "fireRate": 7.0000005,
         "masteryReq": 13,
         "slot": 0,
-        "omegaAttenuation": 1.1,
+        "omegaAttenuation": 1.15,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 40,
@@ -202,7 +202,7 @@
             "Vaulted"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Akbolto_Prime",
-        "disposition": 3,
+        "disposition": 4,
         "releaseDate": "2017 12 12",
         "vaultDate": "2019 10 01",
         "estimatedVaultDate": "2019 10 01",
@@ -972,7 +972,7 @@
         "fireRate": 8,
         "masteryReq": 5,
         "slot": 0,
-        "omegaAttenuation": 0.85000002,
+        "omegaAttenuation": 0.89999998,
         "noise": "Alarming",
         "trigger": "Held",
         "magazineSize": 70,
@@ -998,7 +998,7 @@
             "Grineer"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Atomos",
-        "disposition": 2
+        "disposition": 3
     },
     "/Lotus/Weapons/Tenno/Pistols/SundialGun/SundialPistol": {
         "name": "Azima",
@@ -1348,7 +1348,7 @@
         "fireRate": 12.000001,
         "masteryReq": 11,
         "slot": 0,
-        "omegaAttenuation": 0.80000001,
+        "omegaAttenuation": 1,
         "noise": "Alarming",
         "trigger": "Held",
         "magazineSize": 31,
@@ -1388,7 +1388,7 @@
             "Infested"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Catabolyst",
-        "disposition": 2
+        "disposition": 3
     },
     "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun": {
         "name": "Cestra",
@@ -1810,7 +1810,7 @@
         "fireRate": 1.5000001,
         "masteryReq": 14,
         "slot": 0,
-        "omegaAttenuation": 0.75,
+        "omegaAttenuation": 0.80000001,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 5,
@@ -1855,7 +1855,7 @@
             "Vaulted"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Euphona_Prime",
-        "disposition": 1,
+        "disposition": 2,
         "releaseDate": "2017 02 28",
         "vaultDate": "2018 12 12",
         "estimatedVaultDate": "2018 12 12",
@@ -3047,7 +3047,7 @@
         "fireRate": 3.0000002,
         "masteryReq": 14,
         "slot": 0,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.75,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 8,
@@ -3571,7 +3571,7 @@
         "fireRate": 3.6666665,
         "masteryReq": 14,
         "slot": 0,
-        "omegaAttenuation": 0.85000002,
+        "omegaAttenuation": 0.94999999,
         "noise": "Alarming",
         "trigger": "Burst",
         "magazineSize": 90,
@@ -3627,7 +3627,7 @@
             "Entrati"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Sepulcrum",
-        "disposition": 2
+        "disposition": 3
     },
     "/Lotus/Weapons/Tenno/Pistol/BurstPistol": {
         "name": "Sicarus",
@@ -3918,7 +3918,7 @@
         "fireRate": 3.5000002,
         "masteryReq": 10,
         "slot": 0,
-        "omegaAttenuation": 0.64999998,
+        "omegaAttenuation": 0.69999999,
         "noise": "Alarming",
         "trigger": "Charge",
         "reloadTime": 1.5,
@@ -4131,7 +4131,7 @@
         "fireRate": 10.000001,
         "masteryReq": 11,
         "slot": 0,
-        "omegaAttenuation": 1.2,
+        "omegaAttenuation": 1.25,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 30,
@@ -4559,7 +4559,7 @@
         "fireRate": 15.000001,
         "masteryReq": 8,
         "slot": 0,
-        "omegaAttenuation": 1.1,
+        "omegaAttenuation": 1.15,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 62,
@@ -4587,7 +4587,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Velox",
-        "disposition": 3
+        "disposition": 4
     },
     "/Lotus/Weapons/Grineer/GrineerPistol/GrineerLightPistol": {
         "name": "Viper",
@@ -4722,7 +4722,7 @@
         "fireRate": 5.0000005,
         "masteryReq": 14,
         "slot": 0,
-        "omegaAttenuation": 0.75,
+        "omegaAttenuation": 0.89999998,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 8,
@@ -4759,7 +4759,7 @@
             "Prime"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Zakti_Prime",
-        "disposition": 1,
+        "disposition": 3,
         "releaseDate": "2020 10 26",
         "vaultDate": "n/a",
         "estimatedVaultDate": "2022 06 30"
@@ -4806,7 +4806,7 @@
         "fireRate": 1.3333334,
         "masteryReq": 11,
         "slot": 0,
-        "omegaAttenuation": 0.94999999,
+        "omegaAttenuation": 1.05,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 17,

@@ -39,9 +39,9 @@
         "Akbolto": {
             "riventype": "Pistol",
             "variants": {
-                "Akbolto": 1.25,
-                "Akbolto Prime": 1.1,
-                "Telos Akbolto": 1.2
+                "Akbolto": 1.3,
+                "Akbolto Prime": 1.15,
+                "Telos Akbolto": 1.25
             }
         },
         "Akbronco": {
@@ -150,7 +150,7 @@
         "Arca Titron": {
             "riventype": "Melee",
             "variants": {
-                "Arca Titron": 1.25
+                "Arca Titron": 1.3
             }
         },
         "Argonak": {
@@ -168,13 +168,14 @@
         "Arum Spinosa": {
             "riventype": "Melee",
             "variants": {
-                "Arum Spinosa": 0.85000002
+                "Arum Spinosa": 1.05
             }
         },
         "Astilla": {
             "riventype": "Shotgun",
             "variants": {
-                "Astilla": 1.2
+                "Astilla": 1.2,
+                "Astilla Prime": 0.5
             }
         },
         "Athodai": {
@@ -186,13 +187,13 @@
         "Atomos": {
             "riventype": "Pistol",
             "variants": {
-                "Atomos": 0.85000002
+                "Atomos": 0.89999998
             }
         },
         "Atterax": {
             "riventype": "Melee",
             "variants": {
-                "Atterax": 1
+                "Atterax": 1.05
             }
         },
         "Attica": {
@@ -308,7 +309,7 @@
         "Bubonico": {
             "riventype": "Rifle",
             "variants": {
-                "Bubonico": 0.60000002
+                "Bubonico": 0.69999999
             }
         },
         "Burst Laser": {
@@ -352,7 +353,7 @@
         "Catabolyst": {
             "riventype": "Pistol",
             "variants": {
-                "Catabolyst": 0.80000001
+                "Catabolyst": 1
             }
         },
         "Caustacyst": {
@@ -364,7 +365,7 @@
         "Cedo": {
             "riventype": "Shotgun",
             "variants": {
-                "Cedo": 0.55000001
+                "Cedo": 0.60000002
             }
         },
         "Centaur": {
@@ -427,13 +428,13 @@
         "Cortege": {
             "riventype": "Archgun",
             "variants": {
-                "Cortege": 0.85000002
+                "Cortege": 1
             }
         },
         "Corvas": {
             "riventype": "Archgun",
             "variants": {
-                "Corvas": 1.1
+                "Corvas": 1.2
             }
         },
         "Cronus": {
@@ -609,8 +610,8 @@
         "Dual Kamas": {
             "riventype": "Melee",
             "variants": {
-                "Dual Kamas": 1.25,
-                "Dual Kamas Prime": 1.15
+                "Dual Kamas": 1.3,
+                "Dual Kamas Prime": 1.2
             }
         },
         "Dual Keres": {
@@ -682,7 +683,7 @@
         "Exergis": {
             "riventype": "Shotgun",
             "variants": {
-                "Exergis": 1.05
+                "Exergis": 1.1
             }
         },
         "Falcor": {
@@ -754,7 +755,7 @@
             "riventype": "Melee",
             "variants": {
                 "Galatine": 1.05,
-                "Galatine Prime": 0.75
+                "Galatine Prime": 0.80000001
             }
         },
         "Galvacord": {
@@ -780,7 +781,7 @@
             "riventype": "Melee",
             "variants": {
                 "Glaive": 1.3,
-                "Glaive Prime": 1.05
+                "Glaive Prime": 0.89999998
             }
         },
         "Glaxion": {
@@ -807,7 +808,7 @@
             "riventype": "Melee",
             "variants": {
                 "Gram": 1.4400001,
-                "Gram Prime": 0.80000001
+                "Gram Prime": 0.75
             }
         },
         "Grattler": {
@@ -825,8 +826,8 @@
         "Guandao": {
             "riventype": "Melee",
             "variants": {
-                "Guandao": 1,
-                "Guandao Prime": 0.60000002
+                "Guandao": 1.05,
+                "Guandao Prime": 0.64999998
             }
         },
         "Gunsen": {
@@ -839,7 +840,7 @@
             "riventype": "Melee",
             "variants": {
                 "Halikar": 1.4400001,
-                "Halikar Wraith": 0.5
+                "Halikar Wraith": 0.75
             }
         },
         "Harpak": {
@@ -876,8 +877,8 @@
         "Heliocor": {
             "riventype": "Melee",
             "variants": {
-                "Heliocor": 1.3,
-                "Synoid Heliocor": 1.3
+                "Heliocor": 1.35,
+                "Synoid Heliocor": 1.35
             }
         },
         "Helstrum": {
@@ -935,7 +936,7 @@
         "Jat Kittag": {
             "riventype": "Melee",
             "variants": {
-                "Jat Kittag": 1.3
+                "Jat Kittag": 1.35
             }
         },
         "Jat Kusar": {
@@ -986,7 +987,7 @@
         "Keratinos": {
             "riventype": "Melee",
             "variants": {
-                "Keratinos": 0.89999998
+                "Keratinos": 1
             }
         },
         "Kesheg": {
@@ -1042,7 +1043,7 @@
         "Korrudo": {
             "riventype": "Melee",
             "variants": {
-                "Korrudo": 1.3
+                "Korrudo": 1.35
             }
         },
         "Kraken": {
@@ -1068,7 +1069,7 @@
             "riventype": "Melee",
             "variants": {
                 "Kronen": 1.4299999,
-                "Kronen Prime": 0.69999999
+                "Kronen Prime": 0.64999998
             }
         },
         "Kulstar": {
@@ -1093,7 +1094,7 @@
         "Lanka": {
             "riventype": "Rifle",
             "variants": {
-                "Lanka": 0.94999999
+                "Lanka": 1
             }
         },
         "Larkspur": {
@@ -1127,8 +1128,8 @@
         "Lecta": {
             "riventype": "Melee",
             "variants": {
-                "Lecta": 1.2,
-                "Secura Lecta": 1.05
+                "Lecta": 1.25,
+                "Secura Lecta": 1.1
             }
         },
         "Lenz": {
@@ -1252,7 +1253,7 @@
         "Morgha": {
             "riventype": "Archgun",
             "variants": {
-                "Morgha": 0.69999999
+                "Morgha": 0.85000002
             }
         },
         "Multron": {
@@ -1295,7 +1296,7 @@
         "Nikana": {
             "riventype": "Melee",
             "variants": {
-                "Nikana": 0.89999998,
+                "Nikana": 0.94999999,
                 "Nikana Prime": 0.60000002
             }
         },
@@ -1374,7 +1375,7 @@
             "riventype": "Pistol",
             "variants": {
                 "Pandero": 1.1,
-                "Pandero Prime": 0.5
+                "Pandero Prime": 0.75
             }
         },
         "Pangolin Sword": {
@@ -1388,7 +1389,7 @@
             "riventype": "Rifle",
             "variants": {
                 "Panthera": 1.4,
-                "Panthera Prime": 1.05
+                "Panthera Prime": 1.15
             }
         },
         "Paracesis": {
@@ -1469,7 +1470,7 @@
         "Proboscis Cernos": {
             "riventype": "Rifle",
             "variants": {
-                "Proboscis Cernos": 0.5
+                "Proboscis Cernos": 0.55000001
             }
         },
         "Prova": {
@@ -1482,7 +1483,7 @@
         "Pulmonars": {
             "riventype": "Melee",
             "variants": {
-                "Pulmonars": 0.85000002
+                "Pulmonars": 1.05
             }
         },
         "Pupacyst": {
@@ -1515,7 +1516,7 @@
         "Quassus": {
             "riventype": "Melee",
             "variants": {
-                "Quassus": 0.94999999
+                "Quassus": 1
             }
         },
         "Quatz": {
@@ -1527,7 +1528,7 @@
         "Quellor": {
             "riventype": "Rifle",
             "variants": {
-                "Quellor": 1.05
+                "Quellor": 1.1
             }
         },
         "Rathbone": {
@@ -1552,7 +1553,7 @@
         "Rubico": {
             "riventype": "Rifle",
             "variants": {
-                "Rubico": 0.80000001,
+                "Rubico": 0.89999998,
                 "Rubico Prime": 0.60000002
             }
         },
@@ -1591,7 +1592,7 @@
         "Sepulcrum": {
             "riventype": "Pistol",
             "variants": {
-                "Sepulcrum": 0.85000002
+                "Sepulcrum": 0.94999999
             }
         },
         "Serro": {
@@ -1707,19 +1708,19 @@
         "Sporothrix": {
             "riventype": "Rifle",
             "variants": {
-                "Sporothrix": 0.85000002
+                "Sporothrix": 1.1
             }
         },
         "Stahlta": {
             "riventype": "Rifle",
             "variants": {
-                "Stahlta": 0.80000001
+                "Stahlta": 0.85000002
             }
         },
         "Staticor": {
             "riventype": "Pistol",
             "variants": {
-                "Staticor": 0.64999998
+                "Staticor": 0.69999999
             }
         },
         "Stinger": {
@@ -1785,8 +1786,8 @@
         "Sydon": {
             "riventype": "Melee",
             "variants": {
-                "Sydon": 1.3,
-                "Vaykor Sydon": 1.25
+                "Sydon": 1.35,
+                "Vaykor Sydon": 1.3
             }
         },
         "Synapse": {
@@ -1836,8 +1837,8 @@
         "Tiberon": {
             "riventype": "Rifle",
             "variants": {
-                "Tiberon": 1,
-                "Tiberon Prime": 0.85000002
+                "Tiberon": 1.05,
+                "Tiberon Prime": 0.89999998
             }
         },
         "Tigris": {
@@ -1877,7 +1878,7 @@
         "Trumna": {
             "riventype": "Rifle",
             "variants": {
-                "Trumna": 0.69999999
+                "Trumna": 0.75
             }
         },
         "Twin Basolk": {
@@ -1958,7 +1959,7 @@
         "Velox": {
             "riventype": "Pistol",
             "variants": {
-                "Velox": 1.1
+                "Velox": 1.15
             }
         },
         "Venka": {
@@ -1990,13 +1991,14 @@
         "Vitrica": {
             "riventype": "Melee",
             "variants": {
-                "Vitrica": 0.69999999
+                "Vitrica": 0.85000002
             }
         },
         "Volnus": {
             "riventype": "Melee",
             "variants": {
-                "Volnus": 1.35
+                "Volnus": 1.35,
+                "Volnus Prime": 0.5
             }
         },
         "Vulcax": {
@@ -2040,7 +2042,7 @@
             "riventype": "Pistol",
             "variants": {
                 "Zakti": 1.25,
-                "Zakti Prime": 0.75
+                "Zakti Prime": 0.89999998
             }
         },
         "Zarr": {
@@ -2077,7 +2079,7 @@
         "Zymos": {
             "riventype": "Pistol",
             "variants": {
-                "Zymos": 0.94999999
+                "Zymos": 1.05
             }
         },
         "Balla": {
@@ -2090,7 +2092,7 @@
             "riventype": "Pistol",
             "variants": {
                 "Secondary": 0.5,
-                "Primary": 1
+                "Primary": 1.05
             }
         },
         "Cyath": {
@@ -2120,14 +2122,14 @@
         "Euphona Prime": {
             "riventype": "Pistol",
             "variants": {
-                "Euphona Prime": 0.75
+                "Euphona Prime": 0.80000001
             }
         },
         "Gaze": {
             "riventype": "Pistol",
             "variants": {
                 "Secondary": 0.89999998,
-                "Primary": 0.94999999
+                "Primary": 1
             }
         },
         "Kronsh": {
@@ -2175,7 +2177,7 @@
         "Ooltha": {
             "riventype": "Melee",
             "variants": {
-                "Ooltha": 1.2
+                "Ooltha": 1.25
             }
         },
         "Plague Keewar": {
@@ -2199,14 +2201,14 @@
         "Rattleguts": {
             "riventype": "Pistol",
             "variants": {
-                "Secondary": 0.69999999,
-                "Primary": 0.89999998
+                "Secondary": 0.75,
+                "Primary": 1
             }
         },
         "Reaper Prime": {
             "riventype": "Melee",
             "variants": {
-                "Reaper Prime": 0.75
+                "Reaper Prime": 0.69999999
             }
         },
         "Sepfahn": {
@@ -2219,21 +2221,21 @@
             "riventype": "Pistol",
             "variants": {
                 "Secondary": 0.55000001,
-                "Primary": 0.85000002
+                "Primary": 1
             }
         },
         "Tombfinger": {
             "riventype": "Pistol",
             "variants": {
                 "Secondary": 0.64999998,
-                "Primary": 0.75
+                "Primary": 0.85000002
             }
         },
         "Vermisplicer": {
             "riventype": "Pistol",
             "variants": {
-                "Secondary": 0.85000002,
-                "Primary": 0.69999999
+                "Secondary": 1,
+                "Primary": 0.85000002
             }
         }
     },

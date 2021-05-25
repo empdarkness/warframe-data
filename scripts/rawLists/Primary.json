@@ -259,6 +259,32 @@
         "disposition": 4
     },
     {
+        "name": "Astilla Prime",
+        "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeAstilla/AstillaPrimeWeapon",
+        "totalDamage": 240,
+        "criticalChance": 0.20999999,
+        "criticalMultiplier": 1.9,
+        "procChance": 0.37,
+        "fireRate": 4.3333335,
+        "masteryReq": 14,
+        "slot": 1,
+        "omegaAttenuation": 0.5,
+        "noise": "Alarming",
+        "trigger": "Auto",
+        "magazineSize": 24,
+        "reloadTime": 2,
+        "multishot": 1,
+        "buildPrice": 15000,
+        "buildTime": 43200,
+        "skipBuildTimePrice": 50,
+        "buildQuantity": 1,
+        "consumeOnBuild": true,
+        "type": "Misc",
+        "imageName": "astilla-prime.png",
+        "category": "Primary",
+        "tradable": true
+    },
+    {
         "name": "Attica",
         "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TnoPrmryXbow/TnoPrmryXbowWeapon",
         "totalDamage": 80,
@@ -792,7 +818,7 @@
         "fireRate": 3.8333335,
         "masteryReq": 13,
         "slot": 1,
-        "omegaAttenuation": 0.60000002,
+        "omegaAttenuation": 0.69999999,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 27,
@@ -816,7 +842,7 @@
             "toxin": 49
         },
         "marketCost": 265,
-        "projectile": "Hitscan",
+        "projectile": "Projectile",
         "secondary": {
             "name": "Burst",
             "speed": 3.37,
@@ -1064,7 +1090,7 @@
         "fireRate": 3.8333335,
         "masteryReq": 8,
         "slot": 1,
-        "omegaAttenuation": 0.55000001,
+        "omegaAttenuation": 0.60000002,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 40,
@@ -1372,7 +1398,7 @@
         "fireRate": 12.000001,
         "masteryReq": 14,
         "slot": 1,
-        "omegaAttenuation": 0.85000002,
+        "omegaAttenuation": 1,
         "noise": "Alarming",
         "trigger": "Held",
         "magazineSize": 100,
@@ -1420,7 +1446,7 @@
             "Entrati"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Cortege",
-        "disposition": 2
+        "disposition": 3
     },
     {
         "name": "Corvas",
@@ -1432,7 +1458,7 @@
         "fireRate": 2,
         "masteryReq": 1,
         "slot": 1,
-        "omegaAttenuation": 1.1,
+        "omegaAttenuation": 1.2,
         "noise": "Alarming",
         "trigger": "Charge",
         "magazineSize": 25,
@@ -1459,7 +1485,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Corvas",
-        "disposition": 3
+        "disposition": 4
     },
     {
         "name": "Cryotra",
@@ -1966,7 +1992,7 @@
         "fireRate": 3.3333335,
         "masteryReq": 8,
         "slot": 1,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 1.1,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 1,
@@ -3628,7 +3654,7 @@
         "fireRate": 0,
         "masteryReq": 10,
         "slot": 1,
-        "omegaAttenuation": 0.94999999,
+        "omegaAttenuation": 1,
         "noise": "Alarming",
         "trigger": "Charge",
         "magazineSize": 10,
@@ -4264,7 +4290,7 @@
         "fireRate": 6.0000005,
         "masteryReq": 15,
         "slot": 1,
-        "omegaAttenuation": 0.69999999,
+        "omegaAttenuation": 0.85000002,
         "noise": "Alarming",
         "trigger": "Auto Burst",
         "magazineSize": 100,
@@ -4317,7 +4343,7 @@
             "Entrati"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Morgha",
-        "disposition": 1
+        "disposition": 2
     },
     {
         "name": "Multron",
@@ -4751,7 +4777,7 @@
         "fireRate": 3.6666667,
         "masteryReq": 14,
         "slot": 1,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 1.15,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 40,
@@ -4796,7 +4822,7 @@
             "Prime"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Panthera_Prime",
-        "disposition": 3,
+        "disposition": 4,
         "releaseDate": "2020 07 14",
         "vaultDate": "n/a",
         "estimatedVaultDate": "2022 04 09"
@@ -5340,7 +5366,7 @@
         "fireRate": 1,
         "masteryReq": 15,
         "slot": 1,
-        "omegaAttenuation": 0.5,
+        "omegaAttenuation": 0.55000001,
         "noise": "Silent",
         "trigger": "Charge",
         "magazineSize": 1,
@@ -5557,7 +5583,7 @@
         "fireRate": 6.0000005,
         "masteryReq": 12,
         "slot": 1,
-        "omegaAttenuation": 1.05,
+        "omegaAttenuation": 1.1,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 300,
@@ -5652,7 +5678,7 @@
         "fireRate": 2.6666667,
         "masteryReq": 6,
         "slot": 1,
-        "omegaAttenuation": 0.80000001,
+        "omegaAttenuation": 0.89999998,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 5,
@@ -5680,7 +5706,7 @@
             "Tenno"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Rubico",
-        "disposition": 2
+        "disposition": 3
     },
     {
         "name": "Rubico Prime",
@@ -6190,7 +6216,7 @@
         "fireRate": 1.8333334,
         "masteryReq": 13,
         "slot": 1,
-        "omegaAttenuation": 0.85000002,
+        "omegaAttenuation": 1.1,
         "noise": "Alarming",
         "trigger": "Semi",
         "magazineSize": 9,
@@ -6227,7 +6253,7 @@
             "Infested"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Sporothrix",
-        "disposition": 2
+        "disposition": 3
     },
     {
         "name": "Stahlta",
@@ -6239,7 +6265,7 @@
         "fireRate": 6.0000005,
         "masteryReq": 10,
         "slot": 1,
-        "omegaAttenuation": 0.80000001,
+        "omegaAttenuation": 0.85000002,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 40,
@@ -7042,7 +7068,7 @@
         "fireRate": 9.09091,
         "masteryReq": 10,
         "slot": 1,
-        "omegaAttenuation": 1,
+        "omegaAttenuation": 1.05,
         "noise": "Alarming",
         "trigger": "Burst",
         "magazineSize": 30,
@@ -7082,7 +7108,7 @@
         "fireRate": 7.3770499,
         "masteryReq": 14,
         "slot": 1,
-        "omegaAttenuation": 0.85000002,
+        "omegaAttenuation": 0.89999998,
         "noise": "Alarming",
         "trigger": "Burst",
         "magazineSize": 42,
@@ -7132,7 +7158,7 @@
             "Vaulted"
         ],
         "wikiaUrl": "http://warframe.fandom.com/wiki/Tiberon_Prime",
-        "disposition": 2,
+        "disposition": 3,
         "releaseDate": "2018 03 20",
         "vaultDate": "2019 12 17",
         "estimatedVaultDate": "2019 12 17",
@@ -7332,7 +7358,7 @@
         "fireRate": 4.666667,
         "masteryReq": 13,
         "slot": 1,
-        "omegaAttenuation": 0.69999999,
+        "omegaAttenuation": 0.75,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 200,
